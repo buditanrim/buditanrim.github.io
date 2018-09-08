@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Budi Tanrim's blog
+title: Yellowstroke.com - Budi Tanrim's blog
 ---

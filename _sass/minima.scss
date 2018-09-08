@@ -79,6 +79,7 @@ body {
 		display: block;
 		text-decoration: none;
 		&:hover {text-decoration: none;}
+		&:active {color: inherit;}
 
 		@include breakpoint(from-tablet) {
 			width: 100%;

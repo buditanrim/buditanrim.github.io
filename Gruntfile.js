@@ -22,47 +22,70 @@ module.exports = function(grunt) {
         }
       },
 
-      shell: {
-          jekyllBuild: {
-              command: 'jekyll build'
+      // shell: {
+      //     jekyllBuild: {
+      //         command: 'jekyll build'
+      //     },
+      //     jekyllServe: {
+      //         command: 'jekyll serve'
+      //     }
+      // },
+
+      cssmin: {
+        target: {
+          options: {
+            keepSpecialComments: 0,
+            check: 'gzip',
           },
-          jekyllServe: {
-              command: 'jekyll serve'
-          }
+          files: [{
+            expand: true,
+            cwd: 'css',
+            src: ['*.css', '!*.min.css'],
+            dest: 'css',
+            ext: '.min.css'
+          }]
+        }
       },
 
       watch: {
         sass: {
           files: ['_sass/minima.scss'],
-          tasks: ['sass'],
+          tasks: ['sass', 'cssmin'],
           options: {
             livereload: true,
           },
         },
-        sites: {
-            files: [
-              "index.html",
-              "_layouts/*.html",
-              "_includes/*.html",
-              "_config.yml",
-              "_posts/*.md"
-            ],
-            tasks: ['shell:jekyllBuild', 'shell:jekyllServe'],
-            options: {
-              interrupt: true,
-              atBegin: true,
-              livereload: true
-            },
+
+        cssmin: {
+          files: ['css/*.css'],
+          tasks: ['cssmin']
         },
+
+        // sites: {
+        //     files: [
+        //       "index.html",
+        //       "_layouts/*.html",
+        //       "_includes/*.html",
+        //       "_config.yml",
+        //       "_posts/*.md"
+        //     ],
+        //     tasks: ['shell:jekyllBuild', 'shell:jekyllServe'],
+        //     options: {
+        //       interrupt: true,
+        //       atBegin: true,
+        //       livereload: true
+        //     },
+        // },
       },
 
   });
 
   // Load the plugin that provides the "uglify" task.
   grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-sass');
-  grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-shell');
+  grunt.loadNpmTasks('grunt-contrib-sass');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-contrib-watch');
 
   // Default task(s).
   grunt.registerTask('default', ['watch']);

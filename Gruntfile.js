@@ -11,6 +11,17 @@ module.exports = function(grunt) {
       }
     },
 
+    sass: {
+        dist: {
+          options: {
+            style: 'compressed'
+          },
+          files: {
+            'css/main.css': '_sass/minima.scss',
+          }
+        }
+      },
+
     cssmin: {
       target: {
         files: [{
@@ -28,8 +39,10 @@ module.exports = function(grunt) {
   // Load the plugin that provides the "uglify" task.
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-contrib-sass');
+
 
   // Default task(s).
-  grunt.registerTask('default', ['cssmin']);
+  grunt.registerTask('default', ['sass', 'cssmin']);
 
 };

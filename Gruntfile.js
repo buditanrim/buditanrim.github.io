@@ -22,27 +22,49 @@ module.exports = function(grunt) {
         }
       },
 
-    cssmin: {
-      target: {
-        files: [{
-          expand: true,
-          cwd: 'css',
-          src: ['*.css', '!*.min.css'],
-          dest: 'css',
-          ext: '.min.css'
-        }]
-      }
-    }
+      shell: {
+          jekyllBuild: {
+              command: 'jekyll build'
+          },
+          jekyllServe: {
+              command: 'jekyll serve'
+          }
+      },
+
+      watch: {
+        sass: {
+          files: ['_sass/minima.scss'],
+          tasks: ['sass'],
+          options: {
+            livereload: true,
+          },
+        },
+        sites: {
+            files: [
+              "index.html",
+              "_layouts/*.html",
+              "_includes/*.html",
+              "_config.yml",
+              "_posts/*.md"
+            ],
+            tasks: ['shell:jekyllBuild', 'shell:jekyllServe'],
+            options: {
+              interrupt: true,
+              atBegin: true,
+              livereload: true
+            },
+        },
+      },
 
   });
 
   // Load the plugin that provides the "uglify" task.
   grunt.loadNpmTasks('grunt-contrib-uglify');
-  grunt.loadNpmTasks('grunt-contrib-cssmin');
   grunt.loadNpmTasks('grunt-contrib-sass');
-
+  grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-shell');
 
   // Default task(s).
-  grunt.registerTask('default', ['sass', 'cssmin']);
+  grunt.registerTask('default', ['watch']);
 
 };

@@ -96,12 +96,14 @@ body {
 	padding: 0 16px;
 
 	@include breakpoint(from-tablet) {
-		width: 660px;
-		margin-left: calc(100px + 13%);
+		width: 600px;
 		padding: 28px 0 0 0;
+		margin-left: calc(100px + 5%);
 	}
 	@include breakpoint(from-desktop-mid) {
 		width: 800px;
+		margin-left: calc(100px + 13%);
+
 	}
 
 	.page-title {

@@ -1,0 +1,36 @@
+{% include header.html %}
+<body>
+
+	<div id="page">
+		{% include sidebar.html %}
+
+		<div id="main" role="main">
+			<section class="main-wrap single-post-inner">
+				<h2 class="single-post-title">
+					Good design feedbacks inform a great product
+				</h2>
+				<div class="single-post-meta">
+					<p><span>{{page.date | date:'%b %d, %Y'}}</span> {{page.author}}</p>
+				</div>
+				<div class="single-post-content">
+					{{ content }}
+				</div>
+
+				<div class="single-next-post">
+					{% if page.next.url %}
+					<p>Next</p>
+					<h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
+					<p class="date">{{page.date | date:'%b %d, %Y'}}</p>
+					{% endif %}
+				</div>
+				
+			</section>
+		</div>
+		
+		{% include navigation.html %}
+
+	</div>
+
+	
+</body>
+</html>

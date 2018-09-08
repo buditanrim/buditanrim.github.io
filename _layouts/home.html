@@ -1,0 +1,38 @@
+{% include header.html %}
+<body>
+
+	<div id="page">
+		{% include sidebar.html %}
+
+		<div id="main" role="main">
+			<section class="main-wrap">
+				<h2 class="page-title">yellowstroke.com/index</h2>
+
+				<!-- years -->
+				<h3 class="post-year">2018</h3>
+				<ul class="posts">
+
+					{% for post in site.posts %}
+						<li>
+							<a href="{{ post.url }}" class="post-link">
+								<span class="post-time">
+									{{post.date | date: '%b %d'}}
+								</span>
+								<span class="post-title">
+									{{post.title}}
+								</span>
+							</a>
+						</li>
+					{% endfor %}
+					
+				</ul>
+			</section>
+		</div>
+		{% include navigation.html %}
+
+	</div>
+
+<script src="js/build/global.min.js"></script>
+	
+</body>
+</html>

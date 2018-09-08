@@ -16,6 +16,7 @@ gem "minima", "~> 2.0"
 # Budi added this on Sep 8
 # From the documentation about github-pages gem on https://jekyllrb.com/docs/github-pages/#the-github-pages-gem
 gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-seo-tag'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

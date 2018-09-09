@@ -10,8 +10,8 @@
 	-webkit-margin-before:0em;
 	-webkit-margin-after:0em;
 	-webkit-padding-start: 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -19,9 +19,17 @@ body {
 	font-weight: normal;
 	color: $charcoal;
 }
-
 %serif { font-family: $serif;}
 %sans { font-family: $sans; }
+
+a {
+	color: inherit;
+	&:active {
+		a:-webkit-any-link:active {
+		    color: $charcoal;
+		}
+	}
+}
 
 #page {
 	

@@ -15,10 +15,10 @@ Hello! Those dialogue between me and my friend talk about how different our pers
 In this post, I want to talk about the core reasons on why I put this blog together. Therefore, it called Preface.
 
 ### Why: Never ending questions
-The more I work in this mysterious design industry, the more I realize another bigger puzzle in front of me. As I solve or understand more puzzles, I want this blog to be a channel for me to share what I’ve learned with you from the practical standpoint — I hope it will be useful to you.
+The more I work in this mysterious design industry, the more I discover bigger puzzle ahead of me. As I solve or understand more puzzles, I want this blog to be a channel for me to share what I’ve learned with you from the practical standpoint — I hope it will be useful to you.
 
 ### The scope of this blog
-In this blog, I’ll talk about various things like some of the design methods that I’m experimenting, the takeaways from the projects, some tips or tutorial if I find them valuable to share, or even mistakes that I’ve learn from.  
+In this blog, I’ll talk about various things like some of the design methods that I’m experimenting, the takeaways from the projects, some tips or tutorial if I find them valuable to share, or even `mistakes` that I’ve learn from.  
 Hopefully I can avoid the temptation to share too many food story.
 
 ### How you can participate

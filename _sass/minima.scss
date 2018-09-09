@@ -167,16 +167,17 @@ a {
 
 	a {
 		text-decoration: none;
-		&:hover {text-decoration: underline;}
 		padding: 12px 0;
 		display: flex;
 		width: 100%;
-
+		
 		@include breakpoint(from-tablet) {
 			padding: 16px 0;
 		}
 	}
-
+	.post-link:hover > .post-title {
+		text-decoration: underline;
+	}
 	.post-time {
 		font-size: 16px;
 		margin-right: 12px;

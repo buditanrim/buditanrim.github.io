@@ -1,17 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Yellowstroke!"
+title:  Good design feedbacks inform a great product
 date:   2018-09-07 08:11:24 -0400
 categories: jekyll
 author: "Budi Tanrim"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to 
 
 ## Header 2
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 ### Header 3 Is this working?
-
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+# Header 1
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+1. Test
+2. What
+3. Yeah
+
+> Blockquote wisdom
 
 Jekyll also offers powerful support for code snippets:
 

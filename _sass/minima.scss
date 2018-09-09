@@ -223,9 +223,32 @@ body {
 	position: relative;
 	@include padding-btm(20);
 	@include margin-btm(15);
+
+	h1 {
+		font-size: 32px;
+		@include margin-btm(6);
+	}
+	h2 {
+		font-size: 28px;
+		@include margin-btm(6);
+	}
+	h3 {
+		font-size: 20px;
+		@include margin-btm(4);
+	}
+	h4 {
+		font-size: 32px;
+		@include margin-btm(4);
+	}
+	h5 {
+		font-size: 32px;
+		@include margin-btm(4);
+	}
+
 	
 	p {
 		line-height: 28px;
+		@include margin-btm(6);
 	}
 
 	&:after {

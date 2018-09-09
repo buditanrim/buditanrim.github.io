@@ -55,6 +55,10 @@ body {
 	margin-bottom: 20px;
 	border-bottom: 1px solid $border-light;
 	@include clear-fix;
+
+	@include breakpoint(from-phablet) {
+		height: 72px;
+	}
 	
 	@include breakpoint(from-tablet) {
 		width: 80px;
@@ -80,6 +84,12 @@ body {
 			opacity: .9;
 		}
 		&:active {color: inherit;}
+		
+		@include breakpoint(from-phablet) {
+			height: 72px;
+			width: 72px;
+			line-height: 72px;
+		}
 
 		@include breakpoint(from-tablet) {
 			width: 100%;
@@ -253,12 +263,12 @@ body {
 	h2 {
 		font-size: 28px;
 		@include margin-btm(3);
-		@include padding-top(8);
+		@include padding-top(6);
 	}
 	h3 {
 		font-size: 22px;
 		@include margin-btm(3);
-		@include padding-top(8);
+		@include padding-top(6);
 	}
 	h4 {
 		font-size: 20px;

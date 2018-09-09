@@ -105,11 +105,19 @@ a {
 			line-height: 80px;
 			font-size: 58px;
 		}
+
+		img {
+			width: 58%;
+			margin-top: -4px;
+			vertical-align: middle;
+			height: auto;
+			
+			@include breakpoint(from-tablet) {
+			    margin-top: -8px;
+			}
+		} // img
 	}
 
-	.sidebar-wrap {
-		
-	}
 }
 
 // main content

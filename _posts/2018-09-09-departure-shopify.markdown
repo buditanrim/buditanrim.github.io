@@ -6,4 +6,4 @@ categories: jekyll
 author: "Budi Tanrim"
 ---
 
-Design feedback
+Departure

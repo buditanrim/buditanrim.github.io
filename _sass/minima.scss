@@ -87,6 +87,7 @@ a {
 		font-size: 36px;
 		display: block;
 		text-decoration: none;
+
 		&:hover {
 			text-decoration: none;
 			opacity: .9;
@@ -107,13 +108,14 @@ a {
 		}
 
 		img {
-			width: 58%;
+			width: 55%;
 			margin-top: -4px;
 			vertical-align: middle;
 			height: auto;
-			
+
 			@include breakpoint(from-tablet) {
 			    margin-top: -8px;
+			    max-width: 46px;
 			}
 		} // img
 	}
@@ -193,6 +195,8 @@ a {
 		min-width: 58px;
 		display: block;
 		font-family: monospace;
+		margin-top: 1px;
+		letter-spacing: -0.5px;
 		@include clearfix;
 
 		@include breakpoint(from-tablet) {
@@ -258,19 +262,26 @@ a {
 	}
 }
 
+%content-max-width{
+	max-width: 600px;
+}
+
 .single-post-content {
 	position: relative;
 	@include padding-btm(20);
 	@include margin-btm(15);
+
 	p {
 		font-size: 18px;
 		line-height: 1.6;
 		@include margin-btm(6);
 		color: $body-text;
+		@extend %content-max-width;
 	}
 	h1, h2, h3, h4, h5 {
 		font-weight: bold;
 		@extend %serif;
+		@extend %content-max-width;
 	}
 	h1 {
 		font-size: 32px;
@@ -296,12 +307,14 @@ a {
 		@include margin-left(4);
 		@include margin-btm(8);
 		line-height: 1.65;
+		@extend %content-max-width;
 	}
 	blockquote {
 		-webkit-margin-start: 0;
 		-webkit-margin-end: 0;
 		@include padding-left(6);
 		border-left: 8px solid $yellow-light;
+		@extend %content-max-width;
 	}
 	blockquote p {
 		font-size: 40px;
@@ -309,6 +322,7 @@ a {
 		@include padding-top(2);
 		@include padding-btm(2);
 		font-weight: bold;
+		@extend %content-max-width;
 
 	}
 	.highlight {

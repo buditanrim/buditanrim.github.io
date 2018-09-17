@@ -18,6 +18,7 @@ body {
 	font-family: $sans;
 	font-weight: normal;
 	color: $charcoal;
+	line-height: 1.5;
 }
 %serif { font-family: $serif;}
 %sans { font-family: $sans; }
@@ -348,7 +349,7 @@ a {
 // the next post
 .single-next-post {
 	.next {
-		color: $gray-ash;
+		color: $gray-silver;
 	}
 	h2 {
 		@include padding-top(3);

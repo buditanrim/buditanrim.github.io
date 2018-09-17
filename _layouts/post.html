@@ -15,14 +15,22 @@
 				<div class="single-post-content">
 					{{ content }}
 				</div>
-
+				
+				{% if page.next.url %}
 				<div class="single-next-post">
-					{% if page.next.url %}
-						<p class="next">Next</p>
-						<h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
-						<p class="date">{{page.date | date:'%b %d, %Y'}}</p>
-					{% endif %}
+					<p class="next">Next</p>
+					<h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
+					<p class="date">{{page.date | date:'%b %d, %Y'}}</p>
 				</div>
+				
+				{% elsif page.previous.url %}
+				<div class="single-next-post">
+					<p class="next">You're reading the latest post. If you'd like, you can check the previous post:</p>
+					<h2><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
+					<p class="date">{{page.date | date:'%b %d, %Y'}}</p>
+				</div>
+					
+				{% endif %}
 				
 			</section>
 		</div>

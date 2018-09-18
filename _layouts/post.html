@@ -13,6 +13,8 @@
 				
 				<div class="single-post-content">
 					{{ content }}
+
+					{% include share-post.html %}
 				</div>
 				<div class="single-post-meta">
 					<p><span>{{page.date | date:'%b %d, %Y'}}</span> {{page.author}}</p>

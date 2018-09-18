@@ -1,4 +1,5 @@
 {% include header.html %}
+
 <body>
 
 	<div id="page">
@@ -9,25 +10,26 @@
 				<h2 class="single-post-title">
 					{{page.title}}
 				</h2>
-				<div class="single-post-meta">
-					<p><span>{{page.date | date:'%b %d, %Y'}}</span> {{page.author}}</p>
-				</div>
+				
 				<div class="single-post-content">
 					{{ content }}
+				</div>
+				<div class="single-post-meta">
+					<p><span>{{page.date | date:'%b %d, %Y'}}</span> {{page.author}}</p>
 				</div>
 				
 				{% if page.next.url %}
 				<div class="single-next-post">
 					<p class="next">Next</p>
 					<h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
-					<p class="date">{{page.date | date:'%b %d, %Y'}}</p>
+					<p class="date">{{page.next.date | date:'%b %d, %Y'}}</p>
 				</div>
 				
 				{% elsif page.previous.url %}
 				<div class="single-next-post">
 					<p class="next">You're reading the latest post. If you'd like, you can check the previous post:</p>
 					<h2><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
-					<p class="date">{{page.date | date:'%b %d, %Y'}}</p>
+					<p class="date">{{page.previous.date | date:'%b %d, %Y'}}</p>
 				</div>
 					
 				{% endif %}
@@ -40,5 +42,6 @@
 	</div>
 
 	{% include script.html %}
+	
 </body>
 </html>

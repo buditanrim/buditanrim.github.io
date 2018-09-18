@@ -3,7 +3,6 @@
 @import "partials/variables";
 @import "partials/normalize";
 @import "partials/mixins";
-@import url('https://fonts.googleapis.com/css?family=Noticia+Text:400,700|Roboto:400,700');
 
 
 * {
@@ -13,15 +12,19 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+%serif { font-family: $serif;}
+%sans { font-family: $sans; }
 
 body {
 	font-family: $sans;
 	font-weight: normal;
 	color: $charcoal;
-	line-height: 1.5;
 }
-%serif { font-family: $serif;}
-%sans { font-family: $sans; }
+
+::selection {
+    background-color: rgba(0,0,0,.99);
+    color: #fff;
+}
 
 a {
 	color: inherit;
@@ -64,7 +67,7 @@ a {
 	margin-bottom: 20px;
 	border-bottom: 1px solid $border-light;
 	@include clear-fix;
-
+	
 	@include breakpoint(from-phablet) {
 		height: 72px;
 	}
@@ -229,22 +232,24 @@ a {
 	line-height: 56px;
 	@include margin-btm(8);
 	@extend %serif;
-}
-
-.single-post-meta {
-	@include padding-btm(15);
-	@include margin-btm(8);
+	@include padding-btm(12);
 	position: relative;
 
 	&:after {
 		content: " ";
 		position: absolute;
 		bottom: 0px;
+		left: 0px;
 		
 		background: $yellow;
 		width: 10%;
 		height: 4px;
 	}
+}
+
+.single-post-meta {
+	@include padding-btm(4);
+	@include margin-btm(8);
 
 	span {
 		@include margin-right(6);

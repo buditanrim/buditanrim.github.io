@@ -3,6 +3,7 @@ layout: post
 title:  "Five icon design problems that hurt your design system"
 date:   2018-09-17 14:49:24 -0400
 categories: jekyll
+tags: icon
 author: "Budi Tanrim"
 ---
 
@@ -13,7 +14,10 @@ I'm fortunate that I had a chance to work on few icon systems for various compan
 
 ## Studies
 A lot of study has 
-[This study][jekyll-docs]z
+[This study][jekyll-docs]
+
+![image](/img/post/guy.png)
+{% include img.html url="/img/post/guy.png" url-2="/img/post/guy-2.png" description="guy" %}
 
 ### Meaningless: The icon is trying to do too much
 One of the common problems I encountered when audit the icon is that it's trying to convey the whole idea of the message. While the icon is trying to do that, it actually lost the clarity and become meaningless.

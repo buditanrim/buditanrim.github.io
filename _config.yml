@@ -29,6 +29,10 @@ twitter:
   username: buditanrim
   card: summary
 
+# Responsive Image
+responsive_image:
+  template: _includes/responsive-image.html
+
 # Build settings
 markdown: kramdown
 theme: minima

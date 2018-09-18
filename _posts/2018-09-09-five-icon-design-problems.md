@@ -5,7 +5,10 @@ date:   2018-09-17 14:49:24 -0400
 categories: jekyll
 tags: icon
 author: "Budi Tanrim"
-image: /img/post/guy.png
+image:
+ path: /img/post/guy.png
+ height: 224
+ width: 560
 ---
 
 Nowadays, icon is often a part of the design system. It's not a surprise, because icon is effective to quickly communicate the idea at a glance, like in your smartwatch for instance. However, it become unfortunate if the icon is not optimized and harmonized with the whole design system.
@@ -18,7 +21,7 @@ A lot of study has
 [This study][jekyll-docs]
 
 ![image](/img/post/guy.png)
-{% include img.html url="/img/post/guy.png" url-2="/img/post/guy-2.png" description="guy" %}
+<!-- {% include img.html url="/img/post/guy.png" url-2="/img/post/guy-2.png" description="guy" %} -->
 
 ### Meaningless: The icon is trying to do too much
 One of the common problems I encountered when audit the icon is that it's trying to convey the whole idea of the message. While the icon is trying to do that, it actually lost the clarity and become meaningless.

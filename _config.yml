@@ -28,6 +28,9 @@ author: Budi Tanrim
 twitter:
   username: buditanrim
   card: summary
+image:
+  width: 1200
+  height: 630
 
 # Responsive Image
 responsive_image:

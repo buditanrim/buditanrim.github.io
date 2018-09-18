@@ -13,7 +13,7 @@ I'm fortunate that I had a chance to work on few icon systems for various compan
 
 ## Studies
 A lot of study has 
-[This study][jekyll-docs]
+[This study][jekyll-docs]z
 
 ### Meaningless: The icon is trying to do too much
 One of the common problems I encountered when audit the icon is that it's trying to convey the whole idea of the message. While the icon is trying to do that, it actually lost the clarity and become meaningless.

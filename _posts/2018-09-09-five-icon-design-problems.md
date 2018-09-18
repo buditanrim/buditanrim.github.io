@@ -5,6 +5,7 @@ date:   2018-09-17 14:49:24 -0400
 categories: jekyll
 tags: icon
 author: "Budi Tanrim"
+image: /img/post/guy.png
 ---
 
 Nowadays, icon is often a part of the design system. It's not a surprise, because icon is effective to quickly communicate the idea at a glance, like in your smartwatch for instance. However, it become unfortunate if the icon is not optimized and harmonized with the whole design system.

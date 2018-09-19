@@ -56,72 +56,6 @@ a {
 	}
 }
 
-#page {
-	
-}
-
-// Nav from tablet
-.main-nav {
-	display: none;
-
-    @include breakpoint(from-tablet) {
-		position: fixed;
-		display: block;
-	    top: 80px;
-	    right: 24px;
-	    max-width: 160px;
-	    width: 10vw;
-	}
-}
-
-// Nav to tablet
-.mobile-nav-container {
-	display: inline-flex;
-	flex-wrap: nowrap;
-	vertical-align: top;
-}
-.mobile-nav {
-	@include breakpoint(from-tablet) {
-		display: none;
-	}
-
-	ul {
-		display: flex;
-		flex-wrap: nowrap;
-		overflow-x: auto;
-		-webkit-overflow-scrolling: touch;
-		-ms-overflow-style: -ms-autohiding-scrollbar;
-	}
-	
-	li {
-		flex: 0 0 auto;
-		margin-right: 20px;
-	}
-}
-
-.mobile-nav::-webkit-scrollbar {
-  display: none; 
-}
-
-// Shared styling
-.main-nav,
-.mobile-nav {
-	ul {
-    	list-style: none;
-    	line-height: 1.8;
-    }
-	
-	li a {
-    	text-decoration: none;
-    	color: $gray-ash;
-    	&:hover { color: $gray-silver;}
-    }
-}
-
-.mobile-nav li {
-    display: inline-block;
-    line-height: 54px;
-}
 
 // Sidebar
 #sidebar {
@@ -132,10 +66,7 @@ a {
 	border-bottom: 1px solid $border-light;
 	@include clear-fix;
 	
-	@include breakpoint(from-phablet) {
-		height: 72px;
-	}
-	
+	@include breakpoint(from-phablet) {height: 72px;}
 	@include breakpoint(from-tablet) {
 		width: 80px;
 		height: 100vh;
@@ -146,6 +77,45 @@ a {
 		top: 0px;
 	}
 
+	// Nav that I want to be scrolled
+	.mobile-nav {
+		padding-left: 12px;
+		display: flex;
+		flex-wrap: nowrap;
+		overflow: auto;
+		-webkit-overflow-scrolling: touch;
+  		-ms-overflow-style: -ms-autohiding-scrollbar;
+
+		@include breakpoint(from-tablet) {
+			display: none;
+		}
+		ul {
+			display: flex;
+			flex-wrap: nowrap;
+			overflow: auto;
+			-webkit-overflow-scrolling: touch;
+	  		-ms-overflow-style: -ms-autohiding-scrollbar;
+
+	  		&::-webkit-scrollbar { display: none; }
+		}
+		li {
+			flex: 0 0 auto;
+			margin-right: 32px;
+			padding-left: 32px
+		}
+		a {
+			line-height: 54px;
+		}
+	}
+	.flex {
+		display: flex;
+		flex-wrap: nowrap;
+	}
+	.logo-wrapper {
+		flex: 0 0 54px;
+	}
+	
+	// logo
 	.logo {
 		width: 54px;
 		height: 54px;
@@ -189,6 +159,36 @@ a {
 		} // img
 	}
 }
+
+// Nav for tablet to big screen
+.main-nav {
+	display: none;
+
+    @include breakpoint(from-tablet) {
+		position: fixed;
+		display: block;
+	    top: 80px;
+	    right: 24px;
+	    max-width: 160px;
+	    width: 10vw;
+	}
+}
+
+// Shared styling
+.main-nav,
+.mobile-nav {
+	ul {
+    	list-style: none;
+    	line-height: 1.8;
+    }
+	
+	li a {
+    	text-decoration: none;
+    	color: $gray-ash;
+    	&:hover { color: $gray-silver;}
+    }
+}
+
 
 // main content
 .main-wrap {

@@ -1,11 +1,13 @@
 <div id="sidebar" class="index">
-	<div class="sidebar-wrap">
-		<a href="{{site.url}}" class="logo">
-			<img src="{{site.baseurl}}/img/SVG/yellowstroke-logo.svg" alt="">
-		</a>
-		
-		<div class="mobile-nav-container">
-		{% include navigation-mobile.html %}
+	<div class="sidebar-wrap flex">
+		<div class="logo-wrapper">
+			<a href="{{site.url}}" class="logo">
+				<img src="{{site.baseurl}}/img/SVG/yellowstroke-logo.svg" alt="">
+			</a>
 		</div>
+			<!-- div.mobile-nav
+					ul>li
+			 -->
+		{% include navigation-mobile.html %}
 	</div>			
 </div>

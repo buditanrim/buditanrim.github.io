@@ -44,7 +44,7 @@ One of the common problems I encountered when audit the icon is that it's trying
 Icon works best when paired with the text label [(nngroup, 2014)][nngroup-research] because it helps overcome the ambiguity of the icon.
 But, oh boy. While that is true, you should still choose the icon metaphor considerably.
 
-![image](/img/post/icon-problem-complex.jpg){:class="img-example"}
+
 
 **Takeaway:** The label will help clarify the icon's meaning, but they should work harmoniously. Failing at doing this will decrease the value of the icon.
 
@@ -54,7 +54,7 @@ Cultural diversity leads to different views and assumptions. That being said, if
 # Closing chat to reader
 It's important that you take these points with a consideration of your own context and problem you're facing. The points I make here is focusing on the general best practice for system icon (small icon) where the goal is to focus on helping users navigate or do action.
 
-On the side, it's worth to consider to create a set of principles when you see there are common issues with the icon while audit them. If you're interested to chat about this, 
+On the side, it's worth to consider to create a set of principles when you see there are common issues with the icon while audit them. Reach me out if you're interested to chat about this.
 
 [complex]: https://www.researchgate.net/publication/2466259_Using_Icons_to_Find_Documents_Simplicity_Is_Critical
 [nngroup-research]: https://www.nngroup.com/articles/icon-usability/

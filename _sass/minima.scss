@@ -223,12 +223,18 @@ a {
 	
 	a {
 		color: $charcoal;
+		text-decoration: none;
+		border-bottom: 1px dotted $gray-ash;
+		&:hover {
+			background: $yellow;
+			color: black;
+		}
 	}
 }
 
 .single-post-title {
-	max-width: 650px;
-	font-size: 48px;
+	max-width: 600px;
+	font-size: 44px;
 	line-height: 56px;
 	@include margin-btm(8);
 	@extend %serif;
@@ -248,8 +254,9 @@ a {
 }
 
 .single-post-meta {
-	@include padding-btm(4);
-	@include margin-btm(8);
+	@include margin-btm(3);
+	@include margin-left(1);
+	color: $gray-silver;
 
 	span {
 		@include margin-right(6);
@@ -269,7 +276,19 @@ a {
 }
 
 %content-max-width{
-	max-width: 600px;
+	max-width: 560px;
+}
+
+.image-wrapper {
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	display: block;
+}
+
+.image-wrapper img {
+	max-width: 100% !important;
+	height: auto;
 }
 
 .single-post-content {
@@ -291,7 +310,7 @@ a {
 	}
 	h1 {
 		font-size: 32px;
-		@include margin-btm(6);
+		@include margin-btm(4);
 		@include padding-top(8);
 	}
 	h2 {
@@ -300,7 +319,7 @@ a {
 		@include padding-top(6);
 	}
 	h3 {
-		font-size: 22px;
+		font-size: 24px;
 		@include margin-btm(3);
 		@include padding-top(6);
 	}
@@ -339,6 +358,10 @@ a {
 	.highlighter-rouge {
 		background: $yellow-light;
 	}
+	.img-example {
+		border: 1px dashed $gray-lightest;
+		border-radius: 2px;
+	}
 	
 
 	&:after {
@@ -346,6 +369,7 @@ a {
 		position: absolute;
 		bottom: 0px;
 		background: $black;
+		@extend %content-max-width;
 		width: 100%;
 		height: 4px;
 	}

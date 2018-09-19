@@ -1,3 +1,10 @@
-<div class="image-wrapper">
-    <img src="{{ include.url }}" srcset="{{ include.url-2 }} 2x" alt="{{ include.description }}" />
-</div>
+<p class="image-wrapper">
+    <img
+    	srcset="{{ include.url }},
+    			{{ include.url-2 }} 2x"
+
+    	src="{{ include.url }}"
+    	alt="{{ include.alt }}"
+    	class="img-example" 
+    />
+</p>

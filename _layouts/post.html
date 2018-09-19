@@ -7,6 +7,9 @@
 
 		<div id="main" role="main">
 			<section class="main-wrap single-post-inner">
+				<div class="single-post-meta">
+					<p><span>{{page.date | date:'%b %d, %Y'}}</span> {{page.author}}</p>
+				</div>
 				<h2 class="single-post-title">
 					{{page.title}}
 				</h2>
@@ -16,11 +19,18 @@
 
 					{% include share-post.html %}
 				</div>
-				<div class="single-post-meta">
-					<p><span>{{page.date | date:'%b %d, %Y'}}</span> {{page.author}}</p>
-				</div>
 				
-				{% if page.next.url %}
+
+				{% if page.previous.url %}
+				<div class="single-next-post">
+					<p class="next">Next:</p>
+					<h2><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
+					<p class="date">{{page.previous.date | date:'%b %d, %Y'}}</p>
+				</div>
+					
+				{% endif %}
+				
+				<!-- {% if page.next.url %}
 				<div class="single-next-post">
 					<p class="next">Next</p>
 					<h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
@@ -34,15 +44,12 @@
 					<p class="date">{{page.previous.date | date:'%b %d, %Y'}}</p>
 				</div>
 					
-				{% endif %}
+				{% endif %} -->
 				
 			</section>
 		</div>
-		
 		{% include navigation.html %}
-
 	</div>
-
 	{% include script.html %}
 	
 </body>

@@ -20,9 +20,9 @@
 	<link rel="icon" sizes="128x128" href="/img/app-icon/touch-icon-android.png">
 	
 	{% seo %}
-	
+
 	{% for twitter-seo in page.twitter-seo %}
-	<meta name="twitter:image" content="/img/post{{twitter-seo}}">
+	<meta name="twitter:image" content="{{site.baseurl}}/img/post{{twitter-seo}}">
 	{% endfor %}
 
 	

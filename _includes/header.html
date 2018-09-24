@@ -18,10 +18,12 @@
 	<!-- Android icon -->
 	<link rel="icon" sizes="192x192" href="/img/app-icon/touch-icon-android-hd.png">
 	<link rel="icon" sizes="128x128" href="/img/app-icon/touch-icon-android.png">
-
+	
+	{% seo %}
+	
 	{% for twitter-seo in page.twitter-seo %}
 	<meta name="twitter:image" content="{{twitter-seo}}">
 	{% endfor %}
 
-	{% seo %}
+	
 </head>

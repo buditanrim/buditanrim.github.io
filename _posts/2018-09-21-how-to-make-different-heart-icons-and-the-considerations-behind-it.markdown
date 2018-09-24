@@ -5,12 +5,12 @@ punchline: "Different way to make heart icons and the consideration behind it."
 categories: craft
 author: "Budi Tanrim"
 image:
- path: /img/post/208/09/heart-icon-seo.gif
+ path: /img/post/2018/09/heart-icon-seo.png
  height: 630
  width: 1200
 gif: true
 twitter-seo:
- - "/img/post/208/09/heart-icon-seo.gif"
+ - "/img/post/2018/09/heart-icon-seo.png"
 ---
 
 Not only heart icon is universal, ofen it also implies a very positive meaning; love, favourite, like, and more.

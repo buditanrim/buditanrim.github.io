@@ -5,7 +5,7 @@ punchline: "Different way to make heart icons and the consideration behind it."
 categories: craft
 author: "Budi Tanrim"
 image:
- path: /img/post/208/09/Heart-Icon-SEO.gif
+ path: /img/post/208/09/heart-icon-seo.gif
  height: 630
  width: 1200
 gif: true

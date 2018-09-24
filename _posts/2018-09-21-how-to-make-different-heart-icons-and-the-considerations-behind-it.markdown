@@ -9,7 +9,8 @@ image:
  height: 630
  width: 1200
 gif: true
-twitter-seo: true
+twitter-seo: 
+ - "2018/09/heart-icon-seo.png"
 ---
 
 Not only heart icon is universal, ofen it also implies a very positive meaning; love, favourite, like, and more.

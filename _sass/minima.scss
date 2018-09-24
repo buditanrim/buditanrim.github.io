@@ -3,6 +3,7 @@
 @import "partials/variables";
 @import "partials/normalize";
 @import "partials/mixins";
+@import "partials/gif";
 
 // Responsive note
 /*
@@ -507,9 +508,13 @@ a {
 	.highlighter-rouge {
 		background: $yellow-light;
 	}
-	.img-example {
+	.img-example,
+	img {
 		border: 1px dashed $gray-lightest;
 		border-radius: 2px;
+	}
+	.gif, img {
+		max-width: 100%;
 	}
 	
 
@@ -523,6 +528,9 @@ a {
 		height: 4px;
 	}
 }
+.gif-wrapper-budi {
+	margin-bottom: 28px;
+}
 
 // the next post
 .single-next-post {
@@ -534,3 +542,4 @@ a {
 		@include margin-btm(1);
 	}
 }
+

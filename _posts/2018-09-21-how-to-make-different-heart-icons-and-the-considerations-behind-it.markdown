@@ -4,6 +4,7 @@ title:  "Different ways to make heart icon and the consideration behind it"
 punchline: "Different way to make heart icons and the consideration behind it."
 categories: craft
 author: "Budi Tanrim"
+gif: true
 ---
 
 Not only heart icon is universal, ofen it also implies a very positive meaning; love, favourite, like, and more.
@@ -26,6 +27,8 @@ This one is an interesting way to make a heart. Here's the step by step to use t
 
 ### B: Two circles unified technique
 Okay, the first is my favourite (_you see, heart icon can represent how I feel!_).
+
+{% include gif.html url="/img/post/2018/09/two-circle.png" %}
 
 To start off, create 2 circles and then... Viola.
 

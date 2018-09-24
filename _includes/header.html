@@ -21,7 +21,11 @@
 	
 	{% seo %}
 
+	
+
 	{% for twitter-seo in page.twitter-seo %}
+	<meta name="twitter:title" content="{{page.title}}">
+	<meta name="twitter:description" content="{{page.punchline}}">
 	<meta name="twitter:image" content="https://yellowstroke.com/img/post/{{twitter-seo}}">
 	{% endfor %}
 

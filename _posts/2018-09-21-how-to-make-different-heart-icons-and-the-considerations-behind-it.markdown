@@ -4,6 +4,10 @@ title:  "Different ways to make heart icon and the consideration behind it"
 punchline: "Different way to make heart icons and the consideration behind it."
 categories: craft
 author: "Budi Tanrim"
+image:
+ path: /img/post/208/09/Heart-Icon-SEO.gif
+ height: 630
+ width: 1200
 gif: true
 ---
 
@@ -11,17 +15,12 @@ Not only heart icon is universal, ofen it also implies a very positive meaning; 
 
 What's interesting is the heart icon is challenging, yet super fun to make if you know the secret behind it. Here are some of the ways you can make them.
 
-To do:
-- After effect for all of them (We can use this for the social media and SEO as well)
-- Animation doodle for hearts, put it on the top of the post.
-- 
+{% include gif.html url="/img/post/2018/09/heart-feature.png" %}
 
 ### A: One square with two circles technique
-This one is an interesting way to make a heart. Here's the step by step to use this technique:
-1. Create a square as the anchor
-2. Create 2 circles that match with the square
-3. Align the middle point of the circle to the edge of the square
-4. Unite them using pathfinder
+This one is an interesting way to make a heart with one square combined with two circles.
+
+{% include gif.html url="/img/post/2018/09/square-circles.png" %}
 
 **Design consideration:** The bottom corners has a lot of negative space. However, you can tweak it further, but before you're doing that. Consider the 2nd technique below.
 
@@ -37,9 +36,10 @@ To start off, create 2 circles and then... Viola.
 **Pay attention:** When using this technique, pay a close attention on how close you're putting the 2 circles together. Too close or too far will create a weird top heart part.
 
 ### C: Two ovals overlaps technique
-
+{% include gif.html url="/img/post/2018/09/two-long-ovals.png" %}
 
 ### D: Three squares technique
+{% include gif.html url="/img/post/2018/09/three-squares.png" %}
 Start with 3 squares, 
 
 

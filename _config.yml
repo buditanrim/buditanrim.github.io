@@ -27,7 +27,7 @@ permalink: /:year/:month/:day/:title/
 author: Budi Tanrim
 twitter:
   username: buditanrim
-  card: summary
+  card: summary_large_image
 
 # Responsive Image
 responsive_image:

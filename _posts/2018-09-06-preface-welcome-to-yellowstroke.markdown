@@ -5,7 +5,7 @@ date:   2018-09-06 08:11:24 -0400
 categories: jekyll
 author: "Budi Tanrim"
 ---
-_One day I asked my friend, “Hey, what’s that on the sky?”_  
+_“Hey, what’s that on the sky? I asked my friend.”_  
 _“You mean those clouds(?)” he replied, confusedly._  
 _“No, it’s the face of a tiger.”  I added._
 

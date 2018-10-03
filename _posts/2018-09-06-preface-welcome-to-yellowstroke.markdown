@@ -23,13 +23,15 @@ In this blog, I’ll talk about various things like some of the design methods t
 Hopefully, I can resist the temptation from sharing something outside of the scope, like food or travel story. I’m not making any promises though!
 
 ### How you can participate
-You are more than a reader. You are the important part to evolve this blog to become better. I am a believer that an open and healthy discussion is always beneficial, if at any point you’d disagree or agree, like or dislike my writing — I wish to hear from you (I'm still working on the comment system for this blog).
+You are more than a reader. You are the important part to evolve this blog to become better. I am a believer that an open and healthy discussion is always beneficial, if at any point you’d disagree or agree with my writing — I wish to hear from you (I'm still working on the comment system for this blog, so reach me out via email for now).
+
+You can [ask question][mail-ask], too! And if you think the post is worth sharing, it's always appreciated :)
 
 Most importantly, if you want to get some update, make sure to subscribe on my [personal listing][mailchimp-budi].
 If you want to connect, I’m an occasional [tweeter][twitter-budi] and also check some of my work on [Dribbble][dribbble].
 
 
-
+[mail-ask]: mailto:buditanrim@gmail.com?subject=Question
 [dribbble]: https://dribbble.com/buditanrim
-[mailchimp-budi]:   http://eepurl.com/cuGqAP
+[mailchimp-budi]: http://eepurl.com/cuGqAP
 [twitter-budi]: https://twitter.com/buditanrim

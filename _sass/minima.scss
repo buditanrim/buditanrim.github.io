@@ -513,6 +513,9 @@ a {
 		border: 1px dashed $gray-lightest;
 		border-radius: 2px;
 	}
+	img.social-share {
+		border: none;
+	}
 	.gif, img {
 		max-width: 100%;
 	}

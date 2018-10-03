@@ -342,8 +342,8 @@ a {
 	}
 	a.social-share {
 		display: inline-block;
-		margin-right: 20px;
-		width: 32px;
+		margin-right: 12px;
+		width: 24px;
 		height: auto;
 		border-bottom: none;
 		vertical-align: middle;
@@ -355,8 +355,8 @@ a {
 			background: none;
 		}
 	}
-	a.social-share.twitter { width: 32px; }
-	a.social-share.facebook { width: 28px; }
+	a.social-share.twitter { width: 24px; }
+	a.social-share.facebook { width: 20px; }
 	.social-text {
 		margin-right: 20px;
 	}
@@ -365,18 +365,18 @@ a {
 .social-share-wrapper {
 	text-align: left;
 	@extend %content-max-width;
-	@include padding-top(4);
+	@include padding-top(20);
 }
 
 .single-post-title {
 	@extend %post-title-width;
 	font-size: 32px;
-	line-height: 1.3;
+	line-height: 1.25;
 	position: relative;
 	max-width: 580px;
 	@extend %serif;
 	@include margin-btm(8);
-	@include padding-btm(12);
+	@include padding-btm(8);
 	
 	@include breakpoint(from-tablet) {
 		font-size: 36px;
@@ -399,7 +399,7 @@ a {
 }
 
 .single-post-meta {
-	@include margin-btm(3);
+	@include margin-btm(10);
 	@include margin-left(1);
 	color: $gray-silver;
 
@@ -513,14 +513,13 @@ a {
 		border: 1px dashed $gray-lightest;
 		border-radius: 2px;
 	}
-	.social-share img {
-		border: none;
+	a.social-share img {
+		border: none !important;
 	}
 	.gif, img {
 		max-width: 100%;
 	}
 	
-
 	&:after {
 		content: " ";
 		position: absolute;
@@ -537,6 +536,7 @@ a {
 
 // the next post
 .single-next-post {
+	@include padding-top(20);
 	.next {
 		color: $gray-silver;
 	}

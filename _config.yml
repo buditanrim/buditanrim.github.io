@@ -40,7 +40,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - gif_tag
     
 
 # Exclude from processing.

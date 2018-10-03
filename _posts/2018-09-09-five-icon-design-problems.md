@@ -20,7 +20,7 @@ So, here it goes in no particular order.
 <!-- ![image](/img/post/guy.png) -->
 <!-- {% include img.html url="/img/post/guy.png" url-2="/img/post/guy-2.png" description="guy" %} -->
 
-### Icon is too complex
+### Visually complex
 Study by [Byrne (1993)][complex]{:target="_blank"} showed that simple icons are easier for people to find. Participants were given 3 different type of file icons: blank, simple, and complex. Simple icons clearly outperform blank and complex icons. Simplicity is crucial in icon design to improve the visual clarity. Adding too many details won't help people understand the icon better; they slow people down.
 
 {% include img-caption.html url="/img/post/sep-2018/icon-problem-complex.jpg" url-2="/img/post/sep-2018/icon-problem-complex-2x.jpg" alt="Complex icon reduce clarity" caption="Simplicity is crucial for clarity." %}

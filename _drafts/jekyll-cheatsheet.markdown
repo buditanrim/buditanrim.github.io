@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Good design feedbacks inform a great product"
-date:   2018-09-07 08:11:24 -0400
+title:  "[Draft: Cheathseet]"
 categories: jekyll
 author: "Budi Tanrim"
 ---

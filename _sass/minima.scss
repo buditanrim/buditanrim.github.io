@@ -71,7 +71,6 @@ a {
 	}
 }
 
-
 // Sidebar
 #sidebar {
 	width: 100vw;
@@ -218,6 +217,19 @@ a {
 }
 
 // main content
+.homepage {
+	.main-wrap {
+		@include breakpoint(from-tablet) {
+			max-width: 600px;
+		}
+		@include breakpoint(from-desktop) {
+			max-width: 700px;
+		}
+		@include breakpoint(from-desktop-mid) {
+			max-width: 800px;
+		}
+	}
+}
 .main-wrap {
 	padding: 0 20px 60px;
 	margin-left: auto;
@@ -228,16 +240,13 @@ a {
 		padding-right: 24px;		
 	}
 	@include breakpoint(from-tablet) {
-		max-width: 600px;
 		padding: 28px 0 80px 0;
 		margin-left: calc(100px + 3%);
 	}
 	@include breakpoint(from-desktop) {
-		max-width: 700px;
 		margin-left: calc(100px + 5%);
 	}
 	@include breakpoint(from-desktop-mid) {
-		max-width: 800px;
 		margin-left: calc(100px + 13%);
 
 	}
@@ -368,23 +377,10 @@ a {
 	@include padding-top(20);
 }
 
-.single-post-title {
-	@extend %post-title-width;
-	font-size: 32px;
-	line-height: 1.25;
+.yellowstroke {
 	position: relative;
-	max-width: 580px;
-	@extend %serif;
 	@include margin-btm(8);
 	@include padding-btm(8);
-	
-	@include breakpoint(from-tablet) {
-		font-size: 36px;
-	}
-	@include breakpoint(from-desktop-mid) {
-		font-size: 44px;
-		max-width: 650px;
-	}
 
 	&:after {
 		content: " ";
@@ -396,6 +392,26 @@ a {
 		width: 10%;
 		height: 4px;
 	}
+}
+
+.single-post-title {
+	@extend %post-title-width;
+	font-size: 32px;
+	line-height: 1.25;
+	max-width: 580px;
+	@extend %serif;
+	
+	@include breakpoint(from-tablet) {
+		font-size: 36px;
+	}
+	@include breakpoint(from-desktop-mid) {
+		font-size: 44px;
+		max-width: 650px;
+	}
+}
+
+.subtitle {
+
 }
 
 .single-post-meta {
@@ -420,14 +436,14 @@ a {
 	}
 }
 
-.image-wrapper {
+.img-wrapper {
 	max-width: 100%;
 	height: auto;
 	position: relative;
 	display: block;
 }
 
-.image-wrapper img {
+.img-wrapper img {
 	max-width: 100% !important;
 	height: auto;
 }
@@ -508,11 +524,7 @@ a {
 		background: $yellow-light;
 	}
 	// image
-	.img-wrapper {
-		margin-bottom: 4px; // make things closer
-	}
-	.img-example,
-	img {
+	.img-example {
 		border: 1px dashed $gray-lightest;
 		border-radius: 2px;
 	}
@@ -522,6 +534,7 @@ a {
 	}
 	.illustration {
 		@include padding-top(5);
+		margin-bottom: 4px
 	}
 	.gif, img {
 		max-width: 100%;
@@ -548,8 +561,15 @@ a {
 		color: $gray-silver;
 	}
 	h2 {
+		max-width: 600px;
 		@include padding-top(3);
 		@include margin-btm(1);
 	}
+	.date {
+		color: $gray-ash;
+	}
 }
 
+.subdued {
+	color: $gray-ash!important;
+}

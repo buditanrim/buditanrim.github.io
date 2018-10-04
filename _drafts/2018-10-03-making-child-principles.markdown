@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Adopting design principles to your team"
+title:  "Creating design principles for your team"
+punchline: true
+subtitle: "How did I create"
 description: "a"
 categories: craft
 author: "Budi Tanrim"
 image:
- path: /img/post/2018/09/heart-icon-seo.png
+ path: /img/seo/heart-icon-seo.png
  height: 630
  width: 1200
-gif: true
+gif: false
 twitter-seo: 
  - "2018/09/heart-icon-seo.png"
 ---
@@ -18,12 +20,19 @@ _"No, come on.."_
 
 Sounds familiar?
 
-Having countless debates to make an agreement with your friends is commonly happens because there is different opinions or values. And to be frank, using opinion is not the best thing to have an agreement.
+Having countless debates to make an agreement happens because there are different opinions, values, and belief. Honestly, this happens in a lot of team. Where people will start to have a debate and using their own personal taste and opinion. 
 
-This also very common to happen in your UX or design team. Each team member might have their own personal perspective and we started to argue about what's better and what's not.
+This can drag you to a time-sucking debate that will lead you nowhere.
+
+It's essential for the company to have a design principles.
+It's also essential for a 
+
+So, I want to share my process on how did I created the subset of principles while I work at Shopify.
 
 ## Adopting design principles to your team
-While I work at Shopify, Polaris have the [principles][polaris-principles] that is contribute back to what we think is true and why.
+At Shopify, Polaris<sup>1</sup> have the [principles][polaris-principles] that hold the source of truth; what we think is true and why.
+
+
 
 ## Is it really valuable?
 Now, the elephant in the room, is it worth the time to create bunch of words? To be honest, I used to be a person who sees principles just as a set of "cool" words. I was inexperience and all my focus was on the hard skill and all that.
@@ -34,6 +43,12 @@ Of course, creating good principles takes time. However, once you have solid pri
 
 > Principle: a fundamental truth that serves as the foundation for a system of beliefe or a chain of reasoning.
 
+1. Polaris is the Design System Language created by Shopify.
+2. asd
+3. asd
+4. asd
+5. 
+{: .footnote}
 
 
 [julie]: https://medium.com/the-year-of-the-looking-glass/a-matter-of-principle-4f5e6ad076bb

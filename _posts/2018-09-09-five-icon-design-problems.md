@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Common icon design problems you should avoid"
+punchline: false
 date:   2018-09-17 14:49:24 -0400
 categories: study
 tags: icon

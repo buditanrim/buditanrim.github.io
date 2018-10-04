@@ -492,7 +492,6 @@ a {
 		@include padding-btm(2);
 		font-weight: bold;
 		@extend %content-max-width;
-
 	}
 	.caption {
 		font-size: 14px;
@@ -508,13 +507,21 @@ a {
 	.highlighter-rouge {
 		background: $yellow-light;
 	}
+	// image
+	.img-wrapper {
+		margin-bottom: 4px; // make things closer
+	}
 	.img-example,
 	img {
 		border: 1px dashed $gray-lightest;
 		border-radius: 2px;
 	}
-	a.social-share img {
+	a.social-share img,
+	.illustration {
 		border: none !important;
+	}
+	.illustration {
+		@include padding-top(5);
 	}
 	.gif, img {
 		max-width: 100%;

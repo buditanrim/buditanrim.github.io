@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Common icon design problems you should avoid"
+title: "Common icon design problems you should avoid"
 punchline: false
-date:   2018-09-17 14:49:24 -0400
+subtitle: 
+date: 2018-09-17 14:49:24 -0400
 categories: study
 tags: icon
 author: "Budi Tanrim"
@@ -33,7 +34,7 @@ Study by [Byrne (1993)][complex]{:target="_blank"} showed that simple icons are 
 Study shows that abstract icon has a lower accuracy than the concrete icon [(McDougall & Bruijn, 2001)][mcdougall]{:target="_blank"} and actually trigger a higher cognitive processing load. A concrete icon is friendly to the users since they can reference it based on their real-world object or experience.
 
 {% include img.html url="/img/post/sep-2018/icon-problem-concrete.jpg" url-2="/img/post/sep-2018/icon-problem-concrete-2x.jpg" alt="Complex icon reduce clarity" %}
-{% include img-caption.html url="/img/post/sep-2018/icon-problem-concrete-cam.jpg" url-2="/img/post/sep-2018/icon-problem-concrete-cam-2x.jpg" alt="Complex icon reduce clarity" caption="if the icon become too abstract, it's harder to grasp the idea." %}
+{% include img.html url="/img/post/sep-2018/icon-problem-concrete-cam.jpg" url-2="/img/post/sep-2018/icon-problem-concrete-cam-2x.jpg" alt="Complex icon reduce clarity" caption="if the icon become too abstract, it's harder to grasp the idea." %}
 
 Now, abstract in the design, like the battery example may not seem obvious here, but when you put it in the context - study shows the concrete icon [perform 43% better][icon-concreteness]{:target="_blank"}.
 
@@ -41,7 +42,7 @@ Now, abstract in the design, like the battery example may not seem obvious here,
 
 ### Imbalance proportion
 The designer often either forget, neglect or underestimate the importance of the negative space around the icon. Failing at respecting the negative space can make your icon looks funky when they're sitting side by side.
-{% include img.html url="/img/post/sep-2018/icon-problem-negative-space.jpg" url-2="/img/post/sep-2018/icon-problem-negative-space-2x.jpg" alt="Complex icon reduce clarity" %}
+{% include img-caption.html url="/img/post/sep-2018/icon-problem-negative-space.jpg" url-2="/img/post/sep-2018/icon-problem-negative-space-2x.jpg" alt="Complex icon reduce clarity" %}
 {% include img-caption.html url="/img/post/sep-2018/icon-problem-negative-space-b.gif" url-2="/img/post/sep-2018/icon-problem-negative-space-b-2x.gif" alt="negative space" caption="Even though they're in the same dimension, the negative space cost a visual illusion." %}
 
 **Takeaway:** Respect the positive and negative form altogether. Also, use _icon-grid_ as a tool to help you see them through.

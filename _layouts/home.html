@@ -7,12 +7,16 @@
 		<div id="main" role="main">
 			<section class="main-wrap">
 				<h2 class="page-title">yellowstroke.com/index</h2>
+				
 
-				<!-- years -->
-				<h3 class="post-year">2018</h3>
-				<ul class="posts">
-
-					{% for post in site.posts %}
+				{% for post in site.posts %}
+					{% assign currentdate = post.date | date: "%Y" %}
+					{% if currentdate != date %}
+						{% unless forloop.first %}</ul>{% endunless %}
+						<h3 class="post-year">{{ currentdate }}</h3>
+						<ul class="posts">
+						{% assign date = currentdate %}
+					{% endif %}
 						<li>
 							<a href="{{ post.url }}" class="post-link">
 								<span class="post-time">
@@ -26,6 +30,7 @@
 								</span> -->
 							</a>
 						</li>
+					{% if forloop.last %}</ul>{% endif %}
 					{% endfor %}
 					
 				</ul>

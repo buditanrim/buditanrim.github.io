@@ -259,7 +259,7 @@ a {
 
 		@include breakpoint(from-tablet) {
 			display: block;
-			margin-bottom: 36px;
+			margin-bottom: 24px;
 			padding-bottom: 25px;
 			border-bottom: 1px solid $border-light;
 			position: relative;
@@ -280,6 +280,7 @@ a {
 	font-size: 32px;
 	color: $black;
 	margin-bottom: 8px;
+	padding-top: 20px;
 	@extend %serif;
 }
 // the post loop
@@ -410,8 +411,12 @@ a {
 	}
 }
 
-.subtitle {
-
+.single-post-subtitle {
+	@extend %content-max-width;
+	@include padding-top(4);
+	color: $gray-silver;
+	font-size: 20px;
+	line-height: 1.3;
 }
 
 .single-post-meta {
@@ -453,11 +458,13 @@ a {
 	@include padding-btm(10);
 	@include margin-btm(15);
 
-	p {
+	p, li {
 		font-size: 18px;
+		color: $body-text;
+	}
+	p {
 		line-height: 1.6;
 		@include margin-btm(6);
-		color: $body-text;
 		@extend %content-max-width;
 	}
 	h1, h2, h3, h4, h5 {
@@ -487,12 +494,17 @@ a {
 		font-size: 20px;
 		@include margin-btm(2);
 	}
+	h5 {
+		font-size: 18px;
+		@include margin-btm(2);
+	}
 
 	ol, ul {
 		@include margin-left(4);
 		@include margin-btm(8);
 		line-height: 1.65;
 		@extend %content-max-width;
+		margin-top: -16px;
 	}
 	blockquote {
 		-webkit-margin-start: 0;
@@ -508,6 +520,9 @@ a {
 		@include padding-btm(2);
 		font-weight: bold;
 		@extend %content-max-width;
+	}
+	sup, sub {
+		color: $gray-silver;
 	}
 	.caption {
 		font-size: 14px;
@@ -528,16 +543,22 @@ a {
 		border: 1px dashed $gray-lightest;
 		border-radius: 2px;
 	}
+	.illustration img {
+		border: none!important;
+	}
 	a.social-share img,
 	.illustration {
 		border: none !important;
 	}
 	.illustration {
 		@include padding-top(5);
-		margin-bottom: 4px
+		margin-bottom: 4px;
 	}
 	.gif, img {
 		max-width: 100%;
+	}
+	hr {
+		@extend %content-max-width;
 	}
 	
 	&:after {
@@ -570,6 +591,10 @@ a {
 	}
 }
 
-.subdued {
+.footnote {
+	@include padding-top(8);
+}
+.subdued,
+.subdued > * {
 	color: $gray-ash!important;
 }

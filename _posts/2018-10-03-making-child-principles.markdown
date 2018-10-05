@@ -34,6 +34,12 @@ To start off, in our project, we had a hard time to make a decision when there i
 
 The project was about improving the card UI system we have. I was lucky because I had a chance to lead this project. So, I want to share my learning and the process on how we did it.
 
+{% include img-caption.html 
+url="/img/post/2018/09/principles-vase.png" 
+url-2="/img/post/2018/09/principles-vase-2x.png" 
+alt="yellowstroke-principles" 
+class="illustration medium" %}
+
 ## Planning & research
 Since we have the existing design and wanted to improve them. I quickly realize that we should start there. So, we did an extensive audit on our design combined with the data we have from the users' feedback.
 
@@ -54,7 +60,7 @@ Since there are a tons of problems, we won't be able to cover everything. Theref
 ## Drafting the principles
 Once we have the prioritization, the team decided to put me in charge to draft the first round of the principles. This approach has its own pros and cons. But we believe that was the most efficient approach we can take at that time.
 
-I use the problems as the fundamental, the role of having the principles that will remind us on what's important and why. After weeks consulting with few people in the organization, reviewing them together with the team, and a countless revisions.
+I use the problems as the fundamental, the role of having the principles that will remind us on what's important and why. After weeks consulting with few people in the organization, reviewing them together with the team, and a countless revisions. We were able to come up with the set of principles that represent the "ideal" experience we wanted our card UI to have.
 
 
 ## The result
@@ -69,8 +75,10 @@ This means, shared language that can help us to stay aligned. Here's the princip
 5. Aesthetic Integrity: Integrate the appareance with the function 
 
 ## Practical application
-But, Budi<sup>2</sup>, how does the principles help? I'm glad you asked!
-Well, let's take a look on how we redesign this card below.
+But, Budi<sup>2</sup>, how does the principles help?  
+I'm glad you asked!
+
+Well, let's take a look on the card below. The content is not personalized and not valuable to the users, it selfishly promote the new section in our admin. Also, there are a lot of problems behind this card beyond the surface that will rather long for me to explain. Basically, it's bad, like, really bad.
 
 {% include img-caption.html 
 url="/img/post/2018/09/marketing-card-before.jpg" 
@@ -78,8 +86,7 @@ url-2="/img/post/2018/09/marketing-card-before-2x.jpg"
 alt="marketing-card-before"  
 class="medium" %}
 <br/>
-The card above is the initial design of the card, It faces a lot of problems
-Instead, we use the principles to re-think the card and try to achieve the principles in this card 
+While re-think the card above using the principles. I find that me and the team is become more willing to push the boundary because we can envision how better the card will be. We also have a shared language, which is really cool because someone come up to me and say "Budi, it's not glanceable. Let's find a better way." How efficient is that? I know what they're talking about.
 {% include img-caption.html 
 url="/img/post/2018/09/marketing-card-after.jpg" 
 url-2="/img/post/2018/09/marketing-card-after-2x.jpg" 

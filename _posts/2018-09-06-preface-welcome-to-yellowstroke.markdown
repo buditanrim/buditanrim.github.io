@@ -10,7 +10,7 @@ _“You mean those clouds(?)” he replied, confusedly._
 _“No, it’s the face of a tiger.”  I added._
 
 # Dear reader, welcome
-Hello! Those dialogue between me and my friend talk about how different our perspective when we were looking the same cloud during our trip. To be frank, it has nothing to do with this post.
+Hello! Those dialogue between me and my friend talked about how different our perspective when we were looking the same cloud during our trip. To be frank, it has nothing to do with this post.
 
 In this post, I want to talk about the core reasons on why I put this blog together.
 
@@ -28,7 +28,7 @@ Hopefully, I can resist the temptation from sharing something outside of the sco
 url="/img/post/2018/09/hello.png" 
 url-2="/img/post/2018/09/hello-2x.png" 
 alt="hello dear reader" 
-class="illustration" %}
+class="illustration medium" %}
 
 ### How you can participate
 You are more than a reader. You are the important part to evolve this blog to become better. I am a believer that an open and healthy discussion is always beneficial, if at any point you’d disagree or agree with my writing — I wish to hear from you (I'm still working on the comment system for this blog, so reach me out via email for now).

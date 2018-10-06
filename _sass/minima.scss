@@ -602,7 +602,20 @@ a {
 	@include padding-top(30);
 	@include padding-btm(30);
 	background: #F5F5F2;
+
+	.footer-wrap {
+		@extend %main-indent;
+	}
+	.branding {
+		@extend %serif;
+		@include margin-btm(4);
+		font-size: 30px;
+		color: #D8D8D8;
+		font-weight: 700;
+	}
+	.footer-desc {
+		@extend %content-max-width;
+		line-height: 1.5;
+	}
 }
-.footer-wrap {
-	@extend %main-indent;
-}
+

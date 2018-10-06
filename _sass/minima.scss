@@ -411,6 +411,7 @@ a {
 .single-post-meta {
 	@include margin-btm(10);
 	@include margin-left(1);
+	@include padding-top(2);
 	color: $gray-silver;
 
 	span {

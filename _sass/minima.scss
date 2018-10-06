@@ -538,8 +538,8 @@ a {
 		font-size: 14px;
 		line-height: 1.5;
 		display: block;
-		@extend %content-max-width;
 		margin-bottom: 24px;
+		@extend %content-max-width;
 		color: $gray-silver;
 	}
 	.highlight {

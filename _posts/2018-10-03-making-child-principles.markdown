@@ -86,7 +86,7 @@ url-2="/img/post/2018/09/marketing-card-before-2x.jpg"
 alt="marketing-card-before"  
 class="medium" %}
 <br/>
-While re-think the card above using the principles. I find that me and the team is become more willing to push the boundary because we can envision how better the card will be. We also have a shared language, which is really cool because someone come up to me and say "Budi, it's not glanceable. Let's find a better way." How efficient is that? I know what they're talking about.
+While re-think the card above using the principles. I find that me and the team is become more willing to push the boundary because we can envision how better the card will be. We also have a shared language, which is really cool because someone come up to me and say _"I don't think it's glanceable. Let's find a better way."_ How efficient is that? I know what they're talking about.
 {% include img-caption.html 
 url="/img/post/2018/09/marketing-card-after.jpg" 
 url-2="/img/post/2018/09/marketing-card-after-2x.jpg" 

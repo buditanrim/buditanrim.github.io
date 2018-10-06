@@ -3,12 +3,12 @@ layout: post
 title: "Common icon design problems you should avoid"
 punchline: false
 subtitle: 
-date: 2018-09-17 14:49:24 -0400
+date: 2018-09-17 -0400
 categories: study
 tags: icon
 author: "Budi Tanrim"
 image:
- path: /img/post/guy.png
+ path: /img/seo.png
  height: 224
  width: 560
 ---

@@ -1,9 +1,19 @@
 ---
 layout: post
 title:  "Preface: Welcome to yellowstroke.com"
-date:   2018-09-06 08:11:24 -0400
-categories: jekyll
+description: ""
+punchline: false
+date:   2018-09-06 -0400
+categories: opinion
 author: "Budi Tanrim"
+
+image:
+ path: /img/seo/welcome.jpg
+ height: 630
+ width: 1200
+gif: false
+twitter-seo: 
+ - "seo/welcome.jpg"
 ---
 _“Hey, what’s that on the sky? I asked my friend.”_  
 _“You mean those clouds(?)” he replied, confusedly._  

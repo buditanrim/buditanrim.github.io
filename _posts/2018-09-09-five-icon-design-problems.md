@@ -1,16 +1,20 @@
 ---
 layout: post
 title: "Common icon design problems you should avoid"
+description: "Important consideration for your icon design to improve your design system"
 punchline: false
-subtitle: 
 date: 2018-09-17 -0400
-categories: study
+categories: craft
 tags: icon
 author: "Budi Tanrim"
+
 image:
- path: /img/seo.png
- height: 224
- width: 560
+ path: /img/seo/.jpg
+ height: 630
+ width: 1200
+gif: false
+twitter-seo: 
+ - "seo/.jpg"
 ---
 
 Nowadays, icon is often a part of the design system. It's not a surprise because icon is effective to quickly communicate the idea at a glance, like the one in your smartwatch.

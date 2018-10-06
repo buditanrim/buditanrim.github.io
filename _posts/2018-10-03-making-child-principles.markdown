@@ -68,30 +68,42 @@ As a result, the principles really helps us to make decision faster whenever we 
 
 This means, shared language that can help us to stay aligned. Here's the principles we ended up with:
 
-1. Focused: Promote one clear purpose
-2. Glanceable: Provide quick and easy information processing
-3. Personalized: Tailor the unique experience 
-4. Valuable: Focus on merchant's benefit
-5. Aesthetic Integrity: Integrate the appareance with the function 
+1. Focused
+2. Glanceable
+3. Personalized
+4. Valuable
+5. Aesthetic Integrity
+
+{% include img-caption.html 
+url="/img/post/2018/09/principles-poster.jpg" 
+url-2="/img/post/2018/09/principles-poster-2x.jpg" 
+alt="principles-poster" 
+caption="You can put up the poster to remind people" 
+class="large" %}
 
 ## Practical application
 But, Budi<sup>2</sup>, how does the principles help?  
 I'm glad you asked!
 
-Well, let's take a look on the card below. The content is not personalized and not valuable to the users, it selfishly promote the new section in our admin. Also, there are a lot of problems behind this card beyond the surface that will rather long for me to explain. Basically, it's bad, like, really bad.
+Well, let's take a look on the card below.
 
 {% include img-caption.html 
 url="/img/post/2018/09/marketing-card-before.jpg" 
 url-2="/img/post/2018/09/marketing-card-before-2x.jpg" 
 alt="marketing-card-before"  
 class="large" %}
-<br/>
-While re-think the card above using the principles. I find that me and the team is become more willing to push the boundary because we can envision how better the card will be. We also have a shared language, which is really cool because someone come up to me and say _"I don't think it's glanceable. Let's find a better way."_ How efficient is that? I know what they're talking about.
+
+The content is not personalized and not valuable to the users, it selfishly promote the new section in our admin. Also, there are a lot of problems behind this card beyond the surface that will rather long for me to explain. Basically, it's bad, like, really bad.
+
+While we re-think the card, we refer to the principles a lot during the exploration. For me, this is much easier to focus my attention on what matters. For the team, they're more comfortable to give the push-back when necessary. Most importantly, we have a shared language, which is really efficient. One time, somebody come up to me and say _"I don't think it's glanceable. Let's find a better way."_  
+
+Here's how it turned out:
 {% include img-caption.html 
 url="/img/post/2018/09/marketing-card-after.jpg" 
 url-2="/img/post/2018/09/marketing-card-after-2x.jpg" 
 alt="marketing-card-after"  
-class="large" %}
+class="large"
+caption="the redesigned card" %}
 
 {: .footnote .subdued}
 Footnotes:

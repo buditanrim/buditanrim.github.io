@@ -26,7 +26,7 @@ Hello! Those dialogue between me and my friend talked about how different our pe
 In this post, I want to talk about the core reasons why I put this blog together.
 
 ### Why I created this blog
-The more I work in this mysterious “design” industry, the more I discover the bigger puzzle ahead of me. And as I solve or understand more puzzles, I'd love to use this blog as a way for me to share what I’ve learned with you from the practical standpoint — I hope it will be useful to you.
+The more I work in this mysterious “design” industry, the more I discover newer puzzle ahead of me. And as I solve or understand more mysteries, I'd love to use this blog as a way for me to share what I’ve learned with you from the practical standpoint — I hope it will be useful to you.
 
 Think of this blog as a better version of my notebook.
 
@@ -42,12 +42,12 @@ alt="hello dear reader"
 class="illustration medium" %}
 
 ### How you can participate
-You are more than a reader. You are the important part to evolve this blog to become better. I am a believer that an open and healthy discussion is always beneficial. Therefore, if at any point you’d disagree or agree with my writing — I wish to hear from you (I'm still working on the comment system for this blog, so reach me out via email for now).
+You are more than a reader. You are the critical part to evolve this blog to become better. I am a believer that an open and healthy discussion is always beneficial. Therefore, if at any point you’d disagree or agree with my writing — I wish to hear from you (I'm still working on the comment system for this blog, so reach me out via email for now).
 
 You can [ask questions][mail-ask], too! And if you think the post is worth sharing, it's always appreciated :)
 
-Most importantly, if you want to get some update, make sure to subscribe on my [personal listing][mailchimp-budi].
-If you want to connect, I’m an occasional [tweeter][twitter-budi] and also check some of my work on [Dribbble][dribbble].
+Most importantly, to get some update, make sure to subscribe on the [mailing listing][mailchimp-budi].
+If want to connect, I’m an occasional [tweeter][twitter-budi] and also check some of my work on [Dribbble][dribbble].
 
 
 [mail-ask]: mailto:buditanrim@gmail.com?subject=Question

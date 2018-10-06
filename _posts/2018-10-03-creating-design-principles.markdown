@@ -2,11 +2,13 @@
 layout: post
 title:  "Case study: Creating design principles for a team at Shopify"
 description: "About how we extended the Polaris principles to the smaller context in my project at Shopify."
+
 punchline: true
 subtitle: "About how we extended the Polaris principles to the smaller context in my project at Shopify."
 date:   2018-10-03 -0400
 categories: craft
 author: "Budi Tanrim"
+
 image:
  path: /img/seo/child-principle.jpg
  height: 630

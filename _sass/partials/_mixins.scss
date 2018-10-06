@@ -24,3 +24,8 @@
 @mixin padding-right($property) {
 	padding-right: calc(#{$property} * #{$baseline});
 }
+
+// used for sidebar and home
+@mixin base-background {
+	background: #ffffff;
+}

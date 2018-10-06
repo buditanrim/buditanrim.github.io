@@ -4,6 +4,7 @@
 @import "partials/normalize";
 @import "partials/mixins";
 @import "partials/gif";
+@import "partials/extend";
 
 // Responsive note
 /*
@@ -34,31 +35,16 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-//extend
-%serif { font-family: $serif;}
-%sans { font-family: $sans; }
-%post-title-width {
-	max-width: 480px;
-}
-%content-max-width{
-	max-width: 500px;
-	@include breakpoint(from-desktop-mid) {
-		max-width: 560px;
-	}
-}
-// Used on home (blog-list-loop)
-%post-line-height {
-		line-height: 24px;
-	}
 
 body {
 	font-family: $sans;
 	font-weight: normal;
 	color: $charcoal;
+	@include base-background;
 }
 
 ::selection {
-    background-color: rgba(0,0,0,.99);
+    background-color: rgba(0,0,0,.90);
     color: #fff;
 }
 
@@ -79,6 +65,7 @@ a {
 	margin-bottom: 20px;
 	border-bottom: 1px solid $border-light;
 	@include clear-fix;
+	@include base-background;
 	
 	@include breakpoint(from-phablet) {height: 72px;}
 	@include breakpoint(from-tablet) {
@@ -218,6 +205,9 @@ a {
 
 // main content
 .homepage {
+	min-height: 90vh;
+}
+.homepage {
 	.main-wrap {
 		@include breakpoint(from-tablet) {
 			max-width: 600px;
@@ -234,7 +224,6 @@ a {
 	padding: 0 20px 60px;
 	margin-left: auto;
 	margin-right: auto;
-
 	@include breakpoint(from-phablet) {
 		padding-left: 24px;
 		padding-right: 24px;		
@@ -248,8 +237,8 @@ a {
 	}
 	@include breakpoint(from-desktop-mid) {
 		margin-left: calc(100px + 15%);
-
 	}
+
 
 	.page-title {
 		color: $gray-lightest;
@@ -606,4 +595,14 @@ a {
 .subdued,
 .subdued > * {
 	color: $gray-ash!important;
+}
+
+// Footer
+.footer {
+	@include padding-top(30);
+	@include padding-btm(30);
+	background: #F5F5F2;
+}
+.footer-wrap {
+	@extend %main-indent;
 }

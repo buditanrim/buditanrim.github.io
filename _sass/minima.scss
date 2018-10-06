@@ -577,7 +577,7 @@ a {
 
 // the next post
 .single-next-post {
-	@include padding-top(20);
+	@include padding-top(10);
 	.next {
 		color: $gray-silver;
 	}

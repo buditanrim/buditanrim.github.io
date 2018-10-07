@@ -17,14 +17,14 @@ twitter-seo:
  - "seo/.jpg"
 ---
 
-Nowadays, icon is often a part of the design system. It's not a surprise because icon is effective to quickly communicate the idea at a glance, like the one in your smartwatch.
+Nowadays, icons are often a part of the design system. It's not a surprise because icons are effective to quickly communicate the idea at a glance, like the one in your smartwatch.
 
-I'm fortunate because I had a chance to work on a few icon systems for various companies<sup>1</sup>. Along the way, I've encountered some common problems and I want to share it and hopefully useful to you. 
+I'm fortunate because I had a chance to work on a few icon systems for various companies<sup>1</sup>. Along the way, I want to share some common problems I've encountered. 
 
 So, here it goes in no particular order.
 
 ### Visually complex
-Study by [Byrne (1993)][complex]{:target="_blank"} showed that simple icons are easier for people to find. Participants were given 3 different type of file icons: blank, simple, and complex. Simple icons clearly outperform blank and complex icons. Simplicity is crucial in icon design to improve the visual clarity. Adding too many details won't help people understand the icon better; they slow people down.
+Study by [Byrne (1993)][complex]{:target="_blank"} showed that simple icons are more accessible for people to find. Participants were given 3 different type of file icons: blank, simple, and complex. Simple icons clearly outperform blank and complex icons. Simplicity is crucial in icon design to improve the visual clarity. Adding too many details won't help people understand the icon better; they slow people down.
 
 {% include img-caption.html url="/img/post/sep-2018/icon-problem-complex.jpg" url-2="/img/post/sep-2018/icon-problem-complex-2x.jpg" alt="Complex icon reduce clarity" caption="Simplicity is crucial for clarity." class="dashed medium" %}
 
@@ -39,10 +39,10 @@ Study shows that abstract icon has a lower accuracy than the concrete icon [(McD
 
 Now, abstract in the design, like the battery example may not seem obvious here, but when you put it in the context - study shows the concrete icon [perform 43% better][icon-concreteness]{:target="_blank"}.
 
-**Consideration:** Whenever possible, try to create concrete icon that based on the real-world object. However, from my experience, this will never be the absolute solution because not every action has a concrete concept. For example, when we need to create _share_ icon -- the share itself is abstract and in this case, we should fall back to what the most common icon used in the industry.
+**Consideration:** Whenever possible, try to create a concrete icon that based on the real-world object. However, from my experience, this will never be the absolute solution because not every action has a concrete concept. For example, when we need to create _share_ icon -- the share itself is abstract and in this case, we should fall back to what the most common icon used in the industry.
 
 ### Imbalance proportion
-The designer often either forget, neglect or underestimate the importance of the negative space around the icon. Failing at respecting the negative space can make your icon looks funky when they're sitting side by side.
+The designer often either forgets, neglect or underestimate the importance of the negative space around the icon. Failing at respecting the negative space can make icons looks funky when they're sitting side by side.
 {% include img-caption.html url="/img/post/sep-2018/icon-problem-negative-space.jpg" url-2="/img/post/sep-2018/icon-problem-negative-space-2x.jpg" alt="Complex icon reduce clarity" class="dashed medium" %}
 {% include img-caption.html url="/img/post/sep-2018/icon-problem-negative-space-b.gif" url-2="/img/post/sep-2018/icon-problem-negative-space-b-2x.gif" alt="negative space" caption="Even though they're in the same dimension, the negative space cost a visual illusion." class="dashed medium" %}
 
@@ -66,13 +66,13 @@ Even though there are some researches around this topic, it is still early to ju
 
 # A closing chat with the reader
 Thanks for reading! To summarize, you have to be careful of these:
-- **Complexity** of the icon
-- **Proportion** of the icon
-- **Concreteness** of the icon
+- **The complexity** of the icon
+- **The proportion** of the icon
+- **The concreteness** of the icon
 - **Relevancy** of the icon
 - **Cultural sensitivity**
 
-It's important that you take these points with a consideration of your own context and problem you're facing. The points I make here is focusing on the general best practice for system icon (small icon) where the goal is to focus on helping users navigate or do action.
+It's essential that you take these points with considerations of your own context and problem you're facing. The points I make here is focusing on the general best practice for system icon (small icon) where the goal is to focus on helping users navigate or do action.
 
 On the side, it's worth to consider to create a set of principles when you see there are common issues with the icon while auditing them. [Reach me out][buditwitter]{:target="_blank"} if you're interested to chat about this.
 

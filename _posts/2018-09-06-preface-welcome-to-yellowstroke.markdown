@@ -42,7 +42,7 @@ alt="hello dear reader"
 class="illustration medium" %}
 
 ### How you can participate
-You are more than a reader. You are the critical part to evolve this blog to become better. I am a believer that an open and healthy discussion is always beneficial. Therefore, if at any point you’d disagree or agree with my writing — I wish to hear from you (I'm still working on the comment system for this blog, so reach me out via email for now).
+You are more than a reader. You are the critical part of this blog. I am a believer that an open and healthy discussion is always beneficial. Therefore, if at any point you’d disagree or agree with my writing — I wish to hear from you (I'm still working on the comment system for this blog, so reach me out via email for now).
 
 You can [ask questions][mail-ask], too! And if you think the post is worth sharing, it's always appreciated :)
 

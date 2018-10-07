@@ -602,9 +602,11 @@ a {
 // Footer
 .footer {
 	@include padding-top(30);
-	@include padding-btm(30);
 	background: #F5F5F2;
 	position: relative;
+	@include breakpoint(from-tablet) {
+		@include padding-btm(30);
+	}
 
 	.footer-wrap {
 		@extend %main-indent;

@@ -63,7 +63,13 @@ Since there are tons of problems, we won't be able to cover everything. Therefor
 ## Drafting the principles
 Once we have the prioritization, the team decided to put me in charge to draft the first round of the principles. This approach has its own pros and cons. But we believe that was the most efficient approach we can take at that time.
 
-I use the problems as the fundamental, the role of having the principles that will remind us of what's important and why. After weeks consulting with few people in the organization, reviewing them together with the team, and countless revisions. We were able to come up with the set of principles that represent the "ideal" experience we wanted our card UI to have.
+##### Problems as the fundamentals
+I use the problems as the fundamental, the role of having the principles that will remind us of what's important and why. 
+
+##### Should derived from Polaris principles
+In Polaris, the principles are "Put merchants first, Empower but don't overwhelm, Build a cohesive experience, Be polished but not ornamental." While drafting the principles, I have to keep this in mind to ensure the principles that I'll come up with have a connection and still hold the true value of the higher-level principles from Polaris.
+
+After weeks consulting with few people in the organization, reviewing them together with the team, and countless revisions. We were able to come up with the set of principles that represent the "ideal" experience we wanted our card UI to have.
 
 
 ## The result

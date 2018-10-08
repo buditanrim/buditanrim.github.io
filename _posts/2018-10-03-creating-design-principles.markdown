@@ -33,7 +33,7 @@ While I work at Shopify, our design system, Polaris<sup>1</sup>, already have a 
 
 So, why bother to create another one?
 
-To start off, in our project, we had a hard time to make a decision when there is a trade-off. Later, we quickly realize that the high-level principles are the north star of the organization and not necessarily can cover all the details. This is the main reason why we started to feel a need to adopt the Polaris principles and make our own.
+To start off, in our project, we had a hard time to make a decision when there is a trade-off. Later, we quickly realize that the high-level principles are the north star of the organization and not granular enough to help us make decisions. This is the main reason why we started to feel a need to adopt the Polaris principles and make our own.
 
 The project was about improving the card UI system we have. I was lucky because I had a chance to lead this project. So, I want to share my learning and the process on how we did it.
 
@@ -111,7 +111,7 @@ caption="the redesigned card" %}
 ## Conclusion
 Having design principles for your organization is necessary. However, if you don't adapt the principles to your team, you'll missed an opportunity to save a lot of time from debating over the same thing.
 
-It also important to keep re-iterate the principles as you go. If the principles has no longer add value, you can remove it, too.
+It also important to keep re-iterate the principles as you go. If the principles has no longer add value, you can replace or remove it, too.
 
 {: .footnote .subdued}
 Footnotes:

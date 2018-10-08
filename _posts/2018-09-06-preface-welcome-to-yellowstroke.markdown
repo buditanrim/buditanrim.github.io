@@ -28,7 +28,7 @@ In this post, I want to talk about the core reasons why I put this blog together
 ### Why I created this blog
 The more I work in this mysterious “design” industry, the more I discover newer puzzle ahead of me. And as I solve or understand more mysteries, I'd love to use this blog as a way for me to share what I’ve learned with you from the practical standpoint — I hope it will be useful to you.
 
-Think of this blog as a better version of my notebook.
+Think of this blog as a neater version of my notebook.
 
 ### The scope of this blog
 In this blog, I’ll talk about various things from the design methods that I’m experimenting, the takeaways from the projects, some tips or tutorial, or even `mistakes` that I learned from. 
@@ -40,6 +40,11 @@ url="/img/post/2018/09/hello.png"
 url-2="/img/post/2018/09/hello-2x.png" 
 alt="hello dear reader" 
 class="illustration medium" %}
+
+### Why Yellowstroke as the name?
+Choosing name is always a hard job to do. After few explorations with the name, I want a name that represent me as a person. I always take notes on my notebook and also have some doodle and paint on it.
+
+I ended up with Yellowstroke. Simply, **yellow** is my favourite color and **stroke** represent the drawing or painting. Which become the basic idea of this blog; as a neater version of my notebook. 
 
 ### How you can participate
 You are more than a reader. You are the critical part of this blog. I am a believer that an open and healthy discussion is always beneficial. Therefore, if at any point you’d disagree or agree with my writing — I wish to hear from you (I'm still working on the comment system for this blog, so reach me out via email for now).

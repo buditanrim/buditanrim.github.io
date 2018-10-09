@@ -9,12 +9,12 @@ tags: icon
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/.jpg
+ path: /img/seo/icon-problem.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/.jpg"
+ - "seo/icon-problem.jpg"
 ---
 
 Nowadays, icons are often a part of the design system. It's not a surprise because icons are effective to quickly communicate the idea at a glance, like the one in your smartwatch.

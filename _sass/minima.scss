@@ -607,6 +607,11 @@ a {
 	@include breakpoint(from-tablet) {
 		@include padding-btm(30);
 	}
+	.footer-subscribe {
+		padding: 20px 0;
+		font-weight: 700;
+		display: inline-block;
+	}
 
 	.footer-wrap {
 		@extend %main-indent;

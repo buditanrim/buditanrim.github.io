@@ -5,7 +5,7 @@ description: "About how we extended the Polaris principles to the smaller contex
 
 punchline: true
 subtitle: "About how we extended the Polaris principles to the smaller context in my project at Shopify."
-date:   2018-10-03 -0400
+date:   2018-10-03 +0700
 categories: craft
 author: "Budi Tanrim"
 

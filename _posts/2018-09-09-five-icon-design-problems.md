@@ -3,7 +3,7 @@ layout: post
 title: "Common icon design problems you should avoid"
 description: "Important consideration for your icon design to improve your design system"
 punchline: false
-date: 2018-09-17 -0400
+date: 2018-09-17 +0700
 categories: craft
 tags: icon
 author: "Budi Tanrim"

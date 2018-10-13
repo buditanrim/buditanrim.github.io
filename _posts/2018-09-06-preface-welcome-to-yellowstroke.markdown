@@ -3,7 +3,7 @@ layout: post
 title:  "Preface: Welcome to yellowstroke.com"
 description: "What and why I created yellowstroke.com?"
 punchline: false
-date:   2018-09-06 -0400
+date:   2018-09-06 +0700
 categories: opinion
 author: "Budi Tanrim"
 

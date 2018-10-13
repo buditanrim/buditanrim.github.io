@@ -140,7 +140,6 @@ a {
 	@include breakpoint(from-tablet) {
 		.logo-wrapper:hover .sidebar-helper {
 			opacity: 1;
-
 		}
 	}
 	
@@ -524,21 +523,55 @@ a {
 		@extend %content-max-width;
 		margin-top: -16px;
 	}
+	cite {
+		&:before {
+			content: "\2014";
+		}
+	}
 	blockquote {
 		-webkit-margin-start: 0;
 		-webkit-margin-end: 0;
-		@include padding-left(6);
-		border-left: 8px solid $yellow-light;
 		@extend %content-max-width;
+		@include padding-top(12);
+		@include padding-btm(12);
+
+		p {
+			font-size: 30px;
+			line-height: 1.35;
+			font-weight: bold;
+			color: $black;
+			@extend %content-max-width;
+		}
+		cite {
+			display: block;
+			font-size: 0.55em;
+			margin-top: 16px;
+			position: relative;
+			color: $yellow;
+		}
 	}
-	blockquote p {
-		font-size: 40px;
-		line-height: 50px;
-		@include padding-top(2);
-		@include padding-btm(2);
-		font-weight: bold;
-		@extend %content-max-width;
+	blockquote.inline {
+		margin-top: -12px;
+		@include padding-btm(1);
+		@include padding-top(0);
+
+		p {
+			font-size: 18px;
+			line-height: 1.5;
+			font-style: italic;
+			font-weight: normal;
+			color: $body-text;
+			@include padding-left(4);
+			border-left: 3px solid $yellow;
+		}
+		cite {
+			font-size: 0.8em;
+			font-weight: bold;
+			margin-top: 8px;
+			color: $gray-silver;
+		}
 	}
+	
 	sup, sub {
 		color: $gray-silver;
 		padding: 2px;
@@ -578,6 +611,11 @@ a {
 		max-width: 100%;
 	}
 	hr {
+		margin-left: 0px;
+		margin-top: 40px;
+		margin-bottom: 16px;
+		border: 0;
+		border-top: 1px solid $border-light;
 		@extend %content-max-width;
 	}
 	

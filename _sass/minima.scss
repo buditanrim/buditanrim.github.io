@@ -658,18 +658,24 @@ a {
 		color: $gray-ash;
 	}
 }
-
-.footnote {
-	@include padding-top(8);
-
-	li:target {
-		background: $yellow-highlight;
-	}
-}
 .subdued,
 .subdued > * {
 	color: $gray-ash!important;
 }
+.footnote-header {
+	@include padding-top(8);
+	color: $gray-silver!important;
+}
+.footnote {
+	color: $gray-silver!important;
+	li {
+		color: $gray-silver!important;
+	}
+	li:target {
+		background: $yellow-highlight;
+	}
+}
+
 
 // Footer
 .footer {

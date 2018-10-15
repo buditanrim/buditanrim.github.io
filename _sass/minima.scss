@@ -548,11 +548,12 @@ a {
 			@extend %content-max-width;
 		}
 		cite {
-			display: block;
-			font-size: 0.55em;
-			margin-top: 16px;
-			position: relative;
-			color: $yellow;
+		    color: black;
+		    display: table;
+		    font-size: .55em;
+		    margin-top: 16px;
+		    position: relative;
+		    background: #ffdb00;
 		}
 	}
 	blockquote.inline {
@@ -574,6 +575,7 @@ a {
 			font-weight: bold;
 			margin-top: 8px;
 			color: $gray-silver;
+			background: none;
 		}
 	}
 	
@@ -602,6 +604,9 @@ a {
 	.dashed img {
 		border: 1px dashed $gray-lightest;
 		border-radius: 2px;
+	}
+	.no-caption > .caption {
+		display: none;
 	}
 	a.social-share img,
 	.illustration,
@@ -656,6 +661,10 @@ a {
 
 .footnote {
 	@include padding-top(8);
+
+	li:target {
+		background: $yellow-highlight;
+	}
 }
 .subdued,
 .subdued > * {

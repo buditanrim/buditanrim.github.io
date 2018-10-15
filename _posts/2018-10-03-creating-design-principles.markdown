@@ -119,7 +119,7 @@ url="/img/post/2018/09/home-card-system.jpg"
 url-2="/img/post/2018/09/home-card-system-2x.jpg" 
 alt="Shopify-home-card-system" 
 caption="A peek of home card system" 
-class="medium" %}
+class="large" %}
 
 ## Conclusion
 Having design principles for your organization is necessary. However, if you don't adapt the principles to your team, you'll missed an opportunity to save a lot of time from debating over the same thing.

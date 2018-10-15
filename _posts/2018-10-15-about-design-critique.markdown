@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About design critique."
-description: "Your question determine the feedback you'll get."
+description: "Your question could get you different type of the feedback."
 punchline: true
 subtitle: "How I see critique as a beneficial culture and my experiment with it."
 date: 2018-10-15 +0700

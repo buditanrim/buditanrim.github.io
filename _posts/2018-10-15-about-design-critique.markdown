@@ -184,6 +184,6 @@ Footnotes:
 3. {: #fn3} It means the critiquer giving a feedback that's purely comes from his opinion without considering the goal. [↩](#a3)
 {: .footnote}
 
-[bl]: https://instagram
+[bl]: https://www.instagram.com/bukalapak.design/
 [nngroup-feedback]: https://www.nngroup.com/articles/design-critiques/
 [budi-email]: mailto:buditanrim@gmail.com?subject=About%20feedback

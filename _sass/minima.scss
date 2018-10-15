@@ -523,6 +523,10 @@ a {
 		@extend %content-max-width;
 		margin-top: -16px;
 	}
+	ul > li > ul {
+		margin-bottom: 8px;
+		margin-top: 0px
+	}
 	cite {
 		&:before {
 			content: "\2014";
@@ -551,7 +555,7 @@ a {
 		}
 	}
 	blockquote.inline {
-		margin-top: -12px;
+		margin-top: -8px;
 		@include padding-btm(1);
 		@include padding-top(0);
 

@@ -682,6 +682,7 @@ a {
 	@include padding-top(30);
 	background: #F5F5F2;
 	position: relative;
+	line-height: 1.35;
 	@include breakpoint(from-tablet) {
 		@include padding-btm(30);
 	}

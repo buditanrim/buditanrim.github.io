@@ -84,7 +84,7 @@ On the other hand, these are some points I'm still trying to get better when **g
 One day on the _fresh eyes_<sup id="a1">[1](#fn1)</sup> session. I intentionally present a few explorations without context whatsoever to see how it goes. Later, I noticed people started to shape a very surface-level feedback, while others asked questions to gain the context a bit more.
 
 _Lil' funny story_  
-My colleague didn't aware of this little experiment. Once we leave the meeting room, she right away reminds me of how important the context. I was smirking and feel bad inside knowing I did it on purpose, but I thanked her.
+My colleague didn't aware of this little experiment. Once we left the meeting room, she right away reminded me of how important the context. I was smirking and felt bad inside knowing I did it on purpose, but I thanked her.
 
 _My personal takeaway:_ Without context, people will focus on surface things. Maybe this is what you want, it's not always bad though. But, generally speaking, without enough context, people spend their time understanding the context instead of focusing on analyzing the design and the goal. Without setting the stage, you might end up with an inefficient meeting. 
 

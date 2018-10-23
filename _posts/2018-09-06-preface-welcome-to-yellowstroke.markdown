@@ -31,7 +31,7 @@ The more I work in this mysterious “design” industry, the more I discover ne
 Think of this blog as a neater version of my notebook.
 
 ### The scope of this blog
-In this blog, I’ll talk about various things from the design methods that I’m experimenting, the takeaways from the projects, some tips or tutorial, or even `mistakes` that I learned from. 
+In this blog, I’ll talk about various things from the design methods that I’m experimenting, the takeaways from the projects, some tips or tutorial, or even `mistakes` that I learned from. This blog is intended to be enjoyable and informative for everyone.
  
 Hopefully, I can resist the temptation from sharing something outside of the scope, like food or travel story. I’m not making any promises though!
 

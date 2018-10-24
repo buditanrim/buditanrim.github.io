@@ -58,11 +58,11 @@ But, oh boy. While that is true, you should still choose the icon metaphor consi
 **Takeaway:** The label will help clarify the icon's meaning, but they should work harmoniously. Failing at doing this will decrease the value of the icon.
 
 ### Insensitive to different cultures
-Even though there are some researches around this topic, it is still early to judge. However, coming from Indonesia and live in Canada makes me realize that cultural diversity leads to different views and assumptions. That said, I firmly believe this is true for the symbol, too.
+Even though there are few researches around this topic, it is still early to judge. However, coming from Indonesia and live in Canada makes me realize that cultural diversity leads to different views and assumptions. Which also true for the symbol, too.
 
 {% include img-caption.html url="/img/post/sep-2018/icon-problem-international.jpg" url-2="/img/post/sep-2018/icon-problem-international-2x.jpg" alt="internationzalitation is important" caption="Dollar sign here works for most countries with $ concept, but not necessarily work for all countries. The paper bill concept is more abstract but still get to the point." class="dashed medium" %}
 
-**Consideration:** If people from around the world use your product, consider to make your icons a bit more general. In some cases though, localizing is better than internationalizing. I think the further study will still be needed on this.
+**Consideration:** If people from around the world use your product, consider to generalize your icon design. In some cases though, localizing is better than internationalizing. I think the further study will still be needed on this.
 
 # A closing chat with the reader
 Thanks for reading! To summarize, you have to be careful of these:

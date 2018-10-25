@@ -1,0 +1,76 @@
+// About page
+
+.about { //replace the parent-page
+	.main-wrap {
+		@include breakpoint(from-desktop-mid) {
+			max-width: 1000px;
+		}
+	}
+}
+
+// About elements
+
+.about-doodle {
+	max-width: 130px;
+	margin-bottom: 60px;
+	padding-top: 44px;
+}
+.about-title {
+	margin-bottom: 20px;
+}
+.about-description {
+	margin-bottom: 100px;
+}
+.about-meta {
+	@include col((3,4,3));
+	margin-bottom: 44px;
+	margin-left: 0!important;
+}
+.about-portrait {
+	margin-bottom: 40px;
+}
+.about-presence {
+	margin-bottom: 20px;
+	
+	h4 {
+		margin-bottom: 20px;
+		font-size: 20px;
+	}
+	.presence-list {
+		a {
+			@include columns((40,60), $target: "span");
+			@include padding-top(4);
+			@include padding-btm(4);
+			display: block;
+			border-top: 1px solid $border-light;
+			cursor: pointer;
+
+			.explanation {
+				color: $gray-silver;
+			}
+
+			&:last-child {
+				border-bottom: 1px solid $border-light;
+			}
+
+			&:hover .explanation {
+				text-decoration: none;
+			}
+			&:hover .channel {
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
+//inserting the extend (600px width)
+
+%about-content-width {
+	max-width: 600px;
+}
+.about-title,
+.about-description,
+.about-meta,
+.presence-list {
+	@extend %about-content-width;
+}

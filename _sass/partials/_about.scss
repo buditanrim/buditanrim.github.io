@@ -6,6 +6,10 @@
 			max-width: 1000px;
 		}
 	}
+	h4 {
+		margin-bottom: 20px;
+		font-size: 20px;
+	}
 }
 
 // About elements
@@ -27,15 +31,11 @@
 	margin-left: 0!important;
 }
 .about-portrait {
-	margin-bottom: 40px;
+	margin-bottom: 32px;
 }
 .about-presence {
-	margin-bottom: 20px;
+	margin-bottom: 60px;
 	
-	h4 {
-		margin-bottom: 20px;
-		font-size: 20px;
-	}
 	.presence-list {
 		a {
 			@include columns((40,60), $target: "span");
@@ -60,6 +60,14 @@
 				text-decoration: underline;
 			}
 		}
+	}
+}
+
+.about-client {
+	@include breakpoint(from-tablet) {
+		ul {
+			@include col(2, $container-align: "left", $container-width: 60%);
+		}	
 	}
 }
 

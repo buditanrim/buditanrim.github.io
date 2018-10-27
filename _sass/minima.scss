@@ -223,7 +223,11 @@ p {
 		top: 80px;
 	}
 }
-
+ul.neutral {
+	list-style: none;
+	line-height: 1.8;
+}
+li { line-height: 1.8; }
 // Shared styling
 .main-nav,
 .mobile-nav {

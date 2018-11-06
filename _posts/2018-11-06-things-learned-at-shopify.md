@@ -106,5 +106,7 @@ A lot of people asked me, "Budi, are you crazy? Why did you leave Shopify?" I of
 
 Well, life always works in a funny way. I never thought I'll go back to Indonesia. But, my wife wants to pursue her career and the only way for her to grow her career is by being in Indonesia. It's time for me to give back, she has been my best supporter in the last 4 years. Her makeup works are fabulous, follow her on [Instagram][tutin-ig]
 
+_Note:_ These are all based on my personal experience. I'm not trying to represent Shopify as a whole.
+
 [tutin-ig]: https://www.instagram.com/agustine.gozali/
 

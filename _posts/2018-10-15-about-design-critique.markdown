@@ -24,7 +24,7 @@ url-2="/img/post/2018/10/critique-budi-talk-2x.jpg"
 alt="budi-talk" 
 class="photo medium" %}
 
-Last week in [Bukalapak Design All-hands][bl], I had a chance to share my thought on how critique culture can be beneficial for the individual crafter, the quality of work they'd produce, and the team.
+Last week in [Bukalapak Design All-hands][bl]{:target="_blank"}, I had a chance to share my thought on how critique culture can be beneficial for the individual crafter, the quality of work they'd produce, and the team.
 
 Let me be clear. I'm no expert at giving or asking critique. In fact, I used to give bad critiques without realizing it and this is something I'm still working on. However, I firmly believe that a healthy critique culture is beneficial.
 

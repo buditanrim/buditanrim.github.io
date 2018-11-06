@@ -228,6 +228,7 @@ ul.neutral {
 	line-height: 1.8;
 }
 li { line-height: 1.8; }
+
 // Shared styling
 .main-nav,
 .mobile-nav {
@@ -484,6 +485,9 @@ li { line-height: 1.8; }
 	}
 	&.large {
 		max-width: 800px;
+	}
+	&.xl {
+		max-width: 1200px;
 	}
 	img {
 		max-width: 100%;

@@ -104,7 +104,7 @@ class="large" %}
 ## Why did you leave Shopify again?
 A lot of people asked me, "Budi, are you crazy? Why did you leave Shopify?" I often think about this, leaving behind a fantastic company, an excellent mentor, and free lunch seems like a crazy move for me, too. It still is.
 
-Well, life always works in a funny way. I never thought I'll go back to Indonesia. But, my wife wants to pursue her career and the only way for her to grow her career is by being in Indonesia. It's time for me to give back, she has been my best supporter in the last 4 years. Her makeup works are fabulous, follow her on [Instagram][tutin-ig]
+Well, life always works in a funny way. I never thought I'll go back to Indonesia. But, my wife wants to pursue her career and the only way for her to grow her career is by being in Indonesia. It's time for me to give back, she has been my best supporter in the last 4 years. Her makeup work is fabulous, follow her on [Instagram][tutin-ig]
 
 _Note:_ These are all based on my personal experience. I'm not trying to represent Shopify as a whole.
 

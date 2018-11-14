@@ -222,7 +222,9 @@ p {
 	@include breakpoint(from-desktop-mid) {
 		top: 80px;
 	}
+
 }
+
 ul.neutral {
 	list-style: none;
 	line-height: 1.8;
@@ -242,6 +244,10 @@ li { line-height: 1.8; }
     	color: $gray-ash;
     	&:hover { color: $gray-silver;}
     }
+    li a.current {
+		color: $body-text;
+		text-decoration: underline;
+	}
 }
 
 // main content

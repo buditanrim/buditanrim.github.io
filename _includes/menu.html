@@ -1,11 +1,12 @@
+{% assign current = page.url | downcase | split: '/' %}
 <ul>
 	<li>
-		<a href="/">
+		<a href="/" {% if page.url == '/' %}class="current"{% endif %}>
 			Index
 		</a>
 	</li>
 	<li>
-		<a href="/author" class="menu-about">
+		<a href="/author" {% if current[1] == 'author' %}class="current"{% endif %}>
 			Author
 		</a>
 	</li>
@@ -20,3 +21,4 @@
 		</a>
 	</li>
 </ul>
+

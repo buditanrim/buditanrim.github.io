@@ -20,9 +20,7 @@ twitter-seo:
 
 This is just a small update. 4 weeks ago, I announced my availability through [Twitter][link-1]
 
-Thanks to everyone who retweeted it. I got a lot of different offers. After a few weeks of talking to some recruiters, designers, and creative directors from different companies. 
-
-Despite all of the exciting work offers, I decided to join Bukalapak.com, a local e-commerce company based in Jakarta, Indonesia. I'll be working as a Product Principal Designer and focusing on the Design System. They're rapidly growing and I'm excited about the challenges we'll be facing.
+Thanks to everyone who retweeted it. I got a lot of different offers. After a few weeks of talking to some recruiters, designers, and creative directors from different companies. I decided to join Bukalapak.com, a local e-commerce company based in Jakarta, Indonesia. I'll be working as a Product Principal Designer and focusing on the Design System. They're rapidly growing and I'm excited about the challenges we'll be facing.
 
 So, if you're working on the Design System, I'd be down to exchange some knowledge and learnings along the way. On top of that, I can't wait to share some of my learnings on crafting the Design System with the lovely team on this blog in the future!
 

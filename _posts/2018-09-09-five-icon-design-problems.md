@@ -19,7 +19,7 @@ twitter-seo:
 
 Nowadays, icons are often a part of the design system. It's not a surprise because icons are effective to quickly communicate the idea at a glance, like the one in your smartwatch.
 
-I'm fortunate because I had a chance to work on a few icon systems for various companies<sup>1</sup>. Along the way, I want to share some common problems I've encountered. 
+I'm fortunate because I had a chance to work on a few icon systems for various companies<sup id="a1">[1](#fn1)</sup>. In this opportunity, I want to share some common problems I've encountered. 
 
 So, here it goes in no particular order.
 
@@ -75,6 +75,10 @@ Thanks for reading! To summarize, you have to be careful of these:
 It's essential that you take these points with considerations of your own context and problem you're facing. The points I make here is focusing on the general best practice for system icon (small icon) where the goal is to focus on helping users navigate or do action.
 
 On the side, it's worth to consider to create a set of principles when you see there are common issues with the icon while auditing them. [Reach me out][buditwitter]{:target="_blank"} if you're interested to chat about this.
+
+{: .footnote-header}
+Footnotes:
+1. {: #fn1} I've fortunate to work with Yahoo on their icon set, Marvel app, and Shopify. [↩](#a1)
 
 [complex]: https://www.researchgate.net/publication/2466259_Using_Icons_to_Find_Documents_Simplicity_Is_Critical
 [nngroup-research]: https://www.nngroup.com/articles/icon-usability/

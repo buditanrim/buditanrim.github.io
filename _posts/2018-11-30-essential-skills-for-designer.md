@@ -5,7 +5,7 @@ punchline: true
 description: "What does it takes to be a good Product Designer?"
 subtitle: "What does it takes to be a good Product Designer?"
 
-date:   2018-11-30 +0700
+date:   2018-12-04 +0700
 categories: experience
 author: "Budi Tanrim"
 

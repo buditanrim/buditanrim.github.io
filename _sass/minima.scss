@@ -585,27 +585,65 @@ li { line-height: 1.8; }
 		    position: relative;
 		    background: #ffdb00;
 		}
-	}
-	blockquote.inline {
-		margin-top: -8px;
-		@include padding-btm(1);
-		@include padding-top(0);
 
-		p {
-			font-size: 18px;
-			line-height: 1.5;
-			font-style: italic;
-			font-weight: normal;
-			color: $body-text;
-			@include padding-left(4);
-			border-left: 3px solid $yellow;
+		&--medium {
+			p { font-size: 24px; }
 		}
-		cite {
-			font-size: 0.8em;
-			font-weight: bold;
-			margin-top: 8px;
-			color: $gray-silver;
-			background: none;
+		&--small {
+			p { font-size: 20px; }
+		}
+
+		&.inline{
+			margin-top: -8px;
+			@include padding-btm(1);
+			@include padding-top(0);
+
+			p {
+				font-size: 18px;
+				line-height: 1.6;
+				font-weight: italic;
+				color: $body-text;
+				@include padding-left(4);
+				border-left: 3px solid $yellow;
+			}
+			cite {
+				font-size: 0.8em;
+				font-weight: bold;
+				margin-top: 8px;
+				color: $gray-silver;
+				background: none;
+			}
+		}
+
+		&.interview {
+			margin-top: -8px;
+			@include padding-btm(1);
+			@include padding-top(0);
+
+			p {
+				font-size: 18px;
+				line-height: 1.6;
+				font-weight: normal;
+				color: $body-text;
+				@include padding-left(4);
+				border-left: 3px solid $yellow;
+			}
+			cite {
+				font-size: 16px;
+				@include margin-btm(2);
+				font-weight: bold;
+				margin-top: 8px;
+				color: $gray-silver;
+				background: none;
+
+				a {
+					color: $gray-silver;
+					&:hover {
+						background: $yellow;
+						color: black;
+					}
+				}
+			}
 		}
 	}
 	
@@ -757,5 +795,10 @@ li { line-height: 1.8; }
 	}
 }
 
+.spacing-extra-tight { margin-bottom: $spacing-extra-tight !important; }
+.spacing-tight { margin-bottom: $spacing-tight !important; }
+.spacing-regular { margin-bottom: $spacing-regular !important; }
+.spacing-loose { margin-bottom: $spacing-loose !important; }
+.spacing-extra-loose { margin-bottom: $spacing-extra-loose !important; }
 
 

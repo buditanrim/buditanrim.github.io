@@ -2,8 +2,8 @@
 layout: post
 title:  "Essential skills for Product Designers"
 punchline: true
-description: "What does it takes to be a good Product Designer?"
-subtitle: "What does it takes to be a good Product Designer?"
+description: "What does it take to be a good Product Designer?"
+subtitle: "What does it take to be a good Product Designer?"
 
 date:   2018-12-04 +0700
 categories: experience
@@ -18,7 +18,7 @@ twitter-seo:
  - "seo/yellowstroke-seo.jpg"
 ---
 
-Product designers are solving complex problems these days. We're working every day to understand the users, the problems and trying to come up with a solution that we iterate over time. But, what does it takes to be a good one?
+Product designers are solving complex problems these days. We're working every day to understand the users, the problems and trying to come up with a solution that we iterate over time. But, what does it take to be a good one?
 
 Fortunately, I have invited a few friends of mine to pick their brains and wisdom. So, I poked a few of them and ask them a cliché question: _If you can pick one, what is the most important skill to have as a Product Designer?_
 

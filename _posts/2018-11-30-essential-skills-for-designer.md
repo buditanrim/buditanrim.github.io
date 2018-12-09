@@ -67,6 +67,19 @@ Let's hear what they have to say.
 
 ---
 
+### Russell: "Able to take multiple opposing pieces of feedback"
+{: .spacing-extra-loose}
+
+> One of the things I’ve learned as a designer, is that the more experience you have, the more you are able to take multiple opposing pieces of feedback, whether it be constraints, or objectives of the project, and find a way to design a solution that reconciles all of them.
+> For example, a user experience stakeholder might say that this experience should feel snappy and quick, where another technical stakeholder might say that although they’d like that to be possible, they are heavily constrained, and so technical performance will be limited. Initially it sounds like both groups can’t get what they want, but I think a skilled designer embraces the constraints and objectives, and finds a way to make both of those things happen.
+> This is not to say that this will always be possible, and it’s crucial to weigh the importance of those pieces of feedback, to make sure you are making the right tradeoffs, but by embracing an opposable mind, you can often achieve much more than what you initially thought possible.
+>Take those two opposing thoughts and put them against each other. Ask yourself, how might we enable a snappy experience, while we are technically constrained? By opening your mind to what you want to be true, and not focusing on what’s not possible, you can find so much more.
+> One of my favourite books that explains this idea of opposable ideas, and the opposable mind in general, is _A Technique For Producing Ideas by James Webb Young._
+> <cite><a href="https://imrusty.com/">Russell Baylis</a>, Senior Designer at <a href="https://shopify.com">Shopify</a></cite>
+{: .interview}
+
+---
+
 ### Aleš: "Communication is necessary skills if you want to be a professional."
 {: .spacing-extra-loose}
 

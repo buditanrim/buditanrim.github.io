@@ -67,7 +67,7 @@ Let's hear what they have to say.
 
 ---
 
-### Russell: "Able to take multiple opposing pieces of feedback"
+### Russell: "Able to take multiple opposing pieces of feedback."
 {: .spacing-extra-loose}
 
 > One of the things I’ve learned as a designer, is that the more experience you have, the more you are able to take multiple opposing pieces of feedback, whether it be constraints, or objectives of the project, and find a way to design a solution that reconciles all of them.

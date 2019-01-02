@@ -108,7 +108,6 @@ Well, life always works in a funny way. I never thought I'll go back to Indonesi
 
 _Note:_ These are all based on my personal experience. I'm not trying to represent Shopify as a whole.
 
-https://twitter.com/SeleneHinkley/status/1060023576303206400
 
 [tutin-ig]: https://www.instagram.com/agustine.gozali/
 

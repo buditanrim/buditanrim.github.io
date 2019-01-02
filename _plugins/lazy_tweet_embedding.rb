@@ -1,5 +1,5 @@
 require "open-uri"
-require "json"a
+require "json"
 
 module Jekyll
 

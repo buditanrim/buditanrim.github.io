@@ -10,12 +10,12 @@ categories: mindset, experience
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/yellowstroke-seo.jpg
+ path: /img/seo/two-coins.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/yellowstroke-seo.jpg"
+ - "seo/two-coins.jpg"
 ---
 
 Starting my new role as a Principal Designer, I see myself in a lot of situation where I need to make important decisions. I can tell you that it's not always easy, sometimes I'm worried if I'll make a bad decision. Derive from this worry, I started to look for a rule of thumb when considering different options and I want to share where I'm at.
@@ -26,6 +26,12 @@ Last weekend, while enjoying my slow Saturday morning, my eyes caught a coin on 
 
 You see, a coin has two different sides, known as head and tail. Similarly to decision making, there are two sides to each decision. No matter what, it always has its upside and the downside. It's a very simple framework to use when you're facing several options and not sure which one you should take.
 
+{% include img-caption.html 
+url="/img/post/2019/01/two-coin.jpg" 
+url-2="/img/post/2019/01/two-coin-2x.jpg" 
+alt="Two sides of coin yellowstroke" 
+caption="Head and tail(?)" 
+class="illustration" %}
 
 ## A coin has its third side if you observe it long enough
 If you hold the coin flat toward you, you'll see the very thin part in between the head and the tail. That's the third side, which often hard to recognize in the beginning.

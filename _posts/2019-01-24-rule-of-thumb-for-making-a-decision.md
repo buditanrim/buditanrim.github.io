@@ -31,7 +31,7 @@ url="/img/post/2019/01/two-coin.jpg"
 url-2="/img/post/2019/01/two-coin-2x.jpg" 
 alt="Two sides of coin yellowstroke" 
 caption="Head and tail(?)" 
-class="illustration" %}
+class="illustration medium" %}
 
 ## A coin has its third side if you observe it long enough
 If you hold the coin flat toward you, you'll see the very thin part in between the head and the tail. That's the third side, which often hard to recognize in the beginning.

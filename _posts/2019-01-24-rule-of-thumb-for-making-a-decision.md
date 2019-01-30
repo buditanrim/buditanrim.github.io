@@ -24,7 +24,7 @@ Starting my new role as a Principal Designer, I see myself in a lot of situation
 ## A coin has two sides
 Last weekend, while enjoying my slow Saturday morning, my eyes caught a coin on a table. As I picked it up, I started to remember this saying about every coin has two sides.
 
-You see, a coin has two different sides, known as head and tail. Similarly to decision making, there are two sides to each decision. No matter what, it always has its upside and the downside. It's a very simple framework to use when you're facing several options and not sure which one you should take.
+You see, a coin has two different sides, known as head and tail. Similarly to decision making, there are two sides to each decision. No matter what, it always has its upside and the downside. For me, this is a simple framework to use when I'm facing several options and not sure which one you should take. Using this simple rule of thumb remind me of every side of each decision and think it thorougly.
 
 {% include img-caption.html 
 url="/img/post/2019/01/two-coin.jpg" 

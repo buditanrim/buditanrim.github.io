@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making decision is hard, here's my rule of thumb for making a decision"
+title:  "Making a decision is hard, here's my rule of thumb"
 punchline: true
 description: "Similarly to coin, each decision has its top and bottom. And the middle."
 subtitle: "Similarly to coin, each decision has its top and bottom. And the middle."

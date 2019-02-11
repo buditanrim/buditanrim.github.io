@@ -34,8 +34,6 @@ caption="Head and tail(?)"
 class="illustration medium" %}
 
 ## A coin has its third side if you observe it long enough
-If you hold the coin flat toward you, you'll see the very thin part in between the head and the tail. That's the third side, which often hard to recognize in the beginning.
+If you hold the coin flat toward you, you'll see the very thin part in between the head and the tail. That's the third side, which might be hard to recognize in the beginning. But it's there.
 
-Back to the decision thing. Once you have the upside and the downside, remember there's no one perfect answer. It always depends on this third factor; which decision benefit you the most with your certain need, goal, condition, and context.
-
-When making a decision, find the obvious upside and downside. Then find the third factor to help you in the situation where you have to make an important decision.
+Back to the decision thing. Once you have the upside and the downside, remember there's no one perfect answer. It always depends on this third factor; which decision benefit you the most with your certain need, goal, condition, and context. Therefore, when making a decision, find the obvious upside and downside. Then find the third factor to help you.

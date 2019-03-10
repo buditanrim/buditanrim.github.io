@@ -7,6 +7,7 @@
 @import "partials/extend";
 @import "partials/applause";
 @import "partials/about";
+@import "partials/component";
 
 // Responsive note
 /*
@@ -742,6 +743,10 @@ li { line-height: 1.8; }
 }
 .footnote {
 	color: $gray-silver!important;
+	padding-top: 40px;
+    border-top: 1px solid $gray-lightest;
+    margin-top: 80px;
+
 	li {
 		color: $gray-silver!important;
 	}

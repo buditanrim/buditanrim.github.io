@@ -75,7 +75,7 @@ Once you analyze and discuss, it could be helpful to suggest a sort of direction
 ---
 
 ## Additional note
-#### I don't feel great about the last feedback session I have, what should I do?
+#### I don't feel great about the last feedback session I had, what should I do?
 Don't worry, we're all been there! Try again. With this framework, you can analyze which part you are at the most? It's all about the balanced seasoning.
 
 - **Analyze 20%, Discuss 10%, Suggest 70% = Possibly destructive** <br/>

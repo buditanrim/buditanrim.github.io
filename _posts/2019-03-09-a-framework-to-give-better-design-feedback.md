@@ -79,9 +79,9 @@ Once you analyze and discuss, it could be helpful to suggest a sort of direction
 Don't worry, we're all been there! Try again. With this framework, you can analyze which part you are at the most? It's all about the balanced seasoning.
 
 - **Analyze 20%, Discuss 10%, Suggest 70% = Possibly destructive** <br/>
-If you spend more time suggesting your thought, that can lead to destructive feedback because you spend a lot of time articulating your thought without understanding the context or situation of that team.
+If you spend more time suggesting your thought, that can lead to destructive feedback because you spend a lot of time articulating your thought without trying to understand the context or the situation of that team.
 - **Analyze 30%, Discuss 60%, Suggest 10% = Somewhat balance** <br/>
-This is the combination that I prefer. If you spend more time to discuss and understand, chances are, you will be able to help the team in the area they struggle with. 
+This is the combination that I'd prefer. If you spend more time to discuss and understand, chances are, you will be able to help the team in the area they struggle with. 
 
 #### Sometimes, I suggest a solution, is it a bad thing?
 Although I'll try to avoid that. Sometimes, I do that too when I'm running out of time or maybe I'm running out of patience. But, this shouldn't happen often. Giving a solution-agnostic is healthier for the team because you let them go through the process.

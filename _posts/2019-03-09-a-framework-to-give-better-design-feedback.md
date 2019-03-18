@@ -84,7 +84,7 @@ If you spend more time suggesting your thought, that can lead to destructive fee
 This is the combination that I'd prefer. If you spend more time to discuss and understand, chances are, you will be able to help the team in the area they struggle with. 
 
 #### Sometimes, I suggest a solution, is it a bad thing?
-Although I'll try to avoid that. Sometimes, I do that too when I'm running out of time or maybe I'm running out of patience. But, this shouldn't happen often. Giving a solution-agnostic is healthier for the team because you let them go through the process.
+Although I'll try to avoid that. Sometimes, I do that too when I'm running out of time or maybe I'm running out of patience. But, this shouldn't happen often. Giving a solution-agnostic suggestion is healthier for the team because it will let them go through the process.
 
 ---
 

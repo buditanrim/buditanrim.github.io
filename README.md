@@ -1,7 +1,8 @@
 # Hello
 
 ## Setup
-```
+
+``` bash
 # To start the server
 sudo bundle exec jekyll serve --draft
 

@@ -1,4 +1,6 @@
-# Hello
+# Yellowstroke
+Yellowstroke is Budi Tanrim's personal blog, where he jotted down his thoughts, learnings, and experiments about design.
+Here's a quick documentation
 
 ## Setup
 

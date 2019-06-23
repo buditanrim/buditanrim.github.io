@@ -1,0 +1,110 @@
+
+# Topic: Research, Interaction Design, Visual Design, Motion, Method
+
+- word: "Behaviour"
+  definition: ""
+  topic: "Research"
+  type: "noun"
+
+- word: "Brainstorming"
+  definition: "A method to generate ideas to solve problem. Ideally done in a group format."
+  topic: "Design method"
+  type: "noun"
+
+- word: "Hierarchy"
+  definition: "An arrangement of element to implies importance."
+  example: "The layout needs a stronger sense of hierarchy. The button and the imagery are competing for attention, let's emphasize one of them."
+  topic: "Design method"
+  type: "noun"
+
+- word: "Artifacts"
+  definition: "Documents which capture a state of design thinking; may take many forms depends on the project's phase."
+  topic: "Design method"
+  type: "noun"
+  example: ""
+  note: "Understanding that the mockup designer make as an artifact can help distinguish design with artifact."
+
+- word: "Information architecture"
+  definition: "Structuring information and actions to make them readily understandable for users."
+  topic: "Design method"
+  type: "noun"
+  example: "Oh gosh, this site's IA is so confusing."
+
+- word: "Quantitative research"
+  definition: "A method to observe. Mostly this research is to answer why and how."
+  topic: "Research"
+  type: "noun"
+
+- word: "Qualitative research"
+  definition: "A method to observe behaviour,  ,and non-numeric data. Mostly this research is to answer why and how questions of human experience."
+  topic: "Research"
+  type: "noun"
+
+
+- word: "Heuristic review"
+  definition: "A method to evaluate the current design"
+  topic: "Research"
+  type: "noun"
+
+- word: "Human Interaction Design"
+  definition: "Mostly boiled down to 5 elements: Users "
+  topic: "Design method"
+  type: "noun"
+
+- word: "Jargon"
+  definition: "A complex term"
+  example: "Let's not use that legal jargon, our users might get confused."
+  type: "noun"
+
+- word: "Density"
+  definition: "asdasd"
+  type: "noun"
+
+- word: "Brand"
+  definition: "A person's gut feeling about a product, service, or organization. Often influenced by the visual aesthetic, experiences, and positioning — Marty Neumeier, 2005"
+  type: "noun"
+
+- word: "Design System"
+  definition: "A tool to enable people work efficiently and collaborate better in order to solve complex problems. Often delivered in a form of principles, shared language, and shared components to help teams making a cohesive product experience."
+  note: "The UI Kit is a small part of the Design System. The most basic form of Design System usually consist of two libraries; Design library for designer and code library for engineers."
+  type: "noun"
+  topic: "Design system"
+
+- word: "Design Principles"
+  definition: "a"
+  type: "noun"
+  topic: "Design system"
+
+- word: "Cognitive load"
+  definition: "The amount of effort users use in a certain situation or context."
+  type: "noun"
+  topic: "psychology"
+
+- word: "User Experience"
+  definition: "Experiences shaped through a product or technology that happened to users, mostly human, but not limited to."
+  type: "noun"
+
+- word: "Grain of salt"
+  definition: "To take a statement while maintaining a degree of scepticism about its truth"
+  topic: "feedback or discussion"
+  type: "idiom"
+  example: "Take my feedback with a grain of salt."
+
+- word: "Intuitive"
+  definition: "A situation where the user interact with the product and can easily use it without inference. Sometimes, the intuitiveness of a product can happened because users have a previous knowledge."
+  note: "Many argue that intuitive design is overrated because it can vary depends on the users."
+  type: "adjective"
+  topic: "research"
+
+- word: "Storyboarding"
+  definition: "a"
+  note: "s"
+  type: "noun"
+  topic: "Presentation"
+
+- word: "Affordance"
+  definition: "The aspect of an object which suggests how to interact with it; a signal or clue in a particulate context."
+  note: "s"
+  example: ""
+  type: "noun"
+  topic: "Presentation"

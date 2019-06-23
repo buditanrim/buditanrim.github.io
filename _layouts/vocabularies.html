@@ -1,0 +1,68 @@
+{% include header.html %}
+<body>
+	<div id="page" class="parent-page vocabulary-page">
+		
+		{% include navigation.html %}
+
+		<div id="hero" class="yellowstroke-hero yellow">
+			<section class="hero-wrap main-wrap">
+				<div id="vocabulary-animation-hero" class="vocab-animation">
+					
+				</div>
+				<h1>{{ page.title }}</h1>
+				<p>
+					{{ page.description }}
+				</p>
+			</section>
+		</div>
+		
+		<div id="main" role="main">
+			<section class="main-wrap">
+
+			<!-------------- 
+			# Start Loop 
+			---------------> 
+			<ul class="vocab-list-wrapper neutral">
+			{% assign sorted = site.data.vocabularies | sort: 'word' %}
+			{% for i in sorted %}
+				
+				<li class="vocab-list">
+					<h3 class="small">{{ i.word }}</h3>
+					<p class="definition">{{ i.definition }}</p>
+
+					{% if i.example %}
+						<span class="all-caps">Example in context:</span>
+						<p class="example">	"{{ i.example }}"</p>
+					{% endif %}
+					
+					{% if i.example-2 %}
+						<p>
+							"{{ i.example-2 }}"
+						</p>
+					{% endif %}
+
+					{% if i.note %}
+						<span class="all-caps">Note:</span>
+						<p>
+							{{ i.note }}
+						</p>
+					{% endif %}
+					
+				</li>
+
+			{% endfor %}
+			</ul>
+			<!-------------- 
+			# End Loop 
+			---------------> 
+			</section>
+		</div>
+
+
+
+	</div>
+
+	{% include script.html %}
+	{% include footer.html %}
+</body>
+</html>

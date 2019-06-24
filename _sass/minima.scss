@@ -720,7 +720,13 @@ li { line-height: 1.8; }
 	.main-nav a {
 		color: #222222;
 	}
+	@include breakpoint(from-tablet) {
+		#sidebar {
+			visibility: hidden;
+		}
+	}
 }
+
 .yellowstroke-hero {
 
 	&.yellow {
@@ -739,7 +745,7 @@ li { line-height: 1.8; }
 		line-height: $line-height-ultra;
 		color: $black;
 		margin-top: 0px;
-		margin-bottom: 4rem;
+		margin-bottom: 3.2rem;
 	}
 	p {
 		font-size: $font-size-extra-small;
@@ -761,6 +767,13 @@ li { line-height: 1.8; }
 	.vocab-list:last-child {
 		bottom-border: none;
 	}
+	.vocab-note {
+		background: #ffffff;
+		border: 2px solid #B0B3B9;
+		border-radius: 4px;
+		padding: 16px 20px;
+		margin-top: $spacing-loose;
+	}
 }
 
 .vocab-animation {
@@ -768,6 +781,7 @@ li { line-height: 1.8; }
 	height: 130px;
 	margin-bottom: $spacing-loose;
 }
+
 
 // ---------------------------- //
 // Glossary Page End

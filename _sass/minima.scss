@@ -38,10 +38,14 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
+:root {
+	font-size: 62.5%;
+}
 
 body {
 	font-family: $sans;
 	font-weight: normal;
+	font-size: 1.6rem;
 	color: $charcoal;
 	@include base-background;
 }
@@ -66,6 +70,10 @@ p {
 	line-height: 1.6;
 }
 
+// Text formating
+.bold {
+	font-weight: bold;
+}
 .uppercase {
 	text-transform: uppercase;
 	font-size: 13px;
@@ -708,6 +716,84 @@ li { line-height: 1.8; }
 		height: 3px;
 	}
 }
+
+// ---------------------------- //
+// Glossary Page
+// ---------------------------- //
+.vocabulary-page {
+	.main-nav a {
+		color: #222222;
+	}
+	@include breakpoint(from-tablet) {
+		#sidebar {
+			visibility: hidden;
+		}
+	}
+}
+
+.yellowstroke-hero {
+
+	&.yellow {
+		background: $yellow;
+	}
+
+	.hero-wrap {
+		max-width: 640px;
+		padding-top: 8vh;
+		padding-bottom: 12vh;
+	}
+
+	h1 {
+		font-size: $font-size-ultra;
+		font-weight: $font-weight-regular;
+		line-height: $line-height-ultra;
+		color: $black;
+		margin-top: 0px;
+		margin-bottom: 3.2rem;
+	}
+	p {
+		font-size: $font-size-extra-small;
+		font-weight: $font-weight-regular;
+		line-height: $line-height-extra-small;
+		color: $black;
+	}
+}
+.vocab-list-wrapper {
+
+	.vocab-list {
+		padding-top: $spacing-extra-loose;
+		padding-bottom: $spacing-extra-loose;
+		border-bottom: 1px solid $border-medium;
+	}
+	.vocab-list:first-child {
+		padding-top: $spacing-regular;
+	}
+	.vocab-list:last-child {
+		bottom-border: none;
+	}
+	.vocab-note {
+		background: #ffffff;
+		border: 2px solid #B0B3B9;
+		border-radius: 4px;
+		padding: 16px 20px;
+		margin-top: $spacing-loose;
+	}
+}
+
+.example {
+	font-style: italic;
+}
+.vocab-animation {
+	width: 130px;
+	height: 130px;
+	margin-bottom: $spacing-loose;
+}
+
+
+// ---------------------------- //
+// Glossary Page End
+// ---------------------------- //
+
 .star-post {
 	margin-top: 40px;
 	cursor: pointer;

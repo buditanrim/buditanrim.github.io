@@ -55,3 +55,20 @@ th, td {
 	padding: 12px 16px 12px 8px;
 	border:1px solid $gray-ash;
 }
+
+// Typography
+.mega {
+    font-size: $font-size-mega;   
+}
+.extra-large {
+    font-size: $font-size-extra-large
+}
+.large {
+    font-size: $font-size-large;
+}
+.medium {
+    font-size: $font-size-medium;   
+}
+.small {
+    font-size: $font-size-small;   
+}

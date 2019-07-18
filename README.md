@@ -6,7 +6,7 @@ Here's a quick documentation
 
 ``` bash
 # To start the server
-sudo bundle exec jekyll serve --draft
+sudo bundle exec jekyll serve --draft --livereload
 
 # To start Grunt watch
 grunt watch

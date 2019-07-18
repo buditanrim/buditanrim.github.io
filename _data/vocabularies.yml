@@ -1,28 +1,34 @@
-
 # Topic: Research, Interaction Design, Visual Design, Motion, Method
 
-- word: "Behaviour"
-  definition: ""
-  topic: "Research"
-  type: "noun"
-
 - word: "Brainstorming"
-  definition: "A method to generate ideas to solve problem. Ideally done in a group format."
+  definition: "A method to generate ideas to solve problem. Ideally done in a group of many disciplines and moderated by one facilitator. The goal is to diverge as wide as possible without limitation. Also, it's not the time to critique or judge any idea during this session."
   topic: "Design method"
   type: "noun"
 
 - word: "Hierarchy"
-  definition: "An arrangement of element to implies importance."
+  definition: "An arrangement of element based on the order of the importance, rather than aesthetic. Using some basic technique like contrast, scale, balance, emphasis. Good hierarchy can lead the eye through specific sequence or area."
   example: "The layout needs a stronger sense of hierarchy. The button and the imagery are competing for attention, let's emphasize one of them."
-  topic: "Design method"
+  topic: "Visual design"
   type: "noun"
 
 - word: "Artifacts"
-  definition: "Documents which capture a state of design thinking; may take many forms depends on the project's phase."
+  definition: "Documents which capture a state of design thinking; may take many forms depends on the project's phase. Mockup that you did on Sketch, Google Doc, or Figma. Yeah, those are design artifacts, not the design."
   topic: "Design method"
   type: "noun"
-  example: ""
-  note: "Understanding that the mockup designer make as an artifact can help distinguish design with artifact."
+  note: "Understanding that mockup or prototype is just an artifact can help distinguish design from artifact."
+
+- word: "Design feedback"
+  definition: "a"
+  topic: "Design method"
+  type: "noun"
+  note: "Understanding that mockup or prototype is just an artifact can help distinguish design from artifact."
+  link: "https://yellowstroke.com/2019/03/09/a-framework-to-give-better-design-feedback/"
+  link-text: "Read more: A framework to give better design feedback: Analyze, Discuss, Suggest"
+
+- word: "Interface feedback"
+  definition: "A reaction or "
+  topic: "Design method"
+  type: "noun"
 
 - word: "Information architecture"
   definition: "Structuring information and actions to make them readily understandable for users."
@@ -31,15 +37,14 @@
   example: "Oh gosh, this site's IA is so confusing."
 
 - word: "Quantitative research"
-  definition: "A method to observe. Mostly this research is to answer why and how."
+  definition: ""
   topic: "Research"
   type: "noun"
 
 - word: "Qualitative research"
-  definition: "A method to observe behaviour,  ,and non-numeric data. Mostly this research is to answer why and how questions of human experience."
+  definition: "A method to observe behaviour and non-numeric data. Mostly this research is to answer why and how questions of human experience."
   topic: "Research"
   type: "noun"
-
 
 - word: "Heuristic review"
   definition: "A method to evaluate the current design"
@@ -71,7 +76,7 @@
   topic: "Design system"
 
 - word: "Design Principles"
-  definition: "a"
+  definition: "A widely applicable considerations and rules to help guide you and your team when making an important decisions. It's a reflection of where the organization want to be."
   type: "noun"
   topic: "Design system"
 
@@ -103,8 +108,12 @@
   topic: "Presentation"
 
 - word: "Affordance"
-  definition: "The aspect of an object which suggests how to interact with it; a signal or clue in a particulate context."
-  note: "s"
-  example: ""
+  definition: "The aspect of an object which suggests how to interact with it; a signal or clue in a particulate context. You know, when you look at a glass or a cup you know where your hand should go. That's basically affordance."
+  topic: "Interaction design"
   type: "noun"
-  topic: "Presentation"
+
+- word: "Easing"
+  definition: "The speed of an element "
+  topic: "Animation"
+  type: "noun"
+  

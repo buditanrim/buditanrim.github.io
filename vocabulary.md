@@ -1,7 +1,7 @@
 ---
 layout: vocabularies
 title: Design Vocabulary
-description: Collection of common terms in design world to help everyone in all disciplines who build digital experience to communicate and collaborate better.
+description: Collection of common terms in design world. Explained in a casual way to help everyone in all disciplines who build digital experience to communicate and collaborate better.
 
 image:
  path: /img/seo/author-budi-seo.jpg

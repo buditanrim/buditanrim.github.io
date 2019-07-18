@@ -29,7 +29,6 @@
 					<p class="definition">{{ i.definition }}</p>
 
 					{% if i.example %}
-						<span class="all-caps">Example in context:</span>
 						<p class="example">	"{{ i.example }}"</p>
 					{% endif %}
 					
@@ -41,11 +40,14 @@
 
 					{% if i.note %}
 					<div class="vocab-note">
-						<span class="all-caps">Note:</span>
 						<p>
-							{{ i.note }}
+							<span class="bold">Note:</span> {{ i.note }}
 						</p>
 					</div>
+					{% endif %}
+
+					{% if i.link %}
+					<a href="{{i.link}}">{{i.link-text}}</a>
 					{% endif %}
 					
 				</li>

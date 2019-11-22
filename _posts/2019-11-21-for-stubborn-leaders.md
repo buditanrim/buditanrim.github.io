@@ -10,12 +10,12 @@ tags: mindset, leadership
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/x.jpg
+ path: /img/seo/welcome.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/x.jpg"
+ - "seo/welcome.jpg"
 ---
 
 Many people confuse innovation with ideas.

@@ -49,6 +49,10 @@ If possible, re-arrange those 2.30-3.30 PM meeting. Say, we can re-arrange it to
 ## 5. Prioritize
 At this point, hopefully, you have more time after doing those 4 actions above. Now, ask yourself, if you have more time in this world, what would you want to focus? Pick one or two per week.
 
+It's a balancing act.
+
+Of course, you can't just ignore all the meetings or reduce them.
+
 
 These may look simple but often forgotten because of that.
 Time is precious, be conscious about it. Work hard is good, but work smart is better.

@@ -18,8 +18,8 @@ twitter-seo:
  - "seo/x.jpg"
 ---
 
-Many people confuse innovation with ideas.
-Some believe innovation is the idea popped in their heads during dinner or shower. I mean, those can be profound idea for you, but not necessarily what others want. I’ve witnessed some senior management guy come to the team and request random features out of the blue. When they get asked, “Why should we work on this feature?” They will ignorantly answer, “Just do it my way, I know my shit.”
+Many people confused between ideas with innovation.
+Some believe innovation is the idea popped in their heads during dinner or shower. Then, they become really stubborn with that idea. I mean, those can be profound idea for you, but not necessarily what others want. Throughout my career, I’ve witnessed some senior leaderships came to the team and requested random features out of the blue. When they get asked, “Why should we work on this feature?” They will ignorantly answer, “Just do it my way, I know my shit.”
 
 You know what happens in that story, right?
 If I can simplify, there are 2 possible outcomes from that story.

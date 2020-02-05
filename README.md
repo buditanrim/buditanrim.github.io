@@ -5,6 +5,9 @@ Here's a quick documentation
 ## Setup
 
 ``` bash
+# Change directory
+cd / [drop the folder]
+
 # To start the server
 sudo bundle exec jekyll serve --draft --livereload
 

@@ -15,3 +15,10 @@ sudo bundle exec jekyll serve --draft --livereload
 grunt watch
 
 ```
+## Update periodically
+
+``` bash
+# To update the bundle
+sudo bundle install
+
+```

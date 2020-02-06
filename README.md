@@ -14,11 +14,21 @@ sudo bundle exec jekyll serve --draft --livereload
 # To start Grunt watch
 grunt watch
 
+# Visit local
+http://localhost:4000/
+
 ```
 ## Update periodically
 
 ``` bash
 # To update the bundle
 sudo bundle install
+
+```
+
+## First time 
+``` bash
+# to install jekyll
+gem install jekyll bundler
 
 ```

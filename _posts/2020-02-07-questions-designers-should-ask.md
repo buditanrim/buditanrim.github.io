@@ -20,9 +20,9 @@ twitter-seo:
 
 Since our work as a designer are very much in a very abstract phase. We can't just make conclusion too soon, because when you do so, your work will be converged too quickly and have a few shortcoming in it. Instead of relying with conclusion or solution, I usually rely more on the questions because it allows me to constantly reframe my perspective. Here are a couple of questions that I often use.
 
-**Why and Who**
+### Why and Who
 
-A fundamental question that everyone need to ask. When things still very abstract in the beginning phase. However, you can rely on the Why and Who. That must be the center in your mind to help yourself and your team navigate in the abstractness.
+A fundamental question that everyone need to ask. When things still very abstract in the beginning phase, you can rely on the Why and Who. That must be the center in your mind to help yourself and your team navigate in the abstractness.
 
 Example of questions:
 
@@ -33,7 +33,7 @@ Example of questions:
 
 A result of this first layer of question are often portray the high-level objective, strategy, and rationale. It's a foundation of what you will be working on.
 
-**How might we...**
+### How might we...
 
 Once the why and the who get less blurry in the picture of what you do. The how is often time comes up to my mind as a complementary. This question is trying to frame a specific objective that you have in the "why", but better articulated.
 
@@ -44,7 +44,7 @@ Example of questions:
 
 These questions will frame a problem to a specific point of view based on insights that will prepared your team to start thinking about the "what"
 
-**What if...**
+### What if...
 
 So, presumably you get the why, the who, and the how somewhat clearer. At this point, you want to answer those how might we question and make something a bit more concrete. It's time to wonder and think as high as blue sky with "What if..."
 

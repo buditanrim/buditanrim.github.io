@@ -55,6 +55,8 @@ You see, we answer the "how" with another set of questions and this is great bec
 
 Don't take this as a linear way of thinking. Sure, Why and Who often come first in mind. But, you must be able to juggle around the layers throughout the progress you make. Gather information as you go and reframe your perspective if needed.
 
+So, what question do you want to ask next?
+
 I'm happy to have a conversation! Hit me on [Twitter][twitter]
 
 [twitter]: https://twitter.com/buditanrim

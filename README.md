@@ -28,7 +28,12 @@ sudo bundle install
 
 ## First time 
 ``` bash
-# to install jekyll
+# Important when OS get updated or new computer
+# to install xcode (di root)
+xcode-select --install
+
+# to install bundler and jekyll (di folder)
+gem install bundler
 gem install jekyll bundler
 
 ```

@@ -48,7 +48,7 @@ Last month, In Bukalapak, we started to encourage people to consider workshop fo
 > <cite>Data Scientist</cite>
 {: .interview}
 
-> "I wouldn't imagine if we can come up with all of these ideas. I'm excited for keep doing this in my next project"
+> "I wouldn't imagine if we can come up with all of these ideas. I'm excited to keep doing this in next projects"
 > <cite>Researcher</cite>
 {: .interview}
 

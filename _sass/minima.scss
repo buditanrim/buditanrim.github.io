@@ -276,6 +276,7 @@ li { line-height: 1.8; }
 		}
 	}
 }
+
 .main-wrap {
 	padding: 0 20px 60px;
 	margin-left: auto;
@@ -562,10 +563,25 @@ li { line-height: 1.8; }
 		line-height: 1.65;
 		@extend %content-max-width;
 		margin-top: -16px;
+		background: black;
 	}
 	ul > li > ul {
 		margin-bottom: 8px;
 		margin-top: 0px
+	}
+	ul.keypoints {
+		background: #ffdb00;
+		line-height: 1.65;
+		padding-left: 40px;
+		margin-top: -16px;
+		padding-bottom: 32px;
+		padding-top: 20px;
+		padding-right: 20px;
+		border-radius: 8px;
+
+		&li {
+			list-style: square;
+		}
 	}
 	cite {
 		&:before {

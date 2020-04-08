@@ -21,8 +21,8 @@ http://localhost:4000/
 ## Update periodically
 
 ``` bash
-# To update the bundle
-sudo bundle install
+# To update the dependencies
+sudo bundle update
 
 ```
 

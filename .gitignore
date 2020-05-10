@@ -3,4 +3,6 @@
 .DS_Store
 /node_modules
 _drafts
+_site
+.jekyll-cache
 

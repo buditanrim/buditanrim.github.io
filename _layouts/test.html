@@ -1,0 +1,39 @@
+{% include header.html %}
+
+<div class="post l--grid m-t-05 m-b-07 p-b-04">
+	<div class="l--grid-narrow">
+	{% for post in site.posts %}
+		{% assign currentyear = post.date | date: "%Y" %}
+			{% if currentyear != date %}
+			<h3 class="t--heading-04 p-b-01 p-t-04">{{ currentyear }}</h3>
+			{% assign date = currentyear %}
+		{% endif %}
+		<div >
+			<a href="{{ post.url }}" class="post-row l--flex p-b-01 p-t-01">
+				<span class="post--date t--mono-02 m-r-02 l--v-m clean-link">{{post.date | date: '%b %d'}}</span>
+				<span class="post--title t--body-03 t--color-primary l--v-m neutral-link">{{post.title}}</span>
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="l--grid-side block-red">a</div>
+</div>
+
+{% include footer-bar.html %}
+
+<!-- <div class="l--grid">
+	<div class="block-red l--grid-full"></div>
+	<div class="block-red l--grid-wide">
+		<p class="t--body-01">body-01</p>
+		<p class="t--body-02">body-02</p>
+		<p class="t--heading-01">Heading 1</p>
+		<p class="t--heading-02">Heading 2</p>
+		<p class="t--heading-03">Heading 3</p>
+		<p class="t--heading-04">Heading 4</p>
+	</div>
+	<div class="block-red l--grid-narrow"></div>
+	<div class="block-red l--grid-side"></div>
+</div> -->
+
+</body>
+</html>

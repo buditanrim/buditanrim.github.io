@@ -1,16 +1,29 @@
 {% include header.html %}
+<div id="post-inner" class="l--grid m-t-05 m-b-07 p-b-l">
+	<div class="l--grid-narrow m-t-l p-r-xl">
+		{% if page.punchline %}
+		<h1 class="post-inner--title t--title-01">{{page.title}}</h1>
+		<p class="post-inner--subtitle t--body-03 t--color-secondary m-t-s m-b-s">{{page.subtitle}}</p>
+		{% else %}
+		<h1 class="post-inner--title t--title-01 m-b-m">{{page.title}}</h1>
+		{% endif %}
+		<p class="t--body-01 m-b-xl">{{page.date | date:'%b %d, %Y'}}</p>
+	</div>
+	<div class="post-inner--narrow l--grid-narrow p-r-xl">
+		{{ content }}
+	</div>
+	<div class="l--grid-side p-l-04">
+		Post index (WIP)
+	</div>
+</div>
 
-<body>
+{% include footer-bar.html %}
+	{% include script.html %}
+</body>
+</html>
 
-	<div id="page">
-		{% include sidebar.html %}
 
-		<div id="main" role="main">
-			<section class="main-wrap single-post-inner">
-				<div class="single-post-meta">
-					<p><span>{{page.date | date:'%b %d, %Y'}}</span> <a href="/author">{{page.author}}</a></p>
-				</div>
-			{% if page.punchline %}
+<!-- {% if page.punchline %}
 				<h2 class="single-post-title">
 					{{page.title}}
 				</h2>
@@ -21,47 +34,4 @@
 				<h2 class="single-post-title yellowstroke">
 					{{page.title}}
 				</h2>
-			{% endif %}
-				
-				<div class="single-post-content">
-					{{ content }}
-
-					{% include share-post.html %}
-					<applause-button class="star-post" multiclap="true" color="#000000" style="width: 58px; height: 58px;"/>
-
-				</div>
-				
-
-				{% if page.previous.url %}
-				<div class="single-next-post">
-					<p class="next">Next:</p>
-					<h2><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
-					<p class="date">{{page.previous.date | date:'%b %d, %Y'}}</p>
-				</div>
-					
-				{% endif %}
-				
-				<!-- {% if page.next.url %}
-				<div class="single-next-post">
-					<p class="next">Next</p>
-					<h2><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
-					<p class="date">{{page.next.date | date:'%b %d, %Y'}}</p>
-				</div>
-				
-				{% elsif page.previous.url %}
-				<div class="single-next-post">
-					<p class="next">You're reading the latest post. If you'd like, you can check the previous post:</p>
-					<h2><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
-					<p class="date">{{page.previous.date | date:'%b %d, %Y'}}</p>
-				</div>
-					
-				{% endif %} -->
-				
-			</section>
-		</div>
-		{% include navigation.html %}
-	</div>
-	{% include footer.html %}
-	{% include script.html %}
-</body>
-</html>
+			{% endif %} -->

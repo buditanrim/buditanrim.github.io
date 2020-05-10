@@ -1,0 +1,19 @@
+// reset button
+button {
+	border: none;
+	outline: none;
+	padding: 0;
+}
+
+// Token
+.btn-primary {
+	padding: 8px 24px;
+	line-height: inherit;
+	background-color: var(--c--theme-primary-01);
+	border-radius: var(--l--border-radius-02);
+
+	&:hover {
+		background-color: var(--c--theme-hover-primary-01);
+		color: var(--c--theme-gray-01);
+	}
+}

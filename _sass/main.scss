@@ -18,15 +18,27 @@ body, html {
 	body, html { font-size: 16px; }
 }
 
-// Page blog index
+// Blog index
 .post {
-	&--date {
-		min-width: 58px;
+	&-row {
+		&--date {
+			min-width: 58px;
+			line-height: 28px;
+		}
 	}
 }
 
-.post-inner--narrow {
-	padding-right: var(--l--space-xl);
+// Blog inner
+.post-inner--heading {
+	border-bottom: 1px solid var(--c--theme-gray-05)
+}
+
+.post-inner--heading,
+.post-inner--body {
+	padding-right: 80px;
+}
+
+.post-inner--body {
 	p, ul, li {
 		margin-bottom: var(--l--space-m);
 		color: var(--c--theme-gray-02);
@@ -47,6 +59,7 @@ body, html {
 	}
 	ul, ol {
 		margin-left: var(--l--space-16);
+		margin-top: -24px;
 		li {
 			line-height: 1.8;
 			margin-bottom: 0;

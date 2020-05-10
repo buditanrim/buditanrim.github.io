@@ -7,12 +7,7 @@
 			<h3 class="t--heading-04 p-b-01 p-t-04">{{ currentyear }}</h3>
 			{% assign date = currentyear %}
 		{% endif %}
-		<div>
-			<a href="{{ post.url }}" class="post-row l--flex p-b-01 p-t-01">
-				<span class="post--date t--mono-02 m-r-02 l--v-m clean-link">{{post.date | date: '%b %d'}}</span>
-				<span class="post--title t--body-03 t--color-primary l--v-m neutral-link">{{post.title}}</span>
-			</a>
-		</div>
+			{% include post-loop.html %}
 		{% endfor %}
 	</div>
 </div>

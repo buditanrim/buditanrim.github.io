@@ -2,8 +2,8 @@
 layout: post
 title: "Workshops can be more efficient than meetings"
 punchline: true
-description: "Avoid the endless discussion and get things done with workshops"
-subtitle: "Avoid the endless discussion and get things done with workshops"
+description: "Avoid endless discussion and get things done with workshops"
+subtitle: "Avoid endless discussion and get things done with workshops"
 date: 2020-02-13 -0400
 categories: craft
 tags: workshops, meetings

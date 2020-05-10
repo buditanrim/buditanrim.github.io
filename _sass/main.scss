@@ -3,40 +3,53 @@
 @import "global/grid-layout";
 @import "global/spacing";
 @import "global/typography";
+@import "global/image";
 @import "components/navigationbar";
 @import "components/button";
 
 body, html {
-  font-size: 16px; // for rem
+  font-size: 18px; // for rem
+  line-height: 1.5;
   background: var(--c--theme-bg);
   font-family: var(--t--family-sans-serif);
 }
 
-// Page blog index
+@media (max-width: 600px) {
+	body, html { font-size: 16px; }
+}
+
+// Blog index
 .post {
-	&--date {
-		min-width: 58px;
+	&-row {
+		&--date {
+			min-width: 58px;
+			line-height: 28px;
+		}
 	}
 }
 
-.post-inner--narrow {
+// Blog inner
+.post-inner--heading {
+	border-bottom: 1px solid var(--c--theme-gray-05)
+}
+
+.post-inner--heading,
+.post-inner--body {
+	padding-right: 80px;
+}
+
+.post-inner--body {
 	p, ul, li {
-		font-size: var(--t--size-05);
-		line-height: var(--t--leading-e-05);
 		margin-bottom: var(--l--space-m);
 		color: var(--c--theme-gray-02);
 	}
 	h1 {
 		padding-top: var(--l--space-l);
 	}
-	h1, 
-	div,
-	h4,
-	h5 {
+	h1, div, h4, h5 {
 		margin-bottom: var(--l--space-s);
 	}
-	h2,
-	h3 {
+	h2, h3 {
 		margin-bottom: var(--l--space-08);
 	}
 	.caption {
@@ -44,13 +57,15 @@ body, html {
 		display: block;
 		color: var(--c--theme-gray-03);
 	}
-	ul {
+	ul, ol {
 		margin-left: var(--l--space-16);
+		margin-top: -24px;
 		li {
 			line-height: 1.8;
 			margin-bottom: 0;
 		}
 	}
+	//blockquote
 	blockquote {
 		margin-left: 0; // reset webkit preset
 		p {
@@ -74,6 +89,48 @@ body, html {
 		    	    content: "\2014";
 		    }
 	    }
+	}
+
+	// footnote
+	.footnote-header {
+		margin-bottom: var(--l--space-08);
+	}
+	
+	//share
+	.social-share-wrapper {
+		padding-top: var(--l--space-xl);
+	}
+	.social-share {
+		display: inline-block;
+		margin-right: 12px;
+		width: 24px;
+		height: auto;
+		border-bottom: none;
+		vertical-align: middle;
+
+		&:last-child {
+			margin-right: 0;
+		}
+		&:hover {
+			background: none;
+		}
+	}
+	a.social-share.twitter { width: 24px; }
+	a.social-share.facebook { width: 20px; }
+	.social-text {
+		margin-right: 20px;
+	}
+}
+
+@media (max-width: 880px) {
+	.post-inner--narrow {
+		padding-right: 0;
+		div { 
+			max-width: 100%; 
+			img {
+				max-width: 100%; 				
+			}
+		}
 	}
 
 }

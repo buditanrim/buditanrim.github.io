@@ -7,8 +7,8 @@
 	<div class="project--index l--grid-wide l--flex-2-col block-red">
 	{% assign project_by_year = site.projects | sort: 'order' | reverse %}
 	{% for project in project_by_year %}
-		<div class="project--index-row m-t-04 m-b-03">
-			<img src="{{ project.image.path }}" alt="{{ project.image.alt }}" class="l--full-width m-b-03">
+		<div class="project--index-row m-t-04 m-b-02">
+			<img src="{{ project.image.path }}" alt="{{ project.image.alt }}" class="l--full-width">
 			<h2>{{ project.title }}</h2>
 			<p class="project--index-row-description t--body-02 m-t-01">{{ project.description }}</p>
 			<p class="t--body-01 m-t-01">{{ project.client }} · {{ project.year }}</p>

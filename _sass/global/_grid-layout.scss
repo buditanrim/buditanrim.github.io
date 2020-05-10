@@ -46,7 +46,7 @@
 .l--grid {
 	display: grid;
 	grid-template-columns: 
-	[full-start] minmax(1rem, 1fr) // margin-left for mobile
+	[full-start] minmax(var(--l--space-l), 1fr) // margin-left for mobile
 	[wide-start narrow-start] minmax(var(--l--grid-narrow-width--min), var(--l--grid-narrow-width--max)) // $narrow-width = width of narrow only
 	[narrow-end side-start] minmax(var(--l--grid-side-width--min), var(--l--grid-side-width--max)) // $side-width = width of sidebar only // 
 	[side-end wide-end] minmax(1rem, 1fr) // margin-right for mobile

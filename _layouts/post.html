@@ -9,8 +9,18 @@
 		{% endif %}
 		<p class="t--body-01 m-b-xl">{{page.date | date:'%b %d, %Y'}}</p>
 	</div>
-	<div class="post-inner--narrow l--grid-narrow p-r-xl">
+	<div class="post-inner--narrow l--grid-narrow">
 		{{ content }}
+		{% include share-post.html %}
+
+		{% if page.previous.url %}
+		<div class="m-t-xl b--top c--border-light p-t-l">
+			<p class="m-b-02">Read next post</p>
+			<a href="{{page.previous.url}}" class="t--heading-01">{{page.previous.title}}</a>
+			<p class="t--mono-02">{{page.previous.date | date:'%b %d, %Y'}}</p>
+		</div>
+			
+		{% endif %}
 	</div>
 	<div class="l--grid-side p-l-04">
 		Post index (WIP)
@@ -21,17 +31,3 @@
 	{% include script.html %}
 </body>
 </html>
-
-
-<!-- {% if page.punchline %}
-				<h2 class="single-post-title">
-					{{page.title}}
-				</h2>
-				<p class="single-post-subtitle yellowstroke">
-					{{page.subtitle}}
-				</p>
-			{% else %}
-				<h2 class="single-post-title yellowstroke">
-					{{page.title}}
-				</h2>
-			{% endif %} -->

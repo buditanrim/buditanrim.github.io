@@ -1,0 +1,105 @@
+// Variable for layout
+:root {
+	--l--grid-narrow-width--max: 720px;
+	--l--grid-narrow-width--min: 620px;
+	--l--grid-side-width--max: 280px;
+	--l--grid-side-width--min: 220px;
+
+	--l--border-radius-01: 2px;
+	--l--border-radius-02: 4px;
+}
+
+// Utilities
+.l--v-m { vertical-align: middle; }
+.l--inline { display: inline-block; }
+.l--reverse-direction { grid-row-start: 1; } // assign to child, it will appear on the top row on mobile
+.l--full-width { width: 100%; }
+
+.l--flex { 
+	display: flex;
+	&-sb { justify-content: space-between; } 
+	&-sa { justify-content: space-around; } 
+	&-2-col {
+		display: flex;
+		flex-wrap: wrap;
+		& > * { 
+			flex: 0 45%; 
+		}
+		& > *:nth-child(odd) {
+			margin-right: 1rem;
+		}
+		& > *:nth-child(even) {
+			margin-left: 1rem;
+		}
+	}
+	&-auto-responsive, &-auto { flex: 1; }
+	&-align-baseline { align-items: baseline; }
+	&-inline,
+	&-auto { 
+		&:not(:first-child) {
+			margin-left: 1.5rem;
+		}
+	}
+}
+
+// Grid for 880px+
+.l--grid {
+	display: grid;
+	grid-template-columns: 
+	[full-start] minmax(1rem, 1fr) // margin-left for mobile
+	[wide-start narrow-start] minmax(var(--l--grid-narrow-width--min), var(--l--grid-narrow-width--max)) // $narrow-width = width of narrow only
+	[narrow-end side-start] minmax(var(--l--grid-side-width--min), var(--l--grid-side-width--max)) // $side-width = width of sidebar only // 
+	[side-end wide-end] minmax(1rem, 1fr) // margin-right for mobile
+	[full-end]; // total everything and we get the full-width in px ;
+
+	// Grid column name
+	&-side {
+		grid-column: side;
+	}
+	&-narrow {
+		grid-column: narrow;
+	}
+	&-wide {
+		grid-column: wide;
+	}
+	&-full {
+		grid-column: full
+	}
+}
+
+// Grid for 880px or lower
+@media (max-width: 880px) {
+	.l--grid {
+		grid-template-columns: [full-start wide-start narrow-start side-start] minmax(1rem,1fr) [side-end narrow-end wide-end full-end];
+		padding: 0 1rem;
+	}
+	.l--flex {
+		&-auto-responsive { flex-flow: column; } // to make this responsive
+		&-auto { 
+			&:not(:first-child) {
+				margin-left: 0;
+				margin-top: 1.5rem
+			}
+		}
+		&-2-col {
+			display: flex;
+			flex-wrap: wrap;
+			& > * { 
+				flex: 0 100%;
+				margin-top: 1rem; 
+			}
+			& > *:nth-child(odd) {
+				margin-right: 0;
+			}
+			& > *:nth-child(even) {
+				margin-left: 0;
+			}
+		}
+	}
+}
+
+.block-red { 
+	background: transparent;
+}
+
+// Border utilities

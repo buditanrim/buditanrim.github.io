@@ -1,0 +1,23 @@
+<header class="navigationBar l--grid" id="navigationBar">
+	<div class="l--grid-wide l--flex l--flex-sb l--flex-align-baseline p-t-02">
+		<div class="logo">
+			<a href="{{site.url}}" >
+				Budi Tanrim
+			</a>
+		</div>
+		<div class="menu">
+			<ul class="main-menu">
+				<!-- loop: _data / menu.yml -->
+				{% assign sorted = site.data.menu | sort: 'order' %}
+				{% for menu in sorted %}
+				<li>
+					<a href="{{menu.link}}" {% if current[1] == 'author' %}class="current"{% endif %} {% if menu.target %}target="_blank"{% endif %}> {{ menu.word }} </a>
+				</li>
+				{% endfor %}
+				<a href="http://eepurl.com/cuGqAP" target="_blank" class="btn-primary">Subscribe</a>
+				<!-- loop end -->
+			</ul>
+		</div>
+		
+	</div>
+</header>

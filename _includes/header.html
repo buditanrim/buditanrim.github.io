@@ -4,8 +4,8 @@
 	<meta charset="UTF-8">
 	<title>{{page.title}} - Yellowstroke.com</title>
 	<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
-	<link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
-	<link href="https://fonts.googleapis.com/css?family=Noticia+Text:400,700|Roboto:400,700" rel="stylesheet">
+	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+	<link href="https://fonts.googleapis.com/css2?family=Noticia+Text:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Apple icon -->
@@ -39,3 +39,6 @@
 	<script src="/js/applause-button.js"></script>
 	{% endif %}
 </head>
+<body class="c--theme-light">
+<!-- Navigation Bar Component -->
+{% include navigationbar.html %} 

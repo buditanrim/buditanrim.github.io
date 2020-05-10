@@ -1,0 +1,36 @@
+.navigationBar {
+  background-color: var(--c--theme-bg);
+  
+  .nav--container {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .logo {
+    img {
+      width: 140px;
+      height: 36px;
+    }
+  }
+  .main-menu {
+    // adjust the flex
+    display: flex;
+    justify-content: flex-start;
+
+    li {
+      align-items: baseline;
+      list-style-type: none;
+      &:first-child { margin-left: -12px; }
+    }
+    a {
+      padding: 24px 12px;
+      line-height: 0px;
+      display: block;
+    }
+  }
+
+  
+}

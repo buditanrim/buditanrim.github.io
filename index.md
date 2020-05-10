@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post-index
 title: Budi Tanrim's blog
 description: Yellowstroke is Budi Tanrim's personal blog, where he jotted down his thoughts, learnings, and experiments about design.
 

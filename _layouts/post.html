@@ -3,7 +3,7 @@
 	<div class="post-inner--heading l--grid-narrow m-t-xl p-t-l m-b-xl">
 		{% if page.punchline %}
 			<h1 class="post-inner--title t--title-01">{{page.title}}</h1>
-			<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-s m-b-l p-r-l">{{page.subtitle}}</p>
+			<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-l p-r-l">{{page.subtitle}}</p>
 		{% else %}
 			<h1 class="post-inner--title t--title-01 m-b-m">{{page.title}}</h1>
 		{% endif %}
@@ -17,7 +17,8 @@
 
 		<div class="m-t-xl b--top c--border-light p-t-l">
 			<p class="m-b-02">Other recent posts</p>
-			{% for post in site.posts limit: 5 %}
+			{% assign posts = site.posts | where_exp:"post" ,"post.url != page.url" %}
+			{% for post in posts limit: 5 %}
 				{% include post-loop.html %}
 			{% endfor %}
 		</div>

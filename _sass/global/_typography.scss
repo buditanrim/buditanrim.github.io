@@ -1,18 +1,18 @@
 // Typography spectrum
 :root {
 	--t--size-base: 20px;
-	--t--size-01: 12px;
-	--t--size-02: 14px;
-	--t--size-03: 16px;
-	--t--size-04: 18px;
-	--t--size-05: 20px;
-	--t--size-06: 24px;
-	--t--size-07: 28px;
-	--t--size-08: 32px;
-	--t--size-09: 44px;
-	--t--size-10: 60px;
-	--t--size-11: 72px;
-	--t--size-12: 92px;
+	--t--size-01: 0.67rem;
+	--t--size-02: 0.78rem;
+	--t--size-03: 0.89rem;
+	--t--size-04: 1rem; // base = 18
+	--t--size-05: 1.11rem;
+	--t--size-06: 1.33rem;
+	--t--size-07: 1.55rem;
+	--t--size-08: 1.78rem;
+	--t--size-09: 2.44rem;
+	--t--size-10: 3.33rem;
+	--t--size-11: 4rem;
+	--t--size-12: 5.11rem;
 	// p = productive
 	--t--leading-p-01: calc(var(--t--size-01) + 4px); // 16
 	--t--leading-p-02: calc(var(--t--size-02) + 4px); // 18

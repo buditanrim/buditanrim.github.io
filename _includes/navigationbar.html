@@ -1,11 +1,11 @@
 <header class="navigationBar l--grid" id="navigationBar">
-	<div class="l--grid-wide l--flex l--flex-sb l--flex-align-baseline p-t-04">
-		<div class="logo">
+	<div class="nav l--grid-wide l--flex l--flex-auto-responsive l--flex-sb l--flex-align-baseline p-t-04">
+		<div class="nav--left logo">
 			<a href="{{site.url}}" >
 				Budi Tanrim
 			</a>
 		</div>
-		<div class="menu">
+		<div class="nav--right menu">
 			<ul class="main-menu">
 				<!-- loop: _data / menu.yml -->
 				{% assign sorted = site.data.menu | sort: 'order' %}

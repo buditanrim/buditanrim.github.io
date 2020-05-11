@@ -1,14 +1,6 @@
 .navigationBar {
   background-color: var(--c--theme-bg);
-  
-  .nav--container {
-    display: flex; 
-    align-items: center;
-    justify-content: space-between;
-    width: 80vw;
-    margin-left: auto;
-    margin-right: auto;
-  }
+
   .logo {
     img {
       width: 140px;
@@ -31,6 +23,25 @@
       display: block;
     }
   }
-
   
+}
+
+.nav {
+  &--left {
+
+  }
+  &--right {
+
+  }
+}
+
+@media (max-width: 800px) {
+.nav {
+  &--left {
+    margin-bottom: var(--l--space-08);
+  }
+  &--right {
+    
+  }
+}
 }

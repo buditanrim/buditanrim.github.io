@@ -57,6 +57,12 @@ body, html {
 		display: block;
 		color: var(--c--theme-gray-03);
 	}
+	hr {
+		margin-left: 0px;
+		margin-bottom: var(--l--space-m);
+		margin-top: var(--l--space-l);
+		border-top: 1px solid var(--c--theme-gray-06);
+	}
 	ul, ol {
 		margin-left: var(--l--space-16);
 		margin-top: -24px;
@@ -89,11 +95,6 @@ body, html {
 		    	    content: "\2014";
 		    }
 	    }
-	}
-
-	// footnote
-	.footnote-header {
-		margin-bottom: var(--l--space-08);
 	}
 	
 	//share
@@ -132,7 +133,10 @@ body, html {
 			}
 		}
 	}
-
+	.post-inner--heading,
+	.post-inner--body {
+		padding-right: 0px;
+	}
 }
 
 

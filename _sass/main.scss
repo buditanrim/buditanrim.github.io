@@ -23,6 +23,14 @@ body, html {
 	body, html { font-size: 16px; }
 }
 
+//newsletter
+.newsletter--input {
+	padding: 12px 16px;
+	display: block;
+	width: 95%;
+	box-sizing: border-box; // to fix the width goes beyond the parent
+}
+
 // Blog index
 .post {
 	&-row {
@@ -141,6 +149,10 @@ body, html {
 	.post-inner--heading,
 	.post-inner--body {
 		padding-right: 0px;
+	}
+	.newsletter--input {
+		padding: 12px 16px;
+		width: 100%;
 	}
 }
 

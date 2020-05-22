@@ -42,6 +42,13 @@
 	}
 }
 
+.l--flex-twothirds {
+    flex: 0 1 66.67%;
+}
+.l--flex-onethird {
+    flex: 0 1 33.33%;
+ }
+
 // Grid for 880px+
 .l--grid {
 	display: grid;

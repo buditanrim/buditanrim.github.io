@@ -3,6 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Budi Tanrim" # the name of your site, e.g. ACME Corp.
 twitter_username: buditanrim
 permalink: /:year/:title/
+repository: buditanrim/buditanrim.github.io
 
 #SEO
 twitter:
@@ -12,3 +13,8 @@ twitter:
 collections: 
   projects:
     output: true
+
+# Build settings
+markdown: kramdown
+
+exclude: ['_site']

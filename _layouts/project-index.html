@@ -1,10 +1,10 @@
 {% include header.html %}
 <div class="project l--grid m-t-07 m-b-07 p-b-05">
-	<div class="l--grid-wide m-b-06 block-red">
+	<div class="l--grid-wide m-b-06">
 		<h1 class="t--title-01 m-b-03">Career highlights</h1>
 		<p class="t--body-02">The case study for each project will be added soon.</p>
 	</div>
-	<div class="project--index l--grid-wide l--flex-2-col block-red">
+	<div class="project--index l--grid-wide l--flex-2-col">
 	{% assign project_by_year = site.projects | sort: 'order' | reverse %}
 	{% for project in project_by_year %}
 		<div class="project--index-row m-t-04 m-b-02">

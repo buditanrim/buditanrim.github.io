@@ -11,39 +11,7 @@
 		{% endfor %}
 	</div>
 </div>
-
-<div class="newsletter-block l--grid m-b-07">
-	<div class="l--grid-narrow">
-		<img srcset="/img/asset/illustration-newsletter.png 768w, /img/asset/illustration-newsletter-2x.png 1440w" sizes="(min-width: 1024px) 400px, (min-width: 320px) 300px" src="/img/asset/illustration-newsletter.png" alt="subscribe to Yellowstroke newsletter" class="m-b-01 m-t-03">
-		<p class="t--heading-01 m-b-02">Subscribe to the newsletter</p>
-		<p class="t--body-02 m-b-02">To get the new post earlier and join the discussion.</p>
-		
-		<!-- Begin Mailchimp Signup Form -->
-		<div id="mc_embed_signup">
-		<form action="https://buditanrim.us4.list-manage.com/subscribe/post?u=f82dd94137a54f15acad8bdfe&amp;id=3f63e7c5f4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-		    <div id="mc_embed_signup_scroll" class="l--flex l--flex-auto-responsive newsletter">
-				<div class="mc-field-group l--flex-onethird">
-					<label for="mce-EMAIL" class="t--body-01">Email Address<span class="asterisk">*</span></label>
-					<input type="email" value="" name="EMAIL" class="required email newsletter--input" id="mce-EMAIL">
-				</div>
-				<div class="mc-field-group l--flex-onethird">
-					<label for="mce-FNAME" class="t--body-01">First Name  <span class="asterisk">*</span></label>
-					<input type="text" value="" name="FNAME" class="required newsletter--input" id="mce-FNAME">
-				</div>
-				<div id="mce-responses" class="clear">
-					<div class="response" id="mce-error-response" style="display:none"></div>
-					<div class="response" id="mce-success-response" style="display:none"></div>
-				</div>
-			    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f82dd94137a54f15acad8bdfe_3f63e7c5f4" tabindex="-1" value=""></div>
-			    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn-primary l--flex-onethird btn-newsletter"></div>
-		    </div>
-		</form>
-		</div>
-
-		<!--End mc_embed_signup-->
-
-	</div>
-</div>
+	{% include newsletter.html %}
 	{% include footer-bar.html %}
 	{% include script.html %}
 </body>

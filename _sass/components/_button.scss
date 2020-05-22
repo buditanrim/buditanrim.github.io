@@ -5,15 +5,28 @@ button {
 	padding: 0;
 }
 
-// Component - Button primary
-.btn-primary {
-	padding: 8px 24px;
-	line-height: 42px;
-	background-color: var(--c--theme-primary-01);
-	border-radius: var(--l--border-radius-02);
+.btn-newsletter {
+	width: 100%;
+    padding: 14px 16px;
+    margin-top: 27px;
+}
 
-	&:hover {
-		background-color: var(--c--theme-hover-primary-01);
-		color: var(--c--theme-gray-01);
+
+// Component - Button primary
+.btn {
+	&-large {
+		padding: 8px 24px;
+		line-height: 42px;
+	}
+
+	&-primary {
+		background-color: var(--c--theme-primary-01);
+		border-radius: var(--l--border-radius-02);
+		border: none;
+
+		&:hover {
+			background-color: var(--c--theme-hover-primary-01);
+			color: var(--c--theme-gray-01);
+		}
 	}
 }

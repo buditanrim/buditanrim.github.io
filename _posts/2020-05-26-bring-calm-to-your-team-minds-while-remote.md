@@ -30,9 +30,9 @@ url-2="/img/post/2020/05/meditation-buditanrim-2x.jpg"
 alt="buditanrim meditation illustration" 
 class="small no-caption illustration" %}
 
-As the remote working becomes a new normal, I need to be mindful of how we communicate. If I keep throwing questions or chat every few minutes here and there. I don't set a proper environment for my team to get things done and produce outcomes. For you who struggle with the same situation, I have experimented with a few things and here are a few things that work so far:
+As the remote working becomes a new normal, I need to be mindful of how we communicate. If I keep throwing questions or chat every few minutes here and there. I don't set a proper environment for my team to get things done and produce outcomes. If you feel the same, you can try a few things I have experimented:
 
-**Understand online meeting is totally different from face-to-face meeting**. It requires more cognitive load because it forces us to focus more intently on the conversation. You're no longer look at the sign from body language, you're looking to the mute symbol and voice from your headphone. Just know that is different. So what you can do about this?
+**Aware online meeting is totally different from face-to-face meeting**. It requires more cognitive load because it forces us to focus more intently on the conversation. You're no longer look at the sign from body language, you're looking to the mute symbol and voice from your headphone. Just know that is different. So what you can do about this?
 
 - Commit to 3-5 minutes break in between meetings
 - When possible change the meeting into an email discussion

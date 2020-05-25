@@ -8,19 +8,19 @@
 @import "components/button";
 
 body, html {
-  font-size: 20px; // for rem
+  font-size: 22px; // for rem
   line-height: 1.55;
   background: var(--c--theme-bg);
-  font-family: var(--t--family-sans-serif);
+  font-family: var(--t--family-serif);
 }
 
 @media (max-width: 1680px) {
-	body, html { font-size: 18px; }
+	body, html { font-size: 20px; }
 	
 }
 
 @media (max-width: 600px) {
-	body, html { font-size: 16px; }
+	body, html { font-size: 18px; }
 }
 
 //newsletter

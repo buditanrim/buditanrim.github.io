@@ -18,7 +18,7 @@ twitter-seo:
  - "seo/bring-calm-to-your-team.jpg"
 ---
 
-It was 3 PM and I just need to get through my last meeting. I feel nauseous as I jump to other meetings. I juggled between Slack channels while having a discussion with my team. After the meeting, another question suddenly pops as I wrote it on Slack. My head is about to blow up.
+It was 3 PM and I just need to get through my last meeting. I feel nauseous as I jump to the other meeting. I juggled between Slack channels while having a discussion with my team. After the meeting, another question suddenly pops as I wrote it on Slack. My head is about to blow up.
 
 I was overwhelmed and so does my team.
 

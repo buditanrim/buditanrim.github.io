@@ -18,11 +18,11 @@ twitter-seo:
  - "seo/bring-calm-to-your-team.jpg"
 ---
 
-It was 3 PM and I just need to get through my last meeting. I feel nauseous as I jump to other meetings. I juggled between Slack channels while having a discussion with my team. After the meeting, another question suddenly pops as I wrote it on Slack.
+It was 3 PM and I just need to get through my last meeting. I feel nauseous as I jump to other meetings. I juggled between Slack channels while having a discussion with my team. After the meeting, another question suddenly pops as I wrote it on Slack. My head is about to blow up.
 
-I was overwhelmed and so do my team.
+I was overwhelmed and so does my team.
 
-I asked myself, "Is it really that much? I usually can do this with no problem." Then, I realized my mind was too disorganized.
+I asked myself, "Is this too much? Or my mind is too disorganized?"
 
 {% include img-caption.html 
 url="/img/post/2020/05/meditation-buditanrim.jpg" 
@@ -30,7 +30,7 @@ url-2="/img/post/2020/05/meditation-buditanrim-2x.jpg"
 alt="buditanrim meditation illustration" 
 class="small no-caption illustration" %}
 
-As the remote working becomes a new normal, I need to be mindful of how we communicate. If I keep throwing questions or chat every few minutes here and there. I don't set a proper environment for my team to get things done and produce outcomes. If you feel the same, you can try a few things I have experimented:
+As the remote working becomes a new normal, I realized I have to be mindful of how we communicate. If I keep throwing questions or chat every few minutes here and there. I don't set a proper environment for my team to get things done and produce outcomes. If you feel the same, you can try a few things I have experimented:
 
 **Aware online meeting is totally different from face-to-face meeting**. It requires more cognitive load because it forces us to focus more intently on the conversation. We're no longer look at the sign from body language, we're looking to the mute symbol and voice from your headphone. This is known as [zoom fatigue][zoom-fatigue] Just know that is different. So what we can do about this?
 

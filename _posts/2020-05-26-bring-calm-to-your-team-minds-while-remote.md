@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leaders, bring calm to your remote team"
+title: "Bring calm to your remote team"
 punchline: true
 description: "Are we really busy? Or our mind is too disorganized?"
 subtitle: "Are we really busy? Or our mind is too disorganized?"

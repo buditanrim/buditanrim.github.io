@@ -74,6 +74,11 @@
 	}
 }
 
+.ta-r { text-align: right; }
+.ta-l { text-align: left; }
+.block {display: block;}
+
+
 // Grid for 880px or lower
 @media (max-width: 880px) {
 	.l--grid {
@@ -110,3 +115,5 @@
 }
 
 // Border utilities
+.border {border: 1px solid var(--c--theme-gray-06);}
+.border-medium {border: 1px solid var(--c--theme-gray-05);}

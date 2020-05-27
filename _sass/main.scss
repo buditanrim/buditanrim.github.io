@@ -6,6 +6,7 @@
 @import "global/image";
 @import "components/navigationbar";
 @import "components/button";
+@import "components/progressbar";
 
 body, html {
   font-size: 22px; // for rem
@@ -16,11 +17,10 @@ body, html {
 
 @media (max-width: 1680px) {
 	body, html { font-size: 20px; }
-	
 }
 
 @media (max-width: 600px) {
-	body, html { font-size: 18px; }
+	body, html { font-size: 17px; }
 }
 
 //newsletter

@@ -128,3 +128,7 @@
 .p-r-06 { padding-right: var(--l--space-48); }
 .p-r-07 { padding-right: var(--l--space-60); }
 .p-r-auto {padding-right: auto;}
+
+@media (max-width: 880px) {
+    .mobile-p-l-0 { padding-left: 0; }
+}

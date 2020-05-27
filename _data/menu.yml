@@ -8,5 +8,6 @@
   order: 2
 
 - word: "About"
+  link: /about
   order: 3
 

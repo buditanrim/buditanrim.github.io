@@ -1,7 +1,7 @@
 ---
 layout: post-index
 title: Budi Tanrim's blog
-description: Yellowstroke is Budi Tanrim's personal blog, where he jotted down his thoughts, learnings, and experiments about design.
+description: Budi Tanrim's personal blog about design.
 
 image:
  path: /img/seo/yellowstroke-seo.jpg

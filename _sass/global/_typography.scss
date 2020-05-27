@@ -42,6 +42,7 @@
 	// font family
 	--t--family-serif: 'Noticia Text', Georgia, serif;
 	--t--family-sans-serif: 'Roboto', Arial, sans-serif;
+	--t--family-slab: 'Roboto Slab', Arial, sans-serif;
 	--t--family-mono: 'Roboto Mono', monospace;
 	// spectrum for weight
 	--t--weight-regular: 400;
@@ -128,11 +129,9 @@
 .t--body-02,
 .t--caption-01 {
 	color: var(--c--theme-gray-02);
-	font-family: var(--t--family-serif);
+	font-family: var(--t--family-slab);
 }
-.t--caption-01 {
-	font-family: var(--t--family-sans-serif);
-}
+
 
 .t--title-02,
 .t--subtitle-01 { 
@@ -178,6 +177,8 @@ a.neutral-link {
 
 .bold { font-weight: var(--t--weight-bold); }
 
+// markdown
+h1, h2, h3, h4, h5 {}
 
 
 

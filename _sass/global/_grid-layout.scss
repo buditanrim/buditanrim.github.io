@@ -119,3 +119,8 @@
 
 // Image
 .img-full img, .img-full { max-width: 100vw; }
+.halfsize {
+    -moz-transform:scale(0.5);
+    -webkit-transform:scale(0.5);
+    transform:scale(0.5);
+}

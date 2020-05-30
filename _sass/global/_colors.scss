@@ -17,11 +17,13 @@
 	--c--gray-70: #4B4B4B;
 	--c--gray-80: #333333;
 	--c--gray-90: #222222;
+	--c--bg-warm: #F5F3EB;
 }
 
 // Light theme
 .c--theme-light {
 	--c--theme-bg: var(--c--white); // Background
+	--c--theme-bg-warm: var(--c--bg-warm); // Background light warm
 	--c--theme-fg: var(--c--gray-90); // Inverse border
 	--c--theme-gray-01: var(--c--gray-90); // Primary text, Headings
 	--c--theme-gray-02: var(--c--gray-80); // Secondary text, Body
@@ -45,3 +47,8 @@
 .c--border-medium { border-color: var(--c--theme-gray-04); }
 .c--border-light { border-color: var(--c--theme-gray-05); }
 .b--top { border-top-width: 1px; border-top-style: solid;}
+
+// Background
+#about body {
+	background: var(--c--theme-bg-warm);
+}

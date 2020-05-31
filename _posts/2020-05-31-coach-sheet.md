@@ -2,8 +2,8 @@
 layout: post
 title: "The “Coach sheet” – A paper-based system for people management"
 punchline: true
-description: "How to keep your people managing on track."
-subtitle: "How to keep your people managing on track."
+description: "How to keep on track of people you managed."
+subtitle: "How to keep on track of people you managed."
 date: 2020-05-31 -0400
 categories: leadership
 tags: leadership, managerial

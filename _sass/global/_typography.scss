@@ -14,18 +14,18 @@
 	--t--size-11: 4rem;
 	--t--size-12: 5.11rem;
 	// p = productive
-	--t--leading-p-01: calc(var(--t--size-01) + 4px); // 16
-	--t--leading-p-02: calc(var(--t--size-02) + 4px); // 18
-	--t--leading-p-03: calc(var(--t--size-03) + 4px);
-	--t--leading-p-04: calc(var(--t--size-04) + 4px);
-	--t--leading-p-05: calc(var(--t--size-05) + 4px);
-	--t--leading-p-06: calc(var(--t--size-06) + 4px);
-	--t--leading-p-07: calc(var(--t--size-07) + 4px);
-	--t--leading-p-08: calc(var(--t--size-08) + 4px);
-	--t--leading-p-09: calc(var(--t--size-09) + 4px);
-	--t--leading-p-10: calc(var(--t--size-10) + 4px);
-	--t--leading-p-11: calc(var(--t--size-11) + 4px);
-	--t--leading-p-12: calc(var(--t--size-12) + 4px);
+	--t--leading-p-01: calc(var(--t--size-01) + 0.6rem); // 16
+	--t--leading-p-02: calc(var(--t--size-02) + 0.6rem); // 18
+	--t--leading-p-03: calc(var(--t--size-03) + 0.6rem);
+	--t--leading-p-04: calc(var(--t--size-04) + 0.6rem);
+	--t--leading-p-05: calc(var(--t--size-05) + 0.6rem);
+	--t--leading-p-06: calc(var(--t--size-06) + 0.6rem);
+	--t--leading-p-07: calc(var(--t--size-07) + 0.6rem);
+	--t--leading-p-08: calc(var(--t--size-08) + 0.6rem);
+	--t--leading-p-09: calc(var(--t--size-09) + 0.6rem);
+	--t--leading-p-10: calc(var(--t--size-10) + 0.6rem);
+	--t--leading-p-11: calc(var(--t--size-11) + 0.6rem);
+	--t--leading-p-12: calc(var(--t--size-12) + 0.6rem);
 	// e = expressive
 	--t--leading-e-01: calc(var(--t--size-01) + 8px); // 20
 	--t--leading-e-02: calc(var(--t--size-02) + 8px); // 22

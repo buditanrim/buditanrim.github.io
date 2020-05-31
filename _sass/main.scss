@@ -10,17 +10,23 @@
 
 body, html {
   font-size: 22px; // for rem
-  line-height: 1.55;
+  line-height: 1.6;
   background: var(--c--theme-bg);
   font-family: var(--t--family-slab);
 }
 
 @media (max-width: 1680px) {
-	body, html { font-size: 20px; }
+	body, html { 
+		font-size: 19px;
+		line-height: 1.6;
+	}
 }
 
 @media (max-width: 600px) {
-	body, html { font-size: 17px; }
+	body, html { 
+		font-size: 17px;
+		line-height: 1.5;
+	}
 }
 
 //newsletter

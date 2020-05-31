@@ -18,7 +18,7 @@ twitter-seo:
  - "seo/coach-sheet.jpg"
 ---
 
-As a manager, keeping track of a lot of direct reports and one-on-one (1:1) meetings can be challenging. I managed 8 people directly and sometimes, I will have 1:1 meetings back to back, and boy, What did we talk about last time? What questions should I bring up today? What should I follow through? I’m not good at keeping this stuff on the fly. 
+As a manager, keeping track of a lot of direct reports and one-on-one (1:1) meetings can be challenging. I managed 8 people directly and sometimes I lost track during my back to back 1:1 meetings. And boy, what did we talk about last time? What questions should I bring up today? What should I follow through? I’m not good at keeping this stuff on the fly. 
 {: .t--lede}
 
 I love to keep track of my tasks on paper with a simple to-do list system. One day I thought, why not add another system to keep track of my one-on-one meetings?

@@ -6,7 +6,7 @@ description: "Time is precious, so protect it and be picky about meetings"
 punchline: true
 subtitle: "Time is precious, so protect it and be picky about meetings"
 date:   2019-07-18 +0700
-categories: managing
+categories: leadership
 author: "Budi Tanrim"
 
 image:

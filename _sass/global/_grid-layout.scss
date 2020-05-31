@@ -119,3 +119,9 @@
 
 // Image
 .img-full img, .img-full { max-width: 100vw; }
+
+.img-large, .img-large img {
+	max-width: 100vw; 
+	width: 75vw;
+}
+

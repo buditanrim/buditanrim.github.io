@@ -70,6 +70,11 @@
 	font-size: var(--t--size-05);
 	line-height: var(--t--leading-e-05);
 }
+.t--body-04,
+.t--lede {
+	font-size: var(--t--size-06);
+	line-height: var(--t--leading-e-07);
+}
 .t--heading-01,
 .post-inner--body h4 {
 	font-size: var(--t--size-05);
@@ -154,7 +159,8 @@ a {
 		color: var(--c--theme-interactive-01);
 	}
 }
-.link { 
+.link, 
+sup a { 
 	color: var(--c--theme-interactive-01);
 	text-decoration: none;
 	&:hover { text-decoration: underline; }

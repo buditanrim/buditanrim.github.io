@@ -3,16 +3,23 @@
 	<div class="post-inner--heading l--grid-narrow m-t-xl p-t-l m-b-xl">
 		{% if page.punchline %}
 			<h1 class="post-inner--title t--title-01">{{page.title}}</h1>
-			<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-l p-r-l">{{page.subtitle}}</p>
+			<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-s p-r-l">{{page.subtitle}}</p>
 		{% else %}
-			<h1 class="post-inner--title t--title-01 m-b-m">{{page.title}}</h1>
+			<h1 class="post-inner--title t--title-01 m-b-s">{{page.title}}</h1>
 		{% endif %}
+			<p class="t--body-02">By <a href="/about">{{page.author}}</a></p>
 			<p class="t--mono-02 m-b-xl">{{page.date | date:'%b %d, %Y'}}</p>
 	</div>
 	<div class="l--grid-narrow">
 		<div class="post-inner--body">
 			{{ content }}
 			{% include share-post.html %}
+
+			<div class="post-author l--flex p-t-m">
+				<img src="/img/asset/budi-portrait-author.png" alt="Budi Tanrim" class="post-author--img m-r-s l--v-m">
+				<p class="l--v-m"><i>Budi is Head of Design at Bukalapak. Leading design systems and design thinking practice. Previously worked with Shopify.</i></p>
+			</div>
+			
 		</div>
 
 		<div class="m-t-xl b--top c--border-light p-t-l">

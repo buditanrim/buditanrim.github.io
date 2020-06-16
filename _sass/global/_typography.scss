@@ -165,6 +165,12 @@ sup a {
 	text-decoration: none;
 	&:hover { text-decoration: underline; }
 }
+.post-inner--body a {
+	color: var(--c--theme-interactive-01);
+	text-decoration: underline;
+	&:hover {text-decoration-color: var(--c--theme-gray-02)}
+}
+
 .neutral-link,
 a.neutral-link {
 	text-decoration: underline;

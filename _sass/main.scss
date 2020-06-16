@@ -7,6 +7,7 @@
 @import "components/navigationbar";
 @import "components/button";
 @import "components/progressbar";
+@import "components/author-block";
 
 body, html {
   font-size: 22px; // for rem
@@ -86,7 +87,7 @@ body, html {
 		margin-left: var(--l--space-16);
 		margin-top: -24px;
 		li {
-			line-height: 1.8;
+			line-height: 1.65;
 			margin-bottom: 0;
 		}
 	}
@@ -118,7 +119,7 @@ body, html {
 	
 	//share
 	.social-share-wrapper {
-		padding-top: var(--l--space-xl);
+		padding-top: var(--l--space-s);
 	}
 	.social-share {
 		display: inline-block;

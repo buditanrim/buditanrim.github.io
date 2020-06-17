@@ -10,12 +10,12 @@ tags: mindset
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/coach-sheet.jpg
+ path: /img/seo/a-simple-career-reflection.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/coach-sheet.jpg"
+ - "seo/a-simple-career-reflection.jpg"
 ---
 
 *Q: "Hi Budi, I want to keep growing, but sometimes I don't know what to grow. Do you have tips for this?"*

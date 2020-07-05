@@ -19,7 +19,7 @@ twitter-seo:
 
 In my previous in-house job, I was quite lucky to be able to work in a company with a high-maturity UX, like Shopify. Where the majority of people, no matter what their title is, will think and talk about the customers in the center of their conversation. 
 
-As I moved to Indonesia, I realized things are different. Everyone talks about feature, feature, or money. Or worse, they will think they are the users. I don't have issue to think about the business outcome, I do have an issue with people who plan to get business outcome without thinking about their customers. 
+As I moved to Indonesia, I realized things are different. Everyone talks about feature, feature, or money. Or worse, they will think they are the users. I don't have issue to think about the business outcome, I do have an issue with the fact some people plan to get business outcome without thinking about their customers. 
 
 The funny thing is, everybody agrees thinking about customers is the "right" thing to do. But in practice, surprisingly, nobody does that. I will sit in the meeting and hear people talk about their ideas filled with a lot of assumptions. From time to time, I got frustrated because everyone just want to get things done but not necessarily work on the right thing.
 

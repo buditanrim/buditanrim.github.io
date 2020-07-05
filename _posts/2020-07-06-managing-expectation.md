@@ -20,6 +20,8 @@ twitter-seo:
 
 Show it to us if you're finished.
 
+Tell us your progress.
+
 Tell us if you need more time.
 
 Don't make us ask.

@@ -4,6 +4,7 @@ title: "Budi Tanrim" # the name of your site, e.g. ACME Corp.
 twitter_username: buditanrim
 permalink: /:year/:title/
 repository: buditanrim/buditanrim.github.io
+future: false
 
 #SEO
 twitter:

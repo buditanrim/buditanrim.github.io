@@ -1,19 +1,10 @@
 {% include header.html %}
-<div class="project l--grid m-t-07 m-b-07 p-b-04">
-	<div class="l--grid-wide m-b-06 block-red">
-		<h1 class="t--title-01 m-b-03">Career highlights</h1>
-		<p class="t--body-02">The case study for each project will be added soon.</p>
-	</div>
-	<div class="project--index l--grid-wide l--flex-2-col block-red">
-	{% assign project_by_year = site.projects | sort: 'order' | reverse %}
-	{% for project in project_by_year %}
-		<div class="project--index-row m-t-04 m-b-03">
-			<img src="{{ project.image.path }}" alt="{{ project.image.alt }}" class="l--full-width m-b-03">
-			<h2>{{ project.title }}</h2>
-			<p class="project--index-row-description t--body-02 m-t-01">{{ project.description }}</p>
-			<p class="t--body-01 m-t-01">{{ project.client }} · {{ project.year }}</p>
-		</div>
-	{% endfor %}
+<div class="project-inner l--grid-12 m-t-07 m-b-07 p-b-05" id="project-inner">
+
+	<h1 class="t--big-title-01 l--span-10">{{page.title}}</h1>
+	<p class="m-b-xl l--span-10">{{page.opening}}</p>
+	<div class="post-inner--body l--span-12">
+		{{ content }}
 	</div>
 </div>
 

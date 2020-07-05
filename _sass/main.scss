@@ -1,6 +1,7 @@
 @import "global/normalize";
 @import "global/colors";
 @import "global/grid-layout";
+@import "global/grid";
 @import "global/spacing";
 @import "global/typography";
 @import "global/image";
@@ -10,10 +11,12 @@
 @import "components/author-block";
 
 body, html {
-  font-size: 22px; // for rem
-  line-height: 1.6;
-  background: var(--c--theme-bg);
-  font-family: var(--t--family-slab);
+	font-size: 22px; // for rem
+	line-height: 1.6;
+	background: var(--c--theme-bg);
+	font-family: var(--t--family-slab);
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
 }
 
 @media (max-width: 1680px) {

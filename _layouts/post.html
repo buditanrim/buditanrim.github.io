@@ -1,14 +1,14 @@
 {% include header.html %}
 <div id="post-inner" class="l--grid m-t-05 m-b-07 p-b-l">
-	<div class="post-inner--heading l--grid-narrow m-t-xl p-t-l m-b-xl">
+	<div class="post-inner--heading l--grid-narrow m-t-xl p-t-m m-b-m">
+			<p class="t--mono-02 m-b-s">{{page.date | date:'%b %d, %Y'}}</p>
 		{% if page.punchline %}
 			<h1 class="post-inner--title t--title-01">{{page.title}}</h1>
 			<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-s p-r-l">{{page.subtitle}}</p>
 		{% else %}
 			<h1 class="post-inner--title t--title-01 m-b-s">{{page.title}}</h1>
 		{% endif %}
-			<p class="t--body-02">By <a href="/about">{{page.author}}</a></p>
-			<p class="t--mono-02 m-b-xl">{{page.date | date:'%b %d, %Y'}}</p>
+			<!-- <p class="t--body-02">By <a href="/about">{{page.author}}</a></p> -->
 	</div>
 	<div class="l--grid-narrow">
 		<div class="post-inner--body">

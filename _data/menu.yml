@@ -3,8 +3,8 @@
   link: /
   order: 1
 
-- word: "Project"
-  link: /project
+- word: "Projects"
+  link: /projects
   order: 2
 
 - word: "About"

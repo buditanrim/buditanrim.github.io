@@ -117,17 +117,3 @@
 .border {border: 1px solid var(--c--theme-gray-06);}
 .border-medium {border: 1px solid var(--c--theme-gray-05);}
 
-// Image
-.img-full img, .img-full { max-width: 100vw; }
-
-.img-large, .img-large img {
-	max-width: 100vw; 
-	width: 70vw;
-}
-@media (max-width: 800px) {
-	.img-large, .img-large img {
-		max-width: 100vw;
-		width: 90vw;
-	}
-}
-

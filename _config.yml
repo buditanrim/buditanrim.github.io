@@ -13,6 +13,7 @@ twitter:
 collections: 
   projects:
     output: true
+    permalink: /:title
 
 # Build settings
 markdown: kramdown

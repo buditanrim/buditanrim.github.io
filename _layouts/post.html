@@ -14,11 +14,13 @@
 		<div class="post-inner--body">
 			{{ content }}
 			{% include share-post.html %}
-			{% include author-block-budi.html %}			
+			<div class="post-author m-t-l l--flex p-t-m b--bottom b--top">
+				<p class="t--body-01 l--v-m"><i>Budi is a Head of Design at <a href="http://brand.bukalapak.design/">Bukalapak</a>, leading design systems and design thinking practice. Previously a designer at Shopify. In 2018 crafted <a href="https://medium.com/budi-brain/designing-yahoos-winter-olympics-icons-75ccdafacc3d">Yahoo Olympics icons</a></i></p>
+			</div>			
 		</div>
 
-		<div class="m-t-xl b--top c--border-light p-t-l">
-			<p class="m-b-02 t--heading-03">Other recent posts</p>
+		<div class="m-t-l">
+			<p class="m-b-02 t--heading-02">Other recent posts</p>
 			{% assign posts = site.posts | where_exp:"post" ,"post.url != page.url" %}
 			{% for post in posts limit: 5 %}
 				{% include post-loop.html %}

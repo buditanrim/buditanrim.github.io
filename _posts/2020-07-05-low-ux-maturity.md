@@ -25,4 +25,6 @@ The funny thing is, everybody agrees thinking about customers is the "right" thi
 
 What does it takes to influence the mindset of human-centered, at scale? 
 
-I don't have an answer now. But it's an exciting question to solve.
+I don't have an answer now. But it's an exciting question to solve. 
+
+*P.S I'm looking (hiring) a senior researcher to help my team strategize and help the company to build better practice for lower-middle income.*

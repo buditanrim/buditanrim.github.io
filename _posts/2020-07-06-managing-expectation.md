@@ -4,7 +4,7 @@ title: "Managing expectation"
 punchline: true
 description: "Be proactive."
 subtitle: "Be proactive."
-date: 2020-07-06 -0400
+date: 2020-07-06 09:00:00 +0700
 categories: mindset, career
 tags: mindset
 author: "Budi Tanrim"

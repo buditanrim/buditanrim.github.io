@@ -1,6 +1,6 @@
 {% include header.html %}
 <div id="post-inner" class="l--grid m-t-05 m-b-07 p-b-l">
-	<div class="post-inner--heading l--grid-narrow p-t-l m-b-m">
+	<div class="post-inner--heading l--grid-narrow p-t-l mobile-p-t-xs m-b-m">
 			<p class="t--mono-02 m-b-s">{{page.date | date:'%b %d, %Y'}}</p>
 		{% if page.punchline %}
 			<h1 class="post-inner--title t--title-01">{{page.title}}</h1>
@@ -14,9 +14,9 @@
 		<div class="post-inner--body">
 			{{ content }}
 			{% include share-post.html %}
-			<div class="post-author m-t-l l--flex p-t-m b--bottom b--top">
+			<!-- <div class="post-author m-t-l l--flex p-t-m b--bottom b--top">
 				<p class="t--body-01 l--v-m"><i>Budi is a Head of Design at <a href="http://brand.bukalapak.design/">Bukalapak</a>, leading design systems and design thinking practice. Previously a designer at Shopify. In 2018 crafted <a href="https://medium.com/budi-brain/designing-yahoos-winter-olympics-icons-75ccdafacc3d">Yahoo Olympics icons</a></i></p>
-			</div>			
+			</div>	 -->		
 		</div>
 
 		<div class="m-t-l">
@@ -31,7 +31,7 @@
 		
 	</div>
 </div>
-	{% include newsletter.html %}
+	
 	{% include footer-bar.html %}
 	{% include script.html %}
 </body>

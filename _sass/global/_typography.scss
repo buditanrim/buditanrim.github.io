@@ -193,6 +193,16 @@ a.neutral-link {
 h1, h2, h3, h4, h5 {}
 
 
-
+@media (max-width: 880px) {
+	// mobile typography
+	.t--title-01 {
+		font-size: var(--t--size-07);
+		line-height: var(--t--leading-e-07);
+	}
+	.t--subtitle-01 {
+		font-size: var(--t--size-06);
+		line-height: var(--t--leading-e-06);
+	}
+}
 
 

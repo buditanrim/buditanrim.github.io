@@ -10,7 +10,7 @@
 		{% endif %}
 			<!-- <p class="t--body-02">By <a href="/about">{{page.author}}</a></p> -->
 	</div>
-	<div class="l--grid-narrow">
+	<div class="l--grid-narrow b--bottom">
 		<div class="post-inner--body">
 			{{ content }}
 			{% include share-post.html %}
@@ -18,15 +18,14 @@
 				<p class="t--body-01 l--v-m"><i>Budi is a Head of Design at <a href="http://brand.bukalapak.design/">Bukalapak</a>, leading design systems and design thinking practice. Previously a designer at Shopify. In 2018 crafted <a href="https://medium.com/budi-brain/designing-yahoos-winter-olympics-icons-75ccdafacc3d">Yahoo Olympics icons</a></i></p>
 			</div>	 -->		
 		</div>
-
-		<div class="m-t-l">
+	</div>
+	<div class="l--grid-narrow m-t-l">
 			<p class="m-b-02 t--heading-02">Other recent posts</p>
 			{% assign posts = site.posts | where_exp:"post" ,"post.url != page.url" %}
 			{% for post in posts limit: 5 %}
 				{% include post-loop.html %}
 			{% endfor %}
 		</div>
-	</div>
 	<div class="l--grid-side p-l-04">
 		
 	</div>

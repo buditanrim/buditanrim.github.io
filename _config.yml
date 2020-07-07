@@ -5,6 +5,7 @@ twitter_username: buditanrim
 permalink: /:year/:title/
 repository: buditanrim/buditanrim.github.io
 future: false
+timezone: Asia/Bangkok
 
 #SEO
 twitter:

@@ -21,8 +21,12 @@ I hate this word: Why don't we try and see what happens?
 
 After you try it, you will see something happen, for sure. But that's not quite useful. Because, then what? How do we know if that works? 
 
-When we build products though, we can't spend too long to do research. We need to be fast, because the market is keep moving, the new company is going to disrupt with their innovation. So, if taking a blind guess doesn't help. Then, how do we deal with the fast-pace nature of business?
+Here's the thing. When we build products, we can't spend months for the research. We need to be fast, because the market is keep moving and the new company is going to disrupt with a new innovation. 
 
-I'd say, make your team think like a scientist. Don't use a gambler mentality to just try and see what happens. But, sit together to form a hypothesis. Because that hypothesis can be a compass for your team. The hypothesis can state what problem your team is trying to solve and state what the prediction of the solution. It's something can be referred to when your team want to evaluate the product.
+So, if taking a blind guess doesn't help and we can't do a rigorous research. Then, how do we deal with the fast-pace nature of the business?
 
-Try and see doesn't help. Form a hypothesis, because your team need to learn something.
+I'd say, make your team think like a scientist. Sit together to form a hypothesis. Because that hypothesis can be a compass for your team. The hypothesis can state what problem your team is trying to solve and state what the prediction of the solution. It's something can be referred to when your team want to evaluate the product.
+
+Try and see doesn't help. Don't use a gambler mentality to just try and see what happens.
+
+Form a hypothesis.

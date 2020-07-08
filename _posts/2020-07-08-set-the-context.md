@@ -19,14 +19,10 @@ twitter-seo:
 
 Can you imagine what is it like to have 50 meetings in a week?
 
-If you are in the crafter role, maybe it's hard to relate. But, if your role is on the managerial, you probably know what it likes. It's like watch Star Wars, then the next minute you will watch Titanic.
+Everyday it feels like watching Star Wars for 30 minutes, then the next minute you will watch Titanic. It's a constant context switching.
 
-When you want to present your work. Take a deep breath. And be comfortable to spend a few minutes to set the context before diving into the main nugget. This can help everyone to be on the same page and recall how the progress of the project so far.
+When you want to present your work. Take a deep breath. And be comfortable to spend a few minutes to set the context before diving into the main nugget. This can help everyone to be on the same page and recall how the progress of the project so far. Therefore, it helps people to discuss around that and help make better decision in that sense.
 
-What was the last decision has been made? Is there any objective that we already set? 
-
-That will help everybody is on the same page about what the outcome we want to pursue or what the problem you want to solve at the first place. Therefore, it helps people to discuss around that and help make better decision in that sense.
-
-What's the problem? What's the outcome? What's the assumptions or questions? Where did we left off last time?
+Lay the ground for people to discuss: What was the last decision has been made? Is there any objective that we already set? What's the problem? What's the outcome? What's the assumptions or questions? Where did we left off last time?
 
 Set the context in the beginning of your meeting. 

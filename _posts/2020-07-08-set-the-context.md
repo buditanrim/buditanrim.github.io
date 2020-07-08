@@ -25,4 +25,4 @@ When you want to present your work. Take a deep breath. And be comfortable to sp
 
 Lay the ground for people to discuss: What was the last decision has been made? Is there any objective that we already set? What's the problem? What's the outcome? What's the assumptions or questions? Where did we left off last time?
 
-Set the context in the beginning of your meeting. 
+Set the context in the beginning of your meeting. Because some people have a lot of meetings.

@@ -23,7 +23,7 @@ My stakeholders said my page have to be colorful, so I did it.
 
 I did that because it is what it is.
 
-You'd be surprised to meet designers with this mindset. They take things too literally. They don't think critically enough. Imagine if a non-design people said they want the page to be colorful. They probably don't mean it that way, if they have a better vocabulary, they'd say: Can we somehow emphasize this part? And, one of the ways to do it is to make it colorful.
+From time to time, I get these answers from a few designers. Surprisingly, some people take things too literally. They don't think critically enough. Imagine if a non-design people said they want the page to be colorful. They probably don't mean it that way, if they have a better vocabulary, they'd say: Can we somehow emphasize this part? And, one of the ways to do it is to make it colorful.
 
 It's unfortunate. Because maybe the environment shapes some people to be like that. They probably tired and end up having that mindset.
 

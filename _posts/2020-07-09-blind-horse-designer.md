@@ -27,7 +27,7 @@ From time to time, I get these answers from a few designers. Surprisingly, some 
 
 It's unfortunate. Because maybe the environment shapes some people to be like that. They probably tired and end up having that mindset. This can be damaging for them though. As designers, our root is our thinking.
 
-If you work with people with this attitude, I hope you can give them feedback even if that make things unconfortable. Help them see why that is not gonna be healthy for their career in the long-term.
+If you work with people with this attitude, I hope you give them feedback, even if that make things uncomfortable. Help them see why that is not gonna be healthy for their career in the long-term.
 
 Let's think. Ask questions. Break things down. Think.
 

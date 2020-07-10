@@ -23,7 +23,7 @@ IKEA makes furniture for Millenials seeking for cost-effective.
 
 Shopify makes commerce ecosystem for someone seeking for independence.
 
-If you think about it, no matter how common the item, there is always specific "someone" to target. A pen is a common thing we all have. But it created for a specific audience. An art student or a writer. 
+If you think about it, no matter how common the item, there is always specific "someone" to target. A pen is a common thing we all have. But it created for a specific audience. An art student or a writer, for example. 
 
 When designing a product or experience with your team, ask a question of who are we designing for. And be specific.
 

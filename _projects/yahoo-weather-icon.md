@@ -6,7 +6,7 @@ client: Yahoo
 year: 2020
 order: 5
 image:
- path: /img/project/rectangle-1.png
+ path: /img/project/cover/yahoo-weather.png
  alt: Bazaar Design System Cover
 
 code-name: The sun and the atmosphere

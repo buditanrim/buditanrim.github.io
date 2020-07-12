@@ -37,8 +37,18 @@
 
 @media (max-width: 800px) {
 .nav {
+  // make it horizontal scroll
+  overflow: auto;
+  flex-flow: row;
+  white-space: nowrap;
+  border-bottom: 1px solid var(--c--theme-gray-05);
+  padding-bottom: var(--l--space-xs);
+
   &--left {
     margin-bottom: var(--l--space-08);
+    margin-right: var(--l--space-xs);
+    padding-right: var(--l--space-xs);
+    border-right: 1px solid var(--c--theme-gray-05);
   }
   &--right {
     

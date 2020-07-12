@@ -3,7 +3,7 @@ layout: post
 title: "The framing trap"
 punchline: true
 description: "We make decisions every day. Often, we frame a specific question before making a decision. This is also one of the most dangerous moment."
-date: 2020-07-13 08:00:00 +0700
+date: 2020-07-13 06:30:00 +0700
 categories: mindset
 tags: mindset, behavior economic
 author: "Budi Tanrim"

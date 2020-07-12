@@ -1,6 +1,7 @@
 url: "https://buditanrim.co" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Budi Tanrim" # the name of your site, e.g. ACME Corp.
+description: Budi Tanrim's blog on design, mindset, and frameworks
 twitter_username: buditanrim
 permalink: /:year/:title/
 repository: buditanrim/buditanrim.github.io
@@ -19,5 +20,6 @@ collections:
 
 # Build settings
 markdown: kramdown
-
 exclude: ['_site']
+plugins:
+  - jekyll-feed

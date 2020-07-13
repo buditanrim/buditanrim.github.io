@@ -9,12 +9,12 @@ tags: mindset, behavior economic
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/buditanrim-seo-01.jpg
+ path: /img/seo/framing-trap.png
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/buditanrim-seo-01.jpg"
+ - "seo/framing-trap.png"
 ---
 
 We make decisions every day. 

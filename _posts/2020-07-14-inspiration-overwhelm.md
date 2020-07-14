@@ -25,9 +25,7 @@ I'm slouching a bit.
 
 Face resting on my hand, get overwhelmed.
 
-When I tried to look for inspiration and hope it will come as the rescue, but instead, I felt overwhelmed.
-
-So, how to overcome this?
+When I tried to look for inspiration and hope it will come as the rescue, but instead, I felt overwhelmed. So, how to overcome this?
 
 What I find helpful is to frame specific questions I am tackling now, which will help to keep my focus when browsing for inspiration. Less overwhelmed because I know which one I should skip and which I should keep.
 

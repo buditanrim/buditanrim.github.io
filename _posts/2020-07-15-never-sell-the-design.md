@@ -3,7 +3,7 @@ layout: post
 title: "Don't sell the design. Sell the business impact"
 punchline: true
 description: "I recently talked with a group of designers and researchers. In that conversation, they expressed the frustration of why their team is not really listening to their research finding and suggestion."
-date: 2020-07-14 08:00:00 +0700
+date: 2020-07-15 08:00:00 +0700
 categories: business
 tags: business, research
 author: "Budi Tanrim"

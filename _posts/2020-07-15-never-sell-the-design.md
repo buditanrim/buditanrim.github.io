@@ -23,6 +23,6 @@ Based on my experience working in APAC, not all companies value user experience 
 
 With this in mind, we can't sell the design. Meaning, we can't say to people how important it is for the user. What I find effective is to translate those to business language.
 
-For example, instead of saying: If we don't fix this, our users can't track their payment really well. Try to insert the business perspective: If we don't help our users to track their payment, this can create confusion and cost us $200,000 per year of customer support contacts.
+For example, instead of saying: If we don't fix this, our users can't track their payment really well. Try to insert the business perspective: If we don't help our users to track their payment, this can create confusion and cost us $200,000 per year of customer support contacts. The latter is not a guarantee but more likely to catch their attention.
 
 What business impact resulted in your project?

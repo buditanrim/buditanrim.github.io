@@ -19,7 +19,7 @@ twitter-seo:
 
 I recently talked with a group of designers and researchers. In that conversation, they expressed the frustration of why their team is not really listening to their research finding and suggestion.
 
-In APAC, not all companies value user experience as their priority when making decisions. Naturally, the culture reinforces people to make decisions and prioritize what beneficial for the business. Unfortunately, despite the importance of user experience for the sustainability of the business — it is really hard to see the result in the short term.
+Based on my experience working in APAC, not all companies value user experience as their priority when making decisions. Naturally, the culture reinforces people to make decisions and prioritize what beneficial for the business. Unfortunately, despite the importance of user experience for the sustainability of the business — it is really hard to see the result in the short term.
 
 With this in mind, we can't sell the design. Meaning, we can't say to people how important it is for the user. What I find effective is to translate those to business language.
 

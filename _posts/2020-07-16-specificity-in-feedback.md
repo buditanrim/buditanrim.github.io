@@ -19,9 +19,9 @@ twitter-seo:
 
 Hey, good job!
 
-How do you feel after you read that complementary? Perhaps happy, but a bit uncertain. Especially if you receive that after weeks of project, you will start to internalize about which part I actually did good. Did this person just trying to be nice?
+How do you feel after you read that complementary? Perhaps happy, but a bit uncertain. Especially if you receive that after weeks in a project, you will start to internalize about which part you actually did well. Did this person just try to be nice?
 
-Since feedback is important aspect to grow people. Either constructive or recognition, should be given specifically with a specific example. Otherwise, it can feel insincere and confusing. By point out specific scenario what went well or need to be improved, it can help the receiver to understand which part she did good and double down on it.
+Since feedback is one of the important aspects to growing people. Either constructive or recognition should be given specifically with a specific example. Otherwise, it can feel insincere and confusing. By point out specific scenario what went well or need to be improved, it can help the receiver to understand which part she did good and double down on it.
 
 Hey, I hope you can be more articulate.
 

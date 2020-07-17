@@ -21,8 +21,5 @@ Hey, good job!
 
 How do you feel after you read that compliment? Perhaps happy, but a bit uncertain. Especially if you receive that after weeks in a project, you will start to internalize about which part you actually did well. Did this person just try to be nice?
 
-Since feedback is one of the important aspects to growing people. Either constructive or recognition should be given specifically with a specific example. Otherwise, it can feel insincere and confusing. By point out specific scenario what went well or need to be improved, it can help the receiver to understand which part she did good and double down on it.
+Since feedback is one of the important aspects to growing people. Either constructive or recognition should be given specifically with a specific example. Otherwise, it can feel insincere and confusing. By point out specific scenario, , it can help the receiver to understand which part she did well or which area she need to keep improving.
 
-Hey, I hope you can be more articulate.
-
-Which part? And are we talking about the same thing?

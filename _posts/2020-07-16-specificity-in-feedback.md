@@ -2,7 +2,7 @@
 layout: post
 title: "Specificity in feedback"
 punchline: true
-description: "Hey, good job! How do you feel after you read that complementary? Perhaps happy, but a bit uncertain."
+description: "Hey, good job! How do you feel after you read that compliment? Perhaps happy, but a bit uncertain."
 date: 2020-07-17 08:00:00 +0700
 categories: leadership
 tags: feedback

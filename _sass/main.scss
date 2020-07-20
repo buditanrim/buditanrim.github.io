@@ -9,6 +9,7 @@
 @import "components/button";
 @import "components/progressbar";
 @import "components/author-block";
+@import "components/applause-button";
 
 body, html {
 	font-size: 22px; // for rem
@@ -64,7 +65,7 @@ body, html {
 	h1 {
 		padding-top: var(--l--space-l);
 	}
-	h1, div, h4, h5 {
+	h1, h4, h5 {
 		margin-bottom: var(--l--space-s);
 	}
 	h2, h3 {
@@ -118,6 +119,7 @@ body, html {
 	//share
 	.social-share-wrapper {
 		padding-top: var(--l--space-s);
+		padding-bottom: var(--l--space-m);
 	}
 	.social-share {
 		display: inline-block;

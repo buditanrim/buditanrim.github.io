@@ -27,7 +27,9 @@ Imagine if you want to build a new product, mainly the primary question is: Does
 
 With MVP, we're basically saying, let's not build the real product just yet because we don't know if people even want to buy or use this. Instead, let's build a prototype to test our hypothesis. One of the most popular stories was from Dropbox. Drew Houston, the co-founder of Dropbox setting up a simple video and sign up form to join the waiting list.
 
-In that product, Dropbox as a product is not yet ready to be used for a large number of users. Probably still have lots of bugs. But, by doing that, Dropbox validates an important value hypothesis: Does anyone interested to use this? And this can be measured by how many people are actually signing up the waiting list to see how many people are interested.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7QmCUDHpNzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In that video, Dropbox as a product is not yet ready to be used for a large number of users. Probably still have lots of bugs. But, by doing that, Dropbox validates an important value hypothesis: Does anyone interested to use this? And this can be measured by how many people are actually signing up the waiting list to see how many people are interested.
 
 Now, for your second point, do you need to make MVP everytime your team builds a new product? I'd say, yes in most cases. Just to name a few top reasons for startups to fail: no market need (42%), ran out of cash (29%), get outcompeted (19%).<sup id="a1">[1](#fn1)</sup>
 

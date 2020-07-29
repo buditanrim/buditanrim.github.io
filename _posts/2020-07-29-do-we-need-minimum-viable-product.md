@@ -36,6 +36,8 @@ MVP reduces the risk of failing greatly. You should read this book: Lean Startup
 Thanks for the question! Hope this helps!
 P.S. If you want to send a reader question, please feel free to [send email](mailto:hi.buditanrim@gmail.com)
 
+---
+
 {: .footnote-header}
 Footnotes:
 1. {: #fn1} [CB INSIGHT - The top 20 reasons startup fail.](https://www.cbinsights.com/research/startup-failure-reasons-top/) [↩](#a1)

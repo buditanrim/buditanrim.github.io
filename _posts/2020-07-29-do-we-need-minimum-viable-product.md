@@ -3,9 +3,9 @@ layout: post
 title: "Reader question: Do we need to build MVP for every product?"
 punchline: true
 description: "Hi Budi, I don’t have any formal education for design. Is it possible to work as a designer without any degree in Human Computer Interaction? Absolutely possible. In fact, I graduated in accounting. I have no formal education whatsoever."
-date: 2020-07-27 08:00:00 +0700
-categories: career
-tags: career, education, degree
+date: 2020-07-29 08:00:00 +0700
+categories: method
+tags: MVP, management
 author: "Budi Tanrim"
 
 image:
@@ -27,8 +27,8 @@ Imagine if you want to build a new product, mainly the primary question is: Does
 
 With MVP, we're basically saying, let's not build the real product just yet because we don't know if people even want to buy or use this. Instead, let's build a prototype to test our hypothesis. One of the most popular stories was from Dropbox. Drew Houston, the co-founder of Dropbox setting up a simple video and sign up form to join the waiting list.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7QmCUDHpNzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="720" height="315" src="https://www.youtube.com/embed/7QmCUDHpNzE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 In that video, Dropbox as a product is not yet ready to be used for a large number of users. Probably still have lots of bugs. But, by doing that, Dropbox validates an important value hypothesis: Does anyone interested to use this? And this can be measured by how many people are actually signing up the waiting list to see how many people are interested.
 
 Now, for your second point, do you need to make MVP everytime your team builds a new product? I'd say, yes in most cases. Just to name a few top reasons for startups to fail: no market need (42%), ran out of cash (29%), get outcompeted (19%).<sup id="a1">[1](#fn1)</sup>

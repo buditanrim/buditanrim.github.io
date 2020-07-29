@@ -29,5 +29,5 @@ If you don’t have any formal education in design, try to focus on building up 
 
 If you don’t have any project before, I highly encourage to make a conceptual or hypothetical project where you can illustrate your skill there. However, it’s even better if you have real project, even if that just a one-off project. So, my suggestion is to find some project online. Focus more on quantity instead of quality at this point, because you want to increase the probability of getting a project.
 
-https://99designs.com/ and https://www.designcrowd.com/ was my favorite when I started my career. There, you can find online contest. Just try to enter some.
+[99designs.com](https://99designs.com/) and [designcrowd.com](https://www.designcrowd.com/) was my favorite when I started my career. There, you can find online contest. Just try to enter some.
 Good luck.

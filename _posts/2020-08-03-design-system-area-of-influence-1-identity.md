@@ -30,5 +30,5 @@ If the company wants to target a low middle-income audience, design systems shou
 
 This foundation of identity will help every decision along the way. Such as, should we make the spacing compact or airy? How playful our animation should be to reflect our identity? How calm should we design our sound? A lot of these decisions will affect the cohesiveness of your overal brand identity.
 
-Stay tuned!
+Stay tuned for another post!
 

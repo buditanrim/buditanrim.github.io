@@ -27,7 +27,7 @@ One morning, I woke up and barely can move. I called my mom and she ran me to th
 
 I thought working hard will make me better. But, did I?
 
-After I fully recovered, I asked myself, what exactly am I getting from working non-stop? I made my mom worried and end up in the hospital, that's all. Probably I got better at using Photoshop and Illustrator at that point. But, I'm not practically a better designer.
+After I fully recovered, I asked myself, what exactly am I getting from working non-stop? I made my mom worried and end up in the hospital, that's all. Probably I got better at using Photoshop and Illustrator at that point. But, I'm not practically a better designer. I didn't even won any design contest.
 
 From that point, I started to realize, I need to constantly find a way to work smarter, not harder. Here are a few questions you can use to reflect:
 

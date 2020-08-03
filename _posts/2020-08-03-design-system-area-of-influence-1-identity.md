@@ -28,7 +28,7 @@ At its core, design systems should help company reflect the vision and creative 
 
 If the company wants to target a low middle-income audience, design systems should reflect that in their design strategy and execute that way. This is where the fundamental research about your customers will be valuable. What behavior do we see from customers? In what context they use our products? What competitor products do they use? What are the usability issues we constantly found? All these questions will be the root and foundation of design systems. It’s crucial to collaborate with the brand team if such team exist in the company. This collaboration is natural because it’s mutual because brand team need to reflect the brand into the product. At the same time, design systems team need to understand the latest direction on the brand, the brand essence, and marketing.
 
-This foundation of identity will help every decision along the way. Such as, should we make the spacing compact or airy? How would our animation should reflect our identity?
+This foundation of identity will help every decision along the way. Such as, should we make the spacing compact or airy? How playful our animation should be to reflect our identity? How calm should we design our sound? A lot of these decisions will affect the cohesiveness of your overal brand identity.
 
 Stay tuned!
 

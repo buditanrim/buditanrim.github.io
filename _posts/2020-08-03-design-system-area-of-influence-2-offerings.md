@@ -25,4 +25,4 @@ Offering in design systems tied deeply with the identity. Imagine creating a des
 
 However, a lot of teams think it’s the ultimate goal to have a lot of offerings. But, imagine, what if we need a new icon, new color, new component, or pattern? What should that process or collaboration look like? I did a mistake in neglecting this part, which cost my team a lot. We flustered because people come with a new proposal with limited time. When a new component needed, who is gonna develop that?
 
-This is where the service design for design systems is important.
+This is where the service design for design systems is important. Which I will talk briefly in the next post.

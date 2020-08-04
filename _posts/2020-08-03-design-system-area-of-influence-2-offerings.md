@@ -19,7 +19,7 @@ twitter-seo:
 
 Imagine when a developer wants to compose a page, it will take a lot of time to rebuild everything from scratch. Not to mention the time needed to test the page to avoid bugs. Having a code library where the developer can reuse the same components over and over will increase efficiency in product development greatly. This can be one of the important strategies for a company.
 
-The offering is the tangible output of design systems. You might be familiar with them; component library, icon library, interface guidelines, principles, plugins, tokens, code library, and much more. How good the offering can be measured based on how much time being saved if system users use the offering. The quantity of the offering can also contribute on how many touch point the design systems are helping increase efficiency in product development.
+The offering is the tangible output of design systems. You might be familiar with them; component library, icon library, interface guidelines, principles, plugins, tokens, code library, and much more. How good the offering can be measured based on how much time saved if system users use the offering. The quantity of the offering can also contribute on how many touch point the design systems are supporting in product development.
 
 Offering in design systems tied deeply with the identity. Imagine creating a design direction for the icon, should the icon looks playful or elegant? This is where brand identity comes in. The clear company brand positioning and value proposition can help when building the offering.
 

@@ -57,7 +57,7 @@ body, html {
 	border-bottom: 2px solid var(--c--theme-fg);
 }
 
-.post-inner--body .markdown {
+.post-inner--body, .markdown {
 	p, ul, li {
 		margin-bottom: var(--l--space-s);
 		color: var(--c--theme-gray-02);

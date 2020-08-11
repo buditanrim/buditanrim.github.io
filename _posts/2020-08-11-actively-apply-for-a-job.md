@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/buditanrim-seo-01.jpg"
 ---
 
-I often grab a few minutes to update my resume and constantly talk with recruiter from other company. Sounds weird, right? It's not that I'm unhappy with my current role. But there are a lot of benefit from applying for a new job. Here are 3 reasons I'm doing it:
+I often grab a few minutes to update my resume and constantly talk with recruiter from other company. Sounds weird, right? It's not that I'm unhappy with my current role. But there are a lot of benefit from applying for a new job. Here are 4 reasons I'm doing it:
 
 ### Choose from best options, not the least worse options
 
@@ -34,6 +34,8 @@ When I apply for a new job, I'll start to think, "What impact that I've done so 
 ### Actively re-evaluate your value
 
 Have you ever wonder if you're being valued fairly? I think that's totally normal. Although this should not be your primary motivation in your career, you might think about it from time to time! When you apply and see the offer, you can remove that worry from your head. Maybe you're valued more in your current role, maybe not. Either way, you can definitely get this perspective.
+
+---
 
 It's okay to put yourself out there, but don't do it with an intention to always have a higher pay. Because that's not a good way to think about your career. I'd suggest to do this with an intention to get an outsider perspective and keep some good options in your back pocket in case you need it in the future.
 

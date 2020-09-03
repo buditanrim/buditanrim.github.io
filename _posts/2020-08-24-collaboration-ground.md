@@ -19,7 +19,7 @@ twitter-seo:
 
 How can we encourage people to contribute to design systems? That was a big question we had last year.
 
-I published a [medium article](medium-link) where I share our behind the scene, issues we found after creating design systems, and how we tackle them.
+I published a [medium article][medium-link] where I share our behind the scene, issues we found after creating design systems, and how we tackle them.
 
 {% include img-caption.html 
 url="/img/post/2020/08/bazaar-collab-ground.jpg" 
@@ -29,6 +29,6 @@ class="illustration medium nocaption" %}
 
 I hope this can be helpful for anyone who are maintaining design systems, as it may spark inspiration on how to increase contribution. Or, if your team is about to create design systems, this can help you anticipate before anything goes wrong.
 
-Go to the medium post: [https://medium.com/bukalapakproductdesign/collaboration-ground-for-design-systems-8bdb8983c114](medium-link)
+Go to the medium post: [https://medium.com/bukalapakproductdesign/collaboration-ground-for-design-systems-8bdb8983c114][medium-link]
 
-[medium link]: https://medium.com/bukalapakproductdesign/collaboration-ground-for-design-systems-8bdb8983c114
+[medium-link]: https://medium.com/bukalapakproductdesign/collaboration-ground-for-design-systems-8bdb8983c114

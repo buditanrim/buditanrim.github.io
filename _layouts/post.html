@@ -1,34 +1,47 @@
 {% include header.html %}
-<div id="post-inner" class="l--grid m-t-05 m-b-07 p-b-l">
-	<div class="post-inner--heading l--grid-narrow p-t-l mobile-p-t-xs m-b-m">
-			<p class="t--mono-02 m-b-s">{{page.date | date:'%b %d, %Y'}}</p>
-		{% if page.punchline %}
-			<h1 class="post-inner--title t--title-01-serif">{{page.title}}</h1>
-			<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-s p-r-l">{{page.subtitle}}</p>
-		{% else %}
-			<h1 class="post-inner--title t--title-01-serif m-b-s">{{page.title}}</h1>
-		{% endif %}
-			<!-- <p class="t--body-02">By <a href="/about">{{page.author}}</a></p> -->
-	</div>
-	<div class="l--grid-narrow b--bottom">
-		<div class="post-inner--body">
-			{{ content }}
-			<applause-button style="width: 48px; height: 48px; margin-top: 28px; margin-bottom: 12px; margin-left: -8px;" multiclap="true" color="red" />
-			</applause-button>
-			{% include share-post.html %}
+<div class="post container">
+	<div class="row p-t-l mobile-p-t-m">
+		<div id="post-inner" class="col-sm-12 col-md-12 col-lg-7 offset-lg-1 p-b-m mobile-p-b-xs order-lg-2">
+			<div class="post-inner--heading m-b-m">
+					<p class="t--mono-02 m-b-s">{{page.date | date:'%b %d, %Y'}}</p>
+				{% if page.punchline %}
+					<h1 class="post-inner--title t--title-01-serif">{{page.title}}</h1>
+					<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-s p-r-l">{{page.subtitle}}</p>
+				{% else %}
+					<h1 class="post-inner--title t--title-01-serif m-b-s">{{page.title}}</h1>
+				{% endif %}
+					<!-- <p class="t--body-02">By <a href="/about">{{page.author}}</a></p> -->
+			</div>
+			<div class="b--bottom m-b-s">
+				<div class="post-inner--body">
+					{{ content }}
+					<applause-button style="width: 48px; height: 48px; margin-top: 28px; margin-bottom: 12px; margin-left: -8px;" multiclap="true" color="red" />
+					</applause-button>
+					{% include share-post.html %}
+				</div>
+			</div>
+			{% include newsletter.html %}
 		</div>
-	</div>
-	<div class="l--grid-narrow m-t-l">
-			<p class="m-b-02 t--heading-02">Other recent posts</p>
-			{% assign posts = site.posts | where_exp:"post" ,"post.url != page.url" %}
-			{% for post in posts limit: 20 %}
-				{% include post-loop.html %}
+
+		<div class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1">
+			<div class="journal-panel--wrapper make-me-sticky">
+			{% for post in site.posts %}
+				{% assign currentyear = post.date | date: "%Y" %}
+					{% if currentyear != date %}
+					<h3 class="t--heading-01 p-b-01">{{ currentyear }}</h3>
+					{% assign date = currentyear %}
+				{% endif %}
+					<div class="m-b-xs post-row">
+						<p class="post-row--date t--mono-01 l--v-m clean-link">{{post.date | date: '%b %d'}}</p>
+						<p class="post-row--title t--body-01"><a href="{{ post.url }}" class=" t--color-primary l--v-m ">{{post.title}}</a></p>
+					</div>
 			{% endfor %}
+			</div>
 		</div>
-	<div class="l--grid-side p-l-04">
-		
 	</div>
-</div>
+</div> 
+
+
 	
 	{% include footer-bar.html %}
 	{% include script.html %}

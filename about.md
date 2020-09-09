@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Budi Tanrim's blog
+title: Bio
 description: Budi Tanrim's personal blog about design.
 id: about
 

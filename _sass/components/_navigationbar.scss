@@ -1,10 +1,10 @@
 .navigationBar {
   background-color: transparent;
+  font-family: var(--t--family-sans-serif);
 
   .logo {
-    img {
-      width: 140px;
-      height: 36px;
+    a {
+      font-weight: bold;
     }
   }
   .main-menu {

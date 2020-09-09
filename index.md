@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: Budi Tanrim's blog
+title: Journal
 description: Budi Tanrim's personal blog about design.
 
 image:

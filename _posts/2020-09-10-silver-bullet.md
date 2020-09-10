@@ -38,5 +38,4 @@ Just like a professional chess player, you should constantly reassess the situat
 
 To make yourself arrive at that turning point easier. You should believe, there is no silver bullet or steps that will always make your project successful.
 
-Once you can accept that, congratulations! Yet, it can feel uncomfortable. But, don’t worry, now you should lean toward principles instead of steps. Which I will cover in the next chapter.
-
+What I recommend is to start rely on principles instead of steps. Which I will cover in the next chapter.

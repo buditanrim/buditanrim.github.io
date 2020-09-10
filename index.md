@@ -2,6 +2,7 @@
 layout: post-index
 title: Journal
 description: Budi Tanrim's personal blog about design.
+id: index
 
 image:
  path: /img/seo/yellowstroke-seo.jpg

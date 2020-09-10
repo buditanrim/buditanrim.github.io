@@ -9,13 +9,16 @@ tags: entering product design
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/buditanrim-seo-01.jpg
+ path: /img/seo/entering-product-design-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/buditanrim-seo-01.jpg"
+ - "seo/entering-product-design-seo.jpg"
 ---
+
+_This is part of series: [entering product design](/2020/entering-product-design-overview)_ 
+{: .t--color-secondary}
 
 As a product designer, you will work as a team with an objective to empower the human with technology that will work for the business as well. If you notice, there are 3 important aspects there: human, technology, and business.
 

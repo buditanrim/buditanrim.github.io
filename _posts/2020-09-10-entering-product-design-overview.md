@@ -9,12 +9,12 @@ tags: entering product design
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/buditanrim-seo-01.jpg
+ path: /img/seo/entering-product-design-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/buditanrim-seo-01.jpg"
+ - "seo/entering-product-design-seo.jpg"
 ---
 
 Behind any great product, there's a team behind the scene who endlessly plans and thinks about how to improve the experience for the real customer and achieve value for the business.

@@ -1,5 +1,24 @@
 {% include header.html %}
-<div class="post container">
+
+<div class="post container d-lg-none">
+	<div class="row">
+		<div class="col-12">
+			{% for post in site.posts %}
+			{% assign currentyear = post.date | date: "%Y" %}
+				{% if currentyear != date %}
+				<h3 class="t--heading-04 p-b-01 p-t-04">{{ currentyear }}</h3>
+				{% assign date = currentyear %}
+			{% endif %}
+				{% include post-loop.html %}
+			{% endfor %}
+			<div class="m-t-l mobile-m-t-m">
+				{% include newsletter.html %}
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="post container d-none d-lg-block">
 	<div class="row p-t-l mobile-p-t-m">
 		{% for post in site.posts limit:1 %}
 		<div id="post-inner" class="col-sm-12 col-md-12 col-lg-7 offset-lg-1 p-b-m mobile-p-b-xs order-lg-2">
@@ -11,7 +30,6 @@
 				{% else %}
 					<h1 class="post-inner--title t--title-01-serif m-b-s">{{post.title}}</h1>
 				{% endif %}
-					<!-- <p class="t--body-02">By <a href="/about">{{page.author}}</a></p> -->
 			</div>
 			<div class="b--bottom m-b-s">
 				<div class="post-inner--body">

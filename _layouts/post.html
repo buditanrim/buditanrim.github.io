@@ -20,10 +20,22 @@
 					{% include share-post.html %}
 				</div>
 			</div>
+			<div class="d-lg-none">
+				<div class="col-12">
+					{% for post in site.posts %}
+					{% assign currentyear = post.date | date: "%Y" %}
+						{% if currentyear != date %}
+						<h3 class="t--heading-04 p-b-01 p-t-04">{{ currentyear }}</h3>
+						{% assign date = currentyear %}
+					{% endif %}
+						{% include post-loop.html %}
+					{% endfor %}
+				</div>
+			</div>
 			{% include newsletter.html %}
 		</div>
 
-		<div class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1">
+		<div class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 d-none d-lg-block">
 			<div class="journal-panel--wrapper make-me-sticky">
 			{% for post in site.posts %}
 				{% assign currentyear = post.date | date: "%Y" %}
@@ -40,8 +52,6 @@
 		</div>
 	</div>
 </div> 
-
-
 	
 	{% include footer-bar.html %}
 	{% include script.html %}

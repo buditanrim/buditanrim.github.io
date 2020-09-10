@@ -36,6 +36,6 @@ This is the biggest blocker for junior product designer to grow among others. Wh
 
 Just like a professional chess player, you should constantly reassess the situation based on the new context or new information you gain and fluidly alternate the next step accordingly. Imagine if a chess player follows certain steps, surely she will lose.
 
-To make yourself arrive at that turning point easier. You should believe, there is no silver bullet or steps that will always make your project successful.
+To make yourself arrive at that turning point easier. You should believe, there is no silver bullet or formula that will always make your project successful. In case you're wondering, what about Design Thinking have step: Understand, Define, Prototype, Test, Build? Yes, including that.
 
 What I recommend is to start rely on principles instead of steps. Which I will cover in the next chapter.

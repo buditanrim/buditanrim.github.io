@@ -34,8 +34,8 @@
 			{% include newsletter.html %}
 		</div>
 
-		<div class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 d-none d-lg-block">
-			<div class="journal-panel--wrapper make-me-sticky">
+		<div class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 d-none d-lg-block nice-scrollbar">
+			<div class="journal-panel--wrapper">
 			{% for post in site.posts %}
 				{% assign currentyear = post.date | date: "%Y" %}
 					{% if currentyear != date %}

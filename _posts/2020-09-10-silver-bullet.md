@@ -38,4 +38,4 @@ Just like a professional chess player, you should constantly reassess the situat
 
 To make yourself arrive at that turning point easier. You should believe, there is no silver bullet or formula that will always make your project successful. In case you're wondering, what about Design Thinking have step: Understand, Define, Prototype, Test, Build? Yes, including that.
 
-What I recommend is to start rely on principles instead of steps. Which I will cover in the next chapter.
+What I recommend is to start rely on principles instead of steps. Which I will cover in the [next chapter](/principles-over-steps).

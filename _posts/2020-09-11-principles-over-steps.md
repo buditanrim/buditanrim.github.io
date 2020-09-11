@@ -38,6 +38,8 @@ Now, let’s use Design Thinking as our example. As you read the word design thi
 
 On the other hand, if you’re an experienced product designer. You might think of the three core principles of design thinking: 1) Empathize and observe user, 2) Endless iteration, and 3) Radical collaboration. Or you might think of the three core consideration areas 1) Desirability, 2) Viability, and 3) Feasibility.
 
-When building a product, you should use those core principles to produce a product that desirable for customer to buy, viable for the legal and business, and feasible in the technology perspective. 
+When building a product, you should use those core principles to produce a product that desirable for customer to buy, viable for the legal and business, and feasible in the technology perspective.
+
+Just to be clear – there are a lot of principles and not just the three I mentioned above. The key is don't be a rigid product designer, your work is so different with engineers who have more certainty to build something with code. I'm not trying to underestimate the importance of engineers, but the nature of our work is different.
 
 I will unpack each principle and share a few tools you can use later in part 2 of this series. In the next chapter, I’d love to clear up a common misunderstanding about business.

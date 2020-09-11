@@ -217,7 +217,7 @@ a.neutral-link {
 
 // Utilities for color
 .t--color-primary { color: var(--c--theme-gray-01); }
-.t--color-secondary { color: var(--c--theme-gray-02); }
+.t--color-secondary { color: var(--c--theme-gray-02)!important; }
 .t--color-tetriary { color: var(--c--theme-gray-03); }
 .bold { font-weight: var(--t--weight-bold); }
 

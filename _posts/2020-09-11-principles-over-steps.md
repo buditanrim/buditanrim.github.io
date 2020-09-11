@@ -32,10 +32,12 @@ Imagine if you follow steps. If raining, step 1: take a shelter, step 2: wait, a
 
 There I loosely explained how principles help us in the real world scenario to make a better decision while allowing you to consider the larger picture. Principles will be your best friend as a product designer when working on a complex problem.
 
-Product designer must work with creativity and critical. You are not working in an assembly line and follow steps.
+Product designer must work creatively and critically. You are not working in a manufacture's assembly line and follow steps. You solve problems.
 
 Now, let’s use Design Thinking as our example. As you read the word design thinking, your head might picture the famous hexagons: understand, define, prototype, test, build. Beware that is a step. Like I emphasized before, you shouldn't merely follow steps without understanding the underlying principles. Unfortunately, many product designers are stuck with that step and unable to see beyond it.
 
 On the other hand, if you’re an experienced product designer. You might think of the three core principles of design thinking: 1) Empathize and observe user, 2) Endless iteration, and 3) Radical collaboration. Or you might think of the three core consideration areas 1) Desirability, 2) Viability, and 3) Feasibility.
 
-When building a product, you should use those core principles while considering the constraint. I will unpack each principle and share a few tools you can use later in part 2 of this series. In the next chapter, I’d love to clear up a common misunderstanding about business.
+When building a product, you should use those core principles to produce a product that desirable for customer to buy, viable for the legal and business, and feasible in the technology perspective. 
+
+I will unpack each principle and share a few tools you can use later in part 2 of this series. In the next chapter, I’d love to clear up a common misunderstanding about business.

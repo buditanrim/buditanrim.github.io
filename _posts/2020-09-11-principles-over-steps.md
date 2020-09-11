@@ -17,10 +17,7 @@ twitter-seo:
  - "seo/entering-product-design-ch-2-seo.jpg"
 ---
 
-This is part of series: [entering product design](/2020/entering-product-design-overview)
-{: .t--color-secondary}
-
-I hope you start to consider stopping looking for the perfect recipe or silver bullet. 
+Continuing with our series on [entering product design](/2020/entering-product-design-overview). I hope you start to consider stopping looking for the perfect recipe or silver bullet. 
 
 At this point, I suspect you wonder if you don’t follow steps, then what should you hang onto?
 

@@ -33,9 +33,9 @@ In that example, you assess the situation using the principles: avoid getting we
 
 Imagine if you follow steps. If raining, step 1: take a shelter, step 2: wait, and step 3: go home. On some occasions, that could be a good decision, but not always. If we don’t catch the last bus, we’ll be walking all night.
 
-Product designer must work with creativity and critical. You are not working in an assembly line and follow steps.
-
 There I loosely explained how principles help us in the real world scenario to make a better decision while allowing you to consider the larger picture. Principles will be your best friend as a product designer when working on a complex problem.
+
+Product designer must work with creativity and critical. You are not working in an assembly line and follow steps.
 
 Now, let’s use Design Thinking as our example. As you read the word design thinking, your head might picture the famous hexagons: understand, define, prototype, test, build. Beware that is a step. Like I emphasized before, you shouldn't merely follow steps without understanding the underlying principles. Unfortunately, many product designers are stuck with that step and unable to see beyond it.
 

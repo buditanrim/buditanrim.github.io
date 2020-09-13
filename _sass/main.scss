@@ -245,13 +245,15 @@ body, html {
 }
 .photo.jpn,
 .photo.allhands,
-.photo.self {
+.photo.self,
+.photo.stoqo {
 	background-size: cover;
 	background-position: 50% 50%;
 }
 .photo.self {background-image: url(/img/asset/buditanrim-portrait.jpg);}
 .photo.jpn {background-image: url(/img/asset/about-japan-travel.jpg);}
 .photo.allhands {background-image: url(/img/asset/about-all-hands.jpg);}
+.photo.allhands {background-image: url(/img/asset/about-stoqo.jpg);}
 
 // Sidebar on journal
 

@@ -9,12 +9,12 @@ tags: entering product design
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/entering-product-design-ch-2-seo.jpg
+ path: /img/seo/entering-product-design-ch-3-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/entering-product-design-ch-2-seo.jpg"
+ - "seo/entering-product-design-ch-3-seo.jpg"
 ---
 
 Before we talk about anything else, I think it’s essential to address the typical misunderstanding of business upfront. My goal of this writing is to share a perspective on why so-called business-centric happens in the company.

@@ -29,7 +29,7 @@ I once hated the word “business.” I thought product designer must focus on m
 
 Apparently, that’s not the case.
 
-What human-centered practice is suggesting is human first, not human only. You should observe and understand the customer to find the underlying problem, so you can build a product that is more likely for customer to use or buy your product. While still considering all other factors: viability for business, finance, and legal and feasibility for technology to build it within a constraint.
+Human-centered practice is suggesting human first, not human only. You should observe and understand the customer to find the underlying problem, so you can build a product that is more likely for customer to use or buy your product. While still considering all other factors: viability for business, finance, and legal and feasibility for technology to build it within a constraint.
 
 Human first. Not human only.
 

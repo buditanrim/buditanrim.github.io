@@ -74,8 +74,6 @@ Also, a strong crafter doesn’t fall in love with their artifacts. They underst
 ### Communication
 Last but not least. The communication – which is the ability to articulate your thought or thinking, so the other person you’re working with can get your point. 
 
-We’ll unpack a lot of techniques like storytelling or expressing your disagreement.
-
-The communication will greatly influence your presence as a product designer within the team.
+We’ll unpack a lot of techniques like storytelling or expressing your disagreement. The communication will greatly influence your presence as a product designer within the team.
 
 

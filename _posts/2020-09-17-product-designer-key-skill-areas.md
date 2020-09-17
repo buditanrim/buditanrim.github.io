@@ -38,7 +38,7 @@ For example: whether the product designer can adapt in the environment, comforta
 
 A creative mindset is what sets a senior product designer apart from a junior product designer. When a product designer has this creative mindset, she will be able to have the proper attitude, which will help her grow other skill areas continuously.
 
-There are many mindsets we will uncover as we go in this series. In the first chapter, we touched that a strong product designer doesn’t think linearly in the sense of steps to give you an example.
+There are many mindsets we will uncover as we go in this series. In the [first chapter](/2020//principles-over-steps), we touched that a strong product designer doesn’t think linearly in the sense of steps to give you an example.
 
 ### Framework thinking
 After you work as a product designer, you will realize how messy the process to build and iterate a product or an experience for a customer.

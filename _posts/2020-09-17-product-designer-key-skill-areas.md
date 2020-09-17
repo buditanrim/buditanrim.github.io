@@ -27,7 +27,9 @@ I’d argue that the strong product designer must 1) have a _creative mindset_ t
 <br/>
 You can refer to this model to plan on which area you’re interested in improving, which I will unpack and dive deeper into each skill area.
 
-The stronger the product designer in these five areas, the bigger the influence area would be and, eventually, to solve more complex problems than before. 
+The stronger the product designer in these five areas, the bigger the influence area would be and, eventually, to solve more complex problems than before.
+
+---
 
 ### Creative mindset
 The first area will be the creative mindset – that is, a perspective a product designer has toward a specific condition and respond it with the proper attitude.

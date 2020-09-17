@@ -35,8 +35,6 @@ The stronger the product designer in these five areas, the bigger the influence 
 ### Creative mindset
 The first area will be the creative mindset – that is, a perspective a product designer has toward a specific condition and respond it with the proper attitude.
 
-If you have a creative mindset, the easier you will grow yourself in the other area.
-
 For example: whether the product designer can adapt in the environment, comfortable navigating through ambiguity, the eagerness to learn from the mistakes, or how persistence she will be in the situation.
 
 A creative mindset is what sets a senior product designer apart from a junior product designer. When a product designer has this creative mindset, she will be able to have the proper attitude, which will help her grow other skill areas continuously.
@@ -57,9 +55,7 @@ The more lenses you have, the more you can see.
 When you observe yourself struggle to have an abstract discussion, it is one indication that you want to consider to improve this area.
 
 ### Collaboration
-Collaboration is the ability to move with the team toward the desired outcome as a unit. 
-
-The collaborative product designer can take a wide multidisciplinary perspective to bring alignment to the team so that they can move faster.
+Collaboration is the ability to move with the team toward the desired outcome as a unit. The collaborative product designer can take a wide multidisciplinary perspective to bring alignment to the team so that they can move faster.
 
 The inexperienced product designer will work alone or have a lot of walls throughout their process. They are resulting a slower pace of working and higher misalignment of the work from the objectives. In contrast, a strong product designer will break those walls. They co-create with various stakeholders or even users intensely to move as a unit toward the desired outcome.
 
@@ -78,5 +74,7 @@ Also, a strong crafter doesn’t fall in love with their artifacts. They underst
 Last but not least. The communication – which is the ability to articulate your thought or thinking, so the other person you’re working with can get your point. 
 
 We’ll unpack a lot of techniques like storytelling or expressing your disagreement. The communication will greatly influence your presence as a product designer within the team.
+
+That's the overview of the model that we'll explore throughout this series. Stay tuned for the next chapter!
 
 

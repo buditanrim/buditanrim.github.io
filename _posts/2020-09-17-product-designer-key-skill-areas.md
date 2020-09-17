@@ -23,12 +23,6 @@ I want to introduce the key skill areas of what makes a product designer. I will
 
 I’d argue that the strong product designer must 1) have a _creative mindset_ to guide their actions and attitudes, 2) expanding _framework thinking_ to structurize thinking and connect the dots, 3) have a strong _craftmanship_ to  produce artifacts, 4) able to _collaborate_ so your team can move as a unit, and 5) be an excellent _communicator_ to articulate your decision or thinking.
 
-{% include img-caption.html 
-url="/img/post/2020/05/coach-sheet.png" 
-url-2="/img/post/2020/05/coach-sheet.png" 
-alt="Coach sheet preview" 
-class="no-caption img-large" %}
-
 <img src="/img/entering-product-design/key-skill-areas-model.jpg" alt="Key skill areas for product designers" class="l--center m-t-s">
 
 <br/>

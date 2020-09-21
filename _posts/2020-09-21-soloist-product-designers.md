@@ -36,15 +36,16 @@ I would label this attitude as a soloist product designers where the product des
 
 **A limited perspective baked into the work**, resulting in a weak outcome. As I mentioned before, your product must be valuable, feasible, and viable. And it's rare that we, product designers, will have the expertise to make the right decisions in those three aspects.
 
+---
 
 ### What to do
 You can start small. You can start to invite at least the researcher or content strategist and explore a specific problem or a question.
 
 I’d always encourage the designer to sit together in front of the whiteboard and start thinking together. In that session, you will begin to exercise how to frame a question and explore it together. You will practice how to challenge each other. Or visualize your thinking together, which is important.
 
-For example, invite an engineer if you want to explore corner cases. Spend ten minutes and you'll blown away by how many corner cases or logic she will bring to you.
+Try this, invite an engineer if you want to explore corner cases. Spend ten minutes and you'll blown away by how many corner cases or logic she will bring to you.
 
-Question for you: 
+### Question for you: 
 - Which part of your work that you can invite others to give perspective and lead to a better decision?
 - Who would be the best person to give that perspective?
 - Are you a soloist or a collaborator?

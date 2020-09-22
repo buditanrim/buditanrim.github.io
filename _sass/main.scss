@@ -35,6 +35,10 @@ body, html {
 	}
 }
 
+::selection {
+	background: var(--c--theme-highlight);
+}
+
 //newsletter
 .newsletter--input {
 	padding: 12px 16px;

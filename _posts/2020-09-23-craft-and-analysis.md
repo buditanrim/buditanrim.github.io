@@ -25,7 +25,7 @@ Putting a yellow color onto the canvas is not hard. But why yellow?
 
 Typing words is not hard. But why do I need this paragraph?
 
-The craft and the analysis. The output and the rationale. The making and the thinking. There is an essential relationship between them yet often disconnected.
+The craft and the analysis. The output and the rationale. The eye and the hand. The making and the thinking. There is an essential relationship between them yet often disconnected.
 
 To explain the relationship, I love to borrow a painter as an example. Painters are a great observer and interpreter of real life. They render their observation into a painting piece. Some will render it close to the real world, while others put abstractions to it.
 

@@ -9,12 +9,12 @@ tags: writing, tips
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/buditanrim-seo-01.jpg
+ path: /img/seo/writing-make-sense.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/buditanrim-seo-01.jpg"
+ - "seo/writing-make-sense.jpg"
 ---
 
 Here's a small suggestion: Write down the story of your project.

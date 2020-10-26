@@ -39,7 +39,6 @@ As a starter, try this:
     <img src="/img/post/2020/10/writing-design-story.jpg" alt="Writing illustration buditanrim" class="illustration small" />
 </div>
 <media:content url="/img/post/2020/10/writing-design-story.jpg" medium="image" />
-<media:thumbnail url="/img/post/2020/10/writing-design-story.jpg" medium="image" width="800" height="400" />
 
 Sometimes, I feel like, "Oh, if discuss this hypothesis earlier in the project, we would be in the better place now."
 

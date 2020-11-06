@@ -18,6 +18,7 @@
 	--c--gray-80: #333333;
 	--c--gray-90: #222222;
 	--c--bg-warm: #F5F3EB;
+	--c--brown: #E7D9CC;
 }
 
 // Light theme
@@ -43,6 +44,7 @@
 	// ini ditambah
 }
 
+
 // Border color
 .c--border-inverse { border-color: var(--c--theme-bg); }
 .c--border-medium { border-color: var(--c--theme-gray-04); }
@@ -56,3 +58,56 @@
 #about body {
 	background: var(--c--theme-bg-warm);
 }
+
+.beige {
+	background: var(--c--bg-warm);
+}
+.brown {
+	background: var(--c--brown)
+}
+.soft-gray {
+	background: var(--c--gray-20);
+}
+
+.stone {
+	background: #212A37;
+}
+
+.black-bg {
+	background: #000;
+}
+
+.black-bg, .dark-bg {
+	color: #fff;
+
+	::selection {
+		background: #37359C;
+	}
+
+	.t--heading-01,
+	.t--heading-02,
+	.t--heading-03,
+	.t--heading-04,
+	.t--title-01,
+	.t--title-02,
+	.t--subtitle-01,
+	.t--body-01,
+	.t--body-02,
+	.t--body-03,
+	.t--body-04,
+	.t--caption-01
+	.t--heading-01-serif,
+	.t--heading-02-serif,
+	.t--heading-03-serif,
+	.t--heading-04-serif,
+	.t--title-01-serif,
+	.t--title-02-serif,
+	.t--caption-01 {
+		color: #fff;
+	}
+
+	.t--eyebrow, {
+		color: #dddddd;
+	}
+}
+

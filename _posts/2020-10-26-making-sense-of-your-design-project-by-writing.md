@@ -36,11 +36,11 @@ As a starter, try this:
 - How is this useful for the company?
 
 <div class="img-wrapper m-b-m">
-    <img src="/img/post/2020/10/writing-design-story.jpg" alt="Writing illustration buditanrim" class="illustration small" />
+    <img src="https://buditanrim.co/img/post/2020/10/writing-design-story.jpg" alt="Writing illustration buditanrim" class="illustration small" />
 </div>
-<media:content url="/img/post/2020/10/writing-design-story.jpg" medium="image" />
+<media:content url="https://buditanrim.co/img/post/2020/10/writing-design-story.jpg" medium="image" />
 
-Sometimes, I feel like, "Oh, if discuss this hypothesis earlier in the project, we would be in the better place now."
+Sometimes, I feel like, "Oh, if we discuss this hypothesis earlier in the project, we would be in the better place now."
 
 You should write, even if the project has just begun or already progressing.
 

@@ -216,3 +216,14 @@
     .mobile-p-r-l { padding-right: var(--l--space-l); }
     .mobile-p-r-xl { padding-right: var(--l--space-xl); }
 }
+
+
+.section-space {
+    padding-top: var(--l--space-xxl);
+    padding-bottom: var(--l--space-xxl);
+}
+
+.section-space-airy {
+    padding-top: var(--l--space-120);
+    padding-bottom: var(--l--space-120);
+}

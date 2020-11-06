@@ -23,7 +23,7 @@ As designers, our portfolio speaks the volume. The recruiter won't care about yo
 
 So, if you have to find another job tomorrow, are you ready?
 
-This train of thought is not to endorse you to move to another job. Instead, it encourages you to reflect continuously and not be in the comfort zone.
+This train of thought is not to endorse you to move to another job. Instead, it encourages you to reflect continuously and not be in the comfort zone. It gives you motivation to start preparing. Most importantly, you should start re-evaluate your impact in your current role.
 
 <div class="img-wrapper m-b-m">
     <img src="https://buditanrim.co/img/post/2020/11/find-another-job.jpg" alt="mouse illustration" class="illustration small" />

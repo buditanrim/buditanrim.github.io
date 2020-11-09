@@ -12,5 +12,3 @@ image:
  height: 228
  alt: Bazaar Design System Cover
 ---
-
-tasdasd

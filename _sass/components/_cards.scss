@@ -1,3 +1,32 @@
+.equal-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+
+  &> [class*="col-"] > .card,
+  &> [class*="col-"] > div {
+  	-webkit-box-flex: 1;
+    -ms-flex: 1 0 0%;
+    flex: 1 0 0%;
+    height: 100%;
+  }
+}
+
+
+.card {
+	background: var(--c--theme-bg);
+	padding: 28px;
+
+	&-heading {
+		max-width: 460px;
+	}
+
+	img {
+		display: block;
+	}
+}
+
 .card-insight {
 	
 }

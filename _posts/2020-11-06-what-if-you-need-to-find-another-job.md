@@ -4,8 +4,8 @@ title: "What if you need to find another job tomorrow?"
 punchline: true
 description: "Are you prepared?"
 date: 2020-11-06 08:30:00 +0700
-categories: writing
-tags: provoking
+categories: career
+tags: provoking, portfolio
 author: "Budi Tanrim"
 
 image:

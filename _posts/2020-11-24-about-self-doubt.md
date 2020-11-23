@@ -19,7 +19,7 @@ twitter-seo:
 
 I have self-doubt.
 
-Sometimes, I wonder if I'm a good designer. Or in my current role, I wonder if I already do my best to put down the strategy and setting up the environment for the team's success.
+Sometimes, this small voice in my head makes me think if I'm a good designer. Or in my current role, I wonder if I already do my best to put down the strategy and setting up the environment for the team's success.
 
 The thing about self-doubt is it's often seen as a negative concept. When I have self-doubt, it's really annoying. But thanks to that feeling, I know what I need to improve. When I'm improved, it's gratifying.
 
@@ -27,7 +27,7 @@ I believe that all the best and effective designers always have had experienced 
 
 If you have self-doubt, maybe that's necessary. We're all, human, after all.
 
-Self-doubt can turn into a rewarding improvement if you hang onto it and face it. Not running away from it.
+Self-doubt can turn into a rewarding improvement or a motivation if you hang onto it and face it. Not running away from it.
 
 <div class="img-wrapper m-b-m">
     <img src="https://buditanrim.co/img/post/2020/11/about-self-doubt.jpg" alt="self doubt illustration" class="illustration small"/>

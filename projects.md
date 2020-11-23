@@ -2,6 +2,7 @@
 layout: project-index
 title: Projects
 description: Budi Tanrim's personal blog about design.
+id: project
 
 image:
  path: /img/seo/yellowstroke-seo.jpg

@@ -15,15 +15,12 @@
     li {
       align-items: baseline;
       list-style-type: none;
-      &:first-child { margin-left: -12px; }
-    }
-    li a {
-      padding: 16px 12px;
+      padding: 16px 10px;
       display: block;
       font-size: 16px;
+      &:first-child { margin-left: -12px; }
     }
   }
-  
 }
 
 @media (max-width: 800px) {

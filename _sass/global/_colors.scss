@@ -24,6 +24,7 @@
 // Light theme
 .c--theme-light {
 	--c--theme-bg: var(--c--white); // Background
+	--c--theme-inverse: var(--c--white); // Putih
 	--c--theme-bg-warm: var(--c--bg-warm); // Background light warm
 	--c--theme-fg: var(--c--gray-90); // Inverse border
 	--c--theme-gray-01: var(--c--gray-90); // Primary text, Headings

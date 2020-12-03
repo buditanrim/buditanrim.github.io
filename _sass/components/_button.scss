@@ -13,6 +13,8 @@ button {
 
 
 // Component - Button primary
+[class*="btn-"] { font-family: var(--t--family-sans-serif); }
+
 .btn {
 	&-large {
 		padding: 8px 24px;
@@ -27,6 +29,7 @@ button {
 	&-primary {
 		background-color: var(--c--theme-primary-01);
 		border-radius: var(--l--border-radius-02);
+		font-family: var(--t--family-sans-serif);
 		border: none;
 
 		&:hover {

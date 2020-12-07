@@ -43,3 +43,18 @@
   }
 }
 }
+
+.dark-opening .navigationBar-wrapper {
+  background: #000;
+
+  .logo {
+    a { color: white; }
+  }
+  .main-menu > li > a {
+    color: white;
+    opacity: .8;
+  }
+  .main-menu > li > a:hover {
+    opacity: 1;
+  }
+}

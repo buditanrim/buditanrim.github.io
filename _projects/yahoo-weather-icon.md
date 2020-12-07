@@ -2,7 +2,7 @@
 layout: portfolio-yahoo-weather
 title: Yahoo Weather Icons
 
-description: Glanceable icon set to answer, "What's the weather?"
+description: Gloomy morning. Rainy day. A glance at the phone to answer what's the weather this evening?
 client: Yahoo
 year: 2020
 order: 5

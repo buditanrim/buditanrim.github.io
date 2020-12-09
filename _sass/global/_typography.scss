@@ -75,6 +75,11 @@
 }
 
 @media (max-width: 880px) {
+	.t--big-title-01,
+	.t--big-title-02 {
+		font-size: var(--t--size-08);
+		line-height: var(--t--leading-e-08);
+	}
 	.t--title-01 {
 		font-size: var(--t--size-08);
 		line-height: var(--t--leading-e-08);
@@ -152,8 +157,8 @@ h1 {
 // ------------------------
 // Eyebrow
 // ------------------------
-.t--eyebrow-blue,
-.t--eyebrow {
+.t--eyebrow,
+[class*="t--eyebrow"] {
 	font-size: 14px;
 	line-height: 20px;
 	font-family: var(--t--family-sans-serif);
@@ -161,6 +166,9 @@ h1 {
 }
 .t--eyebrow-blue {
 	color: var(--c--theme-interactive-01);
+}
+.t--eyebrow-crimson {
+	color: #E41F54;
 }
 .t--mono-02 {
 	font-size: var(--t--size-03);
@@ -234,6 +242,13 @@ h1, h2, h3, h4, h5 {
 	color: var(--c--theme-gray-03);
 	font-family: var(--t--family-mono);
 }
+
+
+// ------------------------
+// Text color
+// ------------------------
+
+.c--crimson { color: #E41F54; }
 
 // ------------------------
 // Link

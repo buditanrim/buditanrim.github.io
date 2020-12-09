@@ -1,3 +1,8 @@
 .rounded-1 { border-radius: 4px; }
 .rounded-2 { border-radius: 8px; }
 .rounded-3 { border-radius: 12px; }
+
+.b--top { border-top-width: 1px; border-top-style: solid; }
+.b--bottom { border-bottom-width: 1px; border-bottom-style: solid; }
+.border {border: 1px solid var(--c--theme-gray-06);}
+.border-medium {border: 1px solid var(--c--theme-gray-05);}

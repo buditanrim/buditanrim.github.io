@@ -45,15 +45,10 @@
 	// ini ditambah
 }
 
-
 // Border color
 .c--border-inverse { border-color: var(--c--theme-bg); }
 .c--border-medium { border-color: var(--c--theme-gray-04); }
 .c--border-light { border-color: var(--c--theme-gray-05); }
-.b--top { border-top-width: 1px; border-top-style: solid; }
-.b--bottom { border-bottom-width: 1px; border-bottom-style: solid; }
-.border {border: 1px solid var(--c--theme-gray-06);}
-.border-medium {border: 1px solid var(--c--theme-gray-05);}
 
 // Background
 #about body { background: var(--c--theme-bg-warm); }

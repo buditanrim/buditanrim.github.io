@@ -22,12 +22,15 @@ I've been actively updating my portfolio and felt a massive benefit from it. I'm
 ### Evaluate your approach
 Creating a case study forces us to explain the high-level approach we took. It's an opportunity to revisit it and prepare to improve for your next project. What could be done better next time? Why did we work on this project? How did we know if we work on the right problem?
 
-###Evaluate your decision making
+### Evaluate your decision making
 During the project, we could make an arbitrary decision without realizing it. Building a case study forces us to explain the why behind our decisions. It helps us identify which area we lack. For example, when I worked on my case study about design system, I realized we decided to go with the whiteboard session as the solution because it is our favorite way to discuss. But nothing more than that, we didn't even explore many other possibilities. Even though the outcome was great, I'd love it if we could think it through to ensure we didn't miss anything.
 
-###Evaluate your impact
+### Evaluate your impact
 After we finished a project, we move on to the next project. Sometimes forget about the outcome we make for the customer and the business. Building a portfolio forces us to ask: What was the impact of this project? Did we intentionally measure the impact? Did we measure the right one? I have become more and more conscious of the impact on my next project.
 
 ---
 
 What I find interesting is to make the case study while we work on the project instead of waiting for the project to be finished and recall everything. I think it's a huge benefit to creating that narrative along the way. It forces us to always ask the hard question like, *Why we are doing this?*
+
+Twitter thread:
+https://twitter.com/buditanrim/status/1340507644503572480

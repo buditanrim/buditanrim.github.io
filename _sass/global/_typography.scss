@@ -138,7 +138,7 @@ h1 {
 
 .t--body-01 {
 	font-size: var(--t--size-02);
-	line-height: var(--t--leading-p-02);	
+	line-height: var(--t--leading-p-02);
 }
 .t--body-02 {
 	font-size: var(--t--size-04);
@@ -152,6 +152,12 @@ h1 {
 .t--lede {
 	font-size: var(--t--size-06);
 	line-height: var(--t--leading-e-07);
+}
+
+.t--caption-01 {
+	font-size: var(--t--size-02);
+	line-height: var(--t--leading-p-02);
+	font-style: italic;
 }
 
 // ------------------------

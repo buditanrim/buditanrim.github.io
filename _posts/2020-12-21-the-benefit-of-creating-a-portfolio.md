@@ -30,7 +30,7 @@ After we finished a project, we move on to the next project. Sometimes forget ab
 
 ---
 
-What I find interesting is to make the case study while we work on the project instead of waiting for the project to be finished and recall everything. I think it's a huge benefit to creating that narrative along the way. It forces us to always ask the hard question like, *Why we are doing this?*
+What I find interesting is to make the case study while we work on the project instead of waiting for the project to be finished and recall everything. I think it's a huge benefit to creating that narrative along the way. It forces us to always ask the hard question like, *Why are we doing this?*
 
 Twitter thread:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been actively making a portfolio and receive a huge benefit of making one. I want to share a few benefits and encourage everyone to start one. <br><br>It forces you to ask the hard questions: <br>🔹Why did we work on this project? <br>🔹What was the impact?<br><br>(Thread) <a href="https://t.co/lTU5KD9x57">pic.twitter.com/lTU5KD9x57</a></p>&mdash; Budi Tanrim ✏️Writing books (@buditanrim) <a href="https://twitter.com/buditanrim/status/1340507644503572480?ref_src=twsrc%5Etfw">December 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

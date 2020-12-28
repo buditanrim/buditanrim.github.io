@@ -7,9 +7,9 @@
 //   name: "Vocabulary animation hero" // Name for future reference. Optional.
 // })
 
-$(function(){
+$(window).on("load", function() {
   $(".twenty-slider").twentytwenty({
-  	default_offset_pct: 0.4, // How much of the before image is visible when the page loads
+    default_offset_pct: 0.4, // How much of the before image is visible when the page loads
     orientation: 'horizontal', // Orientation of the before and after images ('horizontal' or 'vertical')
     before_label: 'Before', // Set a custom before label
     after_label: 'After', // Set a custom after label

@@ -234,7 +234,11 @@ h1, h2, h3, h4, h5 {
 	color: var(--c--theme-gray-02);
 	font-family: var(--t--family-slab);
 }
-
+.t--body-03,
+.t--body-04 {
+	color: var(--c--theme-gray-01);
+	font-family: var(--t--family-sans-serif);
+}
 
 .t--title-02,
 .t--subtitle-01 { 

@@ -23,6 +23,9 @@
     padding-left: 24px;
     padding-right: 24px;
   }
+  .hidden-sm {
+    display: block;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -54,28 +57,41 @@
 // Gutter
 @media (min-width: 768px) {
   // Small 24 -- 12+12
-  .gutter-s > [class*="col-"] > div {
-    margin-left: 12px;
-    margin-right: 12px;
+  $gutter-small: 12px;
+  $gutter-medium: 20px;
+
+  .gutter-s {
+    margin-left: -12px;
+    margin-right: -12px;
   }
-  .gutter-s > [class*="col-"]:first-child > div {
-     margin-left: 0px
+  .gutter-s > [class*="col-"] > * {
+    margin-left: $gutter-small;
+    margin-right: $gutter-small;
   }
-  .gutter-s > [class*="col-"]:last-child > div {
-     margin-right: 0px
-  }
+  // .gutter-s > [class*="col-"]:first-child > * {
+  //    margin-left: 0px;
+  //    margin-right: 12px;
+  // }
+  // .gutter-s > [class*="col-"]:last-child > * {
+  //    margin-right: 0px;
+  //    margin-left: 12px;
+  // }
 
   // Medium 40 -- 20+20
-  .gutter-m > [class*="col-"] > div {
-    margin-left: 20px;
-    margin-right: 20px;
+  .gutter-m {
+    margin-left: -20px;
+    margin-right: -20px;
   }
-  .gutter-m > [class*="col-"]:first-child > div {
-     margin-left: 0px
+  .gutter-m > [class*="col-"] > * {
+    margin-left: $gutter-medium;
+    margin-right: $gutter-medium;
   }
-  .gutter-m > [class*="col-"]:last-child > div {
-     margin-right: 0px
-  }
+  // .gutter-m > [class*="col-"]:first-child > div {
+  //    margin-left: 0px
+  // }
+  // .gutter-m > [class*="col-"]:last-child > div {
+  //    margin-right: 0px
+  // }
 }
 
 

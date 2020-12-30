@@ -8,7 +8,7 @@ order: 8
 permalink: /bukalapak-human-centered-practice/
 image:
  path: /img/project/rectangle-1.png
- width: 406
- height: 228
+ height: 630
+ width: 1200
  alt: Bazaar Design System Cover
 ---

@@ -11,8 +11,8 @@ gif: false
 
 image:
  path: /img/project/bukalapak-design-language-seo.jpg
- width: 406
- height: 228
+ height: 630
+ width: 1200
  alt: Bazaar Design System Cover
 twitter-seo: 
  - "seo/bukalapak-design-language-seo.jpg"

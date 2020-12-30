@@ -17,12 +17,14 @@ twitter-seo:
  - "seo/buditanrim-seo-01.jpg"
 ---
 
-I recently talked with a group of designers and researchers. In that conversation, they expressed the frustration of why their team is not really listening to their research finding and suggestion.
+I recently talked with a group of designers and researchers. They expressed the frustration of why their team is not really listening to their research finding and suggestion.
 
-Based on my experience working in APAC, not all companies value user experience as their priority when making decisions. Naturally, the culture reinforces people to make decisions and prioritize what beneficial for the business. Unfortunately, despite the importance of user experience for the sustainability of the business — it is really hard to see the result in the short term.
+Not all companies value user experience as their priority when making decisions. Naturally, the culture reinforces people to make decisions and prioritize what beneficial for the business. Then the frustration emerges when the team not solving any real customer problem.
 
-With this in mind, we can't sell the design. Meaning, we can't say to people how important it is for the user. What I find effective is to translate those to business language.
+With this in mind, we can’t sell the design. Meaning, we can’t say to people how important it is for the user. What I find effective is to translate those into business language.
 
-For example, instead of saying: If we don't fix this, our users can't track their payment really well. Try to insert the business perspective: If we don't help our users to track their payment, this can create confusion and cost us $200,000 per year of customer support contacts. The latter is not a guarantee but more likely to catch their attention.
+For example, instead of saying: If we don’t fix this, our users can’t track their payment really well. Compare it to this: If we don’t help our users to track their payment, this can create confusion and cost us $200,000 per year of customer support contacts. The latter is likely to catch people's attention.
+
+In the business activity, it's either increasing revenue, maintain revenue, reduce cost, or avoid the cost.
 
 What business impact resulted in your project?

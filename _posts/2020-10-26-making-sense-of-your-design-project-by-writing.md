@@ -21,16 +21,16 @@ Here's a small suggestion: Write down the story of your project.
 
 By writing, you're making sense of things.
 
-You untangled what is on your head and make it explicit.
+You will untangle what is on your head and make it explicit.
 
-As you do it, you might be in this scenario: there is something you think you know in your head, but later you realize you know so little about it after you write. This is great, because you started to realize what's clear and unclear about this project.
+As you do it, you might be in this scenario: there is something you think you know in your head, but later, you realize you know so little about it after you write. This is great because you started to realize what's clear and unclear about this project.
 
 Writing helps you navigate. Therefore, increase success in your project.
 
 As a starter, try this:
 - Why did your team start it in the first place?
 - Who is the target audience?
-- What is the customer problem?
+- What is the customer problem we're trying to solve?
 - What data do we have to back up this argument?
 - Why is this worth solving?
 - How is this useful for the company?
@@ -40,7 +40,7 @@ As a starter, try this:
 </div>
 <media:content url="https://buditanrim.co/img/post/2020/10/writing-design-story.jpg" medium="image" />
 
-Sometimes, I feel like, "Oh, if we discuss this hypothesis earlier in the project, we would be in the better place now."
+Sometimes, I feel like, "Oh, if we discuss this hypothesis earlier in the project, we would be in a better place now."
 
 You should write, even if the project has just begun or already progressing.
 

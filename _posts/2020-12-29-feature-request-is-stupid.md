@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A feature request is stupid"
+title: "Feature requests are stupid activity"
 punchline: true
 description: "The problem with feature requests is that the team can't pivot even if they found it does not solve customer problems. "
 date: 2020-12-30 08:30:00 +0700
@@ -25,10 +25,10 @@ The problem with feature requests is that the team can't pivot even if they foun
 
 The team will focus on the output instead of the outcome. They will start to celebrate success when they deliver features instead of delivering value to the customer.
 
-The feature request is stupid.
+The feature request is stupid as a culture and as a business activity.
 
-The alternative is to set the objective, not hand down the solution. If you're a leader, you should be strategic, communicate the vision, and remember you don't always right. Your feature request is probably not going to solve any problems, especially when there is no validation or concrete data to prove your hypothesis.
+But why does the company's leader fall into this mindset? That's for another time.
 
-Feature request is mostly a hypothesis. It's stupid to invest and execute it right away. You're gambling.
+The alternative is to set the objective, not hand down the solution. Leaders should be strategic, communicate the vision, define the strategic intent, and remember you don't always right. Allow the team on the ground to explore and do some experimentation. Feature request is mostly a hypothesis. Don't invest and execute it right away. You're gambling.
 
 Set the objective. Give space to discover unknown unknowns. Focus on the outcome, not the output.

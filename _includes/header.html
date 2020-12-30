@@ -3,6 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<title>{{site.title}} - {{page.title}} </title>
+	<meta name="title" content="{{site.title}} - {{page.title}}">
+	<meta name="description" content="{{page.description}}">
+
 	<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 	<link href="https://fonts.googleapis.com/css2?family=Noticia+Text:wght@400;700&family=Roboto+Mono&family=Inter:wght@500;700&family=Roboto+Slab:wght@400;700&display=swap" rel="stylesheet">
@@ -18,7 +21,7 @@
 	<!-- Android icon -->
 	<link rel="icon" sizes="192x192" href="/img/app-icon/touch-icon-android-hd.png">
 	<link rel="icon" sizes="128x128" href="/img/app-icon/touch-icon-android.png">
-	
+
 	{% seo %}
 
 	{% for twitter-seo in page.twitter-seo %}

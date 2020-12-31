@@ -1,14 +1,14 @@
 ---
 layout: project-index
 title: Projects
-description: Budi Tanrim's personal blog about design.
+description: Head of Design at Bukalapak and human-centered practicioner
 id: project
 
 image:
- path: /img/seo/yellowstroke-seo.jpg
+ path: /img/seo/buditanrim-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo:
- - "seo/yellowstroke-seo.jpg"
+ - "seo/buditanrim-seo.jpg"
 ---

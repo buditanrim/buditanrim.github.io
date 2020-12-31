@@ -31,6 +31,8 @@
 	{% endfor %}
 
 	{% include google-analytics.html %}
+	{% include google-tag-manager.html %}
+
 	<script>
 	(function(h,e,a,t,m,p) {
 	m=e.createElement(a);m.async=!0;m.src=t;
@@ -47,5 +49,6 @@
 	{% endif %} -->
 </head>
 <body class="c--theme-light">
+	{% include google-tag-noscript.html %}
 <!-- Navigation Bar Component -->
 {% include navigationbar.html %} 

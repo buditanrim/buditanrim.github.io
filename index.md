@@ -1,14 +1,14 @@
 ---
 layout: post-index
-title: Journal
-description: Budi Tanrim's personal blog about design.
+title: Budi Tanrim
+description: Head of Design at Bukalapak and Human-centered practicioner
 id: index
 
 image:
- path: /img/seo/yellowstroke-seo.jpg
+ path: /img/seo/buditanrim-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo:
- - "seo/yellowstroke-seo.jpg"
+ - "seo/buditanrim-seo.jpg"
 ---

@@ -31,7 +31,7 @@
 					<h1 class="post-inner--title t--title-01-serif m-b-s">{{post.title}}</h1>
 				{% endif %}
 			</div>
-			<div class="b--bottom m-b-s">
+			<div class="m-b-s">
 				<div class="post-inner--body">
 					{{ post.content }}
 					<!-- <applause-button style="width: 48px; height: 48px; margin-top: 28px; margin-bottom: 12px; margin-left: -8px;" multiclap="true" color="red" url="https://buditanrim.co{{post.url}}" />
@@ -39,6 +39,7 @@
 					{% include share-post.html %}
 				</div>
 			</div>
+			{% include ask-question.html %}
 			{% include newsletter.html %}
 		</div>
 		{% endfor %}

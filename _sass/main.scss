@@ -9,7 +9,7 @@
 @import "components/navigationbar";
 @import "components/button";
 @import "components/progressbar";
-@import "components/author-block";
+@import "components/ask-question";
 @import "components/applause-button";
 @import "components/cards";
 @import "components/twentytwenty";
@@ -137,10 +137,6 @@ body, html {
 	}
 	
 	//share
-	.social-share-wrapper {
-		padding-top: var(--l--space-s);
-		padding-bottom: var(--l--space-m);
-	}
 	.social-share {
 		display: inline-block;
 		margin-right: 12px;
@@ -159,7 +155,7 @@ body, html {
 	a.social-share.twitter { width: 24px; }
 	a.social-share.facebook { width: 20px; }
 	.social-text {
-		margin-right: 20px;
+		margin-right: 4px;
 	}
 }
 

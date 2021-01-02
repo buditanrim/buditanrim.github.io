@@ -21,7 +21,7 @@
 <div class="post container d-none d-lg-block">
 	<div class="row p-t-l mobile-p-t-m">
 		{% for post in site.posts limit:1 %}
-		<div id="post-inner" class="col-sm-12 col-md-12 col-lg-7 offset-lg-1 p-b-m mobile-p-b-xs order-lg-2">
+		<article id="post-inner" class="col-sm-12 col-md-12 col-lg-7 offset-lg-1 p-b-m mobile-p-b-xs order-lg-2">
 			<div class="post-inner--heading m-b-m">
 					<p class="t--mono-02 m-b-s">{{post.date | date:'%b %d, %Y'}}</p>
 				{% if post.punchline %}
@@ -41,10 +41,10 @@
 			</div>
 			{% include ask-question.html %}
 			{% include newsletter.html %}
-		</div>
+		</article>
 		{% endfor %}
 
-		<div class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 nice-scrollbar">
+		<aside class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 nice-scrollbar">
 			<div class="journal-panel--wrapper">
 			{% for post in site.posts %}
 				{% assign currentyear = post.date | date: "%Y" %}
@@ -58,7 +58,7 @@
 					</div>
 			{% endfor %}
 			</div>
-		</div>
+		</aside>
 	</div>
 </div> 
 

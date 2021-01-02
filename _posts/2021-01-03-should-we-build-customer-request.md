@@ -30,3 +30,4 @@ By knowing the problem, your team can begin to explore what is the best solution
 It's our job to identify the problem and figure out the best solution to solve it. Our job is not to ask for what users want. We look for their needs.
 
 Hope this resonates!
+Happy new year!

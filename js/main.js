@@ -19,3 +19,36 @@ $(window).on("load", function() {
     click_to_move: true // 
   });
 });
+
+$(".subscribe-btn-navbar").click( function() {
+    ga('send', 'event', 'Blog engagement', 'Subscribe', '{{clicked_page}}');
+});
+
+// Footer
+$(".ga-rss-footer").click( function() {
+    ga('send', 'event', 'Outbound link', 'RSS', 'footer');
+});
+$(".ga-email-footer").click( function() {
+    ga('send', 'event', 'Outbound link', 'Email', 'footer');
+});
+$(".ga-twitter-footer").click( function() {
+    ga('send', 'event', 'Outbound link', 'Twitter', 'footer');
+});
+$(".ga-linkedin-footer").click( function() {
+    ga('send', 'event', 'Outbound link', 'Linkedin', 'footer');
+});
+
+// Blog
+$(".ga-ask-question").click( function() {
+    ga('send', 'event', 'Blog engagement', 'Ask question', 'Blog post');
+});
+$(".ga-newsletter").click( function() {
+    ga('send', 'event', 'Blog engagement', 'Subscribe', 'Blog post');
+});
+$(".ga-twitter-blog-post").click( function() {
+    ga('send', 'event', 'Share', 'Twitter', 'Blog post');
+});
+$(".ga-facebook-blog-post").click( function() {
+    ga('send', 'event', 'Share', 'Facebook', 'Blog post');
+});
+

@@ -20,8 +20,27 @@ $(window).on("load", function() {
   });
 });
 
+function handleOutboundLinkClicks(event) {
+  ga('send', 'event', {
+    eventCategory: 'Outbound Link',
+    eventAction: 'click',
+    eventLabel: Blogengagement.target.href
+  });
+}
+
+
 $(".subscribe-btn-navbar").click( function() {
     ga('send', 'event', 'Blog engagement', 'Subscribe', '{{clicked_page}}');
+});
+
+$(".ga-menu-projects").click( function() {
+    ga('send', 'event', 'Navigation', 'Projects', 'Navbar');
+});
+$(".ga-menu-about").click( function() {
+    ga('send', 'event', 'Navigation', 'About', 'Navbar');
+});
+$(".ga-menu-journal").click( function() {
+    ga('send', 'event', 'Navigation', 'Journal', 'Navbar');
 });
 
 // Footer

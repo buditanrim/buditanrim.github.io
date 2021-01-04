@@ -2,12 +2,17 @@
 - word: "Journal"
   link: /
   order: 1
+  current: "/"
+  ga: journal
 
 - word: "Projects"
   link: /projects
   order: 2
+  current: projects
+  ga: projects
 
 - word: "About"
   link: /about
   order: 3
-
+  current: about
+  ga: about

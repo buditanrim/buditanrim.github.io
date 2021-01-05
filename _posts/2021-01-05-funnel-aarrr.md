@@ -18,6 +18,7 @@ twitter-seo:
 ---
 
 "We need to double our revenue. How can we do this?" Bob asked.
+
 "First, let's take a look at our funnel data," I replied.
 
 Funnel.
@@ -58,6 +59,6 @@ User journey can be translated into this framework nicely. You can do this and b
 
 --- 
 
-### Challenge
+### Small note
 While this framework is great. It requires an small effort to setup. The data scientist has to work together with the developer to set the tracker and ensure the data can be displayed in a dashboard for your team to analyze this.
 

@@ -37,17 +37,27 @@ The simple framework I usually use is AARRR. It stands for Acquisition, Activati
 "Ok, let's find out what problems the user had in that area," I suggested.
 
 <div class="img-wrapper m-b-m">
-    <img src="https://buditanrim.co/img/post/2021/01/funnel.jpg" alt="funnel AARRR" class="illustration small" />
+    <img src="https://buditanrim.co/img/post/2021/01/funnel.jpg" alt="funnel AARRR" class="illustration" />
 </div>
+
+---
 
 ### Scenario: When you not sure where to start
 When your team has a specific business objective, you don't know where to start, and you still want to practice human-centered. You can look at the AARRR funnel as a starting point. You use this to oversee your product's overall performance and identify which part of the funnel is not performing. Looking at the funnel will not give you the *why*, though. It tells you *where* is the broken part and *how many* people doing *what*.
 
 Sometimes, it can be as obvious as your signup button is broken, and you can fix it right away. But when it is risky. Don't make a random move and build something that will not have any impact. Dig into the why, instead. Do an interview or survey or whatever makes sense to your context.
 
+---
+
 ### Scenario: When you have user journey but want to translate it to business
 User journey can be translated into this framework nicely. You can do this and be a better partner to the business team. So, here's how it looks:
 
 <div class="img-wrapper m-b-m">
-    <img src="https://buditanrim.co/img/post/2021/01/funnel-journey.jpg" alt="funnel AARRR with user journey" class="illustration small" />
+    <img src="https://buditanrim.co/img/post/2021/01/funnel-journey.jpg" alt="funnel AARRR with user journey" class="illustration" />
 </div>
+
+--- 
+
+### Challenge
+While this framework is great. It requires an small effort to setup. The data scientist has to work together with the developer to set the tracker and ensure the data can be displayed in a dashboard for your team to analyze this.
+

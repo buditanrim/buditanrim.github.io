@@ -32,7 +32,7 @@ So, what makes me interested? A portfolio.
 ---
 
 ### What do I mean by portfolio?
-A portfolio is a concise story about your project. In the story, you bring the reader to what's the problem you were solving. You then help the reader understand how you arrive at the solution. What was the process looks like? Most importantly, you have to communicate the result. Because, as a product designer, we're not measuring success by output.
+A portfolio is a concise story about your project. In the story, you bring the reader to the problem you were solving. You then help the reader understand how you arrived at the solution. What was the process looks like? Most importantly, you have to communicate the outcome. Because, as a product designer, we're not measuring success by output.
 
 When it comes to the portfolio structure, each designer has their own way of structuring them. Here's mine:
 

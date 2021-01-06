@@ -110,31 +110,7 @@ body, html {
 		margin-top: 0px;
 	}
 
-	//blockquote
-	blockquote {
-		margin-left: 0; // reset webkit preset
-		p {
-			border-left: 3px solid #ffdb00;
-		    color: #4b4b4b;
-		    font-size: 18px;
-		    font-weight: 400;
-		    line-height: 1.6;
-		    padding-left: 16px;
-		}
-	    cite {
-	    	background: none;
-	    	display: block;
-		    color: var(--c--theme-gray-03);
-		    font-size: 16px;
-		    font-weight: 700;
-		    margin-bottom: var(--l--space-08);
-		    margin-top: 4px;
-
-		    &:before {
-		    	    content: "\2014";
-		    }
-	    }
-	}
+	
 	
 	//share
 	.social-share {

@@ -21,7 +21,7 @@ I review hundreds of candidates every week.
 
 Here's the hard truth: It takes me less than 2 minutes to decide whether I want to interview the candidate or not. 
 
-Most of the time, I will not be interested in a candidate who doesn't have a portfolio in any format. If it's just a resume, 90% I will continue to the next candidate. Because in that case, I don't have anything to assess whether this candidate is good.
+Most of the time, I will not be interested in a candidate who doesn't have a portfolio in any format. If it's just a resume, 90% I will continue to the next candidate. Because in that case, I don't have anything to assess whether this candidate is good other than the company's name. In fairness, sometimes I'll be interested when the resume have a big company name. But, that's not a guarantee as well.
 
 Throughout that process, I only think about one question: *Can I imagine this candidate work for the opening role we have?* If I can see the right skill and experience to work in the opening team, I'll put her into the interview pipeline.
 
@@ -62,7 +62,9 @@ You can see how I adopt this structure on one of my [latest portfolio][link-1].
 ---
 
 ### Build a portfolio the time your project started
-I found it useful to write down my project's narrative. This will be the foundation of my portfolio later. I encourage people to imagine they will make a portfolio right when the project has started. In my [other post][link-2], I explained the benefit of creating a portfolio.
+I found it useful to write down my project's narrative as I work on my project. This will be the foundation of my portfolio later. I encourage people to imagine they will make a portfolio right when the project has started. In my [other post][link-2], I explained the benefit of creating a portfolio.
+
+Please note that you shouldn't make ambitious or selfish decision throughout that project just because you want your idea to be in the portfolio. I know people sometimes trapped this way. So double check your ego.
 
 ---
 

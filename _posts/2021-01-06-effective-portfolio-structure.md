@@ -2,7 +2,7 @@
 layout: post
 title: "An effective product design portfolio"
 punchline: true
-description: "x"
+description: "Here's the hard truth: It takes me less than 2 minutes to decide whether I want to interview the candidate or not. "
 date: 2021-01-06 08:30:00 +0700
 categories: update
 tags: update

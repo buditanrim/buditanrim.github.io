@@ -51,16 +51,18 @@ Now, there is a difference between a poor portfolio and a great portfolio:
     <img src="https://buditanrim.co/img/seo/effective-product-design-portfolio.jpg" alt="Poor and great portfolio structure" class="illustration" />
 </div>
 
-A poor portfolio for product designers is when it only shows the artifacts. I consider this a very weak portfolio. Because I need to know whether a designer can make a good decision or at least have a good line of thinking. I need to at least know how she thinks before I continue the interview process.
+A poor portfolio for product designers is when it only shows the artifacts (e.g. the screen). I'd consider it as a weak portfolio. Because it doesn't help me to know whether a designer can make a good decision or at least have a good line of thinking. I don't even know if the outcome help the team achieve the goal or learn something.
 
-An okay portfolio is when it describes the problem and the result. I generally encourage people who don't have enough time to go with this format. I will mostly be interested in this portfolio when I hire a junior-mid level.
+An okay portfolio describes the problem and the result. I generally encourage people who don't have enough time to go with this format. I will mostly be interested in this portfolio when I hire a junior-mid level.
 
 A great portfolio provides context on why this project started. What are the customer problems and business challenges? Then the result of their solution. The approach is a bonus tho, I'm still okay when it doesn't show a detailed process. Because at this point, I'll be interested if I see they solve a complex problem before and can articulate it clearly.
+
+You can see how I adopt this structure on one of my [latest portfolio][link-1].
 
 ---
 
 ### Build a portfolio the time your project started
-I found it useful to write down my project's narrative. This will be the foundation of my portfolio later. Previously, I wrote what's the benefit of creating a portfolio. [Check it out][link-2].
+I found it useful to write down my project's narrative. This will be the foundation of my portfolio later. I encourage people to imagine they will make a portfolio right when the project has started. In my [other post][link-2], I explained the benefit of creating a portfolio.
 
 ---
 
@@ -73,5 +75,6 @@ I'll talk more about this in the next post.
 
 You can also ask more question, click the appropriate button below.
 
-[link-2]: https://
+[link-1]: https://buditanrim.co/bukalapak-design-language/
+[link-2]: https://buditanrim.co/2020/the-benefit-of-creating-a-portfolio/
 

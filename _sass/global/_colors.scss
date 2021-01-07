@@ -59,6 +59,7 @@
 .sky { background: #DDE5EC; }
 .brown { background: var(--c--brown) }
 .soft-gray { background: var(--c--gray-20); }
+.hot-pink {background: #FA93AC;}
 
 .stone {
 	background: #212A37;
@@ -101,6 +102,12 @@
 	.t--title-02-serif,
 	.t--caption-01 {
 		color: #fff;
+	}
+
+	blockquote,
+	blockquote.quote-large,
+	blockquote.quote-medium {
+		color: #ebebeb;
 	}
 
 	.t--eyebrow, {

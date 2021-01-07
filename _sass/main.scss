@@ -8,6 +8,7 @@
 @import "global/border";
 @import "components/navigationbar";
 @import "components/button";
+@import "components/hcd";
 @import "components/progressbar";
 @import "components/ask-question";
 @import "components/applause-button";
@@ -268,6 +269,14 @@ body, html {
 	&::-webkit-scrollbar-thumb {
 		background-color: var(--c--theme-gray-02);
 	}
+}
+
+
+.z-index-10 {
+	z-index: 1100;
+}
+.z-index-mid {
+	z-index: 1050;
 }
 
 

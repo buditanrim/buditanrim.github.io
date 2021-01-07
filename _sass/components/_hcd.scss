@@ -1,0 +1,34 @@
+.hcd-note-problem {
+  position: relative;
+  margin-top: -50px;
+}
+
+.hcd-note-assumption {
+  position: relative;
+  margin-top: -80px
+}
+
+@media (min-width: 768px) {
+  .hcd-note-problem {
+    position: absolute;
+    top: -20px;
+    right: 10px;
+  }
+  .hcd-note-assumption {
+    position: absolute;
+    bottom: -25%;
+    left: -30%;
+  }
+
+  .hcd-image-office {
+    margin-top: -80px;
+    padding-left: 80px;
+  }
+}
+
+@media (min-width: 992px) {
+  .hcd-image-office {
+    margin-top: -160px;
+    padding-left: 80px;
+  }
+}

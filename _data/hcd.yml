@@ -35,9 +35,12 @@ scale-vision-text-1: We rallied the concept of building alignment as the primary
 # Bootcamp
 bootcamp-eyebrow-1: Enabling people through bootcamp
 bootcamp-challenge: With everyone excited about the vision, we held a Bootcamp series where I spent my time empowering the team to test the toolkit and mindset within the real context. Our goal was to enable them to foster this practice in their team. After a while,  people from Product and Technology joined by interest.
+
+bootcamp-outcome-p: This Bootcamp series empowers some people to gain enough confidence to practice the human-centered mindset and toolkit in their team. A few still don't have the confidence yet. Each of the managers uses their unique approach on how to empower them. We started to see a more collaborative environment around the company.
 bootcamp-outcome-1: 120 people joined the bootcamp
 bootcamp-outcome-2: 97.1% found this bootcamp practical
-bootcamp-outcome-3: This empowers the design team to practice it in their project with their team, resulting in a more collaborative environment.
+
+
 
 
 #framework
@@ -50,9 +53,9 @@ framework-challenge: Heavily inspired by IBM Design Thinking, we adapted it to o
 
 # Implementation
 implement-eyebrow-1: Implementation
-implement-paragraph: Some people gain enough confidence to practice it in their project, while for many still don't have the confidence yet. We progressively see how to empower people around the company.
+implement-paragraph: zxc
 
-implement-1-caption: Leadership session
+implement-1-caption: Leadership session starting to collaborate better
 implement-2-caption: Design systems team co-create with the users
 implement-3-caption: Leadership session
 implement-4-caption: Leadership session

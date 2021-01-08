@@ -7,7 +7,7 @@ year: 2019 — Current
 order: 8
 permalink: /bukalapak-human-centered/
 image:
- path: /img/project/seo/bukalapak-hcd.jpg
+ path: /img/seo/bukalapak-hcd.jpg
  height: 630
  width: 1200
  alt: Bazaar Design System Cover

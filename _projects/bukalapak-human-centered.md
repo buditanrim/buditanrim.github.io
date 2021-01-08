@@ -1,7 +1,7 @@
 ---
 layout: portfolio-bukalapak-human-centered
-title: Bukalapak Design Thinking
-description: Designing framework to collaborate at scale to produce better outcome
+title: Bukalapak Human Centered Practice
+description: Designing framework to collaborate at scale to produce user better outcome
 client: Bukalapak
 year: 2019 — Current
 order: 8

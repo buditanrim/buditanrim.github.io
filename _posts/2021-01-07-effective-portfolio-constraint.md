@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/effective-product-design-portfolio-2.jpg"
 ---
 
-"How can I make a portfolio if I don't have any project?" a reader asked.
+"How can I make a portfolio if I don't have any project?" A reader asked.
 
 Continuing on my [previous writing][link-1]. Many newcomers who want to enter the industry have many constraints. Let's explore a few common constraints and how to navigate through them.
 

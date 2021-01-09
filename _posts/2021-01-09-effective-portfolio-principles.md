@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Principles of good portfolio"
+title: "Principles of good portfolio design"
 punchline: true
 description: " "
 date: 2021-01-09 08:30:00 +0700

@@ -3,7 +3,7 @@ layout: post
 title: "Principles of good portfolio"
 punchline: true
 description: " "
-date: 2021-01-07 08:30:00 +0700
+date: 2021-01-09 08:30:00 +0700
 categories: portfolio
 tags: portfolio
 author: "Budi Tanrim"

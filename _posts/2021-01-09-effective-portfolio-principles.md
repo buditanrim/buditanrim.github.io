@@ -21,7 +21,7 @@ What is the purpose of a portfolio?
 
 For me, the purpose of a portfolio is to demonstrate my skills and previous impact through storytelling to help recruiters decide whether I'm the right fit for the potential role or not. 
 
-If you have the same intention, then these principles might be useful:
+If you have the same intention, then these principles might be useful. A good portfolio...
 
 1. **Is easy to access**. Recruiters have to look at hundreds of applications. The easier they can access your portfolio, the higher the chance they look to it. A simple click to a website will be ideal. But if you don't have time to build one, consider making it as easy as possible; for example, a link to Google Drive contains your PDF. If you have multiple projects, you can add a suggestion which to read first.
 

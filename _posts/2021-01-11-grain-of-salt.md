@@ -19,7 +19,7 @@ twitter-seo:
 
 It's an American English idiom.
 
-I first learned this concept when I was in San Francisco. English is not my first language, so I had a hard time understand this concept. It's a powerful concept to help me navigate throughout my career.
+I first learned this concept when I was in San Francisco. English is not my first language, so I had a hard time understand this concept. Turned out, it's a powerful concept to help me navigate throughout my career.
 
 It means to view something with skepticism or not to interpret something literally.
 

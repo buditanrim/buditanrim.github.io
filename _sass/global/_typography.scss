@@ -185,6 +185,13 @@ h1 {
 	line-height: var(--t--leading-p-01);
 }
 
+@media (min-width: 1600px) {
+	.t--mono-02 {
+		font-size: var(--t--size-02);
+		line-height: var(--t--leading-p-02);
+	}
+}
+
 // ------------------------
 // FONT FAMILY
 // ------------------------

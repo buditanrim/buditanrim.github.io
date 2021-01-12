@@ -16,8 +16,8 @@
 @import "components/twentytwenty";
 
 
-body, html {
-	font-size: 22px; // for rem
+body, html { // mobile
+	font-size: 16px; // for rem
 	line-height: 1.6;
 	background: var(--c--theme-bg);
 	font-family: var(--t--family-slab);
@@ -25,19 +25,28 @@ body, html {
 	text-rendering: optimizeLegibility;
 }
 
-@media (max-width: 1680px) {
+@media (min-width: 768px) { // ipad
 	body, html { 
-		font-size: 19px;
-		line-height: 1.6;
-	}
-}
-
-@media (max-width: 800px) {
-	body, html { 
-		font-size: 17px;
+		font-size: 20px;
 		line-height: 1.5;
 	}
 }
+
+@media (min-width: 1280px) { // macbook 13"
+	body, html { 
+		font-size: 20px;
+		line-height: 1.5;
+	}
+}
+
+@media (min-width: 1600px) { // macbook 15"
+	body, html { 
+		font-size: 22px;
+		line-height: 1.55;
+	}
+}
+
+
 
 ::selection {
 	background: var(--c--theme-highlight);

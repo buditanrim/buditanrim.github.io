@@ -9,12 +9,12 @@ tags: career, framework
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/grain-of-salt.jpg
+ path: /img/seo/4p.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/grain-of-salt.jpg"
+ - "seo/4p.jpg"
 ---
 
 This month will be my last month with Bukalapak.

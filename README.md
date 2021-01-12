@@ -19,6 +19,18 @@ http://localhost:4000/
 # To update the dependencies
 sudo bundle update
 
+# Ruby related - Use RVM for installation or update (third party)
+ruby -v
+
+# Install RVM (if first time)
+curl -L https://get.rvm.io | bash -s stable
+
+# rvm install ruby-[version]
+rvm install ruby-2.4.1
+
+ruby -v (if still not using the latest->) rvm use ruby-2.4.1
+
+
 ```
 
 ## First time 

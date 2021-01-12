@@ -23,6 +23,14 @@
   }
 }
 
+@media (min-width: 768px) {
+  .main-menu {
+    li {
+      font-size: var(--t--size-03);
+    }
+  }
+}
+
 @media (max-width: 800px) {
 .nav {
   // make it horizontal scroll

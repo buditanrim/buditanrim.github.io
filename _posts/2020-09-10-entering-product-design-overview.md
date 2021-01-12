@@ -26,9 +26,7 @@ As the industry growing, I had a countless exciting conversation with product de
 Each designer I met always find a unique roadblock in different level of their career. And this is the reason I write this series, I want to explore a few topics and mindset to broaden your perspective and help you grow in your career
 I specifically speaking in the context of an in-house designer. Even though some aspects might be applied to a designer who works in an agency, I need to make this clear.
 
-In the first part, I want to discuss a few mindsets to help the junior designer to navigate within the organization and prepare yourself to grow. Also, a few misunderstanding or myths. There will be a lot of short chapters in it.
-
-In the second part, we'll explore how to actually grow and level up your career as product designer. We will explore the differences between managerial role with individual contributor.
+(This is a draft version of the book I'm writing. So, each chapter could feel jumpy or disconnected)
 
 ### Let's start
 Now, let's get into the [first chapter: silver bullet](/2020/silver-bullet), where I will touch about the first mindset you should ready to let go in order to grow.

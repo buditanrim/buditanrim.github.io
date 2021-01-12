@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "4P: framework for job interview"
+title: "4P: framework for choosing job"
 punchline: true
 description: "Purpose, Practice, Pay, People"
 date: 2021-01-12 08:30:00 +0700

@@ -29,15 +29,21 @@
 }
 
 @media (min-width: 1200px) {
-  .container, .container-sm, .container-md, .container-lg, .container-xl {
+  .container, .container-sm, .container-lg, .container-xl {
     max-width: 1360px;
     padding-left: 4vw;
     padding-right: 4vw;
   }
+  .container-md {
+    // Used for gallery in project
+    max-width: 1680px;
+    padding-left: 2vw;
+    padding-right: 2vw;
+  }
 }
 
 @media (min-width: 1920px) {
-  .container, .container-sm, .container-md, .container-lg, .container-xl {
+  .container, .container-sm, .container-lg, .container-xl {
     max-width: 1680px;
     padding-left: 6vw;
     padding-right: 6vw;

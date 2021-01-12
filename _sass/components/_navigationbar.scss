@@ -17,7 +17,7 @@
       list-style-type: none;
       padding: 16px 10px;
       display: block;
-      font-size: var(--t--size-02);
+      font-size: var(--t--size-03);
       &:first-child { margin-left: -12px; }
     }
   }
@@ -26,7 +26,7 @@
 @media (min-width: 768px) {
   .main-menu {
     li {
-      font-size: var(--t--size-03);
+      font-size: var(--t--size-04);
     }
   }
 }

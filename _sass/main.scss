@@ -25,10 +25,17 @@ body, html { // mobile
 	text-rendering: optimizeLegibility;
 }
 
+@media (min-width: 425px) { // ipad
+	body, html { 
+		font-size: 18px;
+		line-height: 1.6;
+	}
+}
+
 @media (min-width: 768px) { // ipad
 	body, html { 
-		font-size: 20px;
-		line-height: 1.5;
+		font-size: 19px;
+		line-height: 1.55;
 	}
 }
 

@@ -5,7 +5,7 @@ description: Collaboratively craft principles and designing the foundation of sp
 client: Shopify
 year: 2018
 order: 4
-permalink: /project/bukasans/
+permalink: /project/spot-icon/
 image:
  path: /img/project/rectangle-1.png
  alt: Bazaar Design System Cover

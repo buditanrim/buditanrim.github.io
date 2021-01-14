@@ -19,6 +19,8 @@
 	--c--gray-90: #222222;
 	--c--bg-warm: #F5F3EB;
 	--c--brown: #E7D9CC;
+	--c--pale-pink: #F8D0C3;
+	--c--hot-pink: #FA93AC;
 }
 
 // Light theme
@@ -50,9 +52,20 @@
 .c--border-medium { border-color: var(--c--theme-gray-04); }
 .c--border-light { border-color: var(--c--theme-gray-05); }
 
-// Background
-#about body { background: var(--c--theme-bg-warm); }
-#project body { background: var(--c--gray-20); }
+// Background & Footer border
+#about { 
+	body { background: var(--c--theme-bg-warm);	}
+	.footer-border {border-top: 1px solid var(--c--theme-gray-02); }
+}
+#project {
+	body { background: var(--c--gray-20); }
+	.footer-border {border-top: 1px solid var(--c--theme-gray-02); }
+}
+#mentorship {
+	body { background: var(--c--pale-pink); }
+	.footer-border {border-top: 1px solid var(--c--theme-gray-02); }
+} 
+
 
 .beige { background: #F0DFCE; }
 .warm { background: var(--c--theme-bg-warm); }
@@ -60,6 +73,7 @@
 .brown { background: var(--c--brown) }
 .soft-gray { background: var(--c--gray-20); }
 .hot-pink {background: #FA93AC;}
+.pale-pink {background: #F8D0C3;}
 
 .stone {
 	background: #212A37;

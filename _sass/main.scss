@@ -80,6 +80,24 @@ body, html { // mobile
 		}
 	}
 }
+hr {
+	border-style: solid;
+	border-color: var(--c--theme-gray-02);
+}
+
+hr.dark {
+	border-color: var(--c--theme-gray-02);
+}
+
+hr.medium {
+	border-color: var(--c--theme-gray-04);
+}
+
+hr.airy {
+	margin-left: 0px;
+	margin-bottom: var(--l--space-m);
+	margin-top: var(--l--space-l);
+}
 
 // Blog inner
 .post-inner--heading {
@@ -90,7 +108,7 @@ body, html { // mobile
 .markdown {
 	p, ul, li {
 		margin-bottom: var(--l--space-s);
-		color: var(--c--theme-gray-02);
+		color: var(--c--theme-gray-01);
 	}
 	h1 {
 		padding-top: var(--l--space-l);

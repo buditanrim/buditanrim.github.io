@@ -17,8 +17,8 @@
   current: about
   ga: about
 
-# - word: "Mentorship"
-#   link: /mentorship
-#   order: 4
-#   current: mentorship
-#   ga: mentorship
+- word: "Mentorship"
+  link: /mentorship
+  order: 4
+  current: mentorship
+  ga: mentorship

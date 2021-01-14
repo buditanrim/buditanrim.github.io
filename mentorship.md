@@ -1,14 +1,14 @@
 ---
 layout: mentorship
-title: Virtual Mentorship Program
-description: 
+title: Mentorship Program
+description: A three months virtual mentorship for 6 young product designers
 id: mentorship
 
 image:
- path: /img/seo/x.jpg
+ path: /img/seo/mentorship-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo:
- - "seo/x.jpg"
+ - "seo/mentorship-seo.jpg"
 ---

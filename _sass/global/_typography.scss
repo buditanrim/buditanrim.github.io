@@ -55,6 +55,22 @@
 .t--center { text-align: center; }
 .t--justify { text-align: justify; }
 
+// Font size
+
+.t--size-01 { font-size: var(--t--size-01: 0.7rem; )	}
+.t--size-02 { font-size: var(--t--size-02: 0.78rem; )	}
+.t--size-03 { font-size: var(--t--size-03: 0.89rem; )	}
+.t--size-04 { font-size: var(--t--size-04: 1rem; )		}
+.t--size-05 { font-size: var(--t--size-05: 1.11rem; )	}
+.t--size-06 { font-size: var(--t--size-06: 1.33rem; )	}
+.t--size-07 { font-size: var(--t--size-07: 1.55rem; )	}
+.t--size-08 { font-size: var(--t--size-08: 1.78rem; )	}
+.t--size-09 { font-size: var(--t--size-09: 2.44rem; )	}
+.t--size-10 { font-size: var(--t--size-10: 3.33rem; )	}
+.t--size-11 { font-size: var(--t--size-11: 4rem; )		}
+.t--size-12 { font-size: var(--t--size-12: 5.11rem;)	}	
+	
+
 // ------------------------
 // Title + Big Title
 // ------------------------

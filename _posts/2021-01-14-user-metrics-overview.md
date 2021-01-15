@@ -19,7 +19,7 @@ twitter-seo:
 
 “OK, our daily active users look great,” Adam said. 
 
-Adam is the product manager in one of the teams I led. He is obsessed with metrics. He often starts the weekly discussion with metrics. But none of those metrics matters for this team’s context.
+Adam is the product manager in one of the teams I led. He obsessed with metrics. He often starts the weekly discussion with metrics. But none of those metrics matters for this team’s context.
 
 I joined the team when they’re in the middle of discovering what’s the best solution we can deliver to solve our users' problem.
 

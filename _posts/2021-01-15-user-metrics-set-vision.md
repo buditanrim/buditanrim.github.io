@@ -9,12 +9,12 @@ tags: strategy, framework
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/giving-back.jpg
+ path: /img/seo/user-metrics-2.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/giving-back.jpg"
+ - "seo/user-metrics-2.jpg"
 ---
 
 Do you feel like your team track meaningless metrics?

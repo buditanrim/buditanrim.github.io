@@ -2,7 +2,7 @@
 layout: post
 title: "User metrics - Vision"
 punchline: true
-description: ""
+description: "Do you feel like your team track meaningless metrics?"
 date: 2021-01-15 08:30:00 +0700
 categories: strategy
 tags: strategy, framework
@@ -36,7 +36,7 @@ This is where user metrics can help. To do this, there are 3 major steps:
 ---
 
 
-### Align on the vision
+## Align on the vision
 
 You may cringe when you hear the word vision.<br/>
 Yuck, that slogan-y beautiful yet meaningless words.
@@ -52,7 +52,7 @@ If you prefer a workshop format, here’s the breakdown:
 * Generate wow: If we do an excellent job at that, how our users’ life will change? (5 min)
 * Vote wow (6 min)
 
-#### A few tips:
+### A few tips:
 
 **My team doesn’t know who our users are.** In this case, it’s okay to put an assumption about who is the target users, but make sure to educate the team that your team really needs to align on that. You can collaborate with the business team to see the market-size and market condition.
 

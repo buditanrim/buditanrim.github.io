@@ -19,7 +19,7 @@ twitter-seo:
 
 “OK, our daily active users look great,” Adam said. 
 
-Adam is the product manager in one of the teams I led. He is obsessed with metrics. He often starts the weekly discussion with metrics. But none of those metrics matters for this team’s context.
+Adam is the product manager in one of the teams I led. He obsessed with metrics. He often starts the weekly discussion with metrics. But none of those metrics matters for this team’s context.
 
 I joined the team when they’re in the middle of discovering what’s the best solution we can deliver to solve our users' problem.
 
@@ -35,7 +35,7 @@ Felt weird about this, I started to talk with a few key peoples.
 
 “We need to track better metrics that show us if we actually deliver value to our users,” I said. “If our vision is to give people easy access to financial markets. What is the signal that indicates we deliver that vision?”
 
-The team agreed about this and they did a quick alignment workshop.
+The team agreed to look into this and they did a quick alignment workshop.
 
 A week later, the team started to track metrics to show how much financial growth each user got from time to time. To answer this: Do our users gain more money?
 

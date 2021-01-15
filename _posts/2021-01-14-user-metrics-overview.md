@@ -31,11 +31,13 @@ Especially during an early stage of the product, the team should ask a different
 
 ---
 
-Feeling weird about this, I started to talk with a few key peoples. 
+Felt weird about this, I started to talk with a few key peoples. 
 
-“We need to track better metrics that show us if we are actually delivering value,” I said. “If our vision is to give people easy access to financial markets. What is the signal that indicates we deliver that vision?”
+“We need to track better metrics that show us if we actually deliver value to our users,” I said. “If our vision is to give people easy access to financial markets. What is the signal that indicates we deliver that vision?”
 
-Long story short, the team started to track a metrics to show how much financial growth each user got from time to time. To answer this: Do our users gain more money?
+The team agreed about this and they did a quick alignment workshop.
+
+A week later, the team started to track metrics to show how much financial growth each user got from time to time. To answer this: Do our users gain more money?
 
 Even though these metrics are not perfect, it still much better than a meaningless number of active users. It helps the team to monitor the value they promise to deliver to the users. If we help the user gain more money, naturally, our business will gain from it.
 

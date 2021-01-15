@@ -25,7 +25,7 @@ Last month, I decided to talk to some of my blog's readers, reaching out to the 
 
 This month, I decided to quit Bukalapak. I will spend my next 4 months to give back to the community as much as I could.
 
-My first tactic is to share small bits of insights through this blog. Then, I also open up a mentorship program. I want to aim for junior product designers who have been in the industry for 2-4 years but feel like they need guidance.
+My first tactic is to share small bits of insights through this blog. Then, I also open up a mentorship program. I want to aim for junior product designers who have been in the industry for 2-4 years but feel like they need guidance. This will also help me understand the challenges young designers face. I can use it as the basis for my book dedicated to helping design enthusiasts and young designers.
 
 I want to help them thrive, so they can have ripple effects in the industry. I will start small, aiming to cover 6 people.
 

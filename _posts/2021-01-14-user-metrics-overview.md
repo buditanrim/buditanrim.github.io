@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "User metrics - overview"
+title: "User metrics - Overview"
 punchline: true
 description: "Measure metrics that matter"
 date: 2021-01-14 08:30:00 +0700

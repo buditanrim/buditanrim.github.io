@@ -35,7 +35,7 @@ Felt weird about this, I started to talk with a few key peoples.
 
 “We need to track better metrics that show us if we actually deliver value to our users,” I said. “If our vision is to give people easy access to financial markets. What is the signal that indicates we deliver that vision?”
 
-The team agreed about this and they did a quick alignment workshop.
+The team agreed to look into this and they did a quick alignment workshop.
 
 A week later, the team started to track metrics to show how much financial growth each user got from time to time. To answer this: Do our users gain more money?
 

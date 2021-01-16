@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/giving-back.jpg"
 ---
 
-I work in the industry for more than a decade. I have been getting similar questions repeatedly from junior product designers who are struggling to navigate their careers. 
+I have been working in the industry for more than a decade. I have been getting similar questions repeatedly from junior product designers who are struggling to navigate their careers. 
 
 I've been wondering: Why do I get all of these similar questions?
 

@@ -24,15 +24,13 @@ You should start to define metrics you can track to see your progress toward tha
 ---
 
 ### Signals
-You can start thinking of what metrics you can track, but I find people often trap and stuck because they tend to think of the typical metrics right away. Uh, Activation? Retention?
-
-For that reason, I like to start with the signals:
+You can start thinking of what metrics you can track, but I find people often trap and stuck because they tend to think of the typical metrics right away. Uh, Activation? Retention? For that reason, I like to start with the signals because it triggers what the condition we want to achieve, not metrics.
 
 For example, if our vision is to make a practical education system to prepare university students for employment. The signal could be:
 - More students employed compared to last year
 - Student get employed after graduate quicker
 
-Signals are like indication. It gives your team a sense of what the concrete impacts will be made.
+Signals are like indication. It gives your team a sense of what the concrete impacts will be made. You can start with probing question like: "If we achieve our vision today, what will be the direct impact we want to see to students?"
 
 ---
 

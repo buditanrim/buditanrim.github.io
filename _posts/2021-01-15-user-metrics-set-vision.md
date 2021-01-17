@@ -64,8 +64,8 @@ If you prefer a workshop format, here’s the breakdown:
 
 This exercise will give you a simple statement that is very user-focused. You should ask your team this question: What would be the signal if we achieve this vision?
 
-In the next post, we'll explore how to convert your vision into signals.
+In the [next post][link-1], we'll explore how to convert your vision into signals.
 
-
+[link-1]: https://buditanrim.co/2021/user-metrics-signals-metrics/
 
 

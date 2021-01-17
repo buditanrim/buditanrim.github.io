@@ -47,11 +47,11 @@ Into: how many people we empower
 
 Being human-centric can be reflected at various levels. In this case, we become human-centric on the strategical level.
 
-Let's explore the way you can do this in the next post.
+Let's explore the way you can do this in the [next post]][link-1].
 
 *(The name and the detail of the story is altered but drawn from my experience)*
 
-
+[link-1]: https://buditanrim.co/2021/user-metrics-set-vision/
 
 
 

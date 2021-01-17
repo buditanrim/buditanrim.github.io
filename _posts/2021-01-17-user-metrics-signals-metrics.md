@@ -3,7 +3,7 @@ layout: post
 title: "User metrics - Signals and Metrics"
 punchline: true
 description: "Converting your vision into user metrics."
-date: 2021-01-17 08:30:00 +0700
+date: 2021-01-17 08:20:00 +0700
 categories: strategy
 tags: strategy, framework
 author: "Budi Tanrim"

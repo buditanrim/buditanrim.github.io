@@ -33,11 +33,9 @@ Fortunately, Shopify provided a life-coach, and I booked a session. The coach wa
 
 The first one is a small thing but really powerful. I will reframe my doubt and the narrative on my head. For example, if I want to voice my opinion, I will force myself to think, "I will speak with no ill intention." Rather than, "I will be ridiculed if I speak." It helps me break the narrative out of my head and remember that my pure intention. Turned out this is one of the recommendation based on <sup id="a1">[1](#fn1)</sup>
 
-### Seek for validation
+### Seek for feedback
 
-Second, I tried to be proactive in seeking feedback about myself. Whenever we completed a project, I reached out to my team for feedback. It helped me to understand how people actually think of me. The environment in Shopify allowed me to get constructive feedback, I got the list of what I will need to improve and what I need to keep doing.
-
----
+Second, I tried to be proactive in seeking feedback about myself. Whenever we completed a project, I reached out to my team for feedback. It helped me to understand how people actually think of me. Fortunately, the environment in Shopify allowed me to get constructive feedback, I got the list of what I will need to improve and what I need to keep doing.
 
 Those two small actions didn't instantly resolve my anxiety. Instead, it gradually helped me to focus on delivering impact rather than worrying. After 6-8 months, the feeling started to fade away after I focused on my potential improvement. I had peace with myself.
 
@@ -46,6 +44,8 @@ That is my story on how I overcome my impostor syndrome.
 If you are going through this feeling. I hope you know you're not alone and it's normal. Researcher have estimated that 70% of the general population has experience this feeling at some point. 
 
 The first step is to recognize what you feel, ask yourself what makes you uncomfortable. Articulate that explicitly on paper. A research suggest it's even better talk about it with someone you trust.<sup id="a2">[2](#fn2)</sup>
+
+---
 
 ### Community discussion: Please share your story
 

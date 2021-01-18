@@ -4,7 +4,7 @@ title: "An effective product design portfolio – Constraint"
 punchline: true
 description: " "
 date: 2021-01-07 08:30:00 +0700
-categories: portfolio
+categories: career
 tags: portfolio
 author: "Budi Tanrim"
 

@@ -4,7 +4,7 @@ title: "Making sense of your design project by writing"
 punchline: true
 description: "Do yourself a favor. Write down the story of your project."
 date: 2020-10-26 08:30:00 +0700
-categories: writing
+categories: craft
 tags: writing, tips
 author: "Budi Tanrim"
 

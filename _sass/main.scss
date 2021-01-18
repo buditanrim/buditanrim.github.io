@@ -82,11 +82,11 @@ body, html { // mobile
 }
 hr {
 	border-style: solid;
-	border-color: var(--c--theme-gray-02);
+	border-color: var(--c--theme-gray-03);
 }
 
 hr.dark {
-	border-color: var(--c--theme-gray-02);
+	border-color: var(--c--theme-gray-03);
 }
 
 hr.medium {
@@ -109,6 +109,21 @@ hr.airy {
 	p, ul, li {
 		margin-bottom: var(--l--space-s);
 		color: var(--c--theme-gray-01);
+	}
+	.footnotes-list {
+		
+		margin-bottom: var(--l--space-m);
+
+		li {
+			color: var(--c--theme-gray-02);
+			margin-bottom: var(--l--space-s);
+		}
+		a {
+			color: var(--c--theme-gray-02);
+			text-decoration: underline;
+			text-decoration-color: var(--c--theme-gray-04);
+			&:hover {text-decoration-color: var(--c--theme-gray-02)}
+		}
 	}
 	h1 {
 		padding-top: var(--l--space-l);

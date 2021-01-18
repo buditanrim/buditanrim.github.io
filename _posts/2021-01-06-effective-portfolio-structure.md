@@ -4,8 +4,8 @@ title: "An effective product design portfolio – Structure"
 punchline: true
 description: "Here's the hard truth: It takes me less than 2 minutes to decide whether I want to interview the candidate or not. "
 date: 2021-01-06 08:30:00 +0700
-categories: update
-tags: update
+categories: career
+tags: portfolio
 author: "Budi Tanrim"
 
 image:

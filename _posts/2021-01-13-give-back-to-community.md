@@ -4,7 +4,7 @@ title: "Give back to the community"
 punchline: true
 description: ""
 date: 2021-01-13 08:20:00 +0700
-categories: mentorship
+categories: announcement
 tags: mentorship
 author: "Budi Tanrim"
 

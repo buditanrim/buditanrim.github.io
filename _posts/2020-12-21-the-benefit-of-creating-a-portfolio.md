@@ -4,7 +4,7 @@ title: "The benefit of creating a design portfolio"
 punchline: true
 description: "Creating a case study can be the activity of reflection"
 date: 2020-12-21 08:30:00 +0700
-categories: portfolio
+categories: career
 tags: portfolio
 author: "Budi Tanrim"
 

@@ -37,7 +37,7 @@ For Raisa, the conversation and her team's support helped her manage her imposto
 
 ---
 
-Thanks to Gordon and Raisa for sharing their stories. Many other people have shared their stories too, I just can't put them all in this blog. But we hope this can support anyone who has this feeling.
+Thanks to [Gordon](https://twitter.com/gordonhatusupy) and [Raisa](https://twitter.com/ornellofficial) for sharing their stories. Many other people have shared their stories too, I just can't put them all in this blog. But we hope by sharing our story, it helps anyone who is currently trying to manage this feeling.
 
 Research shows that 70% of the general population feel this way at some point in their life. Most people experience moments of doubt, and that’s normal. The important part is not to let that doubt control our actions. 
 

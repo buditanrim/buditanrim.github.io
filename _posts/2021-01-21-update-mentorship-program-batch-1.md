@@ -37,6 +37,7 @@ I also want to spare my time for more people. Here are lucky 20 people that get 
 - Nurdea Purn**
 - Assyifa Naru**
 - Gilang I**
+- Frances T**
 - Luthfi R. Su**
 - Alfian Im**
 - Rafiandra Wi**

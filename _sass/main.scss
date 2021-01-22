@@ -121,6 +121,7 @@ hr.airy {
 		a {
 			color: var(--c--theme-gray-02);
 			text-decoration: underline;
+			text-decoration-style: dotted;
 			text-decoration-color: var(--c--theme-gray-04);
 			&:hover {text-decoration-color: var(--c--theme-gray-02)}
 		}

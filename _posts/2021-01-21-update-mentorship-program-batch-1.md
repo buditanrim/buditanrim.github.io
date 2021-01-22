@@ -1,29 +1,58 @@
 ---
 layout: post
-title: "Update on mentorship program"
+title: "Announcement for mentorship program"
 punchline: true
-description: "150 people signed up, 6 people chosen. What's next?"
-date: 2021-01-21 08:10:00 +0700
+description: "Announcing the name"
+date: 2021-01-22 10:10:00 +0700
 categories: announcement
 tags: community, mentorship
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/mentorship-update.jpg
+ path: /img/seo/mentorship-announcement.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/mentorship-update.jpg"
+ - "seo/mentorship-announcement.jpg"
 ---
 
-I'm impressed by 150 people who have signed up. Each has a unique story and challenge.
+### Six mentees
 
-I have chosen 6 people for the full mentorship, but seeing 150 people who signed up with enthusiasm, I can't help but look for a way to help a larger number of people. So, here's the update:
+Here are six selected names for 3 months mentorship:
+- Husnul
+- Aisyah
+- Ricky Julian
+- Vania
+- Elva
+- Hilmy
 
-- I will choose 20 people from students to mid-designers and offer a one-hour 1:1 session. If you're one of them, you'll get an email by the EOD of Friday, Jan 22nd.
-- If you're not selected, don't worry, I'll create a small community for whoever signed up and see if we can do some exercise together to solve the problem at a larger scale together.
 
-I have seen many communities out there. But most of them are for "everyone," and this is what I want to avoid. I want to have a small and close community that specifically shared challenges around the product and service design. Ultimately, the mission is to increase the impact of design by exchanging practice and learnings together.
+### Twenty people for one-time 1-on-1 session
 
-So far, I imagine a small community where people with similar challenges can group and explore how to solve them together. I'll act as a facilitator to trigger some questions and perspectives. Hopefully, in the later stage, it can attract other senior people in the industry.
+I also want to spare my time for more people. Here are lucky 20 people that get a chance for one-time 1-on-1 session. I omitted the last name, if you see your name, you should check your email (and spam folder). You can access the calendly to book the session.
+
+- Nanda F. Adhi**
+- Aditya Kur**
+- Nurdea Purn**
+- Assyifa Naru**
+- Gilang I**
+- Luthfi R. Su**
+- Alfian Im**
+- Rafiandra Wi**
+- Azis Ari**
+- Andika Pra**
+- Erlando B**
+- Titi Ar**
+- Dimas Pr**
+- Muhammad Sh**
+- Nadia Sy**
+- MaiLinh Ng**
+- Stewart H**
+- Savira Nu**
+- Ni Annisa N**
+
+If you don't get the email, please reach me out on Twitter.
+
+### What's for the rest?
+Unfortunately, I only have so much time to offer for the community. However, I've been thinking to scale this up. Please stay tuned for more in the future. I don't want to hold a workshop or class format because it's not tailored, so I'm exploring some community-based activity. If you have any idea or want to collaborate, let me know!

@@ -19,7 +19,7 @@ twitter-seo:
 
 "How can I make a greater impact?"
 
-As you laddering up in your career, this question could linger in your heads.
+As you laddering up in your career, this question could linger in your head.
 
 Suppose you are aspired to be a Principal Designer or leadership roles (e.g., Head of Design). In that case, you will be representing your team and need to articulate your team fits into the company goals. 
 

@@ -46,7 +46,7 @@ In this question, I really want to know if the team owns the problem space or ge
 I normally look in a company that has a culture of customer-centricity. When I ask this, I hope the team gets access to their users and talks to them. Even if the method they use is not effective, but this will be a good foundation.
 
 ### Pay.
-I don’t have to explain anything here. I’ll ask myself: Do I happy to get this amount of appreciation compared to my work scope?
+I don’t have to explain anything here. I’ll ask myself: Am I happy to get this amount of appreciation compared to my work scope?
 
 ### People.
 **Do I want to work with these people?**<br/>

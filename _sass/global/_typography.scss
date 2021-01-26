@@ -337,11 +337,15 @@ blockquote.quote-large p {
 }
 blockquote.quote-medium {
 	margin-bottom: 40px;
+
+	p {
+		padding-left: 32px;
+	}
 }
 blockquote.quote-medium,
 blockquote.quote-medium p {
-	font-size: var(--t--size-06);
-	line-height: var(--t--leading-e-06);
+	font-size: var(--t--size-05);
+	line-height: var(--t--leading-e-05);
 }
 blockquote {
 	margin-left: 0; // reset webkit preset
@@ -350,7 +354,7 @@ blockquote {
 	color: var(--c--theme-gray-01);
 
 	p {
-		border-left: 3px solid var(--c--theme-gray-01);
+		border-left: 3px solid var(--c--theme-gray-05);
 	    color: #4b4b4b;
 	    font-size: 18px;
 	    font-weight: 400;

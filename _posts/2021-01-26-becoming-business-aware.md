@@ -27,7 +27,7 @@ Despite if you are on the IC or managerial track, the business concept will open
 
 When you communicate certain decisions, you'd need to let non-designers (product, business, data, tech) understand how that decision adds up to the larger company's objectives. This is where your business sense is important.
 
-I was once impressed with one of the VP of Technology. He proposed a strategy and communicated its urgency by showing the cost saved for the company. After hearing his presentation, I thought, *wow, that’s a powerful pitch*. He understood how to connect all of his work to the business. And that enables him to influence the strategic shift in the company.
+I was once impressed with one of the VP of Technology. He proposed an initiative and communicated its urgency by showing how much cost it could reduce for the company. After hearing his presentation, I thought, *wow, that’s a powerful pitch*. He understood how to connect all of his work to the business. And that enables him to influence the strategic shift in the company.
 
 If you want to make a more significant impact, you should consider to appreciate the business concept and become more aware of it.
 

@@ -19,13 +19,23 @@ twitter-seo:
 
 "How can I make a greater impact?"
 
-As you laddering up in your career, this question could linger in your head.
+Whenever a product designer ask me this question, I'd encourage them to learn about business. Despite if you are on the IC or managerial track, the business concept will open up a new perspective that will enable you to contribute better to the whole product development and company strategy.
 
-Suppose you are aspired to be a Principal Designer or leadership roles (e.g., Head of Design). In that case, you will be representing your team and need to articulate your team fits into the company goals. 
+---
 
-Despite if you are on the IC or managerial track, the business concept will open up a new perspective that will enable you to contribute better to the whole product development and company strategy.
+### The benefit of being business-aware for the senior IC
 
-When you communicate certain decisions, you'd need to let non-designers (product, business, data, tech) understand how that decision adds up to the larger company's objectives. This is where your business sense is important.
+Take the Principal designer role for example. Principal designer will be partnering with a lot of non-designers (Engineer lead, Business Development, Senior Product Manager) to shape the strategy together. 
+
+You will need to be the strategic partner. For example, looking at the current market situation, what should we explore to create new value for our users? What is the biggest pain point and motivation for our users? Also, what would be the good business model for us to explore? The principal designer should be able to connect user and business to collaboratively shaping the vision.
+
+Without the knowledge of business, it's hard to see the designer as the strategic partner.
+
+### The benefit of being business-aware for the leadership role
+
+Suppose you are aspired to be in the leadership roles (e.g., Head of Design). In that case, you will be representing your team and need to articulate how your team fits into the company goals. You'd need to communicate with the non-designers (product, business, data, tech) and they're all talk in business language.
+
+Why hiring more designers is worth considering for the company? What value are we giving back to the company as a design team? If you want to make an initiative like design system, how will that help the company's become more efficient?
 
 I was once impressed with one of the VP of Technology. He proposed an initiative and communicated its urgency by showing how much cost it could reduce for the company. After hearing his presentation, I thought, *wow, that’s a powerful pitch*. He understood how to connect all of his work to the business. And that enables him to influence the strategic shift in the company.
 
@@ -55,7 +65,5 @@ When learning about business, generally speaking, you’ll go through these seve
 
 <br>
 In this series, let's explore a few concepts you can start learning about business from designer's lense. Stay tuned for tomorrow's post.
-
-
 
 

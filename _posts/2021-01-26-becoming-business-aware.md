@@ -2,7 +2,7 @@
 layout: post
 title: "Business-aware designer - overview"
 punchline: true
-description: "Does any of these rings true for your career aspiration? You want to create a bigger impact or want to be in a leadership role or be more strategic."
+description: "Do you want to create a bigger impact or want to be in a leadership role or be more strategic?"
 date: 2021-01-26 08:30:00 +0700
 categories: business
 tags: business

@@ -2,7 +2,7 @@
 layout: post
 title: "Business aware designer – Value proposition"
 punchline: true
-description: "x"
+description: "Value proposition as an aligment tool"
 date: 2021-01-27 08:30:00 +0700
 categories: business
 tags: value proposition
@@ -21,11 +21,11 @@ If you are interested in broadening your view in business. My first goal in this
 
 Today, let’s talk about the value proposition. It commonly used as:
 - A marketing communication tool
-- An alignment tool for your team on how to beat the competition
+- A product discovery alignment tool
 
 ---
 
-## Value proposition as an alignment tool
+## Value proposition as a product discovery alignment tool
 A value proposition statement describes how your product or service will better solve customers' problems than other similar offerings. It's an effective tool to help your team reflect on how to win the competition.
 
 I like to see it as an alignment tool with the business team to understand (a) who are we targeting, (b) what’s their current frustration, and (c) why are we better than other products.
@@ -72,6 +72,8 @@ After the product launch, your team should continually reflect on the value prop
 ---
 
 ## Value proposition as a marketing communication
+When a product team is about to launch their product. Mostly, they'll need to align with the marketing team. Having the value proposition statement can help the marketing team to craft the more accurate message for the targeted audience.
+
 From the user point of view, they will subconsciously ask these questions when they look at the marketing: Why should I consider this product? Is this product useful for me? 
 
 In practice, the value proposition statement will be helpful when we create a landing page. It’s a statement to help answers those questions they have at a glance.

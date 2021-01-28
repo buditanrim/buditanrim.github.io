@@ -19,9 +19,7 @@ twitter-seo:
 
 If you are interested in broadening your view in business. My first goal in this [business-aware designer series][link-prev] is to introduce you to a few business concepts through the design lens.
 
-Today, let’s talk about the value proposition. It commonly used as:
-- A marketing communication tool
-- A product discovery alignment tool
+Today, let’s talk about the value proposition. While it's a great tool to help marketing team communicate the product. It's a great alignment tool for the product team during the product discovery.
 
 ---
 
@@ -44,7 +42,7 @@ As you synthesize the findings, I'd encourage to put them in the journey map. Ma
 ---
 
 ## The statement
-The statement can be a good reminder tool as your project progressing:
+While you gradually build the journey, you can start to explore and fill the blank for this statement template. The statement will be a reminder tool as your project progressing:
 
 <!-- **For** (target audience)<br/>
 **Who aren’t satisfied with** (current offer)
@@ -64,14 +62,19 @@ _Note: The statement will be more descriptive in product design than what will b
 
 ---
 
-## Not a one-time effort
-Your team needs to understand this is not a one-time off effort. It’s a part of the discovery process for your product. You might need to iterate it a few times in the beginning. 
+## What's next?
+It’s a part of the discovery process for your product. You might need to iterate it a few times in the beginning. After you gain the initial findings, your team will hopefully better understand the user's needs and motivation. A few next steps you can consider:
 
-After the product launch, your team should continually reflect on the value proposition as your team gains more knowledge and as the market evolves.
+- Study other competitors (direct & indirect)
+- Explore how you would differentiate your product with the team
+- Explore solutions that address needs differently
+- Validate if that solution is something users want
+
+Even after the product launch, your team should continually reflect on the value proposition as your team gains more knowledge and as the market evolves.
 
 ---
 
-## Value proposition as a marketing communication
+#### Side note: value proposition as a marketing communication
 When a product team is about to launch their product. Mostly, they'll need to align with the marketing team. Having the value proposition statement can help the marketing team to craft the more accurate message for the targeted audience.
 
 From the user point of view, they will subconsciously ask these questions when they look at the marketing: Why should I consider this product? Is this product useful for me? 
@@ -79,5 +82,6 @@ From the user point of view, they will subconsciously ask these questions when t
 In practice, the value proposition statement will be helpful when we create a landing page. It’s a statement to help answers those questions they have at a glance.
 
 Notion’s landing page put it this way: **One tool for your whole team. Write, plan, and get organized.** When I read it, I understand it’s optimized for a team, not an individual. It can help us write, plan, and keep things organized.
+
 
 [link-prev]: https://buditanrim.co/2021/becoming-business-aware/

@@ -110,6 +110,21 @@ hr.airy {
 		margin-bottom: var(--l--space-s);
 		color: var(--c--theme-gray-01);
 	}
+
+	a {
+		color: var(--c--theme-gray-01);
+		text-decoration-style: dotted;
+		text-decoration-color: var(--c--theme-gray-03);
+		-webkit-transition: .25s ease-in;
+    	transition: .25s ease-in;
+
+		&:hover {
+			text-decoration-color: #3723C9;
+			text-decoration-style: solid;
+			background: #EAE8FA;
+			cursor: pointer;
+		}
+	}
 	.footnotes-list {
 		
 		margin-bottom: var(--l--space-m);

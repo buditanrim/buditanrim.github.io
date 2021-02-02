@@ -20,6 +20,10 @@ mailchimp: http://eepurl.com/cuGqAP
 n-a-h: Subscribe to newsletter
 n-a-t: Get the post right into your inbox every time a new post is published or get a weekly email, you choose.
 
+# Booking
+booking-h: Book a 50 minutes chat
+booking-t: Get career advice or portfolio review. We'll work together on your career challenge. More details. &#8594; ($35 for 50 minutes)
+
 # ask-question-text
 a-q-h: Ask a question
 a-q-t: Send your question about the most recent post. If I can, I'll answer it on the blog. (This will open your email client)

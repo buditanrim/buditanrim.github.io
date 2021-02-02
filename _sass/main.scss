@@ -168,12 +168,20 @@ hr.airy {
 		margin-top: -12px;
 		li {
 			line-height: 1.65;
-			margin-bottom: 0;
+			margin-bottom: 8px;
 		}
 	}
 	h2 + ul,
 	h3 + ul {
 		margin-top: 0px;
+	}
+
+	p + h2 {
+		margin-top: var(--l--space-xl);
+	}
+
+	p + h3 {
+		margin-top: var(--l--space-l);
 	}
 
 	
@@ -311,6 +319,7 @@ hr.airy {
 		z-index: 5000;
 		overflow-y: auto;
 		height: calc(100vh + 100px);
+		border-right: 1px solid var(--c--theme-gray-06);
 
 		&--wrapper {
 			overflow-y: auto;

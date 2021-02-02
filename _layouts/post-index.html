@@ -49,10 +49,10 @@
 			{% for post in site.posts %}
 				{% assign currentyear = post.date | date: "%Y" %}
 					{% if currentyear != date %}
-					<h3 class="t--heading-01 p-b-01">{{ currentyear }}</h3>
+					<h3 class="post-year t--heading-01 p-b-01">{{ currentyear }}</h3>
 					{% assign date = currentyear %}
 				{% endif %}
-					<div class="m-b-xs post-row">
+					<div class="post-row">
 						<p class="post-row--date t--mono-01 l--v-m clean-link">{{post.date | date: '%b %d'}}</p>
 						<p class="post-row--title t--body-01"><a href="{{ post.url }}" class=" t--color-primary l--v-m ">{{post.title}}</a></p>
 					</div>

@@ -311,6 +311,15 @@ hr.airy {
 .photo.stoqo {background-image: url(/img/asset/about-stoqo.jpg);}
 
 // Sidebar on journal
+.journal-current-post {
+	background: #F3F3F3;
+}
+.post-row { 
+	padding: 8px 12px;
+}
+.post-year {
+	padding-left: 12px;
+}
 
 @media (min-width: 992px) {
   .journal-panel {
@@ -320,6 +329,7 @@ hr.airy {
 		overflow-y: auto;
 		height: calc(100vh + 100px);
 		border-right: 1px solid var(--c--theme-gray-06);
+		margin-left: -12px;
 
 		&--wrapper {
 			overflow-y: auto;

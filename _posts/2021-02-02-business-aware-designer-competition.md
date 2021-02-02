@@ -10,19 +10,21 @@ tags: competition
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/business-aware-03.jpg
+ path: /img/seo/business-aware-04.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/business-aware-03.jpg"
+ - "seo/business-aware-04.jpg"
 ---
 
+If people want to go from point A to point B. They can use a car. But there's a bus or train or airplane as the alternatives.
 
+Those are the competition.
 
-After your team gets the [Job to be Done (JTBD)][link-1] from research. Then, your team can start to analyze the competitors to understand what available options in the market for the targeted customers.
+After your team gets the [Job to be Done (JTBD)][link-1] from research. Consider to familiarize your team with the competitors. 
 
-This will allow your team to start plan how to position your product differently than the other offerings.
+Understand what available options that customers have to solve their problem. This will allow your team to start plan how to position your product differently than the other offerings.
 
 ---
 

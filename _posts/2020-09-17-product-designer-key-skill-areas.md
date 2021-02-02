@@ -16,6 +16,7 @@ gif: false
 twitter-seo: 
  - "seo/entering-product-design-ch-4-seo.jpg"
 ---
+_Update: My view on this topic has changed. Take this with a grain of salt. I felt this model is not intuitive enough and a bit too narrow._
 
 Have you ever wonder what area to improve as a product designer?
 

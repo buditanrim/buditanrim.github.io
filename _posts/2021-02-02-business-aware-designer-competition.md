@@ -69,4 +69,4 @@ Don’t forget to focus on the customer’s JTBD as the primary anchor of your c
 You can also start to explore a new area that they haven’t offer before. Take Netflix, for example, they innovate that people can stream from everywhere. Which something that traditional Cable TV doesn’t provide.
 
 
-[link-1]: https://buditanrim.co/2021/business-aware-designer-ob-to-be-done/
+[link-1]: https://buditanrim.co/2021/business-aware-designer-job-to-be-done/

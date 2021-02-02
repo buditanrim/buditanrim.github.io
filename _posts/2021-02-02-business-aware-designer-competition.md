@@ -24,7 +24,7 @@ Those are the competition.
 
 After your team gets the [Job to be Done (JTBD)][link-1] from research. Consider to familiarize your team with the competitors. 
 
-Understand what available options that customers have to solve their problem. This will allow your team to start plan how to position your product differently than the other offerings.
+Understand what available options that customers have to solve their problem will allow your team to start plan how to position your product differently than the other offerings.
 
 ---
 

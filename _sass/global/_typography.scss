@@ -113,6 +113,14 @@
 		line-height: var(--t--leading-e-07);
 	}
 }
+// ---
+// Title & Subtitle of post
+// ---
+.t--subtitle-01 {
+	font-size: var(--t--size-06);
+	line-height: var(--t--leading-e-06);
+}
+
 
 // ------------------------
 // Headings
@@ -135,8 +143,7 @@ h3 {
 .t--heading-03,
 .t--heading-03-serif,
 .post-inner--body h2,
-h2,
-.t--subtitle-01 {
+h2 {
 	font-size: var(--t--size-07);
 	line-height: var(--t--leading-e-07);
 }

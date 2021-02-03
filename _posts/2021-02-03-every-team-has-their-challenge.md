@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Every team has their unique challenges."
+title: "Every team has its unique challenges."
 punchline: true
-description: "Position your product among the competition."
-subtitle: "Position your product among the competition."
+description: "One takeaway from the community discussion"
+subtitle: "One takeaway from the community discussion"
 date: 2021-02-03 08:30:00 +0700
 categories: community
 tags: community
@@ -35,3 +35,8 @@ Thanks to all the teams who spent an hour discussing with me!
 <div class="img-wrapper m-b-m">
     <img src="/img/seo/community-wrap.jpg" alt="Community discussion" class="illustration" />
 </div>
+
+
+> An insightful session! Budi didn’t just answer our questions, instead he tried to understand the context first (which helped us to frame and understand our problems better too!) He generously shared his experiences and provided practical advices.
+
+If your team is interested in sitting and discussing together. Stay tuned for the next one, which I'll announce later on my Twitter.

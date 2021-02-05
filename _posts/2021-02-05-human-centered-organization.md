@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Infusing the human-centered practice into the organization"
+title: "Dealing with top down request"
 punchline: true
 description: "Ugh, our team constantly get a top-down request"
 subtitle: "Ugh, our team constantly get a top-down request"

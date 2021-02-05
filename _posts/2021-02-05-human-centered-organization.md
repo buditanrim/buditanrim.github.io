@@ -22,7 +22,7 @@ One of the teams asked me, “How can we create the culture of co-creation?”
 
 After the discussion, I realized what they really asked was, “How to change the way our organization work so we can create real customer value?”
 
-They asked that because the product team have been getting a lot of a top-down requests, which they had to execute even when it doesn’t make sense. In this case, the co-creation is only a small tactic that will not solve this bigger problem. During our discussion, it’s clear to us there are many factors why that happens.
+They asked that because the product team have been getting a lot of a top-down requests, which they had to execute even when it doesn’t make sense. 
 
 But, think about that for a second.
 
@@ -32,7 +32,7 @@ Based on research, when we face an uncertain situation, our limbic system in our
 
 Pressure and uncertainty are a deadly combination.
 
-Based on my experience and what the team told me. The reason why the leadership makes a top-down request might be because (a) they don’t trust that the product team can come up with a good feature for users, or (b) they get pressure from shareholders, or (c) they don’t know what the other way of working.
+Based on my observation, a few reasons why the leadership makes a top-down request might be because (a) they don’t trust that the product team can come up with a good feature for users, or (b) they get pressure from shareholders, or (c) they don’t know what the other way of working.
 
 As a result, a product team is not empowered to explore the problem space. They run a risk of executing unvalidated ideas or solve wrong problems. Which ends up not creating real value for the customers and slowly becomes irrelevant to the market later.
 

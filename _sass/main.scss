@@ -330,10 +330,13 @@ hr.airy {
 		height: calc(100vh + 100px);
 		border-right: 1px solid var(--c--theme-gray-06);
 		margin-left: -12px;
+		-ms-flex: 0 0 26%;
+		flex: 0 0 26%;
+		max-width: 26%;
 
 		&--wrapper {
 			overflow-y: auto;
-	    	padding-right: 20px;
+	    	padding-right: 16px;
 		}
 	}
 }

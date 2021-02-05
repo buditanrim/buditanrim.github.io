@@ -15,6 +15,8 @@ gif: false
 twitter-seo: 
  - "seo/welcome.jpg"
 ---
+_Update: This is the first post when I still posting this on yellowstroke.com. Anyway, hello! If you're visiting my blog for the first time._
+
 
 _“Hey, what’s that on the sky? I asked my friend.”_  
 _“You mean those clouds(?)” he replied, confusedly._  

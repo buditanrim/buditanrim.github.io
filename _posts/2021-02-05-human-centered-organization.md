@@ -36,6 +36,8 @@ Based on my observation, a few reasons why the leadership makes a top-down reque
 
 As a result, a product team is not empowered to explore the problem space. They run a risk of executing unvalidated ideas or solve wrong problems. Which ends up not creating real value for the customers and slowly becomes irrelevant to the market later.
 
+---
+
 This is a chicken and egg problem.
 
 Should the leadership give trust and space first? If so, can the product team actually deliver a good result?

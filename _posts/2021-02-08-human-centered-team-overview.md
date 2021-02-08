@@ -23,7 +23,7 @@ If you receive an order to execute the feature. Then, you're a feature-centered 
 
 The alternative for that is a human-centered team. They learn about customers' needs, deliver value to them in the appropriate business constraint. To be clear. A human-centered product team doesn't ignore the business. They deliver a desirable solution for customers that viable for the organization.
 
-Are you interested to turn your team to be a human-centered product team? In this series, I'll be focusing on how to drive this from bottom-up. I'm writing this specifically for design manager who is struggle in a feature-centered team.
+Are you interested to turn your team to be a human-centered product team? In this series, I'll be focusing on how to drive this from bottom-up. I'm writing this specifically for design manager or anyone in the design leadership role who is struggle in a feature-centered team.
 
 First, let's build the [strategic relationship][link-1].
 

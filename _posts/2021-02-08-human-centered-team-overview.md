@@ -29,4 +29,4 @@ By the way, I'm not advocating a design-led team. I'm talking about a cross-func
 
 First, let's build the [strategic relationship][link-1].
 
-[link-1]: https://buditanrim.co/2021/human-centered-team-relationsihp
+[link-1]: https://buditanrim.co/2021/human-centered-team-relationship/

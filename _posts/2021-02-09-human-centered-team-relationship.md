@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Human-centered team vs Feature-centered team – Strategic relationship"
+title: "Human-centered team vs. Feature-centered team – Strategic relationship"
 punchline: true
 description: "Move from discussing the solution to the outcome."
 date: 2021-02-08 09:30:00 +0700

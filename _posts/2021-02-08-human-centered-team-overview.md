@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Human-centered team vs Feature-centered team – Overview"
+title: "Human-centered team vs. Feature-centered team – Overview"
 punchline: true
 description: "Which one are you?"
 date: 2021-02-08 08:30:00 +0700

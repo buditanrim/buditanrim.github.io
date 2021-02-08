@@ -25,6 +25,8 @@ The alternative for that is a human-centered team. They learn about customers' n
 
 Are you interested to turn your team to be a human-centered product team? In this series, I'll be focusing on how to drive this from bottom-up. I'm writing this specifically for design manager or anyone in the design leadership role who is struggle in a feature-centered team.
 
+By the way, I'm not advocating a design-led team. I'm talking about a cross-function team. In this setting, product managers, business teams, engineers, data, and design collaborate closely. If you have a team in this format and struggle to stop the random feature request, then this series is for you.
+
 First, let's build the [strategic relationship][link-1].
 
 [link-1]: https://buditanrim.co/2021/human-centered-team-relationsihp

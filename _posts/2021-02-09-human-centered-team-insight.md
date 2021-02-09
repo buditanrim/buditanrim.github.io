@@ -49,11 +49,11 @@ It's hard because we're dealing with people. Biases and ego involved. Get to kno
 
 Are you interested in preparing your team with this strategic insight? Start by understanding the business objective. 
 
-Allocate time for your user researcher to do appropriate research that is relevant to the business objective. In my case, I knew from the last quarter the objective was about the churn rate. Then, we started to ask questions, pulled data around it, turned them into a research plan, and so on – to understand why people leave.
+Allocate time for your user researcher to do appropriate research that is relevant to the business objective. In my case, I knew from the last quarter the objective was about the churn rate. Then, we started to ask questions, pulled data around it, turned them into a research plan, and so on – to understand why users leave.
 
 > Gain insight on how to achieve that business objective.
 
-To set your expectation, it won't be an overnight effort. You need to collaborate. Spend weeks after weeks to get the knowledge and data around it. Also, this is the scariest part. You need the right people in your team; a strong product manager or a design lead, or a strong user researcher—at least one of them. Talk with them about this plan to gain more strategic trust.
+To set your expectation, it won't be an overnight effort. You need to collaborate. Spend weeks after weeks to talk to customers, get the knowledge and data around it. You need the right people in your team; a strong product manager or a design lead, or a strong user researcher—at least one of them. Talk with them about this plan to gain more strategic trust.
 
 If you don't have the data set properly in your product, that will be your long battle first. Data is not a guarantee you'll win the conversation, but you'll have a more productive discussion. It's not our word against CEO's word.
 

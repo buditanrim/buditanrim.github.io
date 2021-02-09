@@ -332,69 +332,70 @@ a.neutral-link {
 .bold { font-weight: var(--t--weight-bold); }
 
 
-//blockquote
-blockquote.quote-large,
-blockquote.quote-large p {
-	font-size: var(--t--size-07);
-	line-height: var(--t--leading-e-07);
-	font-weight: var(--t--weight-bold);
-	padding-top: 4px;
-	padding-bottom: 4px;
-	margin-top: 12px;
-	margin-bottom: 16px;
-	border-left-width: 6px;
-}
-blockquote.quote-medium {
-	margin-bottom: 40px;
-
-	p {
-		padding-left: 32px;
-	}
-}
-blockquote.quote-medium,
-blockquote.quote-medium p {
-	font-size: var(--t--size-05);
-	line-height: var(--t--leading-e-05);
-}
-blockquote {
-	margin-left: 0; // reset webkit preset
-	font-family: var(--t--family-sans-serif);
-	font-weight: var(--t--weight-bold);
-	color: var(--c--theme-gray-01);
-
-	p {
-		border-left: 3px solid var(--c--theme-gray-05);
-	    color: #4b4b4b;
-	    font-size: 18px;
-	    font-weight: 400;
-	    line-height: 1.6;
-	    padding-left: 16px;
-	}
-    cite {
-    	font-size: 16px;
-	    font-weight: 700;
-    	background: none;
-    	display: block;
-	    color: var(--c--theme-gray-03);
-	    margin-bottom: var(--l--space-08);
-	    margin-top: 4px;
-
-	    &:before {
-	   		content: "\2014";
-	    }
-    }
-}
-
-@media (min-width: 768px) {
+.post-inner--body {
+	//blockquote
 	blockquote.quote-large,
 	blockquote.quote-large p {
-		font-size: var(--t--size-09);
-		line-height: var(--t--leading-e-09);
+		font-size: var(--t--size-07);
+		line-height: var(--t--leading-e-07);
+		font-weight: var(--t--weight-bold);
+		padding-top: 4px;
+		padding-bottom: 4px;
+		margin-top: 12px;
+		margin-bottom: 16px;
+		border-left-width: 6px;
+	}
+	blockquote.quote-medium {
+		margin-bottom: 40px;
+
+		p {
+			padding-left: 32px;
+		}
 	}
 	blockquote.quote-medium,
 	blockquote.quote-medium p {
-		font-size: var(--t--size-07);
-		line-height: var(--t--leading-e-07);
+		font-size: var(--t--size-05);
+		line-height: var(--t--leading-e-05);
+	}
+	blockquote {
+		margin-left: 0; // reset webkit preset
+		font-family: var(--t--family-slab);
+		font-weight: var(--t--weight-bold);
+		color: var(--c--theme-gray-01);
+
+		p {
+			border-left: 3px solid var(--c--theme-gray-05);
+		    color: var(--c--theme-gray-02);
+		    font-weight: bold;
+		    line-height: 1.6;
+		    padding-left: 16px;
+		}
+	    cite {
+	    	font-size: 16px;
+		    font-weight: 700;
+	    	background: none;
+	    	display: block;
+		    color: var(--c--theme-gray-03);
+		    margin-bottom: var(--l--space-08);
+		    margin-top: 4px;
+
+		    &:before {
+		   		content: "\2014";
+		    }
+	    }
+	}
+
+	@media (min-width: 768px) {
+		blockquote.quote-large,
+		blockquote.quote-large p {
+			font-size: var(--t--size-09);
+			line-height: var(--t--leading-e-09);
+		}
+		blockquote.quote-medium,
+		blockquote.quote-medium p {
+			font-size: var(--t--size-07);
+			line-height: var(--t--leading-e-07);
+		}
 	}
 }
 

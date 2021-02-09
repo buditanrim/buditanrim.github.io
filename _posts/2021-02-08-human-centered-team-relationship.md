@@ -30,7 +30,8 @@ Say the exec asks you to integrate more payment methods in the checkout. Don't b
 
 In this situation, try to understand what's the outcome of that request. Is the intention to increase the conversation during the checkout? If so, go ahead and execute that while keeping track of the conversion rate. Chances are, the business objective will not hit the target. At that moment, your goal is to help the exec realize their request doesn't get them closer to the expected outcome. You have to make this clear when the business outcome of their solution is off-target. 
 
-When they started to realize that, you should do your homework, allocate proper time for your researcher to do user research. Next time, when that same conversation happens, you can start giving an alternative. This is where the strategic insights will be helpful – which we'll discuss on the next post.
+When they started to realize that, you should do your homework, allocate proper time for your researcher to do user research. Next time, when that same conversation happens, you can start giving an alternative. This is where the [strategic insights][link-1] will be helpful – which we'll discuss on the next post.
 
 This is how I'd build the relationship in this situation: Help them understand their request is not getting us anywhere and suggest a better alternative by providing user insight that connected to their business objective.
 
+[link-1]: https://buditanrim.co/2021/human-centered-team-insight/

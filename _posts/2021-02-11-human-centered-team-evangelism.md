@@ -2,7 +2,8 @@
 layout: post
 title: "Evangelizing the human-centered practice"
 punchline: true
-description: "It's you"
+description: "Influence the execs by evangelizing the business outcome."
+subtitle: "Influence the execs by evangelizing the business outcome."
 date: 2021-02-11 08:00:00 +0700
 categories: practice
 tags: practice
@@ -21,7 +22,7 @@ Influencing people is a constant effort.
 
 We discussed how your team should shift the [conversation to the outcome][link-1] and do your homework as a design manager to [gain insights][link-2]. If you notice, our goal is to influence people. To do so, you need to share the context. This is where evangelism comes into play.
 
-Evangelism is all about selling the outcome. Remember, business people and execs care about the outcome. One example of evangelism is when I send an email to the company-wide to show them the outcome of a certain team who adopted the human-centered practice.
+Evangelism is all about selling the outcome. Remember, business people and execs care about the business outcome. One example of evangelism is when I send an email to the company-wide to show them the outcome of a certain team who adopted the human-centered practice.
 
 It's your job in the leadership role to "show" people across your organization why this practice can be beneficial for them. You can't "tell" them and educate them. Your goal is to influence them with context. Here are a few actions you can consider:
 

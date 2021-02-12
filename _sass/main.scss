@@ -184,9 +184,15 @@ hr.airy {
 		margin-top: var(--l--space-l);
 	}
 
-	
-	
-	//share
+	//Applause + Share
+	.post-meta-actions{
+		border: 1px solid var(--c--theme-gray-03);
+		padding: 8px 12px 6px;
+		margin-top: 5rem;
+	}
+	.social-share-wrapper {
+		line-height: 48px;
+	}
 	.social-share {
 		display: inline-block;
 		margin-right: 12px;
@@ -202,7 +208,7 @@ hr.airy {
 			background: none;
 		}
 	}
-	a.social-share.twitter { width: 24px; }
+	a.social-share.twitter { width: 24px; padding-top: 3px; }
 	a.social-share.facebook { width: 20px; }
 	.social-text {
 		margin-right: 4px;

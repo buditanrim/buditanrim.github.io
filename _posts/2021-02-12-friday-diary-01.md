@@ -43,7 +43,7 @@ One of the critical components of being a senior product designer is identifying
 ### 3.
 20 minutes is how long we usually can focus on the task. Try this:
 - Break your work into smaller tasks
-- Set 15 minutes
+- Work on the task for 15 minutes
 - Small break (2-3 min) & repeat
 
 I've been doing this for a week, and it's been effective so far.

@@ -68,4 +68,9 @@
   .main-menu > li > a:hover {
     opacity: 1;
   }
+  .main-menu > li > .btn-dark {
+    background-color: var(--c--theme-gray-05);
+    color: var(--c--theme-gray-02);
+
+  }
 }

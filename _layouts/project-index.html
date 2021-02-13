@@ -1,40 +1,36 @@
 {% include header.html %}
-
-<!-- <div class="container">
-	<div class="row">
-		<div class="col">
-			<h1 class="t--title-01 m-b-03">Career highlights</h1>
-		</div>
-	</div>
-</div> -->
-
-<!--<div>
-
-
-	 <div class="project--index l--grid-wide l--flex-2-col">
-	{% assign project_by_year = site.projects | sort: 'order' | reverse %}
-	{% for project in project_by_year %}
-		<div class="project--index-row m-t-04 m-b-02">
-			<img src="{{ project.image.path }}" alt="{{ project.image.alt }}" class="l--full-width">
-			<h2>{{ project.title }}</h2>
-			<p class="project--index-row-description t--body-03 m-t-01">{{ project.description }}</p>
-			<p class="t--body-01 m-t-01">{{ project.client }} · {{ project.year }}</p>
-		</div>
-	{% endfor %}
-	</div>
-</div> -->
-
 <main class="container m-t-l m-b-s">
-	<div class="row">
+	<div class="row p-b-m b--bottom-dashed">
 		<div class="col-sm-12 col-md-8">
-			<h1 class="t--title-01 m-b-03">{{site.data.central.portfolio-title}}</h1>
-			<p class="t--body-02">
-				{{site.data.central.portfolio-blurb}}
+			<h1 class="t--title-01 m-b-m">{{site.data.central.portfolio-title}}</h1>
+		</div>
+		<div class="col-sm-12 col-md-12 markdown career-story col-flow-1 col-flow-md-2 col-flow-lg-3">
+				<p>
+				MY EYES WERE TEARY after I realized that I've won a design contest. That happened in 2010 — during my second year of studying accounting in the university — and it was the moment I started to pursue design as a career. I began freelancing while navigating my study. Mostly I work on logos, landing pages, and marketing materials for clients.</p>
+
+				<p>
+				In 2013, I worked with Zerply to help connect artists — such as animators, game designers, and VFX talents — with production houses. I helped redesign their experience and design language.</p>
+
+				<p>
+				After I departed from Zerply, I started to pursue a freelance route. The most notable client was Refundo, a startup based in New Jersey, to improve the taxing experience for the low-income communities. This was the first time I started to learn how to solve user problems and collaborate with a cross-function team.
+				</p>
+
+				<p>In 2015, shortly after I released Budicon — a collection of 4,000 icons — Yahoo reached me out to help them design their icon set. It was my first paid icon project, and I learned a lot while working with Ryan McCullah, the Design Director.</p>
+				<p>
+				In 2017 I took a big jump to join Shopify and moved to Ottawa. It was one of the most impactful life choices I've made. My team was improving the onboarding experience and help merchants to make a better decision by providing insights. I contributed to the Polaris design system, providing a home-card system and icon design principles. I'm forever grateful for the experience at Shopify.</p>
+				<p>
+				Two years later, my wife wanted to pursue her career in Indonesia, and we decided to move back. I joined Bukalapak as a Principal Designer and was later promoted to be Head of Design. I led the cross-function team to scale the system to serve 8 business units and design the service for the design system users. I led the design practice initiative to make a human-centered organization.</p>
+				<p>
+				At Shopify, I learned how to be user-centered and do a lot of deep thinking. At Bukalapak, I was exposed to various business challenges and faced with a high-tempo delivery environment. This combination of exposures give me practical perspective for both business and user.</p>
+				<p>
+				Currently, I decided to take a pause and spend my time giving back to the community by providing mentorship. </p>
+
 			</p>
 		</div>
 	</div>
 	<div class="row m-t-xl">
 		<div class="col-sm-12 col-md-6">
+			<h2 class="t--heading-03 m-b-m">Notable work</h2>
 			<hr class="m-b-xs">
 			<p><a href="/evolving-bazaar-design-system/" class="link">
 			01. Evolving and scaling Bazaar design system

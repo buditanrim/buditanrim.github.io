@@ -247,6 +247,17 @@ hr.airy {
 
 	&--index-row-description { max-width: 90%; }
 }
+.career-story {
+	column-gap: 5%;
+	column-fill: balance;
+	widows: 3; 
+	orphans: 4;
+
+	p {
+		font-size: var(--t--size-03);
+		line-height: var(--t--leading-p-03);
+	}
+}
 
 // Youtube
 .youtube-wrapper {

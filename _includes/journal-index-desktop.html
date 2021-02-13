@@ -1,0 +1,39 @@
+{% if page.id == index %}
+<aside class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 nice-scrollbar">
+	<div class="journal-panel--wrapper">
+{% else %}
+<aside class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 d-none d-lg-block nice-scrollbar">
+	<div class="journal-panel--wrapper">
+{% endif %}
+		{% for post in site.posts %}
+			{% assign currentyear = post.date | date: "%Y" %}
+			{% if currentyear != date %}
+				<h3 class="post-year t--heading-01 p-b-01">{{ currentyear }}</h3>
+				{% assign date = currentyear %}
+			{% endif %}
+			{% if page.url == post.url %}
+				<div class="post-row journal-current-post rounded-2">
+					<p class="post-row--date t--mono-01 l--v-m clean-link">
+						{{post.date | date: '%b %d'}}
+					</p>
+					<p class="post-row--title t--body-01">
+						<a href="{{ post.url }}" class="t--color-primary l--v-m ">
+							{{post.title}}
+						</a>
+					</p>
+				</div>
+				{% else %}
+				<div class="post-row">
+					<p class="post-row--date t--mono-01 l--v-m clean-link">
+						{{post.date | date: '%b %d'}}
+					</p>
+					<p class="post-row--title t--body-01">
+						<a href="{{ post.url }}" class="t--color-primary l--v-m ">
+							{{post.title}}
+						</a>
+					</p>
+				</div>
+			{% endif %}
+		{% endfor %}
+	</div>
+</aside>

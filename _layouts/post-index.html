@@ -1,16 +1,9 @@
 {% include header.html %}
-
+<!-- Mobile: Show the journal list -->
 <div class="post container d-lg-none">
 	<div class="row">
 		<div class="col-12">
-			{% for post in site.posts %}
-			{% assign currentyear = post.date | date: "%Y" %}
-				{% if currentyear != date %}
-				<h3 class="t--heading-04 p-b-01 p-t-04">{{ currentyear }}</h3>
-				{% assign date = currentyear %}
-			{% endif %}
-				{% include post-loop.html %}
-			{% endfor %}
+			{% include journal-index-mobile.html %}
 			<div class="m-t-l mobile-m-t-m">
 				{% include newsletter.html %}
 			</div>
@@ -18,6 +11,7 @@
 	</div>
 </div>
 
+<!-- Large: Show the latest content -->
 <div class="post container d-none d-lg-block">
 	<div class="row p-t-l mobile-p-t-m">
 		{% for post in site.posts limit:1 %}
@@ -31,35 +25,13 @@
 					<h1 class="post-inner--title t--title-01-serif m-b-s">{{post.title}}</h1>
 				{% endif %}
 			</div>
-			<div class="m-b-s">
-				<div class="post-inner--body">
-					{{ post.content }}
-					<div class="post-meta-actions l--flex l--flex-sb rounded-2">
-						<applause-button style="width: 48px; height: 48px; margin-left: -8px;" multiclap="true" color="red" url="https://buditanrim.co{{post.url}}" /></applause-button>
-						{% include share-post.html %}
-					</div>
-				</div>
-			</div>
+			{% include post-inner-body.html %}
 			{% include ask-question.html %}
 			{% include newsletter.html %}
 		</article>
 		{% endfor %}
-
-		<aside class="journal-panel col-sm-12 col-md-12 col-lg-3 clearfix order-lg-1 nice-scrollbar">
-			<div class="journal-panel--wrapper">
-			{% for post in site.posts %}
-				{% assign currentyear = post.date | date: "%Y" %}
-					{% if currentyear != date %}
-					<h3 class="post-year t--heading-01 p-b-01">{{ currentyear }}</h3>
-					{% assign date = currentyear %}
-				{% endif %}
-					<div class="post-row">
-						<p class="post-row--date t--mono-01 l--v-m clean-link">{{post.date | date: '%b %d'}}</p>
-						<p class="post-row--title t--body-01"><a href="{{ post.url }}" class=" t--color-primary l--v-m ">{{post.title}}</a></p>
-					</div>
-			{% endfor %}
-			</div>
-		</aside>
+		{% include journal-index-desktop.html %}
+			
 	</div>
 </div> 
 

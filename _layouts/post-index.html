@@ -15,20 +15,7 @@
 <div class="post container d-none d-lg-block">
 	<div class="row p-t-l mobile-p-t-m">
 		{% for post in site.posts limit:1 %}
-		<article id="post-inner" class="col-sm-12 col-md-12 col-lg-7 col-xl-6 offset-lg-1 p-b-m mobile-p-b-xs order-lg-2">
-			<div class="post-inner--heading m-b-m">
-					<p class="t--mono-02 m-b-xs">{{post.date | date:'%b %d, %Y'}}</p>
-				{% if post.punchline %}
-					<h1 class="post-inner--title t--title-01-serif">{{post.title}}</h1>
-					<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-s">{{post.subtitle}}</p>
-				{% else %}
-					<h1 class="post-inner--title t--title-01-serif m-b-s">{{post.title}}</h1>
-				{% endif %}
-			</div>
-			{% include post-inner-body.html %}
-			{% include ask-question.html %}
-			{% include newsletter.html %}
-		</article>
+		{% include post-inner.html %}
 		{% endfor %}
 		{% include journal-index-desktop.html %}
 			

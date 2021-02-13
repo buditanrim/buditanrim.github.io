@@ -1,0 +1,23 @@
+<div class="post-inner--heading m-b-m">
+	<p class="t--mono-02 m-b-xs">
+		{% if page.id == "index" %}
+			{{post.date | date:'%b %d, %Y'}}
+		{% elsif page.layout == "post" %}
+			{{page.date | date:'%b %d, %Y'}}
+		{% endif %}
+	</p>
+	<h1 class="post-inner--title t--title-01-serif m-b-xs">
+		{% if page.id == "index" %}
+			{{post.title}}
+		{% elsif page.layout == "post" %}
+			{{page.title}}
+		{% endif %}
+	</h1>
+	<p class="post-inner--subtitle t--subtitle-01 t--color-secondary m-t-01 m-b-s">
+		{% if page.id == "index" %}
+			{{post.subtitle}}
+		{% elsif page.layout == "post" %}
+			{{page.subtitle}}
+		{% endif %}
+	</p>
+</div>

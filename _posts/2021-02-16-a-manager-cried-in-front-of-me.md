@@ -35,9 +35,7 @@ I took a pause for a few minutes. After those awkward silence, she started to ta
 
 We somehow come to that conclusion because I listened and give her room to speak.
 
-Is there any solution to that? Well, no. Not yet. I offered her to meet again the next day.
-
-"I might not know all the answers, but let's work on this together," I said.
+Is there any solution to that? Well, no. Not yet. I offered her to meet again the next day. "I might not know all the answers, but let's work on this together," I said.
 
 > Sometimes, we need to listen first.
 

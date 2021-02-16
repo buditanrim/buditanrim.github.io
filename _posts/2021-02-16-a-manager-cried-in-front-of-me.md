@@ -38,6 +38,7 @@ We somehow come to that conclusion because I listened and give her room to speak
 Is there any solution to that? Well, not yet. I offer her to meet again tomorrow. 
 
 "I might not know all the answers, but let's work on this together," I said.
-Sometimes, we don't need a solution yet. We need to listen. Help to make sense of things.
+
+Sometimes, as a manager, we don't to give the solution. We need to listen. Help to make sense of things.
 
 *P.S. Yes, we worked things out. We navigate through those challenges together. Most importantly, she took a short break too after I insisted. Yes, she is a bit workaholic.*

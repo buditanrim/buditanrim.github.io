@@ -41,4 +41,8 @@ Is there any solution to that? Well, not yet. I offer her to meet again tomorrow
 
 Sometimes, as a manager, we don't to give the solution. We need to listen. Help to make sense of things.
 
+{%include tweet.html link="https://ctt.ac/yfffD" %}
+
+---
+
 *P.S. Yes, we worked things out. We navigate through those challenges together. Most importantly, she took a short break too after I insisted. Yes, she is a bit workaholic.*

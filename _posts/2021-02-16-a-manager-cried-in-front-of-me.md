@@ -27,7 +27,7 @@ I panicked. It was the first time someone cried at work.
 
 Crying is a form of vulnerability. She was being vulnerable in front of me. Meaning she somewhat trusts me.
 
-My knee-jerk reaction was to help her solve a problem and asked, "What happened? What makes you feel that way?" "I don't know." She quickly replied. I tried to make wild guesses. But the more I made those guesses, the quieter she had become.
+My knee-jerk reaction was to help her solve a problem, "What happened? What makes you feel that way?" "I don't know." She quickly replied. I tried to make wild guesses. But the more I made those guesses, the quieter she had become.
 
 Then, I quickly realized *I need to listen, idiot.*
 

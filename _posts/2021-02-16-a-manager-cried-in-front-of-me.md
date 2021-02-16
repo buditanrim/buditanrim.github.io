@@ -31,11 +31,11 @@ My knee-jerk reaction was to help her solve a problem and asked, "What happened?
 
 Then, I quickly realized *I need to listen, idiot.*
 
-I took a pause for a few minutes. After those awkward silence, she started to talk and share things that made her frustrated. Then during that 60 minutes, I only listen and help her structure her thoughts. In the end, we concluded that she's not feeling great because she was burned out and feeling incompetent about her ability to coach her designers.
+I took a pause for a few minutes. After those awkward silence, she started to talk and share things in a very unstructured way. I only listen and help her structure her thoughts. In the end, we concluded that she's not feeling great because she was burned out and feeling incompetent about her ability to coach her designers.
 
 We somehow come to that conclusion because I listened and give her room to speak.
 
-Is there any solution to that? Well, not yet. I offer her to meet again tomorrow. 
+Is there any solution to that? Well, no. Not yet. I offered her to meet again the next day.
 
 "I might not know all the answers, but let's work on this together," I said.
 

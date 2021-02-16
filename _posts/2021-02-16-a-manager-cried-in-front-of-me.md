@@ -39,7 +39,7 @@ Is there any solution to that? Well, not yet. I offer her to meet again tomorrow
 
 "I might not know all the answers, but let's work on this together," I said.
 
-> Sometimes, as a manager, we don't always have to give a solution. We need to listen. Help to make sense of things.
+> Sometimes, we need to listen first.
 
 {%include tweet.html link="https://ctt.ac/yfffD" %}
 

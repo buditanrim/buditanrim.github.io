@@ -29,7 +29,7 @@ Crying is a form of vulnerability. She was being vulnerable in front of me. Mean
 
 My knee-jerk reaction was to help her solve a problem and asked, "What happened? What makes you feel that way?" "I don't know." She quickly replied. I tried to make wild guesses. But the more I made those guesses, the quieter she had become.
 
-Then, I quickly realized I need to listen, idiot.
+Then, I quickly realized *I need to listen, idiot.*
 
 I took a pause for a few minutes. After those awkward silence, she started to talk and share things that made her frustrated. Then during that 60 minutes, I only listen and help her structure her thoughts. In the end, we concluded that she's not feeling great because she was burned out and feeling incompetent about her ability to coach her designers.
 

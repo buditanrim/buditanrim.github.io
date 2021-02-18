@@ -27,7 +27,7 @@ The last one will be for the product designer and product people who are interes
 
 ---
 
-My focus and energy will be for the first one, about the user interface. I have 2,000 words by far. Still a long way to go.
+My focus and energy will be for the first one, about the user interface. I have 2,000 words by far. Still a long way to go. I've seen many designers who struggle with this, and whenever I want to give them a resource to read, I can't find the right one. So, I hope I can contribute there.
 
 If you're struggling with the designing interface, [let me know][link-3], I wanna hear from you. That will be beneficial for me to understand the questions you have.
 

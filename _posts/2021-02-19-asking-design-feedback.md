@@ -23,7 +23,7 @@ Specific questions will trigger particular answers.
 
 Asking a generic question like, *what do you think?*
 
-When you ask, *what do you think?* You actually ask, *based on your opinion, how would you interpret this design?* More likely to trigger subjective opinions. It's okay if that's what you're looking for. However, if you're frustrated with vague or irrelevant feedback. Is there anything we can do? 
+When you ask, *what do you think?* You actually ask, *based on your opinion, how would you interpret this design?* In which, more likely to trigger subjective opinions. It's okay if that's what you're looking for. However, if you're frustrated with vague or irrelevant feedback. Is there anything we can do? 
 
 What if you can frame the discussion to focus on the intent behind the design? To discuss whether or not the artifact or the prototype you made so far achieve the intent. To do this, you need to frame a specific question to help the other person give more specific feedback.
 

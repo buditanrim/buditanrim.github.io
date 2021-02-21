@@ -6,10 +6,10 @@ id: project
 dark: true
 
 image:
- path: /img/seo/buditanrim-seo.jpg
+ path: /img/seo/buditanrim-portfolio-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo:
- - "seo/buditanrim-seo.jpg"
+ - "seo/buditanrim-portfolio-seo.jpg"
 ---

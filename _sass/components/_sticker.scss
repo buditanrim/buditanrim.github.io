@@ -41,11 +41,19 @@
 	.sticker-service { 
 		top: 110%;
 		right: -2%;
-		svg { width: 38%; }
+		svg { width: 50%; }
 	}
 	.sticker-since { 
 		top: 98%;
 		left: 5%;
+		svg { width: 40%; }
+	}
+}
+@media (max-width: 368px) {
+	.sticker-service { 
 		svg { width: 30%; }
+	}
+	.sticker-since { 
+		svg { width: 28%; }
 	}
 }

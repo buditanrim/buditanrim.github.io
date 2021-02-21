@@ -49,3 +49,11 @@
 		svg { width: 40%; }
 	}
 }
+@media (max-width: 368px) {
+	.sticker-service { 
+		svg { width: 30%; }
+	}
+	.sticker-since { 
+		svg { width: 28%; }
+	}
+}

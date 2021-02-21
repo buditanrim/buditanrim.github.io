@@ -1,0 +1,13 @@
+{% if include.url == true %}
+<a href="{{ include.link }}">
+{% endif %}
+	<img src="{{ include.img }}" alt="" class="rounded-2 {{ include.class }}">
+	<p class="t--heading-01 p-r-m">
+		{{ include.title }} <br/>
+		<span class="t--color-secondary">
+		{{ include.subtitle }}
+		</span>
+	</p>
+{% if include.url == true %}
+</a>
+{% endif %}

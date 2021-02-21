@@ -3,6 +3,7 @@ layout: project-index
 title: Projects
 description: Head of Design at Bukalapak and human-centered practicioner
 id: project
+dark: true
 
 image:
  path: /img/seo/buditanrim-seo.jpg

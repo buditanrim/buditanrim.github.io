@@ -1,94 +1,206 @@
-{% include header.html %}
-<main class="container m-t-l m-b-s">
-	<div class="row p-b-m b--bottom-dashed">
+{% include header.html
+	slide = true
+ %}
+
+
+<div class="container section-space-airy">
+	<div class="row relative">
+		<div class="col-12 col-sm-12 col-lg-12 p-t-s">
+			{% include svg/sticker-hello.html %}
+			{% include svg/sticker-since.html %}
+			{% include svg/sticker-service.html %}
+			<p class="t--big-title-01-serif relative z-index-10">
+				Budi is a human-centered practicioner. Deliver value to customers and capture value for the organization.
+			</p>
+		</div>
+	</div>
+</div>
+
+<div class="container section-space-airy">
+	<div class="row m-b-xl">
+		<div class="col-sm-12">
+			<h4 class="t--heading-04-serif">
+				Bukalapak<br/>
+				<span class="t--color-secondary">
+				Head of Product Designer <br>
+				2018 - 2021
+				</span>
+			</h4>
+		</div>
+	</div>
+	<div class="project-card-container row flush-s m-b-m">
+		<div class="project-card col-sm-12 col-md-6">
+			{% include project-card.html
+				url = true
+				link = "/bukalapak-human-centered/"
+				img = "/img/project/cover/bukalapak-hcd.jpg"
+				title = "Scaling human-centered practice"
+				subtitle = "How might we de-risk the product discovery?"
+			%}
+		</div>
+		<div class="project-card col-sm-12 col-md-6">
+			{% include project-card.html
+				url = true
+				link = "/bukalapak-design-language/"
+				img = "/img/project/cover/bukalapak-branding.jpg"
+				title = "Bukalapak branding and design language"
+				subtitle = "How do we want people to perceive our brand and product?"
+			%}
+		</div>
+	</div>
+	<div class="project-card-container row flush-s m-b-xl p-b-xl">
+		<div class="project-card col-sm-12 col-md-6">
+			{% include project-card.html
+				url = true
+				link = "/evolving-bazaar-design-system/"
+				img = "/img/project/cover/bukalapak-bazaar.jpg"
+				title = "Evolving and scaling Bazaar design system"
+				subtitle = "How can we keep things efficient and cohesive yet flexible enough to serve 8 business units?"
+			%}
+		</div>
+		<div class="project-card col-sm-12 col-md-6">
+			{% include project-card.html
+				url = false
+				link = "/"
+				img = "/img/project/cover/bukalapak-saas.jpg"
+				title = "Humanizing bookkeeping for micro business"
+				subtitle = "How might we empower micro businesses to make better financial decision?"
+			%}
+		</div>
+	</div>
+	<div class="row p-t-xl m-b-xl">
+		<div class="col-sm-12">
+			<h4 class="t--heading-04-serif">
+				Shopify<br/>
+				<span class="t--color-secondary">
+				Product Designer <br>
+				2017-2018
+				</span>
+			</h4>
+		</div>
+	</div>
+	<div class="project-card-container row flush-s m-b-xl p-b-xl">
+		<div class="project-card col-sm-12 col-md-6">
+			{% include project-card.html
+				url = false
+				link = ""
+				img = "/img/project/cover/shopify-spot-icon.jpg"
+				title = "Polaris spot icons"
+				subtitle = "Principles & foundation for spot icons"
+			%}
+		</div>
+		<div class="project-card col-sm-12 col-md-6">
+			{% include project-card.html
+				url = false
+				link = ""
+				img = "/img/project/cover/shopify-onboarding.gif"
+				title = "Shopify Onboarding"
+				subtitle = "How might we help new merchants to get started?"
+			%}
+		</div>
+	</div>
+	<div class="row m-b-m">
+		<div class="col-sm-12">
+			<h4 class="t--heading-04-serif">
+				Archive<br/>
+				<span class="t--color-secondary">
+				2010-Current
+				</span>
+			</h4>
+			<p class="t--body-03 t--color-secondary p-t-xs">
+				A collection of freelance work and passion projects.
+				<br>
+				Clients: Yahoo, Palantir, Refundo, Zerply, Disney
+				<br>
+				You can see more on <a href="https://dribbble.com/buditanrim/" target="_blank" class="link">my Dribbble</a>.
+			</p>
+		</div>
+	</div>
+	<div class="row-space">
+		<div class="row gutter-s">
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/bukalapak-brand-element.png" alt="brand element bukalapak"></div></div>
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/bukalapak-brand-story.png" alt="brand story bukalapak"></div></div>
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/yahoo-weather.jpg" alt=""></div></div>
+		</div>
+		<div class="row gutter-s">
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/jonathan-illus.jpg" alt=""></div></div>
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/lina-illus.jpg" alt=""></div></div>
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/paypal-redesign.jpg" alt=""></div></div>
+		</div>
+		<div class="row gutter-s">
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/rushtax-dashboard.png" alt=""></div></div>
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/sennheiser.jpg" alt=""></div></div>
+			<div class="col-sm-12 col-md-4"> <div> <img src="/img/project/gallery/spot-illus.jpg" alt=""></div></div>
+		</div>
+	</div>
+</div>
+
+<section class="container section-space-airy brown">
+	<div class="row p-b-m">
 		<div class="col-sm-12 col-md-8">
-			<h1 class="t--title-01 m-b-m">{{site.data.central.portfolio-title}}</h1>
+			<h1 class="t--title-01-serif m-b-m">Career story</h1>
 		</div>
 		<div class="col-sm-12 col-md-12 markdown career-story col-flow-1 col-flow-md-2 col-flow-lg-3">
 				<p>
-				<strong>My eyes were teary</strong> when I won my first design contest in 2010 — during my second year of studying accounting — and it was the moment I started to pursue design as a career. I began freelancing while navigating my study.</p>
+				<strong>My eyes were teary</strong> when I won my first design contest in 2010—during my second year of studying accounting—and it was the moment I started to pursue design as a career. I began freelancing while navigating my study.</p>
 
 				<p>
-				In 2013, I worked with Zerply to help connect artists — such as animators, game designers, and VFX talents — with production houses. I helped redesign their experience and design language.</p>
+				In 2013, I worked with Zerply to help connect artists—such as animators, game designers, and VFX talents—with production houses. I helped redesign their experience and design language.</p>
 
 				<p>
 				After I departed from Zerply, I started to pursue a freelance route. The most notable client was Refundo, a startup based in New Jersey, to improve the taxing experience for the low-income communities. This was the first time I started to learn how to solve user problems and collaborate with a cross-function team.
 				</p>
 
-				<p>In 2015, shortly after I released Budicon — a collection of 4,000 icons — Yahoo reached me out to help them design their icon set. It was my first paid icon project, and I learned a lot while working with Ryan McCullah, the Design Director.</p>
+				<p>In 2015, shortly after I released Budicon—a collection of 4,000 icons—Yahoo reached me out to help them design their icon set. It was my first paid icon project, and I learned a lot while working with Ryan McCullah, the Design Director.</p>
 				<p>
 				In 2017 I took a big jump to join Shopify and moved to Ottawa. It was one of the most impactful life choices I've made. My team was improving the onboarding experience and help merchants to make a better decision by providing insights. I contributed to the Polaris design system, providing a home-card system and icon design principles. I'm forever grateful for the experience at Shopify.</p>
 				<p>
-				Two years later, my wife wanted to pursue her career in Indonesia, and we decided to move back. I joined Bukalapak as a Principal Designer and was later promoted to be Head of Design. I led the cross-function team to scale the system to serve 8 business units and design the service for the design system users. I matured the design practice in the organization to produce better outcome.</p>
+				Two years later, my wife wanted to pursue her career in Indonesia, and we decided to move back. I joined Bukalapak as a Principal Designer and was later promoted to be Head of Design. I led the cross-function team to scale the system to serve 8 business units and design the service for the design system users. I matured the design practice in the organization to have better alignment with business and to produce better outcome.</p>
 				<p>
 				At Shopify, I met people I considered as my mentors. Also learned how to be user-centered, collaborate, and do a lot of deep thinking. At Bukalapak, I was exposed to various business challenges and faced with a high-tempo delivery environment. This combination of exposures give me practical perspective for both business and user.</p>
 				<p>
-				Currently, I decided to take a pause and spend my time giving back to the community by providing mentorship. </p>
+				Currently, I decided to take a pause and spend my time giving back to the community by providing <a href="/mentorship" class="link">mentorship</a> . </p>
 
 			</p>
-		</div>
-	</div>
-	<div class="row m-t-xl">
-		<div class="col-sm-12 col-md-6">
-			<h2 class="t--heading-03 m-b-m">Notable work</h2>
-			<hr class="m-b-xs">
-			<p><a href="/evolving-bazaar-design-system/" class="link">
-			01. Evolving and scaling Bazaar design system
-			</a></p>
-			<hr class="m-b-xs m-t-xs">
-			<p>
-				<a href="/bukalapak-human-centered/" class="link">02. Scaling human-centered practice in Bukalapak</a>
-			</p>
-			<hr class="m-b-xs m-t-xs">
-			<p>
-				<a href="/bukalapak-design-language/" class="link">03. Bukalapak branding & design language</a>
-			</p>
-			<hr class="m-b-xs m-t-xs">
-			<p>04. Humanizing bookkeeping for micro business <span class="t--color-tetriary">(coming soon)</span></p>
-			<hr class="m-b-xs m-t-xs">
-			<p>
-				<a href="/yahoo-weather-icon/" class="link">05. Yahoo Weather icon set</a>
-			</p>
-			<hr class="m-b-xs m-t-xs">
-			<p>06. Yahoo Fuji icon set <span class="t--color-tetriary">(coming soon)</span></p>
-			<hr class="m-b-xs m-t-xs">
-			<p>07. Yahoo Olympic icon set <span class="t--color-tetriary">(coming soon)</span></p>
-			<hr class="m-b-xs m-t-xs">
-			<p>08. Shopify home card system <span class="t--color-tetriary">(coming soon)</span></p>
-			<hr class="m-b-xs m-t-xs">
-			<p>09. Shopify spot icon set <span class="t--color-tetriary">(coming soon)</span></p>
-			<hr class="m-b-xs m-t-xs">
-			<p>You can check <a href="https://dribbble.com/buditanrim/" target="_blank" class="link">my Dribbble</a> while I build this portfolio</p>
-			<hr class="m-b-xs m-t-xs">
-		</div>
-	</div>
-</main>
-
-<section class="section-space-airy">
-	<div class="container">
-		<div class="row m-b-xl">
-			<div class="col-12 col-md-6">
-				<h3 class="t--heading-03 m-b-s">Quick gallery</h3>
-				<p class="t--body-02">Here's an artefacts from my old projects. You can see more on <a href="https://dribbble.com/buditanrim/" target="_blank" class="link">my Dribbble</a>, if you prefer a more visual portfolio.</p>
-			</div>
-		</div>
-	</div>
-	<div class="container-md">
-		<div class="row">
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/bukalapak-brand-element.png" alt="brand element bukalapak"></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/bukalapak-brand-story.png" alt="brand story bukalapak"></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/yahoo-weather.jpg" alt=""></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/jonathan-illus.jpg" alt=""></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/lina-illus.jpg" alt=""></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/paypal-redesign.jpg" alt=""></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/rushtax-dashboard.png" alt=""></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/sennheiser.jpg" alt=""></div>
-			<div class="col-sm-12 col-md-4"> <img src="/img/project/gallery/spot-illus.jpg" alt=""></div>
 		</div>
 	</div>
 </section>
+<!-- 
+<section class="container section-space-airy">
+	<div class="row">
+		<div class="col-sm-12 col-md-8">
+			<h1 class="t--title-01-serif m-b-m">Testimonials</h1>
+		</div>
+	</div>
+	<div class="row flush-m">
+		<div class="col-sm-12 col-md-4">
+			<p class="t--body-02">
+				Budi is a systematic and reflective leader. He enhanced the company design process by systematically influence and coach all the team to apply co-creation practice, therefore resulting in an inclusive collaboration and a better project outcome. I also am impressed by how he periodically ask for feedback from his team and reflect to improve himself and the team process.
+				<br>
+				I am truly grateful to have the opportunity to be supervised and mentored by him. I feel empowered and have a significant skill growth as he constantly guides and challenges my design and thinking process. He is surely a capable manager and an inspiring designer.
+			</p>
+		</div>
+		<div class="col-sm-12 col-md-4">
+			<p class="t--body-02">
+				Budi is a systematic and reflective leader. He enhanced the company design process by systematically influence and coach all the team to apply co-creation practice, therefore resulting in an inclusive collaboration and a better project outcome. I also am impressed by how he periodically ask for feedback from his team and reflect to improve himself and the team process.
+				<br>
+				I am truly grateful to have the opportunity to be supervised and mentored by him. I feel empowered and have a significant skill growth as he constantly guides and challenges my design and thinking process. He is surely a capable manager and an inspiring designer.
+			</p>
+		</div>
+		<div class="col-sm-12 col-md-4">
+			<p class="t--body-02">
+				Budi is a systematic and reflective leader. He enhanced the company design process by systematically influence and coach all the team to apply co-creation practice, therefore resulting in an inclusive collaboration and a better project outcome. I also am impressed by how he periodically ask for feedback from his team and reflect to improve himself and the team process.
+				<br>
+				I am truly grateful to have the opportunity to be supervised and mentored by him. I feel empowered and have a significant skill growth as he constantly guides and challenges my design and thinking process. He is surely a capable manager and an inspiring designer.
+			</p>
+		</div>
+	</div>
+</section>	 -->
 
-{% include footer-bar.html %}
+
+{% include footer-bar.html
+	class="brown"
+ %}
 	{% include script.html %}
 </body>
 </html>

@@ -1,0 +1,51 @@
+.sticker {
+	display: inline-block;
+	position: absolute;
+}
+.sticker-hello {
+	top: -45%;
+    left: 80px;
+    transform: rotate(-11deg);
+}
+.sticker-service {
+	bottom: -20%;
+	right: 0%;
+}
+.sticker-since {
+	bottom: -48%;
+	left: 30%;
+}
+@media (max-width: 880px) {
+	.sticker-hello {
+		top: -100%;
+		left: 10%;
+		svg { width: 80%; }
+	}
+	.sticker-service { 
+		top: -20%;
+		right: -15%;
+		svg { width: 70%; }
+	}
+	.sticker-since { 
+		bottom: -80%;
+		left: 28%;
+		svg { width: 80%; }
+	}
+}
+@media (max-width: 576px) {
+	.sticker-hello {
+		top: -140px;
+		left: 0;
+		svg { width: 75%; }
+	}
+	.sticker-service { 
+		top: 110%;
+		right: -15%;
+		svg { width: 80%; }
+	}
+	.sticker-since { 
+		top: 98%;
+		left: 5%;
+		svg { width: 65%; }
+	}
+}

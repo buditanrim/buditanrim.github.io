@@ -192,6 +192,16 @@
 		font-size: var(--t--size-08);
 		line-height: var(--t--leading-e-08);
 	}
+	@media (max-width: 880px) {
+		[class*="t--heading-03"] {
+			font-size: var(--t--size-06);
+			line-height: var(--t--leading-e-06);
+		}
+		[class*="t--heading-04"] {
+			font-size: var(--t--size-07);
+			line-height: var(--t--leading-e-07);
+		}
+	}
 
 // Body
 	.t--body-01 {

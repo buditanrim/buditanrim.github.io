@@ -27,7 +27,10 @@ To understand how important this milestone in computer history. Please open the 
 
 The pen he uses then later becomes a mouse that we use. The concept of the window program is later explored by Xerox and Apple that are known as GUI.
 
+
+<div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YB3saviItTI?start=29" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 ### 2.

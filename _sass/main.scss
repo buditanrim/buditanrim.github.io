@@ -128,14 +128,17 @@ hr.airy {
 			cursor: pointer;
 		}
 	}
+	#footnotes {
+		color: var(--c--theme-gray-03);
+	}
 	.footnotes-list {
 		
 		margin-bottom: var(--l--space-m);
 		font-size: var(--t--size-02);
 
 		li {
-			color: var(--c--theme-gray-02);
-			margin-bottom: var(--l--space-s);
+			color: var(--c--theme-gray-03);
+			margin-bottom: var(--l--space-xs);
 		}
 		a {
 			color: var(--c--theme-gray-02);

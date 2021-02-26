@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On personal development, being senior, and breaking small task."
+title: "Friday diary 01: On personal development, being senior, and breaking small task."
 punchline: true
 description: "Friday diary 01"
 date: 2021-02-12 08:30:00 +0700

@@ -23,7 +23,7 @@ In 1963, Ivan Sutherland from MIT first introducing graphics with his Sketchpad 
 
 Ivan’s work was crucial.
 
-To understand how important this milestone in computer history. Please open the terminal on your computer. Now, imagine you only have that to operate your computer. Back then, that’s how people operate computers—type a command and execute it. But because of Ivan’s work, we now can enjoy a much better user interface.
+To understand how important this milestone in computer history. Please open the terminal on your computer. Now, operate your computer only with that. Back then, that’s how people operate computers—type a command and execute it. But because of Ivan’s work, we now can enjoy a much better user interface.
 
 The pen he uses then later becomes a mouse that we use. The concept of the window program is later explored by Xerox and Apple that are known as GUI.
 

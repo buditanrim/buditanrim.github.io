@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Friday diary 02: On GUI history, learning, and explain features."
+title: "On GUI history, learning, and writing."
 punchline: true
 description: "Thanks to Ivan Sutherland and his Sketchpad program."
 date: 2021-02-26 08:30:00 +0700
@@ -54,7 +54,6 @@ Customers care what your feature can give them.
 {%include tweet.html link="https://ctt.ac/29ejL" %}
 
 ---
-<br/>
 _Friday Diary is where I share my learnings and perspectives every Friday._
 
 #### Footnotes

@@ -3,25 +3,25 @@
 	{% if page.id == "index" %}
 		{% if post.next.url %}
 		  <div class="relevant-post--next t--size-03">
-		    Next post: <a href="{{ post.next.url }}" class="link">{{ post.next.title }}</a>
+		    Newer post: <a href="{{ post.next.url }}" class="link">{{ post.next.title }}</a>
 		  </div>
 		{% endif %}
 
 		{% if post.previous.url %}
 		  <div class="relevant-post--previous t--size-03">
-		    Previous post: <a href="{{ post.previous.url }}" class="link">{{ post.previous.title }}</a>
+		    Older post: <a href="{{ post.previous.url }}" class="link">{{ post.previous.title }}</a>
 		  </div>
 		{% endif %}
 	{% elsif page.layout == "post" %}
 		{% if page.next.url %}
 		  <div class="relevant-post--next t--size-03">
-		    Next post: <a href="{{ page.next.url }}" class="link">{{ page.next.title }}</a>
+		    Newer post: <a href="{{ page.next.url }}" class="link">{{ page.next.title }}</a>
 		  </div>
 		{% endif %}
 
 		{% if page.previous.url %}
 		  <div class="relevant-post--previous t--size-03">
-		    Previous post: <a href="{{ page.previous.url }}" class="link">{{ page.previous.title }}</a>
+		    Older post: <a href="{{ page.previous.url }}" class="link">{{ page.previous.title }}</a>
 		  </div>
 		{% endif %}
 	{% endif %}

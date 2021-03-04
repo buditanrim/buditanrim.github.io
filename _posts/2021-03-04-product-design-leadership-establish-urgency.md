@@ -25,7 +25,7 @@ The design manager felt it's unfair if his design team has to make extra effort 
 
 Everyone who is trying to change a situation is a leader by heart.
 
-Leadership is a change agent. It's hard. It's tough. It's unfair.
+A leader is a change agent. It's hard. It's tough. It's unfair.
 
 It's unfair because you can't just tell people what to do. But you need to influence them, convince them, and show them why. If I send the email, I doubt it has any positive impact on the team. We can't lead with authority. We should lead with context instead. In the end, I suggested him to start thinking about a way to convince the stakeholders. To influence.
 

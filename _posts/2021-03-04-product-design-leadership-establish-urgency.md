@@ -2,7 +2,7 @@
 layout: post
 title: "Product design leadership — Establish urgency"
 punchline: true
-description: "How many objectives do you have? Ten? Twenty?"
+description: "Everyone who is trying to change a situation is a leader by heart."
 date: 2021-03-02 08:30:00 +0700
 categories: leadership
 tags: leadership

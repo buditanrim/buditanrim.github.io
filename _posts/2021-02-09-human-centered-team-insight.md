@@ -57,6 +57,7 @@ To set your expectation, it won't be an overnight effort. You need to collaborat
 
 If you don't have the data set properly in your product, that will be your long battle first. Data is not a guarantee you'll win the conversation, but you'll have a more productive discussion. It's not our word against CEO's word.
 
-Next, let's talk about evangelism to the next level.
+Let's talk about [evangelism][2] tomorrow.
 
 [link-1]: https://buditanrim.co/2021/human-centered-team-relationship/
+[2]: https://buditanrim.co/2021/human-centered-team-evangelism/

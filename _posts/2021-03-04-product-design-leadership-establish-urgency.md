@@ -3,7 +3,7 @@ layout: post
 title: "Product design leadership — Establish urgency"
 punchline: true
 description: "Everyone who is trying to change a situation is a leader by heart."
-date: 2021-03-02 08:30:00 +0700
+date: 2021-03-04 08:30:00 +0700
 categories: leadership
 tags: leadership
 author: "Budi Tanrim"

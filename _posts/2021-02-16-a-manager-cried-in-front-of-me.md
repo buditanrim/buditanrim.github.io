@@ -19,23 +19,19 @@ twitter-seo:
 
 I sat with one of the design managers in the room.
 
-She cried.
+She suddenly cried.
 
-I panicked. It was the first time someone cried at work.
+“I’m not feeling good about myself,” she said.
 
-"I'm not feeling good about myself," she said.
+I was panicked. It was the first time someone cried to me at work.
 
-Crying is a form of vulnerability. She was being vulnerable in front of me. Meaning she somewhat trusts me.
+My knee-jerk reaction was to help her solve the problem, “What happened? What makes you feel that way?” “I don’t know,” she quickly replied. I tried to make wild guesses. But the more I made those guesses, the quieter she had become.
 
-My knee-jerk reaction was to help her solve a problem, "What happened? What makes you feel that way?" "I don't know." She quickly replied. I tried to make wild guesses. But the more I made those guesses, the quieter she had become.
+I need to listen, idiot. I realized
 
-Then, I quickly realized *I need to listen, idiot.*
+I paused for a few minutes. After the awkward silence, she started to talk and shared things in a very unstructured way. I listened and helped her structure her thoughts. In the end, we had a feeling that she was not feeling great because of burned out and feeling incompetent about her ability to coach her designers.
 
-I took a pause for a few minutes. After those awkward silence, she started to talk and share things in a very unstructured way. I only listen and help her structure her thoughts. In the end, we concluded that she's not feeling great because she was burned out and feeling incompetent about her ability to coach her designers.
-
-We somehow come to that conclusion because I listened and give her room to speak.
-
-Is there any solution to that? Well, no. Not yet. I offered her to meet again the next day. "I might not know all the answers, but let's work on this together," I said.
+Was there any solution to that? No. At least, not yet. What she needed was to come to that realization. I offered to meet the next day. “I might not know all the answers, but let’s work on this together,” I said.
 
 > Sometimes, we need to listen first before giving suggestions.
 

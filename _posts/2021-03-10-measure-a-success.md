@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/measure-success.jpg"
 ---
 
-*"Hi Budi, can you share tips on how to measure an impact in a project? I am working on a project and really want to if it's successful or not. I saw you shared metrics or outcomes in your portfolio. I will be thankful if you can give me a pointer on how to get them." — Tim.*
+*"Hi Budi, can you share tips on how to measure an impact in a project? I am working on a project and really want to know if it's successful or not. I saw you shared metrics or outcomes in your portfolio. I will be thankful if you can give me a pointer on how to get them." — Tim.*
 
 ---
 

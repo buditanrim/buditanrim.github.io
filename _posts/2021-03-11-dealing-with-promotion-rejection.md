@@ -68,5 +68,3 @@ With a warm handshake,<br/> Budi
 ---
 *I love hearing questions from the reader. If you have questions. Please click the appropriate button on my website, or if you read this from your inbox, you can reply right away.*
 
-
-[1]: https://buditanrim.co/2021/user-metrics-overview/

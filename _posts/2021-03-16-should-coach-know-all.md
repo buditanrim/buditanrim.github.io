@@ -25,7 +25,7 @@ You're clueless about it.
 
 Are you a bad design manager? Do you deserve to be a senior designer?
 
-This morning, a designer shared her insecurity with me. She has been coaching a young designer in her team, but she doesn't feel like she is good enough to be a coach.
+This morning, a designer shared her insecurity with me. She has been coaching a young designer in her team, but she feel inadequate to be a coach.
 
 "What's a good coach in your mind?" I asked.<br/>
 "Calm, insightful, have the answer to most of the questions." She replied. <br/>
@@ -35,7 +35,7 @@ This morning, a designer shared her insecurity with me. She has been coaching a 
 She laughed, then quickly added, “But, what should I do in that situation?”<br/>
 “You can be the thinking partner,” I replied. “Acknowledge that you don’t know, then try to define the questions and figure it out together.”
 
-Being a thinking partner is always my style when it comes to coach someone. I  see my subordinate as a peer. Just be real. No one know everything.
+Being a thinking partner is always my style when it comes to coach someone. I  see my subordinate as a peer. When you're confuse, think through the challenge together. Maybe analyze the pros and cons. Consider potential biases. Frame it as a question and figure it out.
 
 Also, even if you have the answer. You don’t want to give everything away. You need to trigger them to think and experiment. It’s tempting to give the answer and finish off the job, but that doesn’t help them to grow because the next time they have a problem, they will come to you again. In the long run, your goal is to make the junior designer independent.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If I coach a designer, do I need to know all the answers?"
+title: "If you coach a designer, do you need to know all the answers?"
 punchline: true
 description: "Coaching is a generous act. But, what if you don't always have the answers?"
 date: 2021-03-16 07:17:00 +0700
@@ -9,12 +9,12 @@ tags: coach
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/coaching-know-all.jpg
+ path: /img/seo/coach-know-all.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/coaching-know-all.jpg"
+ - "seo/coach-know-all.jpg"
 ---
 
 The more senior you become, the more opportunity for you to coach junior designers. Coaching is a generous act. You help others to grow. But for someone who do it for the first time, it can grow the insecurity.

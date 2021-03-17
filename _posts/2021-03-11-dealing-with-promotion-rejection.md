@@ -66,5 +66,6 @@ Best of luck!
 With a warm handshake,<br/> Budi
 
 ---
-*I love hearing questions from the reader. If you have questions. Please click the appropriate button on my website, or if you read this from your inbox, you can reply right away.*
+*I love hearing questions from the reader. If you have questions. Please click the appropriate button on my website, or just reply if you read this from your inbox.*
+
 

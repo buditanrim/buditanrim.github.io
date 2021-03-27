@@ -29,7 +29,7 @@ Modern product design principles :)
 
 - **Appreciate the intelligence of your users.** They are human beings. Most of them are educated—formally or informally. Don't provide obvious feedback. They know what's happening.
 
-- **Make people remember things.** Put a voucher code on one page, then let the users remember the code and later type it during checkout. Your users love challenges.
+- **Make it engaging.** For example, put a voucher code on one page, then let the users remember the code and later type it during checkout. Your users love challenges.
 
 ---
 

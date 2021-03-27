@@ -31,6 +31,8 @@ Modern product design principles :)
 
 - **Make it engaging.** For example, put a voucher code on one page, then let the users remember the code and later type it during checkout. Your users love challenges.
 
+ha..ha..ha.. Have a good weekend!
+
 ---
 
 

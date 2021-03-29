@@ -3,7 +3,7 @@ layout: post
 title: "Inspecting interface design — Overview"
 punchline: true
 description: "Interface design is a big part of our craft as product designers. But we have problems—the problem of time and quality."
-date: 2021-03-29 07:15:00 +0700
+date: 2021-03-29 07:18:00 +0700
 categories: interface
 tags: interface
 author: "Budi Tanrim"
@@ -28,6 +28,9 @@ Besides heuristic evaluation, like I explained above. The other popular approach
 Here’s the question: Which one is better?
 
 _Let's discuss that tomorrow._
+
+
+
 
 
 

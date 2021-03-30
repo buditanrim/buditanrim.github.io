@@ -28,6 +28,8 @@ Both groups analyzed the same interface. There are four commercial websites they
 
 On average, the UT group identified 30% of the total problem, and the HE group identified 60% of the entire problem. It means, by performing the heuristic evaluation, the group could actually identify more problems. Dozens of studies had reproduced the same result as well. Some found that heuristic evaluation found 72% of problems while usability testing only found 10%.
 
+--- 
+
 That is big. 
 
 But we can’t stop there. 

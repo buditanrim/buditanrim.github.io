@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inspecting interface design — Heuristic evaluation vs. usability testing"
+title: "Inspecting interface design — HE vs. UT"
 punchline: true
 description: "Which one better? Heuristic evaluation vs. usability testing"
 date: 2021-03-30 07:18:00 +0700

@@ -48,7 +48,9 @@ Just use the three principles above. What can we improve here?
 
 Let's discuss the first heuristic: Minimize memory load. Based on psychology studies, humans' short memory can easily be overwhelmed, and we want to eliminate unnecessary thinking.
 
-For example, on the "team" page, the interface communicates to the user that they need to get 300 stars to unlock the team feature. Then, it provokes some additional questions on the user's mind: "How many stars do I have now?" Then, during the heuristic evaluation, we should note this as a potential issue. Although it's not going to stop users from completing their tasks, it's an opportunity to improve the experience.
+For example, on the "team" page, the interface communicates to the user that they need to get 300 stars to unlock the team feature. Then, it provokes an additional question on the user's mind: "How many stars do I have now?" Then, the user has to manually navigate back to home and make a calculation.
+
+Looking at the heuristic, we should note this as a potential issue. Although it's not going to stop users from completing their tasks, it's an opportunity to improve the experience.
 
 As a result of that thinking, we might land to this improvement:
 

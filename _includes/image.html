@@ -1,10 +1,16 @@
 <div class="img-wrapper {{ include.class }}">
-	
+	{% if include.link == true %}
 	<a href="{{ include.link }}">
     <img
-    	src="{{ include.src }}"
+    	src="{{ include.src  }}"
     	alt="{{ include.alt }}"
     />
 	</a>
+	{% else %}
+	<img
+    	src="{{ include.src  }}"
+    	alt="{{ include.alt }}"
+    />
+	{% endif %}
     <span class="caption">{{ include.caption }}</span>
 </div>

@@ -74,7 +74,7 @@ This skill in inspecting the interface is crucial. When you can do this while yo
 
 # 4.
 
-Before conducting the heuristic evaluation with your team. There is some preparation you will need: prototype, some curated principles, user tasks. Let's discuss how you should prepare it tomorrow.
+Before conducting the heuristic evaluation with your team. There is some preparation you will need: prototype, some curated principles, user tasks.
 
 {% include image.html 
 src="https://buditanrim.co/img/post/2021/04/he-prep.jpg" 

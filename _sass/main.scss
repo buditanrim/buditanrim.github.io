@@ -109,7 +109,7 @@ hr.airy {
 
 .post-inner--body, 
 .markdown {
-	p, ul, li {
+	p, ol, ul, li {
 		margin-bottom: var(--l--space-blog-paragraph);
 		color: var(--c--theme-gray-01);
 	}
@@ -172,10 +172,10 @@ hr.airy {
 	}
 	ul, ol {
 		margin-left: var(--l--space-16);
-		margin-top: -12px;
+		margin-bottom: var(--l--space-blog-paragraph);
 		li {
 			line-height: 1.65;
-			margin-bottom: 4px;
+			margin-bottom: 8px;
 		}
 	}
 	h2 + ul,

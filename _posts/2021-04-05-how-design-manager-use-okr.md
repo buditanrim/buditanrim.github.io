@@ -3,7 +3,7 @@ layout: post
 title: "What should design managers do with OKR?"
 punchline: true
 description: "Your product team has a target to achieve. Each company uses a different framework for this. The most popular framework is OKR (Objective Key Result)."
-date: 2021-04-05 16:18:00 +0700
+date: 2021-04-05 15:18:00 +0700
 categories: practice
 tags: practice
 author: "Budi Tanrim"
@@ -31,7 +31,11 @@ If I can summarize them, you want to do these five things:
 4. Experiment
 5. Continuously communicate
 
----
+{% include image.html 
+src="https://buditanrim.co/img/post/2021/04/okr-manager.jpg" 
+alt="an girl with paper hat" 
+caption=" "
+class="illustration small m-t-s m-b-s" %}
 
 ### One: Understand the context
 
@@ -57,11 +61,5 @@ You can’t succeed right away. You will go through several experiments to find 
 
 I can’t stress this, but you need to communicate with the executive team. If you experimented and fail, share what you learned. If you see some potential win, communicate the hypothesis. Constantly keep them in the loop. Sure, the product manager would do this, but please collaborate.
 
-
-{% include image.html 
-src="https://buditanrim.co/img/post/2021/04/okr-manager.jpg" 
-alt="an girl with paper hat" 
-caption=" "
-class="illustration small m-t-s" %}
 
 

@@ -17,6 +17,11 @@
   current: about
   ga: about
 
+- word: "Newsletter"
+  link: /newsletter
+  order: 4
+  current: newsletter
+
 # - word: "Mentorship"
 #   link: /mentorship
 #   order: 4

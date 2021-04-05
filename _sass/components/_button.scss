@@ -18,17 +18,16 @@ button {
 .btn {
 	&-large {
 		padding: 8px 24px;
-		line-height: 42px;
+		// line-height: 42px; commented out because we will use <button> instead of <a>
 	}
 
 	&-medium {
 		padding: 16px 28px;
-		line-height: 42px;
+		// line-height: 42px;
 	}
 
 	&-small {
 		padding: 8px 14px;
-		line-height: 8px;
 		font-size: var(--t--size-02);
 	}
 

@@ -364,6 +364,7 @@ a.neutral-link {
 		font-size: var(--t--size-05);
 		line-height: var(--t--leading-e-05);
 	}
+	blockquote.humble p { font-weight: normal;}
 	blockquote {
 		margin-left: 0; // reset webkit preset
 		font-family: var(--t--family-slab);

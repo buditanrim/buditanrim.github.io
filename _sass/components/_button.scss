@@ -27,8 +27,9 @@ button {
 	}
 
 	&-small {
-		padding: 8px 12px;
+		padding: 8px 14px;
 		line-height: 8px;
+		font-size: var(--t--size-02);
 	}
 
 	&-primary {

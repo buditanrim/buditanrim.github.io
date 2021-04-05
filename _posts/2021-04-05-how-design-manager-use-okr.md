@@ -21,7 +21,7 @@ Your team got OKR, then what?
 
 Your product team has a target to achieve. Each company uses a different framework for this. The most popular framework is OKR (Objective Key Result). 
 
-The objectives represent the most important thing to achieve for the company's vision. The objective can as simple as “increase revenue” or “increase customer satisfaction.” The Key Result could be: “reduce customer complaints by half” or “increase new customers.”
+The objectives represent the most important thing to achieve for the company's vision. The objective can as simple as “increase revenue” or “increase customer satisfaction.” The Key Result could be: “reduce customer complaints by half” or “increase new customers by 20%.”
 
 If I can summarize them, you want to do these five things:
 

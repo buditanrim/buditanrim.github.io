@@ -43,11 +43,7 @@ _Candid discussion on product design. Every Thursday._
 
 **What to expect:**
 
-- Every Thursday: you'll get an exclusive newsletter
-- Optional: a daily blog to your inbox
-- Optional: a weekly summary from my blog
-
-In every volume of Unpublished, we’ll discuss reader questions about product design, challenges on work, personal development, leadership, and anything that relevant in our work as a design practitioners.
+Every Thursday, in every volume of Unpublished, we’ll discuss reader questions about product design, challenges on work, personal development, leadership, and anything that relevant in our work as a design practitioners.
 
 <a href="http://eepurl.com/cuGqAP" class="btn-dark btn-small">Subscribe</a>
 
@@ -63,8 +59,14 @@ If you have subscribed to my newsletter before, you don't have to resubscribe to
 #### If I unsubscribe, will you remove my data?
 Yes, I will completely delete your data from my Mailchimp list. After you unsubscribed, you will never get any email from me—unless you resubscribe.
 
-#### If I unsubscribe, will you remove my data?
-Yes, I will completely delete your data from my Mailchimp list. After you unsubscribed, you will never get any email from me—unless you resubscribe.
+#### Will I get email when you add new post to your blog?
+On the subscribe page, you can choose.
+
+_Daily blog + Budi Tanrim's Unpublished:_ <br/>You will get my writing right into your inbox + the newsletter every Thursday.
+
+_Weekly blog summary + Budi Tanrim's Unpublished:_<br/> You will get a list of post title every Saturday + the newsletter every Thursday.
+
+_Budi Tanrim's Unpublished:_ <br/>You will only get the newsletter every Thursday without anything from my blog.
 
 <div class="img-wrapper m-b-m m-t-xl">
     <img src="https://buditanrim.co/img/post/2020/10/writing-design-story.jpg" alt="Writing illustration buditanrim" class="illustration small" />

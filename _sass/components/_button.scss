@@ -16,13 +16,18 @@ button {
 [class*="btn-"] { font-family: var(--t--family-sans-serif); }
 
 .btn {
+	&-full {
+		width: 100%;
+		display: block
+	}
 	&-large {
 		padding: 8px 24px;
 		// line-height: 42px; commented out because we will use <button> instead of <a>
 	}
 
 	&-medium {
-		padding: 16px 28px;
+		padding: 12px 20px;
+		font-size: var(--t--size-03);
 		// line-height: 42px;
 	}
 

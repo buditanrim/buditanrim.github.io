@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Thank you for subscribing
-description: Head of Design at Bukalapak and human-centered practicioner
+description: Sign up to Budi Tanrim's Newsletter
 id: newsletter
 
 image:
@@ -17,41 +17,37 @@ twitter-seo:
     <img src="/img/asset/newsletter-logo-left.jpg" alt="Budi Tanrim's newsletter"/>
 </div>
 
-## Newsletter: Budi Tanrim's Unpublished
+#### Every Thursday, discussing reader questions about product design, challenges on work, personal development, people management, and anything relevant to our work as design practitioners.
 
-_Candid discussion on product design. Every Thursday._
+<div class="m-t-m m-b-m">
+    <a href="http://eepurl.com/cuGqAP" class="btn-dark btn-medium">Subscribe</a>
+</div>
 
-<a href="http://eepurl.com/cuGqAP" class="btn-dark btn-small">Subscribe</a>
+**What to expect:**
+- **Exclusive newsletter** (_every Thursday_)
+- **Free resources** (_A few times per year_)
+- **My book draft** (_A few times per year_)
+- **Writing from my blog** (_Optional, you can choose_)
+
 
 ---
 
 **What readers are saying:**
 
->"I’ve been subscribed to Budi’s newsletter for a month or so and have really enjoyed the thought provoking content he writes! I highly recommend."
+>"I’ve been subscribed to Budi’s newsletter for a month or so and have really enjoyed the thought provoking content he writes! I highly recommend." — Amy
 {:.humble}
-> "Your writing is interesting and to the point. Keep it up."
+> "I really enjoy reading your experiences because I am currently in that space - I can relate." — Happiness
 > 
-> "I really like your writing, makes me learn a lot."
+> "I really like your writing, [it] makes me learn a lot." — Abdi
 > 
-> "Your content is amazing and it's easy to read."
+> "Your content is amazing and it's easy to read." — Naqiya
 {:.humble}
 
-
-<div class="img-wrapper m-b-s m-t-s">
+<div class="img-wrapper m-t-s m-b-s">
     <img src="/img/asset/newsletter-example.jpg" alt="Budi Tanrim's newsletter"/>
 </div>
 
-**What to expect:**
-
-Every Thursday, in every volume of Unpublished, we’ll discuss reader questions about product design, challenges on work, personal development, leadership, and anything that relevant in our work as a design practitioners.
-
-<a href="http://eepurl.com/cuGqAP" class="btn-dark btn-small">Subscribe</a>
-
-
-
----
-
-## FAQ
+<!-- ## FAQ
 
 #### I have subscribed before, what should I do to get the exclusive newsletter?
 If you have subscribed to my newsletter before, you don't have to resubscribe to get the exclusive newsletter (Budi Tanrim's Unpublished). You will automatically get one.
@@ -66,11 +62,8 @@ _Daily blog + Budi Tanrim's Unpublished:_ <br/>You will get my writing right int
 
 _Weekly blog summary + Budi Tanrim's Unpublished:_<br/> You will get a list of post title every Saturday + the newsletter every Thursday.
 
-_Budi Tanrim's Unpublished:_ <br/>You will only get the newsletter every Thursday without anything from my blog.
+_Budi Tanrim's Unpublished:_ <br/>You will only get the newsletter every Thursday without anything from my blog. -->
 
-<div class="img-wrapper m-b-m m-t-xl">
-    <img src="https://buditanrim.co/img/post/2020/10/writing-design-story.jpg" alt="Writing illustration buditanrim" class="illustration small" />
-</div>
 
 
 

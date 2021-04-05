@@ -59,8 +59,8 @@ I can’t stress this, but you need to communicate with the executive team. If y
 
 
 {% include image.html 
-src="https://buditanrim.co/img/post/2021/04/what-people-need.jpg" 
-alt="an illustration of juice box" 
+src="https://buditanrim.co/img/post/2021/04/okr-manager.jpg" 
+alt="an girl with paper hat" 
 caption=" "
 class="illustration small m-t-s" %}
 

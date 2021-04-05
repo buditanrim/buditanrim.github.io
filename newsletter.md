@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Thank you for subscribing
+title: Newsletter
 description: Sign up to Budi Tanrim's Newsletter
 id: newsletter
 

@@ -33,7 +33,7 @@ If I can summarize them, you want to do these five things:
 
 {% include image.html 
 src="https://buditanrim.co/img/post/2021/04/okr-manager.jpg" 
-alt="an girl with paper hat" 
+alt="a girl with paper hat" 
 caption=" "
 class="illustration small m-t-s m-b-s" %}
 

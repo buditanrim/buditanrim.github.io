@@ -19,7 +19,7 @@ twitter-seo:
 <p class="t--heading-01 m-b-m">Hi, I'm Budi. It's good to have you here. I hope my writing can be a friend throughout the journey ahead of you. <br/></p>
 
 <div class="l--flex block">
-    <button href="/" class="btn-dark btn-small">Read blog</button>
-    <button href="/projects" class="btn-dark btn-small">Browse my portfolio</button>
+    <a href="/" class="btn-dark btn-medium">Read blog</a>
+    <a href="/projects" class="btn-dark btn-medium">Browse my portfolio</a>
 </div>
 

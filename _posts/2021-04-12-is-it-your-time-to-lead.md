@@ -2,7 +2,7 @@
 layout: post
 title: "My reflection on leadership"
 punchline: true
-subtitle: "Is it your time to lead? I want to share my reflection on the leadership topic."
+subtitle: "Is it your time to lead?"
 description: "Is it your time to lead? I want to share my reflection on the leadership topic."
 date: 2021-04-12 17:30:00 +0700
 categories: leadership

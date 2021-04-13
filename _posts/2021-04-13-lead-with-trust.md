@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Lead with trust"
+punchline: true
+description: "When there is no trust, there is no relationship."
+date: 2021-04-13 17:30:00 +0700
+categories: leadership
+tags: leadership
+author: "Budi Tanrim"
+
+image:
+ path: /img/seo/lead-with-trust.jpg
+ height: 630
+ width: 1200
+gif: false
+twitter-seo: 
+ - "seo/lead-with-trust.jpg"
+---
+
+We touched a bit on the [mission][1] yesterday. 
+
+Today I want to share my reflection about trust in leadership. 
+
+When there is no trust, there is no relationship. Without the relationship, there is no team. It’s a group of random people working together. 
+
+In my reflection, I realized that if I want my subordinate to trust me, I need to give them trust. For example, I will trust them to come up with a plan. I will trust them to execute. I will trust them to make decisions.
+
+To make that happens, I realized I want to keep doing one thing. That is to set the desired outcome, but let the team figure out how to achieve that. This serves me well so far. Because when I let them think about the plan, I give them trust. That can build the relationship—the relationship between the team and me. But most importantly, the relationship between the people within the team. 
+
+Not only it builds relationship when the team comes up with the plan. They have a sense of ownership because it’s their plan, not my plan. When people have that sense of ownership, they will execute and try to make things happen. But, when it’s my plan, they can easily call it a day and blame my plan.
+
+Of course, there is an exception. When the team is not performing, I will still trust the team, but I'll be more critical of their plan. At some point, if the team is performing really bad, maybe there is a need to involve a bit more.
+
+If you want people to trust you, you should give them trust.
+
+
+{% include image.html 
+src="https://buditanrim.co/img/post/2021/04/time-to-lead.jpg" 
+alt="time to lead" 
+caption=" "
+class="illustration small m-t-s m-b-s" %}
+
+[1]: https://buditanrim.co/2021/is-it-your-time-to-lead/
+
+

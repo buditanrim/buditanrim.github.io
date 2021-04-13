@@ -23,7 +23,7 @@ When you selected to take up a leadership role. It’s time to step up. You will
 Throughout this week, let’s discuss:
 
 - Lead with context
-- Lead with trust
+- [Lead with trust][1]
 - Lead with humility
 - Lead with respect 
 - Lead with integrity
@@ -52,4 +52,5 @@ alt="time to lead"
 caption=" "
 class="illustration small m-t-s m-b-s" %}
 
+[1]: https://buditanrim.co/2021/lead-with-trust/
 

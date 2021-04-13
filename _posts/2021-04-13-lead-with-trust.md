@@ -21,15 +21,15 @@ We touched a bit on the [mission][1] yesterday.
 
 Today I want to share my reflection about trust in leadership. 
 
+In my reflection, I realized that if I want my subordinates to trust me, I need to _give_ them trust. For example, I will trust them to come up with a plan. I will trust them to execute. I will trust them to make decisions.
+
+The tricky part is when the subordinates still not confident or has little experience. There is a risk they fail. In this case, I'll start to give them small projects, not the risky project that can put the rest of the objective in danger. Then, once the subordinates shows result, gain more confidence, and experience, I'll give them larger responsibility.
+
+To give trust, I realized I want to keep doing one thing. That is to set the desired outcome, but let the team figure out how to achieve that. This serves me well so far. Because when I let them think about the plan, I give them trust. Not only it builds relationship within the team because they work together to comes up with the plan. They have a sense of ownership because it’s _their_ plan, not _my_ plan. When people have that sense of ownership, they will execute and try to make things happen. But, when it’s my plan, they can easily call it a day and blame my plan.
+
+There is an exception, when the team is not performing, I will still trust the team, but I'll be more critical of their plan. At some point, if the team is performing really bad, maybe there is a need to involve a bit more.
+
 When there is no trust, there is no relationship. Without the relationship, there is no team. It’s a group of random people working together. 
-
-In my reflection, I realized that if I want my subordinate to trust me, I need to give them trust. For example, I will trust them to come up with a plan. I will trust them to execute. I will trust them to make decisions.
-
-To make that happens, I realized I want to keep doing one thing. That is to set the desired outcome, but let the team figure out how to achieve that. This serves me well so far. Because when I let them think about the plan, I give them trust. That can build the relationship—the relationship between the team and me. But most importantly, the relationship between the people within the team. 
-
-Not only it builds relationship when the team comes up with the plan. They have a sense of ownership because it’s their plan, not my plan. When people have that sense of ownership, they will execute and try to make things happen. But, when it’s my plan, they can easily call it a day and blame my plan.
-
-Of course, there is an exception. When the team is not performing, I will still trust the team, but I'll be more critical of their plan. At some point, if the team is performing really bad, maybe there is a need to involve a bit more.
 
 If you want people to trust you, you should give them trust.
 

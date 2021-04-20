@@ -21,7 +21,7 @@ Steve Job.
 
 You probably associate him with the word like “genius.”
 
-Still, genius has bias and makes a bad decision.
+Still, genius is human. Human has biases and makes bad decisions.
 
 Job’s intelligence and creativity sometimes created a skewed perception of the world. According to Walter Isaacson’s official biography, people described a “reality distortion field.” Steve Jobs has a charismatic rhetorical style and eagerness to bend any fact to fit the purpose at hand.
 

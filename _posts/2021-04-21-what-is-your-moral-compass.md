@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's your moral compass?"
+title: "Why do you work?"
 punchline: true
 description: "As a practitioner, you are taking a journey in your life."
 date: 2021-04-21 13:30:00 +0700
@@ -21,7 +21,7 @@ Researchers, product managers, designers, content strategists, or whatever your 
 
 Stop whatever you do for a moment. And ask yourself: Why do I work?
 
-As a practitioner, you are taking a journey in your life—one that full of uncertainty. While the journey is often shaky and confusing, you have to persevere. To persevere, you have to understand why do you want to take this journey in the first place. Otherwise, you will astray.
+As a practitioner, you are taking a journey in your life. While the journey is often uncertain and puzzling, you have to persevere. To persevere, you have to understand why do you want to take this journey in the first place. Otherwise, you will astray.
 
 Is it because the profession provide prestige?  Is it provide a good amount of payment? Is it because it enables you to contribute back to the community? Be clear about it. Then ask yourself, is that meaningful for something that spends 1/3 of your life? This should be your moral compass.
 

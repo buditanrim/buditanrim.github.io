@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's your moral compass?"
+title: "Why do you work?"
 punchline: true
 description: "As a practitioner, you are taking a journey in your life."
 date: 2021-04-21 13:30:00 +0700

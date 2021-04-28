@@ -1,9 +1,9 @@
 
-- word: "Journal"
+- word: "Blog"
   link: /
   order: 1
   current: "/"
-  ga: journal
+  ga: blog
 
 - word: "Projects"
   link: /projects

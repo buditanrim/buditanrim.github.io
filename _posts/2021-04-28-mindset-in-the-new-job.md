@@ -48,7 +48,3 @@ alt="flower in the vase"
 caption=" "
 class="illustration small m-t-s m-b-s" %}
 
-#### Footnotes
-1. {: #fn1} See Gallup: [09 From Boss to Coach: The Manager's Role in Employee Engagement](https://www.gallup.com/workplace/285674/improve-employee-engagement-workplace.aspx#ite-285788)  [↩](#a1)
-2. {: #fn2} Jason Evanish (2014):[101 Questions to Ask in One on Ones](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/) [↩](#a1)
-{:.footnotes-list}

@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/lead-with-respect.jpg"
 ---
 
-I’ve worked with different kinds of people, from a jerk to a yes-man.
+I’ve worked with different kinds of people, from a egomaniac to a yes-man.
 
 When I first step into the leadership role. I began to work with a few other leaders in the company. They each have their own unique experience, character, and tone. 
 

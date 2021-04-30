@@ -2,7 +2,7 @@
 layout: post
 title: "Slow thinker"
 punchline: true
-description: "What mindset should you hold when starting a new job?"
+description: "We only have an hour to work on the academic test"
 date: 2021-04-30 18:05:00 +0700
 categories: mindset
 tags: mindset

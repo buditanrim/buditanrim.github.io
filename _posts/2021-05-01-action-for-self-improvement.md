@@ -2,7 +2,7 @@
 layout: post
 title: "Small actions for self-improvement"
 punchline: true
-description: "a"
+description: "Question things, consider the opposite viewpoints, and more"
 date: 2021-05-01 13:05:00 +0700
 categories: mindset
 tags: mindset

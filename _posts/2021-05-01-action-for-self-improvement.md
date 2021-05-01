@@ -3,7 +3,7 @@ layout: post
 title: "Small actions for self-improvement"
 punchline: true
 description: "a"
-date: 2021-05-01 18:05:00 +0700
+date: 2021-05-01 13:05:00 +0700
 categories: mindset
 tags: mindset
 author: "Budi Tanrim"

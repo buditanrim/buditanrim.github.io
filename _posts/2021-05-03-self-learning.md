@@ -21,9 +21,13 @@ It’s possible.
 
 We learned how to walk when we were an infant. No one taught us to do that. It runs deep in our DNA. But how can we learn while we work?
 
-**Create an open-ended question.** It’s better to learn with a specific question you have in mind. Last week I asked: how can people diverge and produce creative ideas?
+There is a inquiry-based learning. This is my version:
 
-**Set realistic expectations for yourself.** If your question is simple, like, “When was Indonesia declared independence?” You can get the answer quickly these days. But if you have an open-ended high-order question, set an expectation that you will wrestle with this question for weeks or months. It’s part of the fun. 
+**Create an open-ended question.** It’s better to learn with a specific question you have in mind. Last week I asked: how can people diverge and produce creative ideas? You can go super open-ended like this when you have zero ideas about the topic.
+
+**List down some hunches.** If you have enough knowledge or experience on a certain topic, you might have gut feelings. Write them down. But be ready to be wrong, consider the opposing viewpoints. Be open-minded.
+
+**Set realistic expectations.** If your question is simple, like, “When was Indonesia declared independence?” You can get the answer quickly these days. But if you have an open-ended high-order question, set an expectation that you will wrestle with this question for weeks or months. If you set a wrong expectation, you will be more likely to be stressed out when it takes you longer to figure it out.
 
 **Collect the information and data.** When you read a book or an article, remember that each author has their own biases and viewpoints. Use Socratic questioning:
 

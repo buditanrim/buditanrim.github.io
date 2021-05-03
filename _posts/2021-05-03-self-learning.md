@@ -21,8 +21,6 @@ It’s possible.
 
 We learned how to walk when we were an infant. No one taught us to do that. It runs deep in our DNA. But how can we learn while we work?
 
-Here's my tactic to learn. You can build your own way to self-inquiry.
-
 **Create an open-ended question.** It’s better to learn with a specific question you have in mind. Last week I asked: how can people diverge and produce creative ideas?
 
 **Set realistic expectations for yourself.** If your question is simple, like, “When was Indonesia declared independence?” You can get the answer quickly these days. But if you have an open-ended high-order question, set an expectation that you will wrestle with this question for weeks or months. It’s part of the fun. 
@@ -35,11 +33,11 @@ Here's my tactic to learn. You can build your own way to self-inquiry.
 - Different viewpoints – "What would be an alternative way to see this?"
 - Questioning the original question – "What was the point of this question?"
 
-**Reflect.** What does it mean to your context? Since we have different conditions. Always contextualize the information you have. Even when you take notes, don’t copy the source. Write it down with your word and understanding.
+**Reflect.** What does it mean to your context? Always contextualize the information you have to your condition. When you take notes, don’t copy the source. Write it down with your word and understanding.
 
 **Experiment whenever possible.** Remember, see your [life as an experiment][1].
 
-I have a notebook filled with questions. Let us be curious. Don’t be afraid of not knowing. It’s super fun.
+Let us be curious. Don’t be afraid of not knowing. It’s super fun.
 
 
 {% include image.html 

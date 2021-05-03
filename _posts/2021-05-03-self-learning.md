@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Self learning"
+title: "Self-learning"
 punchline: true
 description: "We learned how to walk when we were an infant."
 date: 2021-05-03 13:05:00 +0700

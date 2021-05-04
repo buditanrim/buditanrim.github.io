@@ -17,7 +17,11 @@ twitter-seo:
     <img src="/img/asset/newsletter-logo-left.jpg" alt="Budi Tanrim's newsletter"/>
 </div>
 
-#### Every Thursday, discussing reader questions about product design, challenges on work, personal development, people management, and anything relevant to our work as design practitioners.
+#### Every Thursday, discussing reader questions about product design, challenges on work, personal development, people management, and more.
+
+The purpose: to share ideas with the product thinker, so that we can grow and bring positive impact to the world.
+
+The primary audience: designers and product people, who is currently struggle to improve and collaborate with their team. Who eager to produce positive outcome. 
 
 <div class="m-t-m m-b-m">
     <a href="http://eepurl.com/cuGqAP" class="btn-dark btn-medium">Subscribe</a>
@@ -27,7 +31,7 @@ twitter-seo:
 - **Exclusive newsletter** (_every Thursday_)
 - **Free resources** (_A few times per year_)
 - **My book draft** (_A few times per year_)
-- **Writing from my blog** (_Optional, you can choose_)
+- **Writing from my blog** (_Optional, you can choose daily or weekly_)
 
 
 ---

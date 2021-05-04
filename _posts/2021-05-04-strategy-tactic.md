@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/strategy-tactic.jpg"
 ---
 
-I know—it’s confusing, these two words are used interchangeably. 
+I know—it’s confusing, these words are used interchangeably. 
 
 But let me share a simple model.
 
@@ -28,7 +28,6 @@ You need a strategy like consume fewer calories (diet) and exercise. Those are s
 Then, the tactics for exercise could be: hiking, go to the gym, swimming. The tactics for diet could be the paleo diet, vegan diet, low-carb diets, or Dukan diet. Tactics are the activities you can do to make the strategy come to life.
 
 That is a simplification of strategy and tactic. You need to strategize in almost anything. When you do a meeting, what’s your strategy to make it effective? When you work on the product, what’s your strategy to increase its chance to be successful?
-
 
 
 {% include image.html 

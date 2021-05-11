@@ -27,9 +27,9 @@ Some people will stand against it, especially in a fast-paced environment. Peopl
 
 You need a good reason to roll out a design system. The key is to find the biggest levers in your company. Some companies care about business performance. Some care about how visually the product appears. Here are a few framing you can use:
 
-**Product performance improvement.** Suppose you work in a business-focused environment. Frame the conversation around the product performance instead of framing it as a “component replacement”. For example: improve the checkout page, and people can check out quicker—as a result, it will increase the number of transactions.
+**Improve the product performance.** Suppose you work in a business-focused environment. Frame the conversation around the product performance instead of framing it as a “component replacement”. For example: improve the checkout page, and people can check out quicker—as a result, it will increase the number of transactions.
 
-**Illustrate future value from past data.** The simplest example would be the component bug or maintenance. Talk to the engineers and see if they can help you calculate how many hours they took for bug fixing or maintenance. Take three months of data and then present that. Come and say, “If you add one week on the development now, you’ll save a lot of hours in the future because we’ll be taking care of those maintenances.” But of course, you shouldn’t overpromise what you can’t.
+**Illustrate the efficiency.** Project the future value from past data. The simplest example would be the component bug or maintenance. Talk to the engineers and see if they can help you calculate how many hours they took for bug fixing or maintenance. Take three months of data and then present that. Come and say, “If you add one week on the development now, you’ll save a lot of hours in the future because we’ll be taking care of those maintenances.” But of course, you shouldn’t overpromise what you can’t.
 
 **Support the revamp effort.** Whenever there is a revamp effort, ride the wave. It’s probably the best opportunity you have to collaborate and slip the rollout effort here. You can frame your involvement to support them. In my experience, we assigned one designer and two engineers from the design system team. It actually helpful for the product team since they get an additional man power. 
 

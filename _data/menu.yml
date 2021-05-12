@@ -23,10 +23,10 @@
   current: newsletter
 
 
-- word: "Contact↗"
-  link: https://us4.list-manage.com/contact-form?u=f82dd94137a54f15acad8bdfe&form_id=3a20291a31ac63437e857e32a7926517
-  order: 5
-  current: contact
+# - word: "Contact↗"
+#   link: https://us4.list-manage.com/contact-form?u=f82dd94137a54f15acad8bdfe&form_id=3a20291a31ac63437e857e32a7926517
+#   order: 5
+#   current: contact
   
 
 # - word: "Mentorship"

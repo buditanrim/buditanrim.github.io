@@ -29,7 +29,7 @@ I can tell you how to move the pedal, but it’s an incomplete skill.
 
 I can tell you how to press the brake, but you’ll squeeze it too much initially.
 
-Design requires you to practice. Fall a few times is part of the practice.
+Design requires you to practice. Fall for a few times is part of the practice.
 
 
 {% include image.html 

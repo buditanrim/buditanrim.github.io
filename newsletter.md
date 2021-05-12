@@ -19,10 +19,6 @@ twitter-seo:
 
 #### Every Thursday, discussing reader questions about product design, challenges on work, personal development, people management, and more.
 
-The purpose: to share ideas with the product thinker, so that we can grow and bring positive impact to the world.
-
-The primary audience: designers and product people, who is currently struggle to improve and collaborate with their team. Who eager to produce positive outcome. 
-
 <div class="m-t-m m-b-m">
     <a href="http://eepurl.com/cuGqAP" class="btn-dark btn-medium">Subscribe</a>
 </div>
@@ -55,28 +51,6 @@ The primary audience: designers and product people, who is currently struggle to
 
 
 <br/>
-
-
-<div class="img-wrapper m-t-s m-b-s">
-    <img src="/img/asset/newsletter-example.jpg" alt="Budi Tanrim's newsletter"/>
-</div>
-
-<!-- ## FAQ
-
-#### I have subscribed before, what should I do to get the exclusive newsletter?
-If you have subscribed to my newsletter before, you don't have to resubscribe to get the exclusive newsletter (Budi Tanrim's Unpublished). You will automatically get one.
-
-#### If I unsubscribe, will you remove my data?
-Yes, I will completely delete your data from my Mailchimp list. After you unsubscribed, you will never get any email from me—unless you resubscribe.
-
-#### Will I get email when you add new post to your blog?
-On the subscribe page, you can choose.
-
-_Daily blog + Budi Tanrim's Unpublished:_ <br/>You will get my writing right into your inbox + the newsletter every Thursday.
-
-_Weekly blog summary + Budi Tanrim's Unpublished:_<br/> You will get a list of post title every Saturday + the newsletter every Thursday.
-
-_Budi Tanrim's Unpublished:_ <br/>You will only get the newsletter every Thursday without anything from my blog. -->
 
 
 

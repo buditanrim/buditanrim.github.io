@@ -1,7 +1,7 @@
 ---
 layout: newsletter
-title: Newsletter
-description: Sign up to Budi Tanrim's Newsletter
+title: Budi Tanrim's Newsletter
+description: A newsletter and community for people who want to be a better problem solver.
 id: newsletter
 
 image:

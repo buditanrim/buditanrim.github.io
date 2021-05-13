@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: newsletter
 title: Newsletter
 description: Sign up to Budi Tanrim's Newsletter
 id: newsletter
@@ -12,16 +12,6 @@ gif: false
 twitter-seo:
  - "seo/buditanrim-seo.jpg"
 ---
-
-<div class="img-wrapper illustration tiny m-t-s m-b-s">
-    <img src="/img/asset/newsletter-logo-left.jpg" alt="Budi Tanrim's newsletter"/>
-</div>
-
-#### Every Thursday, discussing reader questions about product design, challenges on work, personal development, people management, and more.
-
-<div class="m-t-m m-b-m">
-    <a href="http://eepurl.com/cuGqAP" class="btn-dark btn-medium">Subscribe</a>
-</div>
 
 **What to expect:**
 - **Exclusive newsletter** (_every Thursday_)

@@ -5,12 +5,12 @@ description: Sign up to Budi Tanrim's Newsletter
 id: newsletter
 
 image:
- path: /img/seo/buditanrim-seo.jpg
+ path: /img/seo/newsletter-seo.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo:
- - "seo/buditanrim-seo.jpg"
+ - "seo/newsletter-seo.jpg"
 ---
 
 **What to expect:**

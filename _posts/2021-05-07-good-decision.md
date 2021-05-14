@@ -33,7 +33,7 @@ Also, it requires a curiosity—like Richard Feynman. He tinkered the battery, e
 
 It requires humility to avoid overconfidence like [Steve Jobs][1] and his cancer.
 
-Consider opposite viewpoints. Slow thinking. Curious. Humility. These are a few things that we should practice in our daily life. That way, perhaps we can be wiser. Then one day, your wise decision would impact thousands or millions of life.
+Consider opposite viewpoints, slow thinking curiousity humility—these are a few things that we should practice in our daily life. That way, perhaps we can be wiser. Then one day, your wise decision would impact thousands or millions of life.
 
 {% include image.html 
 src="https://buditanrim.co/img/post/2021/05/good-decision.jpg" 

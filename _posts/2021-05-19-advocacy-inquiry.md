@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/advocacy-inquiry.jpg"
 ---
 
-Advocacy is to advocate your viewpoint.
+Advocacy is to voice your viewpoint.
 
 Inquiry is to ask questions.
 

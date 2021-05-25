@@ -25,13 +25,13 @@ _Why do I feel stuck?_
 
 My job was not that boring: I designed the marketing campaign, coded the HTML newsletter, and tweaked a small part of the feature. I learned something new on my job, but why did I feel not grow?
 
-The week after that, I decided to quit. When the CEO asked me why I couldn’t explain it, I left the secured job to be a full-time freelancer after I ensure I had enough money to survive for six months.
+The week after that, I decided to quit. I left the secured job to be a full-time freelancer after I ensure I had enough money to survive for six months. Still, I had an unsettling feeling on my chest, worried if I made a bad decision.
 
-Looking back, I’m glad I did it because the only reason to stay was the money. But money was probably not a good aim.
+But looking back, I’m glad I did it because the only reason to stay was the money. But money was probably not a good aim.
 
 If we pursue something too materialistic: money, fame, or attention—it can slow us down. It distracts us from what matters the most in our stage of apprenticeship: learning. Learning is what we should prioritize when we still in the early of our career. Without it, we can’t reach the next level.
 
-What I needed was to learn more about product design. Not doing various work on marketing campaigns.
+What I needed was to learn more about product design—it was something I wanted to pursue. Not to do various work on marketing campaigns.
 
 Early in our career, we go through this apprenticeship phase—where we observe the condition, practice it, and continuously experiment through trial and error.
 

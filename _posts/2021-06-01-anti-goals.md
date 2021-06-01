@@ -19,15 +19,11 @@ twitter-seo:
 
 How can you be more productive?
 
-That’s tough to answer. But, if you invert that into: What are things that make me NOT productive and how do I avoid it? Suddenly, things become easier to answer. 
+That’s tough to answer. But, if you invert that into: What are things that make me NOT productive and how do I avoid it? Suddenly, it becomes easier to answer. 
 
-Tricky questions occur when we don’t know _yet_ what the answer would be. 
+Tricky questions occur when we don’t know _yet_ what the answer would be. We don’t know _yet_ what best practice there is. We don’t know _yet_ what we want to accomplish.
 
-We don’t know _yet_ what best practice there is. 
-
-We don’t know _yet_ what we want to accomplish.
-
-This is where anti-goals will be useful. It’s a guiding principle that you can use to be less wrong. As Charlie Munger, the close partner of Warren Buffet, advocated the idea that reversing a problem:
+This is where anti-goals will be useful. It’s a guiding principle that you can use to be less wrong. As Charlie Munger, the close partner of Warren Buffet, advocated the idea to inverse a problem:
 
 “Problems frequently get easier if you turn them around in reverse. In other words, if you want to help India, the question you should ask is not ‘how can I help India,’ it’s ‘what is doing the worst damage in India and how do I avoid it?” 
 

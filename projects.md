@@ -1,7 +1,7 @@
 ---
 layout: project-index
 title: Projects
-description: Head of Design at Bukalapak and human-centered practicioner
+description: Head of Design at Bukalapak and human-centered practitioner
 id: project
 dark: true
 

@@ -20,7 +20,7 @@ My current focus as a professional is now in the education field. I believe that
 
 But I can’t do this alone—I believe in the collective effort. This is precisely why I grow a community of problem solvers—to solve a complex social problem at a larger scale through my [blog](https://buditanrim.co) and [newsletter](https://buditanrim.co/newsletter).
 
-<img class="tiny m-t-s" src="/img/asset/buditanrim-signature.jpg" alt="Budi Tanrim"/>
+<img class="tiny mobile-m-t-xs m-t-s" src="/img/asset/buditanrim-signature.jpg" alt="Budi Tanrim"/>
 
 
 

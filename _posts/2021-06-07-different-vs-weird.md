@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/being-different.jpg"
 ---
 
-Different is not the same as another. Wierd is strange in a frightening way.
+Different is not the same as another. Weird is strange in a frightening way.
 
 Voicing a unique opinion is being different.
 

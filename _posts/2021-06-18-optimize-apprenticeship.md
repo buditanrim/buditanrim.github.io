@@ -21,7 +21,7 @@ twitter-seo:
 
 ---
 
-Instead of focusing on the internship, I'll focus on the apprenticeship—the first phase for most of us when we enter the industry.
+Instead of focusing on the internship, I'll focus on the apprenticeship—the first phase on-the-job training when we enter the industry.
 
 My first suggestion: Deep observation.
 

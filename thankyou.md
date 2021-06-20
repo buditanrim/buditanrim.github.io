@@ -15,12 +15,12 @@ twitter-seo:
 
 
 
-<h1 class="t--heading-04 m-b-m">Thank you for subscribing. You can call me Budi.</h1>
-<p class="t--heading-01 m-b-m">I hope my writing can be a companion throughout the journey ahead of you. <br/></p>
-
+<h1 class="t--heading-04 m-b-m">Thank you for subscribing. I hope my writing can be a companion throughout the journey ahead of you.</h1>
+<p class="t--heading-01 m-b-m">Share this newsletter with your friend.<br/></p>
 <div class="l--flex block">
-    <a href="/" class="btn-dark btn-medium">Go to my blog</a>
-    <a href="/projects" class="btn-dark btn-medium">Browse my portfolio</a>
+    <a href="https://ctt.ac/rZUfb" class="btn-dark btn-small" target="_blank">Share this on Twitter</a>
+    <!-- <a href="/" class="btn-dark btn-medium">Go to my blog</a>
+    <a href="/projects" class="btn-dark btn-medium">Browse my portfolio</a> -->
 </div>
 
 ---

@@ -23,7 +23,7 @@ It gives a certain comfort and certainty. We know which design is actually “be
 
 <center class="m-b-s m-t-s">* * *</center>
 
-**The team lost its product vision.** The group becomes very focus on small iterations or improvements. Since A/B testing is so certain, they create more experiments, wondering how to increase the metrics or KPI for each quarter. They keep doing this without knowing what the real value they want to deliver to customers. 
+**The team lack of product vision.** The group becomes very focus on small iterations or improvements. Since A/B testing is so certain, they create more experiments, wondering how to increase the metrics or KPI for each quarter. They keep doing this without knowing what the real value they want to deliver to customers. 
 
 **The team loses its ability to make a decision.** They rely on the data too much to make the decisions. I’ve seen designers and product managers who can’t make a simple decision like, “Should we put the entry point here or there?” Then, they set a three weeks A/B testing. Ridiculous.
 
@@ -32,7 +32,6 @@ It gives a certain comfort and certainty. We know which design is actually “be
 These are just a few side effects.
  
 A/B testing is a good tool. But when the team is not thinking clearly, it becomes a curse.
-
 
 
 {% include image.html 

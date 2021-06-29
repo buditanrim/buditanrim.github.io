@@ -3,7 +3,7 @@ layout: post
 title: "Design system: Auditing color system"
 punchline: true
 description: "Should I use gray-20 or gray-40 for the separator?"
-date: 2021-06-29 08:00:00 +0700
+date: 2021-06-29 17:00:00 +0700
 categories: design-system
 tags: design-system
 author: "Budi Tanrim"

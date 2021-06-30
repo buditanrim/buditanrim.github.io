@@ -2,35 +2,39 @@
 layout: post
 title: "Incomplete reality"
 punchline: true
-description: "Aa"
-date: 2021-06-30 08:00:00 +0700
-categories: practice
-tags: practice
+description: "No pair of eyes can see everything in the world."
+date: 2021-06-30 09:00:00 +0700
+categories: mindset
+tags: mindset
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/puzzle-problem.jpg
+ path: /img/seo/incomplete-reality.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/puzzle-problem.jpg"
+ - "seo/incomplete-reality.jpg"
 ---
 
-No pair of eyes can see everything in the world.<br/>
-No pair of ears can hear everything in the world.<br/>
-No pair of hands can touch everything in the world.<br/>
-One mind cannot possibly comprehend and understand everything there is to know.
+No pair of eyes can see everything in the world.
 
-We're all grasp pieces of reality, but it's an incomplete reality. This is precisely we should be critical with our reasoning and be open-minded with a different view.
+No pair of ears can hear everything in the world.
 
-Often in our profession, we have a discussion with the team to make a decision. We might be in a situation where we have a disagreement, which creates an unsettling emotional reaction in our brain. But that disagreement can be a healthy process if both parties can be open-minded and always willing to reassess their thinking.
+No pair of hands can touch everything in the world.
 
+One mind cannot possibly comprehend everything there is to know.
+
+We're all grasp pieces of reality through our life. Our brain also chooses what to pay attention to—prevent us from seeing the whole reality. Then, we shape our beliefs. But, we often confuse our beliefs with reality.
+
+As a result, when we encounter people with a different opinions, we become frustrated. How could he not understand such an obvious thing? But that disagreement could be a healthy process if both parties know that they both have blindspots—they only see a small piece of the reality. 
+
+The most significant moment is when both parties can be open-minded and always willing to reassess their thinking.
 
 
 
 {% include image.html 
-src="https://buditanrim.co/img/post/2021/06/puzzle-problem.jpg" 
-alt="puzzle-problem" 
+src="https://buditanrim.co/img/post/2021/06/incomplete-reality.jpg" 
+alt="incomplete-reality" 
 caption=" "
 class="illustration small m-t-s m-b-s" %}

@@ -3,7 +3,7 @@ layout: post
 title: "Incomplete reality"
 punchline: true
 description: "No pair of eyes can see everything in the world."
-date: 2021-06-30 09:00:00 +0700
+date: 2021-06-30 10:00:00 +0700
 categories: mindset
 tags: mindset
 author: "Budi Tanrim"

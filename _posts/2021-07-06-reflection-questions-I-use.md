@@ -18,14 +18,16 @@ twitter-seo:
 ---
 
 In the morning:
-I am thankful for...
-What would make today great?
-Daily affirmation. I am…
+
+- I am thankful for...
+- What would make today great?
+- Daily affirmation. I am…
 
 In the evening:
-What are 3 highlights that happened today?
-What’s on my mind?
-How could I have made today better?
+
+- What are 3 highlights that happened today?
+- What’s on my mind?
+- How could I have made today better?
 
 
 {% include image.html 

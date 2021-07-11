@@ -125,6 +125,16 @@ hr.airy {
 	}
 }
 
+.post-search {
+  font-size: 16px;
+  padding: 8px 12px;
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 32px;
+  width: 92%;
+  border: 1px solid var(--c--theme-gray-03);
+}
+
 @media (min-width: 768px) {
 	.post-inner--body { font-size: 20px; }
 }
@@ -381,6 +391,15 @@ hr.airy {
 			overflow-y: auto;
 	    	padding-right: 16px;
 		}
+	}
+	.post-search {
+	  font-size: 16px;
+	  padding: 8px 12px;
+	  margin-left: 8px;
+	  margin-bottom: 20px;
+	  margin-top: 0px;
+	  width: 85%;
+	  border: 1px solid var(--c--theme-gray-03);
 	}
 }
 

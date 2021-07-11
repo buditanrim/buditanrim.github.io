@@ -1,8 +1,11 @@
+<input type="text" id="myInputMobile" onkeyup="searchFunctionMobile()" placeholder="Search post title.." class="post-search rounded-2">
+<div class="myIndexlist" id="mobileIndexList">
 {% for post in site.posts %}
 {% assign currentyear = post.date | date: "%Y" %}
 	{% if currentyear != date %}
 		<h3 class="t--heading-04 p-b-01 p-t-04">{{ currentyear }}</h3>
 		{% assign date = currentyear %}
 	{% endif %}
-	{% include post-loop.html %}
+	{% include post-loop.html %} <!-- Note: this code still old structure, for new one is on journal-index-desktop.html -->
 {% endfor %}
+</div>

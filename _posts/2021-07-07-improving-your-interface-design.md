@@ -23,7 +23,7 @@ It’s obvious when 1) people understand and comprehend the information, 2) peop
 
 You should achieve those three basic criteria of obviousness. Otherwise, it can create frustration for the users. To improve your interface design, consider this approach:
 
-**Walkthrough your design.** Your goal is to walk through your design using a novice mind. Ask these three questions:
+**Walkthrough your design** using a novice mind. Ask these three questions:
 
 - Who are the users and what is their goal? 
 - Will the users know what to do here?

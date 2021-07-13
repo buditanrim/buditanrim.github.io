@@ -167,6 +167,10 @@ hr.airy {
 			&:hover {text-decoration-color: var(--c--theme-gray-02)}
 		}
 	}
+	.footnotes-list li:target {
+		color: var(--c--theme-gray-02);
+		background: var(--c--theme-highlight);	
+	}
 	h1 {
 		padding-top: var(--l--space-l);
 		margin-bottom: var(--l--space-s);

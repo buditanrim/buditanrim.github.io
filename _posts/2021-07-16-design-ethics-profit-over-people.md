@@ -3,18 +3,18 @@ layout: post
 title: "Ethical Design: Profit over people?"
 punchline: true
 description: "When morality comes up against profit, it is seldom that profit loses."
-date: 2021-07-16 16:32:00 +0700
+date: 2021-07-16 06:32:00 +0700
 categories: ethics
 tags: ethics
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/ethic-design-profit.jpg
+ path: /img/seo/ethic-design-for-people.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/ethic-design-profit.jpg"
+ - "seo/ethic-design-for-people.jpg"
 ---
 
 A company needs to make a profit. Otherwise, they’d die to the bankruptcy wasteland. But should we sacrifice people over profit?
@@ -46,7 +46,7 @@ The community has been talking about ethics a lot. If we can practice this in ou
 
 
 {% include image.html 
-src="https://buditanrim.co/img/post/2021/07/ethic-design-profit.jpg" 
-alt="ethic-design-profit" 
+src="https://buditanrim.co/img/post/2021/07/ethic-design-for-people.jpg" 
+alt="ethic-design-for-people" 
 caption=" "
 class="illustration small m-t-s m-b-s" %}

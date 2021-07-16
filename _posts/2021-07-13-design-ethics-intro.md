@@ -9,15 +9,15 @@ tags: ethics
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/ethic-design-harm.jpg
+ path: /img/seo/ethic-design-for-people.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/ethic-design-harm.jpg"
+ - "seo/ethic-design-for-people.jpg"
 ---
 
-Does stealing morally wrong? Perhaps you’d say it is.
+Is stealing morally wrong? Perhaps you’d say it is.
 
 What about Robinhood? If a person steals to help the poor, is that morally wrong?
 
@@ -56,7 +56,7 @@ _P.S. Happy birthday to myself :) I am so thankful that many of you still read m
 
 
 {% include image.html 
-src="https://buditanrim.co/img/post/2021/07/ethic-design-harm.jpg" 
-alt="ethic-design-harm" 
+src="https://buditanrim.co/img/post/2021/07/ethic-design-for-people.jpg" 
+alt="ethic-design-for-people" 
 caption=" "
 class="illustration small m-t-s m-b-s" %}

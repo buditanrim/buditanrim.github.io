@@ -3,25 +3,25 @@ layout: post
 title: "Ethical Design: Profit over people?"
 punchline: true
 description: "When morality comes up against profit, it is seldom that profit loses."
-date: 2021-07-16 16:32:00 +0700
+date: 2021-07-16 06:32:00 +0700
 categories: ethics
 tags: ethics
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/ethic-design-profit.jpg
+ path: /img/seo/ethic-design-for-people.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/ethic-design-profit.jpg"
+ - "seo/ethic-design-for-people.jpg"
 ---
 
 A company needs to make a profit. Otherwise, they’d die to the bankruptcy wasteland. But should we sacrifice people over profit?
 
 Growth hacking has provided a sexy concept to help the company increase its users' engagement, grow the market, and eventually lead to a better profit. But it creates a short-termism mindset.
 
-When the company focuses on growth, it started to hyperfocus on the monetary aspect of the business. Without a strong social value in mind, this can easily tip off the company to create unintended harm. This phenomenon is a problem for many companies. As Shirley Chrisholm generously pointed out, “When morality comes up against profit, it is seldom that profit loses.”
+When the company focuses on growth without a strong social value in mind, this can easily tip off the company to create unintended harm. The company start to hyperfocus on the monetary aspect of the business. This phenomenon is a problem for many companies. As Shirley Chrisholm generously pointed out, “When morality comes up against profit, it is seldom that profit loses.”
 
 We can easily take McDonald’s as an example. Founder Ray Kroc started the franchise with a motto of “Quality, Service, Cleanliness, and Value.” The food arrived quickly, and it was crafted with natural ingredients and care. Over time, efficiency becomes the goal. The food quality started to become less healthy for people.
 
@@ -29,11 +29,15 @@ On a more modern example, Uber used a "gamification" tactic to manipulate its dr
 
 Of course, if 20% of the drivers choose to keep driving, this will be awesome in the company’s financial report. But is it morally okay to utilize people’s bias? I don't think so and it gets more complicated than that. I’ll get back to this question tomorrow.
 
+Both example illustrates how company can focus on the profit and as a result, causing harm for people.
+
 <center class="m-b-s m-t-s">* * *</center>
 
 So, can a designer prevent this unethical practice in the company? To think one person can significantly change the practice in the company is a wishful thinking. But I believe it’s our responsibility to start talking about this, recognizing it, and practice it with our team. At first, we might influence our team and, hopefully over time, influence a larger layer in the company.
 
-But, there is hope. Take TOMS shoes that use the "one-for-one" model. Whenever a customer makes a purchase, a pair is given to a person in need. Even though it caught on many issues, it provides us with a glimpse of how a business can create revenue while soaring its social impact.{% include sup.html n=2 %}
+Talk about it - Notice - Practice - Reduce.
+
+There is hope. Take TOMS shoes that use the "one-for-one" model. Whenever a customer makes a purchase, a pair is given to a person in need. Even though it caught on many issues, it provides us with a glimpse of how a business can create revenue while soaring its social impact.{% include sup.html n=2 %}
 
 The community has been talking about ethics a lot. If we can practice this in our team, this would be a good starting point. Let’s talk about that tomorrow.
 
@@ -46,7 +50,7 @@ The community has been talking about ethics a lot. If we can practice this in ou
 
 
 {% include image.html 
-src="https://buditanrim.co/img/post/2021/07/ethic-design-profit.jpg" 
-alt="ethic-design-profit" 
+src="https://buditanrim.co/img/post/2021/07/ethic-design-for-people.jpg" 
+alt="ethic-design-for-people" 
 caption=" "
 class="illustration small m-t-s m-b-s" %}

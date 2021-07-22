@@ -3,7 +3,7 @@ layout: post
 title: "Ethical Design: Layer of consequences"
 punchline: true
 description: "Minimizing the unintended consequences of your product."
-date: 2021-07-19 06:32:00 +0700
+date: 2021-07-19 08:32:00 +0700
 categories: ethics
 tags: ethics
 author: "Budi Tanrim"
@@ -19,7 +19,7 @@ twitter-seo:
 
 A car used to be an innovative solution. But now? It creates an emission problem.
 
-In 1886, Carl Benz applied for a patent for his “vehicle powered by a gas engine.” This patent was the birth of the modern car. I don’t think Benz woke up one day and thought, "What a great day to invent the machine to harm our planet."" 
+In 1886, Carl Benz applied for a patent for his vehicle powered by a gas engine. This patent was the birth of the modern car. I don’t think Benz woke up one day and thought, "What a great day to invent the machine to harm our planet."
 
 That is an example of unintended consequences. It can create harm for our society and planet. Even though it’s unintended, it doesn’t mean it’s justified.
 
@@ -36,7 +36,7 @@ The idea is to use this framework as a reflection tool whenever we think of a so
 The consequences can be positive or negative.
 
 {% include image.html 
-src="/img/post/2021/07/ethic-layer-consequence.jpg" 
+src="https://buditanrim.co/img/post/2021/07/ethic-layer-consequence.jpg" 
 alt="ethic-layer-consequence" 
 caption=" "
 class="illustration large m-t-s m-b-s" %}

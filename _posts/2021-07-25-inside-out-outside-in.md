@@ -2,7 +2,7 @@
 layout: post
 title: "Inside out or outside in?"
 punchline: true
-description: "Is that framework bullshit or you use a wrong mindset?"
+description: "Is that framework bullshit?"
 date: 2021-07-25 07:32:00 +0700
 categories: method
 tags: method

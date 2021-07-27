@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Bio
-description: Budi Tanrim's personal blog about design.
+description: Budi Tanrim's blog on problem solving, design practice, and mindset.
 id: about
 
 image:

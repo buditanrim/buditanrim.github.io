@@ -1,7 +1,7 @@
 ---
 layout: post-index
 title: Budi Tanrim
-description: Head of Design at Bukalapak and human-centered practitioner
+description: Budi Tanrim's blog on problem solving, design practice, and mindset.
 id: index
 
 image:

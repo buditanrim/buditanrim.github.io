@@ -27,7 +27,7 @@ I had to put a white noise playlist so I can sleep—to distract my brain from t
 
 That was an eye-opening experience. I had two takeaways from it.
 
-One, we're all navigating this world so differently. Some have mental health issues, visual impairment, hearing impairment, or other disabilities. I hope we all, no matter what our job, can contribute to empowere everyone with their unique conditions to navigate this world a little better. Maybe in our current or the future job. 
+One, we're all navigating this world so differently. Some have mental health issues, visual impairment, hearing impairment, or other disabilities. No matter what our job is, I hope we all can contribute to empower everyone with their unique conditions to navigate this world a little better. Maybe in our current or the future job.
 
 Design is about extending human capabilities in their environment, after all.
 
@@ -35,6 +35,6 @@ The second takeaway is more on the personal level. We take many things for grant
 
 ---
 
-**50 million people with tinnitus:** WHO estimates that 50 million people in U.S. alone experience tinnitus. See the [2018 HLAA report: Hearing Loss Facts and Statistics](https://www.hearingloss.org/wp-content/uploads/HLAA_HearingLoss_Facts_Statistics.pdf?pdf=FactStats). Tinnitus is a buzzing sound that come from our head or brain. Known as a phantom sound. 
+**50 million people with tinnitus:** WHO estimates that 50 million people in U.S. alone experience tinnitus. See the [2018 HLAA report: Hearing Loss Facts and Statistics](https://www.hearingloss.org/wp-content/uploads/HLAA_HearingLoss_Facts_Statistics.pdf?pdf=FactStats). Tinnitus is a buzzing sound that comes from our head or brain—known as a phantom sound. 
 {:.footnotes-list}
 

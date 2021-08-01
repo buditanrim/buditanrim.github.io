@@ -21,7 +21,7 @@ Silence can be dull and gives you a lonely feeling.
 
 But 25 million people with tinnitus* would hope to hear silence—a void with no sound—for a moment.
 
-I experienced tinnitus yesterday. I heard a cicada-like sound from a distance. I tried to turn off all the electric appliances. My wife said she couldn't hear any noises as I described. The moment I put on my noise-cancellation headphone, I knew the noise came from my head.
+I experienced tinnitus yesterday. I heard a cicada-like sound from a distance. I tried to turn off all the electric appliances. My wife said she couldn't hear any noises I described. The moment I put on my noise-cancellation headphone, I knew the noise came from my head.
 
 I had to put a white noise playlist so I can sleep—to distract my brain from the cicada-like sound.
 

@@ -3,7 +3,7 @@ layout: post
 title: "A quick update and what's next"
 punchline: true
 description: "The ringing sound on my head was horrible last week."
-date: 2021-08-01 07:32:00 +0700
+date: 2021-08-09 07:32:00 +0700
 categories: update
 tags: update
 author: "Budi Tanrim"

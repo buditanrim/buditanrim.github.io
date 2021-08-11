@@ -146,23 +146,6 @@
 		font-size: var(--t--size-06);
 		line-height: var(--t--leading-e-06);
 	}
-	@media (max-width: 880px) {
-		[class*="t--big-title-02"] {
-			font-size: var(--t--size-08);
-			line-height: var(--t--leading-e-08);
-		}
-		[class*="t--big-title-01"] {
-			font-size: var(--t--size-08);
-			line-height: var(--t--leading-e-08);
-		}
-		[class*="t--title-01"],
-		[class*="t--title-02"] {
-			font-size: var(--t--size-07);
-			line-height: var(--t--leading-e-07);
-		}
-	}
-	
-
 // Headings
 	h5 {
 		font-size: var(--t--size-04);
@@ -197,6 +180,19 @@
 		line-height: var(--t--leading-e-08);
 	}
 	@media (max-width: 880px) {
+		[class*="t--big-title-02"] {
+			font-size: var(--t--size-08);
+			line-height: var(--t--leading-e-08);
+		}
+		[class*="t--big-title-01"] {
+			font-size: var(--t--size-08);
+			line-height: var(--t--leading-e-08);
+		}
+		[class*="t--title-01"],
+		[class*="t--title-02"] {
+			font-size: var(--t--size-07);
+			line-height: var(--t--leading-e-07);
+		}
 		[class*="t--heading-03"] {
 			font-size: var(--t--size-06);
 			line-height: var(--t--leading-e-06);

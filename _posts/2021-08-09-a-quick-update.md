@@ -35,6 +35,6 @@ I'm excited about this.
 
 {% include image.html 
 src="https://buditanrim.co/img/post/2021/08/august-update.jpg" 
-alt="improving-interface-design" 
+alt="august-update-finn-adventure-time" 
 caption=" "
 class="illustration small m-t-s m-b-s" %}

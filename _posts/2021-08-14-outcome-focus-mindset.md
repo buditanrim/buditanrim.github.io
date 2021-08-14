@@ -21,7 +21,7 @@ twitter-seo:
 
 **A more seasoned one focuses on problems.** They will not stop on the symptom if they observe that a student is not motivated to learn. They ask why and continually reframe the problem. Perhaps, the student is not motivated because they don't know what is their interest are.
 
-**An experienced product designer focuses on problems and outcomes.** The next level is the one who asks, "If we solve that problem, what's the outcome we want to see?" Suppose the student doesn't know their interest. Do we want them to have a system for reflection, or do we want them to have a variety of activities so they can do a trial and error?
+**An expert product designer focuses on problems and outcomes.** The next level is the one who asks, "If we solve that problem, what's the outcome we want to see?" Suppose the student doesn't know their interest. Do we want them to have a system for reflection, or do we want them to have a variety of activities so they can do a trial and error?
 
 Most importantly, they ask, "Why is that outcome the one we want? What is the backup datapoint or signal that letting us know this is the right one?"
 

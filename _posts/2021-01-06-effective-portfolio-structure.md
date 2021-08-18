@@ -28,7 +28,7 @@ Throughout that process, I only think about one question: *Can I imagine this ca
 So, what makes me interested? A portfolio.
 
 >  A portfolio is a concise story about your project.
-{: .quote-large }
+{: .quote-medium }
 ---
 
 ### What do I mean by portfolio?

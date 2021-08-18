@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We see what we want to see."
+title: "We see what we want to see"
 punchline: true
 description: "When we have a belief, we like to confirm that belief because it gives us the illusion of control. This is known as confirmation bias. Our brain is twice as likely to notice fonriming information than it is to notice disconfirming information."
 date: 2021-08-18 11:55:00 +0700

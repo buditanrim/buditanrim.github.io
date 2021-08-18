@@ -3,7 +3,7 @@ layout: post
 title: "We see what we want to see."
 punchline: true
 description: "When we have a belief, we like to confirm that belief because it gives us the illusion of control. This is known as confirmation bias. Our brain is twice as likely to notice fonriming information than it is to notice disconfirming information."
-date: 2021-08-18 11:50:00 +0700
+date: 2021-08-18 11:55:00 +0700
 categories: bias
 tags: bias
 author: "Budi Tanrim"
@@ -27,6 +27,8 @@ This confirmation bias can lead to a bad decision. Some example scenarios:
 - You draw a conclusion from a vanity metric. Because the bounce rate is right, you believe that the page need to be redesigned.
 - You only listen to the users you agree with
 - You stop the A/B testing as soon as you get the result you want
+
+---
 
 #### Something to practice
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Ethical Design: Harms of our work"
 punchline: true
-description: "Does stealing morally wrong?"
+description: "Is stealing morally wrong?"
 date: 2021-07-13 14:00:00 +0700
 categories: ethics
 tags: ethics

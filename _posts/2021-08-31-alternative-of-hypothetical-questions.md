@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/story-based-questions.jpg"
 ---
 
-Do you like enjoy exercise and stay healthy?
+Do you enjoy exercise and stay healthy?
 
 How often do you go to the gym?
 

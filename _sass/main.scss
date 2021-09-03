@@ -240,16 +240,18 @@ hr.airy {
 		height: auto;
 		border-bottom: none;
 		vertical-align: middle;
+		opacity: 0.7;
 
 		&:last-child {
 			margin-right: 0;
 		}
 		&:hover {
 			background: none;
+			opacity: 0.95;
 		}
 	}
-	a.social-share.twitter { width: 24px; padding-top: 2px; }
-	a.social-share.facebook { width: 22px; }
+	a.social-share.twitter { width: 24px; }
+	a.social-share.facebook { width: 22px; margin-top: -4px; }
 	a.social-share.whatsapp { width: 23px; }
 	a.social-share.telegram { width: 24px; }
 	.social-text {

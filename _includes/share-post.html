@@ -1,9 +1,25 @@
 <div class="social-share-wrapper">	
+    <!-- Sharingbutton Twitter -->
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter" class="social-share twitter ga-twitter-blog-post">
     	<img src="/img/SVG/twitter.svg" alt="share on Twitter">
     </a>
+    
+    <!-- Sharingbutton Facebook -->
     <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook" class="social-share facebook ga-facebook-blog-post">
     	<img src="/img/SVG/facebook.svg" alt="share on Facebook">
     </a>
 
+    <!-- Sharingbutton Telegram -->
+    <a href="https://telegram.me/share/url?text={{ page.title }}&amp;url={{ site.url }}{{ page.url }}" target="_blank" rel="noopener" aria-label="Share on Telegram" class="social-share telegram">
+        <img src="/img/SVG/telegram.svg" alt="share on Telegram">
+    </a>
+
+    <!-- Sharingbutton WhatsApp -->
+    <a href="https://api.whatsapp.com/send?text={{ page.title }}%20{{ site.url }}{{ page.url }}" data-action="share/whatsapp/share" rel="noopener" target="_blank" title="Share on WhatsApp" aria-label="Share on WhatsApp" class="social-share whatsapp">
+        <img src="/img/SVG/whatsapp.svg" alt="share on WhatsApp">
+    </a>   
+
+
 </div>
+
+

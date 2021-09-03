@@ -235,7 +235,7 @@ hr.airy {
 	}
 	.social-share {
 		display: inline-block;
-		margin-right: 12px;
+		margin-right: 16px;
 		width: 24px;
 		height: auto;
 		border-bottom: none;
@@ -248,10 +248,12 @@ hr.airy {
 			background: none;
 		}
 	}
-	a.social-share.twitter { width: 24px; padding-top: 1px; }
+	a.social-share.twitter { width: 24px; padding-top: 2px; }
 	a.social-share.facebook { width: 22px; }
+	a.social-share.whatsapp { width: 23px; }
+	a.social-share.telegram { width: 24px; }
 	.social-text {
-		margin-right: 4px;
+		margin-right: 8px;
 	}
 }
 

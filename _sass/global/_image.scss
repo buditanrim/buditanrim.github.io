@@ -1,6 +1,9 @@
+.post-inner--body img {
+	mix-blend-mode: multiply;
+}
+
 img {
 	max-width: 100%;
-	mix-blend-mode: multiply;
 }
 
 .img-wrapper {

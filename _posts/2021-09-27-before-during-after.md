@@ -9,16 +9,18 @@ tags: interface
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/before-during-after.jpg
+ path: /img/seo/buditanrim-seo-02.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/before-during-after.jpg"
+ - "seo/buditanrim-seo-02.jpg"
 ---
 
 Where do the users come from before they get here?
+
 What information should we provide here?
+
 What should happen after that?
 
 Don't forget to consider where the users come from and where they would go next. You should think and incorporate them into the interface decisions.

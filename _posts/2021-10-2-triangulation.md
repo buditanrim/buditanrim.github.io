@@ -17,11 +17,11 @@ twitter-seo:
  - "seo/buditanrim-seo-03.jpg"
 ---
 
-A researcher just talked to three users and came back with an insight. Assuming there is no misconduct, should the team listen to it?
+A researcher just talked to three users and came back with an insight. Should the team listen to it?
 
-The research finding is an interpretation of reality. 
+Here's the thing. The research finding is an interpretation of reality. 
 
-Here's the thing. The research finding is essential in design, but it does not tell you the whole reality. It's simply an interpretation based on the source we see. We would never fully understand the complete reality because we only observed or experienced a portion of the reality. Therefore, we have blind spots.
+The research finding is essential in design, but it does not tell you the whole reality. It's simply an interpretation based on the source we see. We would never fully understand the complete reality because we only observed or experienced a portion of the reality. Therefore, we have blind spots.
 
 To combat the blind spots, we can triangulate multiple sources of data.
 

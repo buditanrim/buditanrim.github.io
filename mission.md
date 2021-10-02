@@ -18,7 +18,7 @@ I want to wake up every morning knowing the future is getting better. To do that
 
 My current focus as a professional is now in the education field. I believe that improving the education system can generate better future leaders to impact this world positively.
 
-But I can’t do this alone—I believe in the collective effort. This is precisely why I grow a community of problem solvers—to solve a complex social problem at a larger scale through my [blog](https://buditanrim.co) and [newsletter](https://buditanrim.co/newsletter).
+But I can’t do this alone—I believe in the collective effort. This is precisely why I grow a community of problem solvers—to solve a complex social problem at a larger scale through my [blog](https://buditanrim.co), [mentorship program][https://buditanrim.co/mentorship/] and [newsletter](https://buditanrim.co/newsletter).
 
 <img class="tiny mobile-m-t-xs m-t-s" src="/img/asset/buditanrim-signature.jpg" alt="Budi Tanrim"/>
 

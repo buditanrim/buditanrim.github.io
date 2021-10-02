@@ -19,7 +19,7 @@ twitter-seo:
 
 A researcher just talked to three users and came back with an insight. Should the team listen to it?
 
-Here's the thing. The research finding is an interpretation of reality. 
+Here's the thing. We see [incomplete reality][1]. The research finding is an interpretation of portion of reality. 
 
 The research finding is essential in design, but it does not tell you the whole reality. It's simply an interpretation based on the source we see. We would never fully understand the complete reality because we only observed or experienced a portion of the reality. Therefore, we have blind spots.
 
@@ -34,3 +34,5 @@ Should you listen to the insights based on the three users?
 Well, you could. But you should be aware that only gives you a portion of the reality. With the limitation and constraints you have, it might be the best option you have. 
 
 Triangulate if you could.
+
+[1]: https://buditanrim.co/2021-06-30-incomplete-reality

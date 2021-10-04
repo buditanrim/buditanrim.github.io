@@ -5,7 +5,7 @@ punchline: true
 description: "A researcher just talked to three users and came back with an insight. Should the team listen to it?"
 date: 2021-10-02 14:57:00 +0700
 categories: practice
-tags: practice
+tags: discovery designerly-thinking
 author: "Budi Tanrim"
 
 image:

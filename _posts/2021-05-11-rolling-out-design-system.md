@@ -4,8 +4,8 @@ title: "How to frame the design system rollout"
 punchline: true
 description: "Why should we spend more time to replace components?"
 date: 2021-05-11 19:05:00 +0700
-categories: design-system
-tags: design-system
+categories: design-systems
+tags: design-systems
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "Don't confuse yourself with various terms and technique in the industry. Always focus at your core."
 date: 2021-04-03 07:18:00 +0700
 categories: practice
-tags: practice
+tags: team-practice
 author: "Budi Tanrim"
 
 image:

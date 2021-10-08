@@ -5,7 +5,7 @@ punchline: true
 description: "The microwave you use, the smartphone you interact with. They are not design."
 date: 2020-11-11 08:30:00 +0700
 categories: mindset
-tags: mindset
+tags: rant craft
 author: "Budi Tanrim"
 
 image:

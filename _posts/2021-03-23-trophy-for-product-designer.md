@@ -5,7 +5,7 @@ punchline: true
 description: "Most professional has an ultimate award as a prize for success."
 date: 2021-03-23 07:15:00 +0700
 categories: mindset
-tags: mindset
+tags: rant career
 author: "Budi Tanrim"
 
 image:

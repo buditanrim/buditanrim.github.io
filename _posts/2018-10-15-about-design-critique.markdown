@@ -6,7 +6,7 @@ punchline: true
 subtitle: "How I see critique as a beneficial culture and my experiment with it."
 date: 2018-10-15 +0700
 categories: opinion
-tags: critique, feedback
+tags: feedback
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: ""
 date: 2021-03-27 07:15:00 +0700
 categories: interface
-tags: interface
+tags: joke
 author: "Budi Tanrim"
 
 image:

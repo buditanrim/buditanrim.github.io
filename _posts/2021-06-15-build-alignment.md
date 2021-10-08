@@ -5,7 +5,7 @@ punchline: true
 description: "We often have an idea of why we work on something. But are we?"
 date: 2021-06-15 10:00:00 +0700
 categories: practice
-tags: practice, alignment
+tags: collaboration team-practice
 author: "Budi Tanrim"
 
 image:

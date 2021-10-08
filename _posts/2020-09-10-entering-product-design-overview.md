@@ -4,8 +4,8 @@ title: "Entering product design – Overview"
 punchline: true
 description: "Behind any great product, there's a team behind the scene who endlessly plans and thinks about how to improve the experience for the real customer and achieve value for the business."
 date: 2020-09-10 08:00:00 +0700
-categories: entering product design
-tags: entering product design
+categories: entering-product-design
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "Or should I say, books?"
 date: 2021-02-18 08:30:00 +0700
 categories: update
-tags: update
+tags: blog-update
 author: "Budi Tanrim"
 
 image:

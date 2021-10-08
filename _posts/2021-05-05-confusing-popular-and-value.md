@@ -5,7 +5,7 @@ punchline: true
 description: "Popular doesn't necessarily mean good. Popular is well-known"
 date: 2021-05-05 13:05:00 +0700
 categories: strategy
-tags: strategy
+tags: rant
 author: "Budi Tanrim"
 
 image:

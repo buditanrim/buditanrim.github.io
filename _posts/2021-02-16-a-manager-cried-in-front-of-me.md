@@ -5,7 +5,7 @@ punchline: true
 description: "I panicked. It was the first time someone cried at work."
 date: 2021-02-16 08:30:00 +0700
 categories: story
-tags: story
+tags: personal-story
 author: "Budi Tanrim"
 
 image:

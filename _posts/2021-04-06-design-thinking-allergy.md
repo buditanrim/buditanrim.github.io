@@ -5,7 +5,7 @@ punchline: true
 description: "In a traditionally managed organization, the introduction of design thinking will lead to conflict."
 date: 2021-04-06 18:30:00 +0700
 categories: practice
-tags: practice
+tags: design-thinking
 author: "Budi Tanrim"
 
 image:

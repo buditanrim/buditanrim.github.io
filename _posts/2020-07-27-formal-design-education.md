@@ -5,7 +5,7 @@ punchline: true
 description: "Hi Budi, I don’t have any formal education for design. Is it possible to work as a designer without any degree in Human Computer Interaction? Absolutely possible. In fact, I graduated in accounting. I have no formal education whatsoever."
 date: 2020-07-27 08:00:00 +0700
 categories: career
-tags: career, education, degree
+tags: career
 author: "Budi Tanrim"
 
 image:

@@ -4,8 +4,8 @@ title: "Design systems' area of influence: Identity (1/3)"
 punchline: true
 description: "When I get a team to kick off the design systems. I have a lot of questions. What the team should do? Make components? Make a UI kit? Tell people what color should be used? Make motion guidelines? It can be overwhelming and complex to start about design systems."
 date: 2020-08-03 08:00:00 +0700
-categories: design systems
-tags: design systems
+categories: design-systems
+tags: design-systems
 author: "Budi Tanrim"
 
 image:

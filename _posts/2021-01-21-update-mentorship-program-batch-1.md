@@ -5,7 +5,7 @@ punchline: true
 description: "Announcing the name"
 date: 2021-01-22 10:10:00 +0700
 categories: announcement
-tags: community, mentorship
+tags: blog-update
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "The problem with feature requests is that the team can't pivot even if they found it does not solve customer problems. "
 date: 2020-12-30 08:30:00 +0700
 categories: mindset
-tags: product discovery
+tags: discovery
 author: "Budi Tanrim"
 
 image:

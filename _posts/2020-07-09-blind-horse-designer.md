@@ -5,7 +5,7 @@ punchline: true
 description: "Well, I use that component because there is no other component. My stakeholders said my page have to be colorful, so I did it. I did that because it is what it is."
 date: 2020-07-09 08:00:00 +0700
 categories: mindset
-tags: mindset
+tags: rant design-system
 author: "Budi Tanrim"
 
 image:
@@ -16,6 +16,7 @@ gif: false
 twitter-seo: 
  - "seo/buditanrim-seo-01.jpg"
 ---
+_Update: My view on this topic has changed. Take this with a grain of salt. I disagree with my old-self to use blind horse as the term._{: .t--color-tetriary}
 
 Well, I use that component because that's what available on our design systems.
 

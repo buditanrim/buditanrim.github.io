@@ -5,7 +5,7 @@ punchline: true
 description: " "
 date: 2021-01-11 08:30:00 +0700
 categories: mindset
-tags: mindset
+tags: mental-model rant
 author: "Budi Tanrim"
 
 image:

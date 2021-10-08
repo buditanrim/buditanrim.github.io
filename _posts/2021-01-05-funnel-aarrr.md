@@ -5,7 +5,7 @@ punchline: true
 description: "When your team has a specific business objective, you don't know where to start, and you still want to practice human-centered. You can look at the AARRR funnel as a starting point."
 date: 2021-01-05 09:30:00 +0700
 categories: business design
-tags: funnel, framework, business
+tags: business
 author: "Budi Tanrim"
 
 image:

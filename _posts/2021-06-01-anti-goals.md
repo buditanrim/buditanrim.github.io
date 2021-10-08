@@ -5,7 +5,7 @@ punchline: true
 description: "Using inversion to solve problem from different perspective."
 date: 2021-06-01 10:00:00 +0700
 categories: mindset
-tags: mindset
+tags: framework mental-model
 author: "Budi Tanrim"
 
 image:

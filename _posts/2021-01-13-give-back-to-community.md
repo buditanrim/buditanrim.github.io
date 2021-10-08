@@ -5,7 +5,7 @@ punchline: true
 description: ""
 date: 2021-01-13 08:20:00 +0700
 categories: announcement
-tags: mentorship
+tags: blog-update
 author: "Budi Tanrim"
 
 image:

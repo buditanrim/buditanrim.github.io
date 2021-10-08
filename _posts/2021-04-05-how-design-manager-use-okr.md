@@ -5,7 +5,7 @@ punchline: true
 description: "Your product team has a target to achieve. Each company uses a different framework for this. The most popular framework is OKR (Objective Key Result)."
 date: 2021-04-05 15:18:00 +0700
 categories: practice
-tags: practice
+tags: strategy
 author: "Budi Tanrim"
 
 image:

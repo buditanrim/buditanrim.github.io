@@ -5,7 +5,7 @@ punchline: true
 description: "We learned how to walk when we were an infant."
 date: 2021-05-03 13:05:00 +0700
 categories: mindset
-tags: mindset
+tags: self-development
 author: "Budi Tanrim"
 
 image:

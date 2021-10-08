@@ -5,7 +5,7 @@ punchline: true
 description: "It's normal to surround yourself with people with a similar mind. There is a reason you love to hang out with your best friend. Maybe you shared a similar background, memories, or beliefs. You already build that common ground for years."
 date: 2020-09-22 07:00:00 +0700
 categories: entering product design
-tags: entering product design
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

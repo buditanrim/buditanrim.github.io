@@ -5,7 +5,7 @@ punchline: true
 description: "Generic questions will trigger generic answers."
 date: 2021-02-18 08:30:00 +0700
 categories: communication
-tags: communication
+tags: communication feedback
 author: "Budi Tanrim"
 
 image:

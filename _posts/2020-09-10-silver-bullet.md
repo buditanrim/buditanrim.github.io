@@ -5,7 +5,7 @@ punchline: true
 description: "As a product designer, you generally will work as a team with an objective to empower the human with technology that will work for the business as well. If you notice, there are 3 important aspects there: human, technology, and business."
 date: 2020-09-10 08:00:00 +0700
 categories: entering product design
-tags: entering product design
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

@@ -6,7 +6,7 @@ description: "How to not lose sight of your direct report."
 subtitle: "How to not lose sight of your direct report."
 date: 2020-05-31 -0400
 categories: leadership
-tags: leadership, managerial
+tags: people
 author: "Budi Tanrim"
 
 image:

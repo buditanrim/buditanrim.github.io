@@ -6,16 +6,17 @@ description: "What does it take to be a good Product Designer?"
 subtitle: "What does it take to be a good Product Designer?"
 
 date:   2018-12-04 +0700
-categories: experience
+categories: Craft
+tags: craft core-skills
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/yellowstroke-seo.jpg
+ path: /img/seo/buditanrim-seo-03.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/yellowstroke-seo.jpg"
+ - "seo/buditanrim-seo-03.jpg"
 ---
 
 Product designers are solving complex problems these days. We're working every day to understand the users, the problems and trying to come up with a solution that we iterate over time. But, what does it take to be a good one?

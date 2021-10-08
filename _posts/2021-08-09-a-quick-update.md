@@ -5,7 +5,7 @@ punchline: true
 description: "The ringing sound on my head was horrible last week."
 date: 2021-08-09 07:32:00 +0700
 categories: update
-tags: update
+tags: blog-update
 author: "Budi Tanrim"
 
 image:

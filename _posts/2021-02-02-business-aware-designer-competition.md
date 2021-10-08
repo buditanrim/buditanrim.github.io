@@ -6,7 +6,7 @@ description: "Position your product among the competition."
 subtitle: "Position your product among the competition."
 date: 2021-02-02 08:30:00 +0700
 categories: business
-tags: competition
+tags: business
 author: "Budi Tanrim"
 
 image:

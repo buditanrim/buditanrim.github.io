@@ -5,7 +5,7 @@ punchline: true
 description: "We're social creatures. We avoid disrupting harmonies in the group."
 date: 2021-09-29 11:57:00 +0700
 categories: practice
-tags: practice
+tags: cognitive-biases
 author: "Budi Tanrim"
 
 image:

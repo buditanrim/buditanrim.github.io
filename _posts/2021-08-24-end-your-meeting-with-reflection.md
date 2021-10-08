@@ -5,7 +5,7 @@ punchline: true
 description: "We complained about bad meetings. But what if we can improve the meeting continuously? End your meeting with a reflection for continuous improvement. "
 date: 2021-08-24 11:55:00 +0700
 categories: meeting
-tags: meeting
+tags: reflective-mindset team-practice
 author: "Budi Tanrim"
 
 image:

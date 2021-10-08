@@ -5,7 +5,7 @@ punchline: true
 description: "Generally speaking, product designers often complain the company is so business-centric in the low UX maturity company. All the projects started because the business team says so."
 date: 2020-09-14 07:00:00 +0700
 categories: entering product design
-tags: entering product design
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

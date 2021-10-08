@@ -5,7 +5,7 @@ punchline: true
 description: "A/B testing. Either design A or design B will come out as a winner. The winner has typically produced better metrics."
 date: 2021-06-21 18:00:00 +0700
 categories: practice
-tags: a/b testing, practice
+tags: product-iteration
 author: "Budi Tanrim"
 
 image:

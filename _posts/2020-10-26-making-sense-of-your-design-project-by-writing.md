@@ -5,7 +5,7 @@ punchline: true
 description: "Do yourself a favor. Write down the story of your project."
 date: 2020-10-26 08:30:00 +0700
 categories: craft
-tags: writing, tips
+tags: reflective-mindset
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "We often protect ourselves from the embarrassment of not knowing."
 date: 2021-05-14 17:00:00 +0700
 categories: mindset
-tags: mindset
+tags: self-development
 author: "Budi Tanrim"
 
 image:

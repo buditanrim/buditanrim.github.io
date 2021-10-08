@@ -5,7 +5,7 @@ punchline: true
 description: "What is the problem? But also, what is the desired outcome?"
 date: 2021-08-14 11:50:00 +0700
 categories: mindset
-tags: mindset
+tags: outcome-focused
 author: "Budi Tanrim"
 
 image:

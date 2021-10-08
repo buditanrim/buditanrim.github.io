@@ -9,12 +9,12 @@ tags: communication
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/buditanrim-seo-01.jpg
+ path: /img/seo/buditanrim-seo-03.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/buditanrim-seo-01.jpg"
+ - "seo/buditanrim-seo-03.jpg"
 ---
 
 You must have heard storytelling is important for our work.

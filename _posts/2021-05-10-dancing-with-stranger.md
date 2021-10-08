@@ -5,7 +5,7 @@ punchline: true
 description: "Do you want to implement the human-centered practice in your team?"
 date: 2021-05-10 19:05:00 +0700
 categories: strategy
-tags: strategy
+tags: designerly-thinking
 author: "Budi Tanrim"
 
 image:

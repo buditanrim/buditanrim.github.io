@@ -6,7 +6,7 @@ description: "Why, How might we, and..."
 subtitle: "Why, How might we, and..."
 date: 2020-02-07 -0400
 categories: mindset
-tags: questions, what if, why, who
+tags: designerly-thinking
 author: "Budi Tanrim"
 
 image:

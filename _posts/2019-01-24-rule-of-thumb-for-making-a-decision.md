@@ -6,7 +6,8 @@ description: "Similarly to coin, each decision has its top and bottom. And the m
 subtitle: "Similarly to coin, each decision has its top and bottom. And the middle."
 
 date:   2019-01-28 +0700
-categories: mindset, experience
+categories: mindset
+tags: designerly-thinking
 author: "Budi Tanrim"
 
 image:

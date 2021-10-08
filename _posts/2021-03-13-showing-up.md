@@ -5,7 +5,7 @@ punchline: true
 description: "Every 5am I wake up and face the blank page"
 date: 2021-03-13 05:17:00 +0700
 categories: mindset
-tags: mindset
+tags: rant self-development
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "Are you prepared?"
 date: 2020-11-06 08:30:00 +0700
 categories: career
-tags: provoking, portfolio
+tags: career portfolio
 author: "Budi Tanrim"
 
 image:

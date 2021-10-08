@@ -4,8 +4,8 @@ title: "Start your week with questions"
 punchline: true
 description: "Happy Monday! Monday is the hardest day of the week, for some people at least. For me, it is another fresh and new starting point to get through the week as effectively as possible."
 date: 2020-07-20 08:00:00 +0700
-categories: management
-tags: questions
+categories: design-practice
+tags: reflective-mindset designerly-thinking
 author: "Budi Tanrim"
 
 image:

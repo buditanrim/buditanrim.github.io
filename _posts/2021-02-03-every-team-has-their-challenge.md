@@ -6,7 +6,7 @@ description: "One takeaway from the community discussion"
 subtitle: "One takeaway from the community discussion"
 date: 2021-02-03 08:30:00 +0700
 categories: community
-tags: community
+tags: rant
 author: "Budi Tanrim"
 
 image:

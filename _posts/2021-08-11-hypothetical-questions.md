@@ -5,7 +5,7 @@ punchline: true
 description: "Do you want a hamburger with low-fat beef?"
 date: 2021-08-11 08:32:00 +0700
 categories: principle
-tags: principle
+tags: designerly-thinking discovery
 author: "Budi Tanrim"
 
 image:

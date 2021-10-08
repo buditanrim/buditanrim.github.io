@@ -5,7 +5,7 @@ punchline: true
 description: "Can you imagine falling 17 times in an hour when walking?"
 date: 2021-06-06 10:00:00 +0700
 categories: mindset
-tags: mindset
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

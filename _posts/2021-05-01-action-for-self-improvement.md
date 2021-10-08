@@ -5,7 +5,7 @@ punchline: true
 description: "Question things, consider the opposite viewpoints, and more"
 date: 2021-05-01 13:05:00 +0700
 categories: mindset
-tags: mindset
+tags: self-development
 author: "Budi Tanrim"
 
 image:

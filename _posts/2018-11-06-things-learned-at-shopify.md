@@ -7,6 +7,7 @@ subtitle: "List of learnings and insights from working at Shopify."
 
 date:   2018-11-06 +0700
 categories: experience
+tags: personal-story
 author: "Budi Tanrim"
 
 image:
@@ -39,7 +40,7 @@ Well, yes, you have to be accountable. Prepare your craft skill, communicate, an
 ### Freelance is a totally different world
 If you come from a freelancer world and want to try out the full-time job. You have to understand that you are entering the whole new world. Let me clarify, it doesn't mean a bad move. But you have to step up on some of the soft skills, like managing people's expectation, how to solicit and to give feedback (which I was lacking on). The takeaway here is to be aware that you're entering a different world and prepare to learn something new.
 
-### Get to know your manager 
+### Get to know your manager
 Learn and understand who is your manager if you're an individual contributor. The report to manager relationship is essential. It's hard to recover once the trust is damaged. I learn this in a hard way, my first manager wasn't a bad manager per se, but we didn't get along and my life was miserable during that time. All of my 1:1s were about me reporting what I did and what I'll do. That's it. Fortunately, I switched to report to the other manager and my life is like day and night compared to before. The takeaway is, build and respect the relationship.
 
 ### Be comfortable with being uncomfortable

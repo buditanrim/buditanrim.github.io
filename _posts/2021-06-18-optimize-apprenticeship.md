@@ -5,7 +5,7 @@ punchline: true
 description: "When we enter the industry early in our career, we come with a naive view."
 date: 2021-06-18 18:00:00 +0700
 categories: mindset
-tags: internship, mindset, apprenticeship
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

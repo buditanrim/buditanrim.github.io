@@ -5,7 +5,7 @@ punchline: true
 description: "We consume an experience when we work. But did we learn anything?"
 date: 2021-09-21 11:55:00 +0700
 categories: growth
-tags: growth
+tags: self-development
 author: "Budi Tanrim"
 
 image:

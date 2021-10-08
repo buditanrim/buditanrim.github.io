@@ -5,7 +5,7 @@ punchline: true
 description: "Maybe?"
 date: 2021-02-15 08:30:00 +0700
 categories: career
-tags: career
+tags: career people
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "Knowing how to frame a question is a necessity."
 date: 2021-07-29 07:32:00 +0700
 categories: mindset
-tags: mindset
+tags: thinking designerly-thinking
 author: "Budi Tanrim"
 
 image:

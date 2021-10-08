@@ -5,7 +5,7 @@ punchline: true
 description: "Our brain is always seek for an explanation."
 date: 2021-04-26 13:30:00 +0700
 categories: mindset
-tags: mindset
+tags: collaboration designerly-thinking
 author: "Budi Tanrim"
 
 image:

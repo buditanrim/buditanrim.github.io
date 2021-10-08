@@ -5,7 +5,7 @@ punchline: true
 description: "Don't ask hypothetical questions. Trigger people's past behaviour, not ideal behaviour."
 date: 2021-08-31 11:55:00 +0700
 categories: research
-tags: research
+tags: discovery
 author: "Budi Tanrim"
 
 image:

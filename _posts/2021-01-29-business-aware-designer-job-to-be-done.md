@@ -6,7 +6,7 @@ description: "Hiring milkshake"
 subtitle: "Hiring milkshake"
 date: 2021-01-29 08:30:00 +0700
 categories: business
-tags: job to be done
+tags: business framework
 author: "Budi Tanrim"
 
 image:

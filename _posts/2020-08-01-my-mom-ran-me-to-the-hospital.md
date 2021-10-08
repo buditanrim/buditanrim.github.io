@@ -4,8 +4,8 @@ title: "My mom ran me to the hospital"
 punchline: true
 description: "In 2011,  I discovered the world of design. That was a good time. I always woke up with a lot of energy, wondered what next learning I will find on the internet. I got so excited to play with the tools, read articles about design, and watched as many tutorials as possible."
 date: 2020-08-01 08:00:00 +0700
-categories: mindset
-tags: mindset, work ethos
+categories: story
+tags: personal-story
 author: "Budi Tanrim"
 
 image:

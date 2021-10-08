@@ -4,8 +4,8 @@ title: "Pulse check: Listen to your team"
 punchline: true
 description: "Working is like a roller coaster ride. There are times when we feel challenged and excited. But, sometimes we feel down and uninspired. While 1on1 helps to check on each other, sometimes I'm curious about some people who don't directly report to me."
 date: 2020-08-13 08:00:00 +0700
-categories: team
-tags: team
+categories: leadership
+tags: leadership
 author: "Budi Tanrim"
 
 image:

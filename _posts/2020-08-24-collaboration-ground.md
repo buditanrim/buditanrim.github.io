@@ -4,8 +4,8 @@ title: "New medium post: Collaboration ground for design systems"
 punchline: true
 description: "How can we encourage people to contribute to design systems? That was a big question we had last year."
 date: 2020-08-24 08:00:00 +0700
-categories: design systems
-tags: design systems
+categories: design-systems
+tags: design-systems
 author: "Budi Tanrim"
 
 image:

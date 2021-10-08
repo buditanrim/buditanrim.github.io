@@ -5,7 +5,7 @@ punchline: true
 description: "When you reflect, you criticize yourself, look for new opportunities, and learn how to be more effective gradually."
 date: 2020-09-30 08:30:00 +0700
 categories: method
-tags: method
+tags: reflective-mindset
 author: "Budi Tanrim"
 
 image:

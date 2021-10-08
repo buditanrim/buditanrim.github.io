@@ -5,7 +5,7 @@ punchline: true
 description: "Principles will be your best friend as a product designer when working on a complex problem."
 date: 2020-09-11 07:00:00 +0700
 categories: entering product design
-tags: entering product design
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

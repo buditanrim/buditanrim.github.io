@@ -5,7 +5,7 @@ punchline: true
 description: "Prepare a relevant insight to the business objective"
 date: 2021-02-09 08:30:00 +0700
 categories: practice
-tags: practice
+tags: human-centered designerly-thinking
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "If you buy LEGO kits, you can only make a specific thing."
 date: 2021-09-14 11:55:00 +0700
 categories: design-system
-tags: design-system
+tags: design-systems
 author: "Budi Tanrim"
 
 image:

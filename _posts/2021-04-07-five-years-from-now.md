@@ -5,7 +5,7 @@ punchline: true
 description: "Day after day. Month after month. We work. We do our routines. Cross out that to-do list."
 date: 2021-04-07 17:30:00 +0700
 categories: mindset
-tags: mindset
+tags: rant reflective-mindset self-development
 author: "Budi Tanrim"
 
 image:

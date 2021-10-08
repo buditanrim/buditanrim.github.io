@@ -5,7 +5,7 @@ punchline: true
 description: "Everyone navigate this world differently."
 date: 2021-08-01 07:32:00 +0700
 categories: accessibility
-tags: accessibility
+tags: universal-design rant blog-update
 author: "Budi Tanrim"
 
 image:

@@ -6,7 +6,7 @@ description: "Avoid endless discussion and get things done with workshops"
 subtitle: "Avoid endless discussion and get things done with workshops"
 date: 2020-02-13 -0400
 categories: craft
-tags: workshops, meetings
+tags: workshop method
 author: "Budi Tanrim"
 
 image:

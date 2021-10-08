@@ -5,7 +5,7 @@ punchline: true
 description: "Of course, it does."
 date: 2021-04-23 13:30:00 +0700
 categories: mindset
-tags: mindset
+tags: rant
 author: "Budi Tanrim"
 
 image:

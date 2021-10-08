@@ -5,7 +5,7 @@ punchline: true
 description: "First, draw some circles."
 date: 2021-03-07 07:18:00 +0700
 categories: mindset
-tags: mindset
+tags: rant
 author: "Budi Tanrim"
 
 image:

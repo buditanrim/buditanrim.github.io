@@ -5,7 +5,7 @@ punchline: true
 description: "Have you ever wonder what area to improve as a product designer? I want to introduce the key skill areas of what makes a product designer. It consists of five areas: Creative mindset, framework thinking, craftsmanship, collaboration, communication."
 date: 2020-09-17 07:00:00 +0700
 categories: entering product design
-tags: entering product design
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

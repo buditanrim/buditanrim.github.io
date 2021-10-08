@@ -4,8 +4,8 @@ title: "Design systems' area of influence: Service (3/3)"
 punchline: true
 description: "After system users start to use the offering, new challenges and tension will occur. The design systems team will soon realize they need to help system users how to report issues, support the team when there is new need or question, and maintain the system."
 date: 2020-08-10 08:00:00 +0700
-categories: design systems
-tags: design systems
+categories: design-systems
+tags: design-systems
 author: "Budi Tanrim"
 
 image:

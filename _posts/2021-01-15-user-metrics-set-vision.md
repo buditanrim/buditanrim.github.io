@@ -5,7 +5,7 @@ punchline: true
 description: "Do you feel like your team track meaningless metrics?"
 date: 2021-01-15 08:30:00 +0700
 categories: strategy
-tags: strategy, framework
+tags: discovery framework
 author: "Budi Tanrim"
 
 image:

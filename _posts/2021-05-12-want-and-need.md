@@ -5,7 +5,7 @@ punchline: true
 description: "People normally express what they want. But is it really what they need?"
 date: 2021-05-12 17:00:00 +0700
 categories: mindset
-tags: mindset
+tags: discovery
 author: "Budi Tanrim"
 
 image:

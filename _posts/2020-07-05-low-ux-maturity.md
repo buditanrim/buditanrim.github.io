@@ -4,8 +4,8 @@ title: "Low UX maturity company"
 punchline: true
 description: "Everyone talks about feature, feature, or money."
 date: 2020-07-05 -0400
-categories: mindset, career
-tags: mindset
+categories: organization
+tags: human-centered
 author: "Budi Tanrim"
 
 image:

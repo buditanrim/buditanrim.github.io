@@ -5,7 +5,7 @@ punchline: true
 description: "Move from discussing the solution to the outcome."
 date: 2021-02-08 09:30:00 +0700
 categories: practice
-tags: practice
+tags: human-centered designerly-thinking
 author: "Budi Tanrim"
 
 image:

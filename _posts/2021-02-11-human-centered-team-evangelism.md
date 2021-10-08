@@ -6,7 +6,7 @@ description: "Influence the execs by evangelizing the business outcome."
 subtitle: "Influence the execs by evangelizing the business outcome."
 date: 2021-02-11 08:00:00 +0700
 categories: practice
-tags: practice
+tags: human-centered designerly-thinking
 author: "Budi Tanrim"
 
 image:

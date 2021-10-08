@@ -5,7 +5,7 @@ punchline: true
 description: "Early in our career, we go through this apprenticeship phase."
 date: 2021-05-25 17:00:00 +0700
 categories: mindset
-tags: mindset
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

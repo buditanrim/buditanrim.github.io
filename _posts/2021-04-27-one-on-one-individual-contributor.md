@@ -5,7 +5,7 @@ punchline: true
 description: "What should you do in one-on-one session?"
 date: 2021-04-27 13:30:00 +0700
 categories: management
-tags: management
+tags: people
 author: "Budi Tanrim"
 
 image:

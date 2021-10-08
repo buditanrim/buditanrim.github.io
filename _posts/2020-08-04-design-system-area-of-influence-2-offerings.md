@@ -4,8 +4,8 @@ title: "Design systems' area of influence: Offering (2/3)"
 punchline: true
 description: "Imagine when a developer wants to compose a page, it will take a lot of time to rebuild everything from scratch. Not to mention the time needed to test the page to avoid bugs. Having a code library where the developer can reuse the same components over and over will increase efficiency in product development greatly. This can actually be one of the important strategies for a company."
 date: 2020-08-04 08:00:00 +0700
-categories: design systems
-tags: design systems
+categories: design-systems
+tags: design-systems
 author: "Budi Tanrim"
 
 image:

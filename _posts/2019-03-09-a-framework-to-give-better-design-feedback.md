@@ -6,7 +6,7 @@ description: "A simple framework to give constructive design feedback."
 subtitle: "A simple framework to give constructive design feedback."
 date: 2019-03-09 -0400
 categories: craft
-tags: feedback, discussion, framework
+tags: feedback framework
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "Morning and evening reflections"
 date: 2021-07-06 10:00:00 +0700
 categories: practice
-tags: practice
+tags: reflective-mindset
 author: "Budi Tanrim"
 
 image:

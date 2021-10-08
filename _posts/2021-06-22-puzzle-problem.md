@@ -5,7 +5,7 @@ punchline: true
 description: "A puzzle is complex, but it's not hard."
 date: 2021-06-22 19:00:00 +0700
 categories: practice
-tags: practice
+tags: designerly-thinking
 author: "Budi Tanrim"
 
 image:

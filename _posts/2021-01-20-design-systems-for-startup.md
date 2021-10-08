@@ -5,7 +5,7 @@ punchline: true
 description: "Maybe?"
 date: 2021-01-20 08:10:00 +0700
 categories: craft
-tags: design systems
+tags: design-systems
 author: "Budi Tanrim"
 
 image:

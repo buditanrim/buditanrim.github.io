@@ -5,7 +5,7 @@ punchline: true
 description: ""
 date: 2021-01-21 08:10:00 +0700
 categories: life
-tags: doubt, impostor syndrome
+tags: self-doubt
 author: "Budi Tanrim"
 
 image:

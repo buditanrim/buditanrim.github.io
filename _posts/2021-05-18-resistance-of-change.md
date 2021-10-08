@@ -5,7 +5,7 @@ punchline: true
 description: "When you make a new product, you propose a change"
 date: 2021-05-18 17:00:00 +0700
 categories: mindset
-tags: mindset
+tags: product-thinking
 author: "Budi Tanrim"
 
 image:

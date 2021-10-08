@@ -5,7 +5,7 @@ punchline: true
 description: "Our viewpoint is always incomplete or inaccurate."
 date: 2021-05-26 17:00:00 +0700
 categories: mindset
-tags: mindset
+tags: lifelong-learner
 author: "Budi Tanrim"
 
 image:

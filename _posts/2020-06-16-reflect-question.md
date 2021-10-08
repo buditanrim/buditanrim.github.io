@@ -6,7 +6,7 @@ description: "Sometimes, we need to take a pause and reflect to grow"
 subtitle: "Sometimes, we need to take a pause and reflect to grow"
 date: 2020-06-17 -0400
 categories: mindset, career
-tags: mindset
+tags: growth-mindset apprenticeship
 author: "Budi Tanrim"
 
 image:

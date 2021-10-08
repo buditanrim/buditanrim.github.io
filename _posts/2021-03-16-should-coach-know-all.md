@@ -5,7 +5,7 @@ punchline: true
 description: "Coaching is a generous act. But, what if you don't always have the answers?"
 date: 2021-03-16 07:17:00 +0700
 categories: coach
-tags: coach
+tags: people
 author: "Budi Tanrim"
 
 image:

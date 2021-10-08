@@ -5,7 +5,7 @@ punchline: true
 description: "Hi Budi, can you share tips on how to measure an impact in a project?"
 date: 2021-03-10 07:18:00 +0700
 categories: reader
-tags: reader
+tags: outcome-focused discovery reader-questions
 author: "Budi Tanrim"
 
 image:

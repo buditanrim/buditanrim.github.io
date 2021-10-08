@@ -5,7 +5,7 @@ punchline: true
 description: "The thing about self-doubt is it's often seen as a negative concept. When I have self-doubt, it's really annoying."
 date: 2020-11-24 03:30:00 +0700
 categories: mindset
-tags: self-doubt
+tags: self-doubt 
 author: "Budi Tanrim"
 
 image:

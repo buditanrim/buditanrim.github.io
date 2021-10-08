@@ -5,7 +5,7 @@ punchline: true
 description: "Hi Budi, was curious how you deal with disappointing news at work?"
 date: 2021-03-11 07:18:00 +0700
 categories: reader
-tags: reader
+tags: career reader-questions
 author: "Budi Tanrim"
 
 image:

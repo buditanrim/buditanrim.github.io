@@ -5,7 +5,7 @@ punchline: true
 description: "When you enter the industry or when you take a bigger role. You’re learning. You are in the apprenticeship phase."
 date: 2021-06-19 18:00:00 +0700
 categories: mindset
-tags: internship, mindset, apprenticeship
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

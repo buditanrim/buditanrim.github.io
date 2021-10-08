@@ -5,7 +5,7 @@ punchline: true
 description: "After you have a problem, don't jump into thinking what's the solution right away. Ask yourself and your team: Knowing the problem we have, what's our intent? What is the outcome we are hoping to achieve?"
 date: 2020-08-27 08:00:00 +0700
 categories: mindset
-tags: mindset, design thinking
+tags: designerly-thinking outcome-focused
 author: "Budi Tanrim"
 
 image:

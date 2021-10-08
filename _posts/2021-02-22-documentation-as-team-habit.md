@@ -5,7 +5,7 @@ punchline: true
 description: ""
 date: 2021-02-22 08:30:00 +0700
 categories: documentation
-tags: documentation
+tags: team-practice
 author: "Budi Tanrim"
 
 image:

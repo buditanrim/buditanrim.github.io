@@ -5,7 +5,7 @@ punchline: true
 description: "When I tried to look for inspiration and hope it will come as the rescue, but instead, I felt overwhelmed."
 date: 2020-07-14 08:00:00 +0700
 categories: craft
-tags: craft, inspiration
+tags: rant
 author: "Budi Tanrim"
 
 image:

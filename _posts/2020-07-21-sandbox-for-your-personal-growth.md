@@ -5,7 +5,7 @@ punchline: true
 description: "If you're lucky, you might find a good mentor in your current company. But, if I don't have one, what should I do to keep myself growing?"
 date: 2020-07-21 08:00:00 +0700
 categories: growth
-tags: personal development, growth
+tags: growth-mindset
 author: "Budi Tanrim"
 
 image:

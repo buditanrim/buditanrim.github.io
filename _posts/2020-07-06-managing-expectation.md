@@ -5,8 +5,8 @@ punchline: true
 description: "Be proactive."
 subtitle: "Be proactive."
 date: 2020-07-06 09:00:00 +0700
-categories: mindset, career
-tags: mindset
+categories: mindset career
+tags: self-management rant
 author: "Budi Tanrim"
 
 image:
@@ -26,7 +26,7 @@ Tell us if you need more time.
 
 Don't make us ask.
 
-If you mentioned this Thursday we will have a meeting to talk about the outcome of the project, make sure you make it. The level of trust between you with your teammate is essential. If you give an expectation but can't meet that. You should communicate, no matter what.
+If you planned to have a meeting with your team to talk about the outcome of the project, make sure you make it. The level of trust between you with your teammate is essential. If you give an expectation but can't meet that. You should communicate, no matter what.
 
 Hiding and being quite is not gonna help.
 

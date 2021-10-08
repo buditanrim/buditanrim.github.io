@@ -4,7 +4,7 @@ title: "Evolving Product Experience Principles at Bukalapak"
 description: "Re-fresh our foundation to create the cohesive product experience"
 date: 2019-04-23 -0400
 categories: craft
-tags: principles, philosophy, collaboration
+tags: principles
 author: "Budi Tanrim"
 
 image:

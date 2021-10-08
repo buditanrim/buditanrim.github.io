@@ -5,7 +5,7 @@ punchline: true
 description: "When I was a freelancer, the workflow was simple. The client gave me a brief and I executed it. That worked. However, I realized I can't work like that anymore as I transition to my in-house career."
 date: 2020-09-21 07:00:00 +0700
 categories: entering product design
-tags: entering product design
+tags: apprenticeship collaboration
 author: "Budi Tanrim"
 
 image:
@@ -45,7 +45,7 @@ I’d always encourage the designer to sit together in front of the whiteboard a
 
 Try this, invite an engineer if you want to explore corner cases. Spend ten minutes and you'll blown away by how many corner cases or logic she will bring to you.
 
-### Question for you: 
+### Question for you:
 - Which part of your work that you can invite others to give perspective and lead to a better decision?
 - Who would be the best person to give that perspective?
 - Are you a soloist or a collaborator?

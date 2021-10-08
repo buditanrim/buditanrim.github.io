@@ -5,7 +5,7 @@ punchline: true
 description: "Measure metrics that matter"
 date: 2021-01-14 08:30:00 +0700
 categories: strategy
-tags: strategy, framework
+tags: discovery framework
 author: "Budi Tanrim"
 
 image:

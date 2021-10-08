@@ -6,7 +6,7 @@ description: "Are we really busy? Or our mind is too disorganized?"
 subtitle: "Are we really busy? Or our mind is too disorganized?"
 date: 2020-05-26 -0400
 categories: mindset
-tags: leadership, calm, meditation
+tags: leadership
 author: "Budi Tanrim"
 
 image:

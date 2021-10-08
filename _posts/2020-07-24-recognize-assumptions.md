@@ -4,8 +4,8 @@ title: "Recognize assumptions"
 punchline: true
 description: "There was one point in my career that I feel clueless. I felt like everyone in my team is having opposing opinions and I am confused about which one should I listen to. Which lead me to paralysis and unable to make decisions."
 date: 2020-07-24 08:00:00 +0700
-categories: mindset
-tags: assumption, design thinking
+categories: design-practice
+tags: designerly-thinking
 author: "Budi Tanrim"
 
 image:

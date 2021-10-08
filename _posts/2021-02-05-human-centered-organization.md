@@ -6,7 +6,7 @@ description: "Ugh, our team constantly get a top-down request"
 subtitle: "Ugh, our team constantly get a top-down request"
 date: 2021-02-05 08:30:00 +0700
 categories: practice
-tags: practice
+tags: human-centered designerly-thinking
 author: "Budi Tanrim"
 
 image:

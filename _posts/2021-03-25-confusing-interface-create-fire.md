@@ -5,7 +5,7 @@ punchline: true
 description: "Fire that cost over €1 billion."
 date: 2021-03-25 07:15:00 +0700
 categories: interface
-tags: interface
+tags: interface ethical-design
 author: "Budi Tanrim"
 
 image:

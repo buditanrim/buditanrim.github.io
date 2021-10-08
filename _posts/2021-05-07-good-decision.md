@@ -5,7 +5,7 @@ punchline: true
 description: "How could we make a good decision? Do we need a high IQ in order to be a good decision maker?"
 date: 2021-05-07 19:05:00 +0700
 categories: strategy
-tags: strategy
+tags: decision-making
 author: "Budi Tanrim"
 
 image:

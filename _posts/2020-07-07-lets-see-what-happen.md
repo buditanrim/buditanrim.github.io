@@ -5,7 +5,7 @@ punchline: true
 description: "I hate this word: Why don't we try and see what happens? After you try it, you will see something happen, for sure. But that's not quite useful. Because, then what? How do we know if that works?"
 date: 2020-07-07 09:00:00 +0700
 categories: mindset
-tags: mindset
+tags: rant
 author: "Budi Tanrim"
 
 image:

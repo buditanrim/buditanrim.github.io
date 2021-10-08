@@ -5,7 +5,7 @@ punchline: true
 description: "Making an icon is doable. But why put an icon instead of a plain text?"
 date: 2020-09-23 07:00:00 +0700
 categories: entering product design
-tags: entering product design
+tags: apprenticeship
 author: "Budi Tanrim"
 
 image:

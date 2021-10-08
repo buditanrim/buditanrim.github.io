@@ -5,7 +5,7 @@ punchline: true
 description: "Converting your vision into user metrics."
 date: 2021-01-17 08:20:00 +0700
 categories: strategy
-tags: strategy, framework
+tags: discovery framework
 author: "Budi Tanrim"
 
 image:

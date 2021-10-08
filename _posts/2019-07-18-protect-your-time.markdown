@@ -7,18 +7,19 @@ punchline: true
 subtitle: "Time is precious, so protect it and be picky about meetings"
 date:   2019-07-18 +0700
 categories: leadership
+tags: self-management
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/yellowstroke-seo.jpg
+ path: /img/seo/buditanrim-seo-03.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/yellowstroke-seo.jpg"
+ - "seo/buditanrim-seo-03.jpg"
 ---
 
-No matter where you work; big company, startup company, or self-employed. I think we're all agree that time is such a precious and important aspect of ours.
+No matter where you work, I think we're all agree that time is such a precious and important aspect of ours.
 
 However, very often people hesitance to say no to a meeting invitation. Before they knew it, their calendar gets cramped and complained about how they don't have enough time to either do the work or think. 
 

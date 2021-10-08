@@ -5,7 +5,7 @@ punchline: true
 description: "Now, what about customer requests? We're customer-centric. Shouldn't we listen to the customer?"
 date: 2021-01-03 02:30:00 +0700
 categories: mindset
-tags: product discovery
+tags: discovery
 author: "Budi Tanrim"
 
 image:

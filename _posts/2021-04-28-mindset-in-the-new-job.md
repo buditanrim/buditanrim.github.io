@@ -5,7 +5,7 @@ punchline: true
 description: "What mindset should you hold when starting a new job?"
 date: 2021-04-28 18:05:00 +0700
 categories: mindset
-tags: mindset
+tags: career apprenticeship
 author: "Budi Tanrim"
 
 image:

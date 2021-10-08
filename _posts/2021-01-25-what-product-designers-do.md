@@ -5,7 +5,7 @@ punchline: true
 description: "It's a wrong question. The more appropriate question is, what does the product team do?"
 date: 2021-01-25 06:30:00 +0700
 categories: mindset
-tags: value exchange
+tags: craft
 author: "Budi Tanrim"
 
 image:

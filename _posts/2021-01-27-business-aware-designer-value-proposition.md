@@ -5,7 +5,7 @@ punchline: true
 description: "Value proposition as an aligment tool"
 date: 2021-01-27 08:30:00 +0700
 categories: business
-tags: value proposition
+tags: business
 author: "Budi Tanrim"
 
 image:

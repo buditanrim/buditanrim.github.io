@@ -5,7 +5,7 @@ punchline: true
 description: "Nike makes shoes for individuals who enjoy sports. IKEA makes furniture for millenials seeking for cost effective. Shopify makes commerce ecosystem for someone seeking for independence."
 date: 2020-07-10 08:00:00 +0700
 categories: mindset
-tags: mindset
+tags: rant discovery
 author: "Budi Tanrim"
 
 image:

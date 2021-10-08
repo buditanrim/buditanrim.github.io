@@ -7,6 +7,7 @@ subtitle: "I am joining a new team!"
 
 date:   2018-11-16 +0700
 categories: life
+tags: personal-story
 author: "Budi Tanrim"
 
 image:

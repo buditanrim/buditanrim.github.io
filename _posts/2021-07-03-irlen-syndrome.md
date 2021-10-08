@@ -5,7 +5,7 @@ punchline: true
 description: "A black text on top of white background can create visual stress."
 date: 2021-07-03 10:00:00 +0700
 categories: accessibility
-tags: accessibility
+tags: accessibility universal-design
 author: "Budi Tanrim"
 
 image:

@@ -5,7 +5,7 @@ punchline: true
 description: "Which one are you?"
 date: 2021-02-08 08:30:00 +0700
 categories: practice
-tags: practice
+tags: human-centered designerly-thinking
 author: "Budi Tanrim"
 
 image:

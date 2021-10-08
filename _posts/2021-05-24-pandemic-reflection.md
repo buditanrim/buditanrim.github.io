@@ -5,7 +5,7 @@ punchline: true
 description: "There are always two sides to the coin."
 date: 2021-05-24 17:00:00 +0700
 categories: mindset
-tags: mindset
+tags: rant budi-note
 author: "Budi Tanrim"
 
 image:

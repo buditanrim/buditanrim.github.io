@@ -19,7 +19,9 @@ twitter-seo:
 
 Ideas are useless if your team doesn't [align][1].
 
-If not, you're in big trouble because everyone has a different idea of what to achieve. It slows you down from making progress because everyone is running in another direction.
+Have your team aligned? 
+
+If not, you're in big trouble because everyone thinking about different thing. It slows you down from making meaningful progress.
 
 You should at least align on two things. It's the bare minimum.
 

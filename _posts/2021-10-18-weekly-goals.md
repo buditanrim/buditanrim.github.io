@@ -9,12 +9,12 @@ tags: team-practice design-practice
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/two-things-to-align.jpg
+ path: /img/seo/weekly-goals.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/two-things-to-align.jpg"
+ - "seo/weekly-goals.jpg"
 ---
 
 makes things more manageable!

@@ -2,7 +2,7 @@
 layout: post
 title: "Discussion treemap"
 punchline: true
-description: "How can we deal with vague discussion during a team discussion?"
+description: "How can we deal with a vague discussion during a team discussion?"
 date: 2021-10-31 20:15:00 +0700
 categories: practice
 tags: team-practice-practice
@@ -37,7 +37,7 @@ We can complain about a lot of things, but we have agency to make it better. If 
 src="https://buditanrim.co/img/post/2021/10/discussion-treemap-illus.jpg" 
 alt="discussion-treemap illustration" 
 caption="Each discussion end up with something actionable"
-class="illustration large border m-t-s m-b-s" %}
+class="illustration large m-t-s m-b-s" %}
 
 --
 

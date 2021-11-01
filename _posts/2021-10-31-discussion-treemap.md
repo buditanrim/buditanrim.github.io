@@ -5,7 +5,7 @@ punchline: true
 description: "How can we deal with a vague discussion during a team discussion?"
 date: 2021-10-31 20:15:00 +0700
 categories: practice
-tags: team-practice-practice
+tags: team-practice
 author: "Budi Tanrim"
 
 image:

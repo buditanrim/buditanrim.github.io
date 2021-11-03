@@ -9,12 +9,12 @@ tags: designerly-thinking communication
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/element-of-debate.jpg
+ path: /img/seo/element-of-debates.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/element-of-debate.jpg"
+ - "seo/element-of-debates.jpg"
 ---
 
 Lately, I've been thinking. What should I keep in mind during the dialogue or debate?

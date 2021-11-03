@@ -1,28 +1,44 @@
 ---
 layout: post
-title: "Question the question"
+title: "Element of debates"
 punchline: true
-description: "In school, we focus on getting a good grade."
-date: 2021-11-01 20:15:00 +0700
+description: "Lately, I've been thinking. What should I keep in mind during the dialogue or debate?"
+date: 2021-11-03 20:15:00 +0700
 categories: practice
-tags: designerly-thinking
+tags: designerly-thinking communication
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/question-the-question.jpg
+ path: /img/seo/element-of-debate.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/question-the-question.jpg"
+ - "seo/element-of-debate.jpg"
 ---
 
-In school, we focus on getting a good grade. Suddenly, answering the question becomes the most important goal. 
+Lately, I've been thinking. What should I keep in mind during the dialogue or debate?
 
-The teacher already set the question, so we take it and focus on answering it.
+Suppose a person throws a thought. What can I do to quickly and accurately respond?
 
-We no longer question the question.
+So, I looked around and found the old-good Socratic questioning. But I modified it and came up with a mental model. Whenever a person articulates a thought, I would probe one of these:
 
-In our journey to solve a problem, we have a lot of questions. Perhaps, we should take a pause and ask ourselves, what is this question for?
+- Problem and root cause:
+    + What's problem are we solving here? 
+    + Why? What causes that?
+- Implication
+    + If that's true, so what?
+    + What is the implication of this?
+- Viewpoints
+    + Does anyone agree/disagree?
+    + What do you think of this (contradicting view)?
+- Reasoning, evidence: 
+    + What led you to that conclusion?
+    + How do we know if that's true? 
+- Assumptions: 
+    + Is that an assumption? 
+    + Do we have a belief that (X)?
+- Questions
+    + What was the point of asking that question?
 
-Maybe it will lead you to a better question.
+I can't wait to experiment with this model.

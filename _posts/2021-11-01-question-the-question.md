@@ -1,44 +1,28 @@
 ---
 layout: post
-title: "Element of debates"
+title: "Question the question"
 punchline: true
-description: "Lately, I've been thinking. What should I keep in mind during the dialogue or debate?"
-date: 2021-11-03 20:15:00 +0700
+description: "In school, we focus on getting a good grade."
+date: 2021-11-01 20:15:00 +0700
 categories: practice
-tags: designerly-thinking communication
+tags: designerly-thinking
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/element-of-debate.jpg
+ path: /img/seo/question-the-question.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/element-of-debate.jpg"
+ - "seo/question-the-question.jpg"
 ---
 
-Lately, I've been thinking. What should I keep in mind during the dialogue or debate?
+In school, we focus on getting a good grade. Suddenly, answering the question becomes the most important goal. 
 
-Suppose a person throws a thought. What can I do to quickly and accurately respond?
+The teacher already set the question, so we take it and focus on answering it.
 
-So, I looked around and found the old-good Socratic questioning. But I modified it and came up with a mental model. Whenever a person articulates a thought, I would probe one of these:
+We no longer question the question.
 
-- Problem and root cause:
-    + What's problem are we solving here? 
-    + Why? What causes that?
-- Implication
-    + If that's true, so what?
-    + What is the implication of this?
-- Viewpoints
-    + Does anyone agree/disagree?
-    + What do you think of this (contradicting view)?
-- Reasoning, evidence: 
-    + What led you to that conclusion?
-    + How do we know if that's true? 
-- Assumptions: 
-    + Is that an assumption? 
-    + Do we have a belief that (X)?
-- Questions
-    + What was the point of asking that question?
+In our journey to solve a problem, we have a lot of questions. Perhaps, we should take a pause and ask ourselves, what is this question for?
 
-I can't wait to experiment with this model.
+Maybe it will lead you to a better question.

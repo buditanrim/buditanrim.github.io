@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No true Scotsman"
+title: "No true Scotsman fallacy"
 punchline: true
 description: ""
 date: 2021-11-08 13:15:00 +0700

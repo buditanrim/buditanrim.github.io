@@ -1,7 +1,7 @@
 ---
 layout: newsletter
 title: Budi Tanrim's Newsletter
-description: A newsletter and community for people who want to be a better problem solver.
+description: A newsletter and community for people who want to be a better design practitioner.
 id: newsletter
 
 image:
@@ -19,7 +19,16 @@ twitter-seo:
 - **My book draft** (_A few times per year_)
 - **Writing from my blog** (_Optional, you can choose daily or weekly_)
 
+---
 
+**Latest issue ✉️**
+
+<style type="text/css">
+<!--
+.campaign {line-height: 150%; margin-bottom: 16px;}
+//-->
+</style>
+<script language="javascript" src="//buditanrim.us4.list-manage.com/generate-js/?u=f82dd94137a54f15acad8bdfe&fid=30351&show=10" type="text/javascript"></script>
 ---
 
 **What readers are saying:**

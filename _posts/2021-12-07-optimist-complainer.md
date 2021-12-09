@@ -23,7 +23,7 @@ A complainer sees a condition that is not ideal and complains about it.
 
 An optimist does the same thing. But do one crucial thing, which is doing something about it, unlike a complainer who waits for someone to do something and change the situation.
 
-Venting is normal. Everyone needs it. But adopting optimism is an important quality to be a good design practitioner. There is evidence that optimistic people present a higher quality of life than those with low levels of optimism or even pessimists. {% include sup.html n=1 %} 
+Venting is normal. Everyone needs it. But adopting optimism mindset is an important quality to be a good design practitioner. There is evidence that optimistic people present a higher quality of life than those with low levels of optimism or even pessimists. {% include sup.html n=1 %} 
 
 
 

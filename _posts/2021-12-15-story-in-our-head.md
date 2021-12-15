@@ -3,7 +3,7 @@ layout: post
 title: "The story in our head"
 punchline: true
 description: ""
-date: 2021-12-15 09:05:00 +0700
+date: 2021-12-15 09:10:00 +0700
 categories: mindset
 tags: mindset
 author: "Budi Tanrim"

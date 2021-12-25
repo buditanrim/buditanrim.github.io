@@ -262,7 +262,7 @@ hr.airy {
 	}
 }
 
-@media (max-width: 880px) {
+@media (max-width: 880px) { // for blog content, but mobile 0 - 880
 	.post-inner--narrow {
 		padding-right: 0;
 		div { 
@@ -282,7 +282,7 @@ hr.airy {
 	}
 	.post-inner--body {
 		p, ul, li {
-			margin-bottom: var(--l--space-s);
+			margin-bottom: var(--l--space-xs);
 			max-width: 70ch;
 		}
 	}

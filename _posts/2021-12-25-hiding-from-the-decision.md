@@ -25,11 +25,11 @@ twitter-seo:
 
 It's a common answer I've heard. Here are my theories:
 
-1. The candidates don't know how to make the decision
-2. The candidates afraid to make the decision
-3. The candidates misinterpret the concept of user-centricity
+1. **The candidates don't know how to make the decision.** They don't know what consideration they should look to make the decision.
+2. **The candidates afraid to make the decision.** They know, but they're afraid to make a bad decision.
+3. **The candidates misinterpret the concept of user-centricity.** They think users are the king, so the king should make the decision.
 
-They're hiding.
+Bottom line: They're hiding from the decision.
 
 The thing is, even if you want to test the usability or learnability of the interface. You have to choose which interface to test. If you've explored 5 different options, which one to test? You have to make the decision.
 

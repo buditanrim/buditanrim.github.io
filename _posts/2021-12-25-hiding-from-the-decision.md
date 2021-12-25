@@ -17,13 +17,11 @@ twitter-seo:
  - "seo/hiding-from-the-decision.jpg"
 ---
 
-"Here are some interfaces I've explored."
+"Here are some interfaces I've explored." 
 
-"How do you choose which one to use?" I asked.
+"How do you choose which one to use?" I asked. "I need to test it first," said the candidate. It's a common answer I've heard. 
 
-"I need to test it first," said the candidate.
-
-It's a common answer I've heard. Here are my theories:
+Here are my theories:
 
 1. **The candidates don't know how to make the decision.** They don't know what consideration they should look to make the decision.
 2. **The candidates afraid to make the decision.** They know, but they're afraid to make a bad decision.

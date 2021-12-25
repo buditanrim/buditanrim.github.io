@@ -3,7 +3,7 @@ layout: post
 title: "Hiding from the decision"
 punchline: true
 description: ""
-date: 2021-12-25 09:10:00 +0700
+date: 2021-12-25 11:10:00 +0700
 categories: decision-making
 tags: decision-making
 author: "Budi Tanrim"
@@ -24,7 +24,7 @@ twitter-seo:
 Here are my theories:
 
 1. **The candidates don't know how to make the decision.** They don't know what consideration they should look to make the decision.
-2. **The candidates afraid to make the decision.** They know, but they're afraid to make a bad decision.
+2. **The candidates afraid to make the decision.** They know what to consider, but they're afraid to make a bad decision.
 3. **The candidates misinterpret the concept of user-centricity.** They think users are the king, so the king should make the decision.
 
 Bottom line: They're hiding from the decision.

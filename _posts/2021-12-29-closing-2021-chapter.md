@@ -4,8 +4,8 @@ title: "Closing your 2021 chapter"
 punchline: true
 description: ""
 date: 2021-12-29 08:10:00 +0700
-categories: reflect
-tags: reflect
+categories: self-development
+tags: self-development
 author: "Budi Tanrim"
 
 image:

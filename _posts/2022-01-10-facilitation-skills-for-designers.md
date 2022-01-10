@@ -9,12 +9,12 @@ tags: collaboration
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/facilitation-skills.jpg
+ path: /img/seo/facilitation-skill.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/facilitation-skills.jpg"
+ - "seo/facilitation-skill.jpg"
 ---
 
 A few asked me, *can I be a designer if an introvert?* 

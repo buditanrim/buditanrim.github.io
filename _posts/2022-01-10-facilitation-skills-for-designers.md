@@ -17,7 +17,7 @@ twitter-seo:
  - "seo/facilitation-skill.jpg"
 ---
 
-A few asked me, *can I be a designer if an introvert?* 
+A few asked me, *can I be a designer if I'm an introvert?* 
 
 I realized what they actually mean they don't like working with other people. They imagine a designer is a profession where they can make the stuff in the corner. Or they don't know how to work with other people. It's awkward to hear other people's comments on the work. Not to mention, working with people will also involve debate.
 

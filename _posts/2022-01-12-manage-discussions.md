@@ -31,4 +31,4 @@ In the first three minutes, you explain the goal. Standing in front of the white
 
 Then, you organize them. You find similar ones and group them. This part is tricky, and we'll talk more about that later in this series.
 
-But in the end, a working session is better. You get more ideas. You allow everyone to voice their opinion. You get more things done. Not just that, you get to avoid ![groupthink](https://buditanrim.co/2021/groupthink/).
+But in the end, a working session is better. You get more ideas. You allow everyone to voice their opinion. You get more things done. Not just that, you get to avoid [groupthink](https://buditanrim.co/2021/groupthink/).

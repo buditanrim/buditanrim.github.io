@@ -23,7 +23,7 @@ Having different opinions is not entirely bad.
 
 A diverse perspective is valuable. It enables us to look at the problem from different angles. An engineer might link the problem with the newest technology, while a researcher might emphasize the users' pain points.
 
-On the other hand, a diverse perspective means people have different ideas. That's where it gets challenging. Managing discussion is one thing. The real question is: once we get everyone to voice their opinion, how can we utilize the diverse perspective without getting overwhelmed and make meaningful progress as a team?
+On the other hand, a diverse perspective means people have different ideas. That's where it gets challenging. [Managing discussion](https://buditanrim.co/2022/manage-discussions/) is one thing. The real question is: once we get everyone to voice their opinion, how can we utilize the diverse perspective without getting overwhelmed and make meaningful progress as a team?
 
 Diverge, synthesis, converge. That's the pattern in how you can facilitate many discussions. It is not always suitable for all discussions, but it could work as a starting point for you who want to start being a better facilitator.
 

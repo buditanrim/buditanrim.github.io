@@ -9,12 +9,12 @@ tags: collaboration
 author: "Budi Tanrim"
 
 image:
- path: /img/seo/aligning-different-peoplejpg
+ path: /img/seo/aligning-different-people.jpg
  height: 630
  width: 1200
 gif: false
 twitter-seo: 
- - "seo/aligning-different-peoplejpg"
+ - "seo/aligning-different-people.jpg"
 ---
 
 Whether you're at the beginning, the middle, or the end of the project, alignment is essential to make meaningful progress as a team. However, people have different ideas.

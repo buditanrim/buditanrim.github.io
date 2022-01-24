@@ -21,7 +21,7 @@ While dot voting appears as a quick and democratic decision-making tool, it has 
 
 An obvious flaw is when a person votes on idea A, you get influenced—you see idea A more valuable. People often add their dots where everyone else has dotted. It's a Bandwagon effect in action.
 
-A common criticism is vote-splitting. It is that the team is unable to see the relationship between options. As a result, the team might come to a false conclusion.
+A common criticism is vote-splitting. It is when the team unable to see the relationship between options. As a result, the team might come to a false conclusion.
 
 {% include image.html 
 src="https://buditanrim.co/img/post/2022/vote-splitting.jpg" 

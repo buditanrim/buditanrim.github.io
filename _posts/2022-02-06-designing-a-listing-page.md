@@ -27,6 +27,6 @@ So, here's the question for you the next time you design a listing page:
 
 - What decision would the users make here?
 - What should they scan so they can make the decision?
-- - How can you help users scan optimally?
+- How can you help users scan optimally?
 
 Sometimes, it's about looking at the problem closer and asking the appropriate questions.

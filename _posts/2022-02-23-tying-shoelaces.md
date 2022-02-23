@@ -23,9 +23,9 @@ Learning while doing the job we have is even harder.
 
 When we don't know something in our job, we can't stop. We need to keep running.
 
-When we unsure how to solve the problem, we still have to solve it.
+When we are unsure how to solve the problem, we still have to solve it.
 
-When we unsure how to achieve the objective, we still have to do the work.
+When we are unsure how to achieve the objective, we still have to do the work.
 
 At some point, though, you will stop. Maybe a pause during your holiday or day off. Appreciate these pauses and take that opportunity to reflect. More importantly, to learn and improve on the thing that bothers you.
 

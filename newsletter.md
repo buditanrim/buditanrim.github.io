@@ -13,7 +13,11 @@ twitter-seo:
  - "seo/newsletter-seo.jpg"
 ---
 
-**What to expect:**
+I send one idea every week for product builders and designers. We'll discuss problem-solving, collaboration, decision-making, self-development, and mindset.
+
+<iframe src="https://buditanrim.substack.com/embed" width="625" height="360" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+<!-- **What to expect:**
 - **Exclusive newsletter** (_every Thursday_)
 - **Free resources** (_A few times per year_)
 - **My book draft** (_A few times per year_)
@@ -27,13 +31,14 @@ twitter-seo:
 <!--
 .campaign {line-height: 150%; margin-bottom: 16px;}
 //-->
-</style>
-<script language="javascript" src="//buditanrim.us4.list-manage.com/generate-js/?u=f82dd94137a54f15acad8bdfe&fid=30351&show=10" type="text/javascript"></script>
+<!-- </style>
+<script language="javascript" src="//buditanrim.us4.list-manage.com/generate-js/?u=f82dd94137a54f15acad8bdfe&fid=30351&show=10" type="text/javascript"></script> -->
+
 ---
 
-**What readers are saying:**
+<!-- **What readers are saying:**
 <div class="shoutout-embed" data-wall="buditanrim"></div>
-<script class="shoutout-script" src="https://embed.shoutout.so/embed.js" defer></script>
+<script class="shoutout-script" src="https://embed.shoutout.so/embed.js" defer></script> -->
 
 
 

@@ -22,10 +22,10 @@
   order: 4
   current: newsletter
 
-- word: "Mission"
-  link: /mission
-  order: 5
-  current: mission
+# - word: "Mission"
+#   link: /mission
+#   order: 5
+#   current: mission
 
 
 # - word: "Contact↗"

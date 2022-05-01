@@ -1,4 +1,20 @@
 {% include header.html %}
+
+<!-- Tags -->
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+		{% assign sortedTags = site.tags | sort %}
+		{% for tag in sortedTags %}
+
+		<a href="#{{tag[0]}}" class="tag-capsule">{{ tag[0] | replace: "-", "&nbsp;" }}&nbsp;({{ tag[1] | size }})</a>
+
+		{% endfor %}
+		</div>
+
+	</div>
+</div>
+
 <!-- Mobile: Show the journal list -->
 <div class="post container d-lg-none">
 	<div class="row">

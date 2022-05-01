@@ -15,7 +15,7 @@ twitter-seo:
 
 I send one idea every week for product builders and designers. We'll discuss problem-solving, collaboration, decision-making, self-development, and mindset.
 
-<iframe src="https://buditanrim.substack.com/embed" width="625" height="360" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://buditanrim.substack.com/embed" width="100%" height="360" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 <!-- **What to expect:**
 - **Exclusive newsletter** (_every Thursday_)

@@ -19,16 +19,8 @@ twitter-seo:
 
 Temporarily, I've decided to stop writing on my blog and move to [Substack](https://buditanrim.substack.com/).
 
-In the future, I hope to move to Ghost. But the migration requires some development time, and I'm still waiting for Stripe to be available in Indonesia.
+In the future, I want to be a fulltime writer. Substack enable subscribers to support me through a subscription model.
 
-At some point, I want to be able to write full-time, and Ghost will be a wonderful platform to enable subscribers to support me through a subscription model.
-
-How does this change affect you: Almost none.
-
-If you're a daily subscriber, you will receive less writing than before. You will get 1-2 newsletters right to your inbox.
-
-If you're a weekly subscriber, there will be no more summary emails every Saturday. Same, you will get 1-2 newsletters right to your inbox.
-
-You can access my Substack at [https://buditanrim.substack.com/](https://buditanrim.substack.com/)
+You will still get the newsletter from me, but I will post it on my Substack page. You can access my Substack at [https://buditanrim.substack.com/](https://buditanrim.substack.com/)
 
 I'll still sharing tips and thoughts on [Twitter](https://twitter.com/buditanrim/) and [LinkedIn](https://www.linkedin.com/in/buditanrim/)
